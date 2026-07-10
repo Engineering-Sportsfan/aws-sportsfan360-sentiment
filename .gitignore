@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env
+.env.*
+.DS_Store
+__pycache__/
+venv/
+env/
+*.parquet
+*.csv
+*.mov
+*.zip
