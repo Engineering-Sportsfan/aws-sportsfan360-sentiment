@@ -345,31 +345,38 @@ def publish_questions(db, polls: list, sport: str, room_id=None):
 
         if room_id:
             msg_ref = db.collection("roarRooms").document(room_id).collection("messages").document()
-            msg_ref.set({
-                "msgId": msg_ref.id,
-                "roomId": room_id,
-                "authorUid": "dolly-dolphin-bot",
-                "authorUsername": "Dolly",
-                "authorBadge": "RISING_FAN",
-                "type": poll.get("type", "prediction"),
-                "text": text,
-                "sideA": poll.get("sideA", "Yes"),
-                "sideB": poll.get("sideB", "No"),
-                "fireCount": 0,
-                "noChanceCount": 0,
-                "heartCount": 0,
-                "replyCount": 0,
-                "sport": sport,
-                "createdAt": now_ms,
-                "updatedAt": now_ms
-            })
             room_ref = db.collection("roarRooms").document(room_id)
             count_field = ROOM_COUNT_FIELD_BY_TYPE.get(poll.get("type", "prediction"))
+
             update_payload = {"fanCount": Increment(1)}
             if count_field:
                 update_payload[count_field] = Increment(1)
-            room_ref.update(update_payload)
-            print(f"🐬 Room [{room_id}]: [{poll.get('type')}] \"{text}\"")
+
+            try:
+                batch = db.batch()
+                batch.set(msg_ref, {
+                    "msgId": msg_ref.id,
+                    "roomId": room_id,
+                    "authorUid": "dolly-dolphin-bot",
+                    "authorUsername": "Dolly",
+                    "authorBadge": "RISING_FAN",
+                    "type": poll.get("type", "prediction"),
+                    "text": text,
+                    "sideA": poll.get("sideA", "Yes"),
+                    "sideB": poll.get("sideB", "No"),
+                    "fireCount": 0,
+                    "noChanceCount": 0,
+                    "heartCount": 0,
+                    "replyCount": 0,
+                    "sport": sport,
+                    "createdAt": now_ms,
+                    "updatedAt": now_ms,
+                })
+                batch.update(room_ref, update_payload)
+                batch.commit()
+                print(f"🐬 Room [{room_id}]: [{poll.get('type')}] \"{text}\" (count_field={count_field})")
+            except Exception as e:
+                print(f"❌ Failed to publish+count Dolly message in room [{room_id}]: {e}")
         else:
             post_ref = db.collection("roarPosts").document()
             post_ref.set({
