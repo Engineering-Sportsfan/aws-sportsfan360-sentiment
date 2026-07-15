@@ -130,3 +130,6 @@ def start_scheduler():
 # Start scheduler in background when server starts
 thread = threading.Thread(target=start_scheduler, daemon=True)
 thread.start()
+
+from mangum import Mangum
+handler = Mangum(app)
