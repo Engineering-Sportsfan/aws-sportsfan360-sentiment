@@ -3,7 +3,6 @@ mangum
 uvicorn
 groq
 firebase-admin
-apscheduler
 python-dotenv
 tavily-python
 google-genai
