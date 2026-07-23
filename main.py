@@ -30,11 +30,12 @@ def run_now(sport: str = "FIFA_WC_2026"):
         return {"status": "success", "saved_as": timestamp, "sport": sport}
     return {"status": "failed"}
 
-@app.post("/run-dolly")
-def run_dolly():
-    """Manual trigger: runs Dolly for all sports (cricket + football) across all rooms."""
-    dolly_auto_run_all_rooms()
-    return {"status": "success", "message": "Dolly full run completed."}
+@app.post("/run-dispatcher")
+def run_dispatcher():
+    """Manual trigger: runs the Central Bot Dispatcher for all sports across all rooms."""
+    from bot_dispatcher import run_bot_dispatcher
+    run_bot_dispatcher()
+    return {"status": "success", "message": "Bot Dispatcher full run completed."}
 
 @app.get("/test-generation")
 def test_generation():
@@ -91,4 +92,31 @@ def api_get_report(sport: str = "FIFA_WC_2026", timestamp: str = None):
 # Removed apscheduler thread logic; use EventBridge cron rules directly.
 
 from mangum import Mangum
-handler = Mangum(app)
+from bot_dispatcher import run_bot_dispatcher
+
+mangum_handler = Mangum(app)
+
+def handler(event, context):
+    # Check if this is an EventBridge scheduled event (Cron Job)
+    if event.get("source") == "aws.events":
+        # Safe default: if no task is specified, default to bot_interval for backwards compatibility
+        task = event.get("detail", {}).get("task", "bot_interval")
+        
+        if task == "sentiment_reports":
+            print("EventBridge cron trigger detected. Running Sentiment Reports...")
+            from sentiment_engine import run_sentiment_engine
+            from firebase_store import save_report
+            # Run for both major sports
+            for sport in ["FIFA_WC_2026", "WT20W_WC_2026"]:
+                report = run_sentiment_engine(sport)
+                if report:
+                    save_report(report, sport)
+            return {"status": "success", "message": "Sentiment reports generated."}
+        else:
+            # Central Bot Dispatcher handles routing to Dolly, Krishna, Radha, etc.
+            print(f"EventBridge cron trigger detected. Running {task} (Central Bot Dispatcher)...")
+            run_bot_dispatcher()
+            return {"status": "success", "message": f"{task} run completed."}
+    
+    # Otherwise, it's an API Gateway / Function URL HTTP request, route to FastAPI
+    return mangum_handler(event, context)

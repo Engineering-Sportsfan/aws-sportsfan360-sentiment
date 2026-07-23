@@ -15,9 +15,12 @@ if api_key:
     client = genai.Client(api_key=api_key)
     print("🔑 Using Google AI Studio API Key for Gemini Client.")
 else:
+    gcp_project = os.getenv("GCP_PROJECT_ID")
+    if not gcp_project:
+        raise ValueError("GCP_PROJECT_ID is not set")
     client = genai.Client(
         vertexai=True,
-        project=os.getenv("GCP_PROJECT_ID", "fleet-gift-498306-p7"),
+        project=gcp_project,
         location=os.getenv("GCP_LOCATION", "us-central1")
     )
     print("☁️ Using Vertex AI for Gemini Client.")
@@ -32,47 +35,45 @@ ROOM_COUNT_FIELD_BY_TYPE = {
     "prediction": "predictionCount",
     "trivia": "triviaCount",
     "battle": "battleCount",
+    "analysis": "postCount",   # Dolly Phase 6 analysis reads
+    "story": "postCount",     # Dolly Phase 6 story arcs
 }
 
 # ── Phase Lock Helpers ────────────────────────────────────────────────────────
 
-def get_phase_lock_key(sport: str, match_id: str, phase: str, room_id: str = None) -> str:
+def get_phase_lock_key(sport: str, match_id: str, phase: str, room_id: str = None, bot_uid: str = "dolly-dolphin-bot") -> str:
     room_suffix = f"_{room_id}" if room_id else "_global"
-    return f"dolly_phase_lock_{sport}_{match_id}_{phase}{room_suffix}"
+    return f"dolly_phase_lock_{sport}_{match_id}_{phase}{room_suffix}_{bot_uid}"
 
 PRE_MATCH_MAX_POSTS = 2   # 2 rounds of pre-match questions (~50 mins build-up)
 POST_MATCH_MAX_POSTS = 2  # 2 rounds of post-match questions (~50 mins wrap-up)
 
-def has_phase_been_posted(db, sport: str, match_id: str, phase: str, room_id: str = None) -> bool:
+def has_phase_been_posted(db, sport: str, match_id: str, phase: str, room_id: str = None, bot_uid: str = "dolly-dolphin-bot") -> bool:
     """
     Returns True if Dolly should be blocked from posting in this specific room.
-    - PRE-MATCH: Disabled completely (always returns True).
     - IN-PLAY: Spaced out every 20 minutes using the timestamp check.
     - POST-MATCH: Locked to max 1 post.
+    - PRE-MATCH: Locked to max 1 post.
     """
-    if phase == "PRE-MATCH":
-        return True  # Stop/skip pre-match posting completely
     if phase == "IN-PLAY":
         return False # No phase locks for in-play (cooldown handles spacing)
         
-    key = get_phase_lock_key(sport, match_id, phase, room_id)
+    key = get_phase_lock_key(sport, match_id, phase, room_id, bot_uid)
     doc = db.collection("dollyPhaseLocks").document(key).get()
     if not doc.exists:
         return False
     data = doc.to_dict()
-    posted_at = data.get("postedAt", 0)
     post_count = data.get("count", 1)
     
-    elapsed_minutes = (time.time() * 1000 - posted_at) / (1000 * 60)
-    
-    if phase == "POST-MATCH":
-        # Block permanently (max 1 post) for post-match
+    if phase in ["POST-MATCH", "PRE-MATCH"]:
         return post_count >= 1
     return False
 
-def stamp_phase_lock(db, sport: str, match_id: str, phase: str, room_id: str = None):
+
+
+def stamp_phase_lock(db, sport: str, match_id: str, phase: str, room_id: str = None, bot_uid: str = "dolly-dolphin-bot"):
     """Stamps/increments this phase's post count in Firestore for this specific room."""
-    key = get_phase_lock_key(sport, match_id, phase, room_id)
+    key = get_phase_lock_key(sport, match_id, phase, room_id, bot_uid)
     doc = db.collection("dollyPhaseLocks").document(key).get()
     existing_count = doc.to_dict().get("count", 0) if doc.exists else 0
     db.collection("dollyPhaseLocks").document(key).set({
@@ -84,21 +85,21 @@ def stamp_phase_lock(db, sport: str, match_id: str, phase: str, room_id: str = N
         "count": existing_count + 1,
     })
 
-def was_recently_posted(db, room_id=None, sport="cricket", cooldown_minutes=COOLDOWN_MINUTES) -> bool:
+def was_recently_posted(db, room_id=None, sport="cricket", cooldown_minutes=COOLDOWN_MINUTES, bot_uid="dolly-dolphin-bot") -> bool:
     """Returns True if Dolly posted in this feed/room for this specific sport within the cooldown window."""
     cutoff_ms = int((time.time() - cooldown_minutes * 60) * 1000)
     try:
         if room_id:
             # Check only messages of the target sport to allow dual-sport rooms
             msgs = db.collection("roarRooms").document(room_id).collection("messages") \
-                .where("authorUid", "==", "dolly-dolphin-bot") \
+                .where("authorUid", "==", bot_uid) \
                 .where("sport", "==", sport).stream()
             for msg in msgs:
                 if msg.to_dict().get("createdAt", 0) > cutoff_ms:
                     return True
         else:
             posts = db.collection("roarPosts") \
-                .where("authorUid", "==", "dolly-dolphin-bot") \
+                .where("authorUid", "==", bot_uid) \
                 .where("sport", "==", sport).stream()
             for post in posts:
                 if post.to_dict().get("createdAt", 0) > cutoff_ms:
@@ -107,13 +108,13 @@ def was_recently_posted(db, room_id=None, sport="cricket", cooldown_minutes=COOL
         print(f"⚠️ Cooldown check error: {e}")
     return False
 
-def get_existing_questions(db, room_id=None, sport="cricket"):
+def get_existing_questions(db, room_id=None, sport="cricket", bot_uid="dolly-dolphin-bot"):
     """Fetches last 30 question texts in this specific room or feed to prevent duplicate posts."""
     questions = []
     try:
         if room_id:
             room_ref = db.collection("roarRooms").document(room_id).collection("messages") \
-                .where("authorUid", "==", "dolly-dolphin-bot").stream()
+                .where("authorUid", "==", bot_uid).stream()
             room_posts = sorted([d for d in room_ref],
                                  key=lambda x: x.to_dict().get("createdAt", 0), reverse=True)
             for doc in room_posts[:30]:
@@ -121,7 +122,7 @@ def get_existing_questions(db, room_id=None, sport="cricket"):
                 if text:
                     questions.append(text)
         else:
-            global_ref = db.collection("roarPosts").where("authorUid", "==", "dolly-dolphin-bot") \
+            global_ref = db.collection("roarPosts").where("authorUid", "==", bot_uid) \
                 .where("sport", "==", sport).stream()
             global_posts = sorted([d for d in global_ref],
                                    key=lambda x: x.to_dict().get("createdAt", 0), reverse=True)
@@ -132,85 +133,6 @@ def get_existing_questions(db, room_id=None, sport="cricket"):
     except Exception as e:
         print(f"⚠️ Error fetching existing questions: {e}")
     return list(set(questions))
-
-# ── Dynamic Match Detection via Gemini ───────────────────────────────────────
-
-def detect_current_match(sport: str) -> dict | None:
-    """
-    Uses Gemini + Google Search to dynamically find the current or next upcoming match.
-    Returns a dict with match details, or None if no credible match found.
-    """
-    now_ist = datetime.now(IST).strftime("%A, %d %B %Y %I:%M %p IST")
-
-    if sport == "cricket":
-        search_query = f"""
-        Search Google right now for: "India vs England 1st T20I match live score OR match status today {now_ist}".
-        Find the match details for India vs England Men's 1st T20I starting tonight at 10:00 PM IST (Chester-le-Street).
-        
-        If you find the match, return ONLY this JSON:
-        {{
-          "found": true,
-          "matchId": "ind-vs-eng-t20-jul1",
-          "teams": "India vs England",
-          "tournament": "India tour of England 2026, 1st T20I",
-          "venue": "Chester-le-Street",
-          "matchDate": "2026-07-01",
-          "phase": "PRE-MATCH or IN-PLAY or POST-MATCH",
-          "liveScore": "Score if live, else null",
-          "keyPlayers": "Harry Brook, Jacob Bethell, Ishan Kishan, Suryakumar Yadav",
-          "format": "T20"
-        }}
-        
-        If the match is not found or not today, fallback to search for any other live international cricket match today and return the same JSON format. If no match at all, return:
-        {{"found": false}}
-        """
-    else:  # football / FIFA
-        search_query = f"""
-        Search Google right now for: "England vs DR Congo FIFA World Cup 2026 match live score OR status today {now_ist}".
-        Find the match details for England vs DR Congo starting tonight at 9:30 PM IST (Atlanta).
-        
-        If you find the match, return ONLY this JSON:
-        {{
-          "found": true,
-          "matchId": "eng-vs-drcongo-fifa-jul1",
-          "teams": "England vs DR Congo",
-          "tournament": "FIFA World Cup 2026, Round of 32",
-          "venue": "Atlanta",
-          "matchDate": "2026-07-01",
-          "phase": "PRE-MATCH or IN-PLAY or POST-MATCH",
-          "liveScore": "Score if live, else null",
-          "keyPlayers": "Jude Bellingham, Harry Kane, Yoane Wissa, Meschack Elia",
-          "format": "90 mins"
-        }}
-        
-        If the match is not found or not today, fallback to search for any other live FIFA World Cup 2026 match today and return the same JSON format. If no match at all, return:
-        {{"found": false}}
-        """
-
-    try:
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=search_query,
-            config=types.GenerateContentConfig(
-                tools=[types.Tool(google_search=types.GoogleSearch())],
-                temperature=0.1
-            )
-        )
-        raw = response.text.strip()
-        start = raw.find("{")
-        end = raw.rfind("}") + 1
-        if start == -1 or end == 0:
-            print(f"⚠️ Gemini returned no JSON for match detection ({sport}).")
-            return None
-        data = json.loads(raw[start:end])
-        if not data.get("found"):
-            print(f"ℹ️ No active or upcoming {sport} match found by Gemini.")
-            return None
-        print(f"✅ Match detected: {data.get('teams')} — Phase: {data.get('phase')}")
-        return data
-    except Exception as e:
-        print(f"❌ Match detection error ({sport}): {e}")
-        return None
 
 # ── Question Generator ────────────────────────────────────────────────────────
 
@@ -335,12 +257,15 @@ def generate_questions(match: dict, sport: str, existing_str: str, pre_match_cou
 
 # ── Post to Firestore ─────────────────────────────────────────────────────────
 
-def publish_questions(db, polls: list, sport: str, room_id=None):
+def publish_questions(db, polls: list, sport: str, room_id=None, bot_uid="dolly-dolphin-bot", bot_username="Dolly"):
     """Writes generated questions to Firestore (room or global feed)."""
     for poll in polls:
         now_ms = int(time.time() * 1000)
         text = poll.get("text", "").strip()
-        if not text:
+        bullet_points = poll.get("bulletPoints", [])
+        # Analysis cards have empty text by design — content is in bulletPoints.
+        # Only skip if BOTH are empty (truly empty/broken response from LLM).
+        if not text and not bullet_points:
             continue
 
         if room_id:
@@ -357,18 +282,23 @@ def publish_questions(db, polls: list, sport: str, room_id=None):
                 batch.set(msg_ref, {
                     "msgId": msg_ref.id,
                     "roomId": room_id,
-                    "authorUid": "dolly-dolphin-bot",
-                    "authorUsername": "Dolly",
+                    "authorUid": bot_uid,
+                    "authorUsername": bot_username,
                     "authorBadge": "RISING_FAN",
                     "type": poll.get("type", "prediction"),
                     "text": text,
                     "sideA": poll.get("sideA", "Yes"),
                     "sideB": poll.get("sideB", "No"),
+                    "cardType": poll.get("cardType", ""),
+                    "title": poll.get("title", ""),
+                    "bulletPoints": poll.get("bulletPoints", []),
                     "fireCount": 0,
                     "noChanceCount": 0,
                     "heartCount": 0,
                     "replyCount": 0,
                     "sport": sport,
+                    "isBot": True,
+                    "botRole": "neutral",
                     "createdAt": now_ms,
                     "updatedAt": now_ms,
                 })
@@ -381,14 +311,17 @@ def publish_questions(db, polls: list, sport: str, room_id=None):
             post_ref = db.collection("roarPosts").document()
             post_ref.set({
                 "postId": post_ref.id,
-                "authorUid": "dolly-dolphin-bot",
-                "authorUsername": "Dolly",
+                "authorUid": bot_uid,
+                "authorUsername": bot_username,
                 "authorBadge": "RISING_FAN",
                 "type": poll.get("type", "prediction"),
                 "sport": sport,
                 "text": text,
                 "sideA": poll.get("sideA", "Yes"),
                 "sideB": poll.get("sideB", "No"),
+                "cardType": poll.get("cardType", ""),
+                "title": poll.get("title", ""),
+                "bulletPoints": poll.get("bulletPoints", []),
                 "agreeCount": 0,
                 "disagreeCount": 0,
                 "replyCount": 0,
@@ -396,6 +329,8 @@ def publish_questions(db, polls: list, sport: str, room_id=None):
                 "isLive": True,
                 "status": "active",
                 "audience": "Everyone",
+                "isBot": True,
+                "botRole": "neutral",
                 "createdAt": now_ms,
                 "updatedAt": now_ms
             })
@@ -403,7 +338,7 @@ def publish_questions(db, polls: list, sport: str, room_id=None):
 
 # ── Core Runner ───────────────────────────────────────────────────────────────
 
-def run_dolly_for_sport(sport: str, room_id=None):
+def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", bot_username="Dolly"):
     """
     Full pipeline for one sport:
     1. Check if there is an active focus match linked to this room
@@ -421,8 +356,12 @@ def run_dolly_for_sport(sport: str, room_id=None):
     match_data = None
 
     # Step 1: Linked Match Resolution
+    # Check roarRooms first, then watchAlongRooms (for linked integrated rooms)
     if room_id:
         room_doc = db.collection("roarRooms").document(room_id).get()
+        if not room_doc.exists:
+            # This room_id may belong to a linked watchalong room — check there too
+            room_doc = db.collection("watchAlongRooms").document(room_id).get()
         if room_doc.exists:
             match_id = room_doc.to_dict().get("matchId")
             if match_id:
@@ -486,29 +425,37 @@ def run_dolly_for_sport(sport: str, room_id=None):
         print(f"⏭️ No active live match scheduled in database for {sport}. Dolly will stay silent.")
         return
 
-    # Verify status
-    if match_data.get("status") != "live":
-        # Check if kickoff time for this specific match has arrived
+    if match_data.get("status") == "live":
+        phase = "IN-PLAY"
+    elif match_data.get("status") == "upcoming":
         kickoff = match_data.get("kickoff_time", 0)
         now_ms = int(time.time() * 1000)
-        if match_data.get("status") == "upcoming" and kickoff > 0 and now_ms >= (kickoff - 5 * 60 * 1000):
+        # If it's within 1 hour of kickoff, it's pre-match build up
+        if kickoff > 0 and now_ms >= (kickoff - 60 * 60 * 1000) and now_ms < (kickoff - 5 * 60 * 1000):
+            phase = "PRE-MATCH"
+        elif kickoff > 0 and now_ms >= (kickoff - 5 * 60 * 1000):
             db.collection("matches").document(match_id).update({"status": "live", "updated_at": now_ms})
             match_data["status"] = "live"
-            print(f"⏰ Kickoff reached for linked match [{match_id}]! Auto-transitioned to LIVE.")
+            phase = "IN-PLAY"
+            print(f"⏰ Kickoff reached for match [{match_id}]! Auto-transitioned to LIVE.")
         else:
-            print(f"🔒 Match [{match_id}] is {match_data.get('status')}. Dolly is gated to live matches only. Skipping.")
+            print(f"🔒 Match [{match_id}] is upcoming but too early for pre-match (not within 1 hour). Skipping.")
             return
+    elif match_data.get("status") == "completed":
+        phase = "POST-MATCH"
+    else:
+        print(f"🔒 Match [{match_id}] is {match_data.get('status')}. Skipping.")
+        return
 
     teams = f"{match_data.get('team_a')} vs {match_data.get('team_b')}"
-    phase = "IN-PLAY" # Under live-only coverage model
 
     # Step 3: Phase lock check
-    if has_phase_been_posted(db, sport, match_id, phase, room_id):
+    if has_phase_been_posted(db, sport, match_id, phase, room_id, bot_uid):
         print(f"🔒 Phase lock active: Already posted [{phase}] for match [{match_id}] in target [{target}]. Skipping.")
         return
 
     # Step 4: Cooldown check
-    if was_recently_posted(db, room_id=room_id, sport=sport):
+    if was_recently_posted(db, room_id=room_id, sport=sport, bot_uid=bot_uid):
         print(f"⏳ Cooldown active: A post was made less than {COOLDOWN_MINUTES} mins ago in target [{target}]. Skipping.")
         return
 
@@ -538,7 +485,7 @@ def run_dolly_for_sport(sport: str, room_id=None):
     live_context = ""
     try:
         now_ist = datetime.now(IST).strftime("%I:%M %p IST")
-        search_query = f"India vs England T20 live scorecard ball by ball score today {now_ist}"
+        search_query = f"{match_data.get('team_a')} vs {match_data.get('team_b')} {sport} live scorecard ball by ball score today {now_ist}"
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=search_query,
@@ -553,8 +500,9 @@ def run_dolly_for_sport(sport: str, room_id=None):
 
     # Build Prompt
     prompt = f"""
-    You are Dolly, a passionate and highly knowledgeable sports analyst.
-    Generate exactly 1 prediction AND 1 debate for the live match: {teams}.
+    You are Dolly, a passionate and highly knowledgeable sports analyst and storyteller.
+    Current match: {teams}. Current phase: {phase}.
+    Your job is to produce one structured content card for this match — either a deep narrative Story Arc or a structured Analysis Read, depending on the phase.
     
     Live Score Context (from live Google Search):
     {live_context}
@@ -594,8 +542,11 @@ def run_dolly_for_sport(sport: str, room_id=None):
          * Examples: Focus on fan investment and valuation ("0 points gameweek disaster", "transfer value kill", "target linked to team").
 
     CRITICAL QUALITY CHECK:
-    - You must select one specific category from the matrix above (e.g., DRS controversy, performance slumps, mental pressure, or transfer value) and write your prediction/debate about it.
-    - DO NOT write generic questions like "Who will win?" or "Will team X score Y runs?". Focus on the narrative, the player's character, or the tactical friction.
+    - If Phase is PRE-MATCH or POST-MATCH: You MUST output exactly ONE object with cardType "analysis". 
+      "text" is empty. "title" is your analysis headline. "bulletPoints" is a list of 3 insightful points. "type" is "analysis".
+    - If Phase is IN-PLAY: You MUST output exactly ONE object with cardType "story". 
+      "text" is your deep narrative story (e.g. rivalry angle, player arc). "title" is your story headline. "type" is "story".
+    - Do NOT generate generic predictions or debates anymore. Focus purely on Analysis and Story Arcs.
 
     ILLUSTRATIVE EXAMPLES TO PRIME YOUR OUTPUT (MATCH THESE STYLES):
     * Tactical Performance: "Virat's strike rate is awful — should he retire to the pavilion or accelerate?"
@@ -608,12 +559,13 @@ def run_dolly_for_sport(sport: str, room_id=None):
     * Fan Creator / Transfer: "That performance will kill his transfer value — should we sell him this window?"
     Return ONLY a valid JSON list of objects:
     [
-      {{
-        "type": "prediction" or "debate",
-        "text": "Short question?",
-        "sideA": "Option A",
-        "sideB": "Option B"
-      }}
+      {
+        "type": "analysis" or "story",
+        "cardType": "analysis" or "story",
+        "title": "Short headline",
+        "text": "Full narrative story (only if cardType is story, else empty)",
+        "bulletPoints": ["Point 1", "Point 2", "Point 3"]
+      }
     ]
     """
 
@@ -633,42 +585,9 @@ def run_dolly_for_sport(sport: str, room_id=None):
             return
         polls = json.loads(raw[start:end])
         
-        # ── TODAY'S CUSTOM DEBATES (TEMPORARY FOR TONIGHT'S RUN) ──
-        if sport == "cricket" and room_id:
-            custom_debates = [
-                {
-                    "type": "debate",
-                    "text": "Gambhir's gameplan for the white ball series in Ireland & England was just fine. It was a case of poor execution.",
-                    "sideA": "Support",
-                    "sideB": "Counter"
-                },
-                {
-                    "type": "debate",
-                    "text": "Team selection by India's think-tank is chiefly influenced by T20 performances. Is India missing an experienced hand or two to deal with swing & seam conditions in England?",
-                    "sideA": "Needs Experience",
-                    "sideB": "Back the Youth"
-                },
-                {
-                    "type": "debate",
-                    "text": "Caption this: Baz giving tips to GG",
-                    "sideA": "Tactical Advice",
-                    "sideB": "Just Banter"
-                }
-            ]
-            # Fetch already posted questions to avoid duplicates
-            posted_texts = get_existing_questions(db, room_id=room_id, sport=sport)
-            
-            # Find the first custom debate that hasn't been posted yet
-            for cd in custom_debates:
-                if cd["text"] not in posted_texts:
-                    polls.append(cd)
-                    print(f"📌 Injected custom boss debate: \"{cd['text']}\"")
-                    break # Post exactly one custom debate per 20-min cycle alongside the normal poll
-        # ──────────────────────────────────────────────────────────
-
         # Step 6: Publish
-        publish_questions(db, polls, sport, room_id=room_id)
-        stamp_phase_lock(db, sport, match_id, phase, room_id)
+        publish_questions(db, polls, sport, room_id=room_id, bot_uid=bot_uid, bot_username=bot_username)
+        stamp_phase_lock(db, sport, match_id, phase, room_id, bot_uid)
         print(f"✅ Dolly done for sport={sport}, phase={phase}, target={target}")
     except Exception as e:
         print(f"❌ Question generation failure: {e}")

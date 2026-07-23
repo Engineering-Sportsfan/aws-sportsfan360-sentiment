@@ -12,9 +12,12 @@ api_key = os.getenv("GEMINI_API_KEY")
 if api_key:
     client = genai.Client(api_key=api_key)
 else:
+    gcp_project = os.getenv("GCP_PROJECT_ID")
+    if not gcp_project:
+        raise ValueError("GCP_PROJECT_ID is not set")
     client = genai.Client(
         vertexai=True,
-        project=os.getenv("GCP_PROJECT_ID", "fleet-gift-498306-p7"),
+        project=gcp_project,
         location=os.getenv("GCP_LOCATION", "us-central1")
     )
 
