@@ -117,7 +117,22 @@ def run_bot_dispatcher():
                 futures.append(executor.submit(dispatch_bot, "dolly-dolphin-bot", sport, room_id))
                 time.sleep(1)
                 continue
-                
+
+            # Fetch the match to enforce kickoff time
+            match_id = room_data.get("matchId")
+            if match_id:
+                try:
+                    match_doc = db.collection("matches").document(match_id).get()
+                    if match_doc.exists:
+                        match_data = match_doc.to_dict()
+                        kickoff_time = match_data.get("kickoff_time", 0)
+                        now_ms = int(time.time() * 1000)
+                        if kickoff_time and now_ms < kickoff_time:
+                            print(f"⏸️ Match [{match_id}] hasn't kicked off yet (Starts in {(kickoff_time - now_ms)/60000:.1f} mins). Skipping bots for room [{room_id}].")
+                            continue
+                except Exception as e:
+                    print(f"⚠️ Error fetching match data for room {room_id}: {e}")
+                    
             # Process dynamically assigned bots
             for bot_uid, config in bot_config.items():
                 if not config: # If config is False (unchecked in UI)
