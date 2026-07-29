@@ -7,21 +7,28 @@ from google import genai
 from google.genai import types
 from firebase_store import init_firebase
 from google.cloud.firestore_v1.transforms import Increment
+from dolly_bot import get_upcoming_real_match
 
 # ── API Initialization ────────────────────────────────────────────────────────
 # Uses the SAME pattern as dolly_bot.py — env var first, then Vertex AI fallback
-api_key = os.getenv("GEMINI_API_KEY")
-if api_key:
-    client = genai.Client(api_key=api_key)
-else:
-    gcp_project = os.getenv("GCP_PROJECT_ID")
-    if not gcp_project:
-        raise ValueError("GCP_PROJECT_ID is not set")
-    client = genai.Client(
-        vertexai=True,
-        project=gcp_project,
-        location=os.getenv("GCP_LOCATION", "us-central1")
-    )
+_gemini_client = None
+
+def get_gemini_client():
+    global _gemini_client
+    if _gemini_client is None:
+        api_key = os.getenv("GEMINI_API_KEY")
+        if api_key:
+            _gemini_client = genai.Client(api_key=api_key)
+        else:
+            gcp_project = os.getenv("GCP_PROJECT_ID")
+            if not gcp_project:
+                raise ValueError("GCP_PROJECT_ID is not set")
+            _gemini_client = genai.Client(
+                vertexai=True,
+                project=gcp_project,
+                location=os.getenv("GCP_LOCATION", "us-central1")
+            )
+    return _gemini_client
 
 IST = pytz.timezone('Asia/Kolkata')
 
@@ -82,17 +89,35 @@ def run_partisan_bot(bot_uid: str, team: str, sport: str, room_id: str):
     match_id = None
     match_data = None
 
+    is_testing_room = False
     if room_id:
         room_doc = db.collection("roarRooms").document(room_id).get()
         if not room_doc.exists:
             # This room_id may belong to a linked watchalong room — check there too
             room_doc = db.collection("watchAlongRooms").document(room_id).get()
         if room_doc.exists:
-            match_id = room_doc.to_dict().get("matchId")
+            room_info = room_doc.to_dict()
+            is_testing_room = room_info.get("isTestingRoom", False)
+            match_id = room_info.get("matchId")
             if match_id:
                 match_doc = db.collection("matches").document(match_id).get()
                 if match_doc.exists:
                     match_data = match_doc.to_dict()
+            elif is_testing_room:
+                # Standalone testing match context
+                ta = room_info.get("simulatedTeamA")
+                tb = room_info.get("simulatedTeamB")
+                if not ta or not tb:
+                    ta, tb = get_upcoming_real_match(db, room_id, sport)
+                
+                match_id = "test-match"
+                match_data = {
+                    "status": "live",
+                    "team_a": ta,
+                    "team_b": tb,
+                    "sport": sport
+                }
+                print(f"🛠️ Standalone Testing Room detected. Simulated match context enabled for {bot_username}: {ta} vs {tb}.")
 
     if not match_data:
         # Fallback to live match if no room context
@@ -102,8 +127,25 @@ def run_partisan_bot(bot_uid: str, team: str, sport: str, room_id: str):
             match_data = doc.to_dict()
             break
             
-    if not match_data or match_data.get("status") != "live":
-        print(f"⏭️ No live match found for {bot_username}. Partisans only post during live action. Skipping.")
+    if not match_data:
+        print(f"⏭️ No active match found for {bot_username}. Skipping.")
+        return
+
+    # Check match status gating (live vs concluded)
+    status = match_data.get("status")
+    if status == "completed":
+        updated_at_val = match_data.get("updated_at")
+        if hasattr(updated_at_val, "timestamp"):
+            updated_at_ms = int(updated_at_val.timestamp() * 1000)
+        else:
+            updated_at_ms = int(updated_at_val or 0)
+            
+        now_ms = int(time.time() * 1000)
+        if now_ms - updated_at_ms > 2700000:
+            print(f"🔒 Match [{match_id}] concluded > 45 mins ago. Skipping {bot_username}.")
+            return
+    elif status != "live" and not is_testing_room:
+        print(f"⏭️ Match [{match_id}] is {status}. Skipping {bot_username}.")
         return
 
     # 2. Check Cooldown
@@ -116,7 +158,7 @@ def run_partisan_bot(bot_uid: str, team: str, sport: str, room_id: str):
     try:
         now_ist = datetime.now(IST).strftime("%I:%M %p IST")
         search_query = f"{match_data.get('team_a')} vs {match_data.get('team_b')} {sport} live scorecard ball by ball score today {now_ist}"
-        response = client.models.generate_content(
+        response = get_gemini_client().models.generate_content(
             model="gemini-2.5-flash",
             contents=search_query,
             config=types.GenerateContentConfig(
@@ -151,7 +193,7 @@ def run_partisan_bot(bot_uid: str, team: str, sport: str, room_id: str):
     """
 
     try:
-        response = client.models.generate_content(
+        response = get_gemini_client().models.generate_content(
             model="gemini-2.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(temperature=0.7)

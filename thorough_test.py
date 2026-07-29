@@ -66,4 +66,28 @@ def run_thorough_test():
     else:
         print("❌ Krishna schema FAILED")
         
+    # Test 3: Radha (Partisan England Fan)
+    print("\n[3/3] Testing Radha (Partisan England Fan)")
+    prompt3 = """
+    You are Radha, a biased England superfan.
+    Context: Harry Brook just hit a massive six.
+    Generate 1 short, punchy chat message.
+    Format EXACTLY as this JSON:
+    {
+        "type": "chat",
+        "text": "Your message!"
+    }
+    """
+    res3 = client.models.generate_content(
+        model='gemini-2.5-flash', contents=prompt3,
+        config=types.GenerateContentConfig(temperature=0.9, response_mime_type="application/json")
+    )
+    
+    data3 = json.loads(res3.text)
+    if data3.get("type") == "chat" and "text" in data3:
+        print("✅ Radha output PASSED schema validation:")
+        print(json.dumps(data3, indent=2))
+    else:
+        print("❌ Radha schema FAILED")
+        
 run_thorough_test()

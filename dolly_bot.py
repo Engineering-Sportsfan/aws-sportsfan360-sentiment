@@ -10,20 +10,63 @@ from google.cloud.firestore_v1 import Increment
 # ── Gemini Client ─────────────────────────────────────────────────────────────
 # Uses GEMINI_API_KEY if available (AI Studio) to avoid authentication issues.
 # Falls back to Vertex AI if key is not set.
-api_key = os.getenv("GEMINI_API_KEY")
-if api_key:
-    client = genai.Client(api_key=api_key)
-    print("🔑 Using Google AI Studio API Key for Gemini Client.")
-else:
-    gcp_project = os.getenv("GCP_PROJECT_ID")
-    if not gcp_project:
-        raise ValueError("GCP_PROJECT_ID is not set")
-    client = genai.Client(
-        vertexai=True,
-        project=gcp_project,
-        location=os.getenv("GCP_LOCATION", "us-central1")
-    )
-    print("☁️ Using Vertex AI for Gemini Client.")
+_gemini_client = None
+
+def get_gemini_client():
+    global _gemini_client
+    if _gemini_client is None:
+        api_key = os.getenv("GEMINI_API_KEY")
+        if api_key:
+            _gemini_client = genai.Client(api_key=api_key)
+            print("🔑 Using Google AI Studio API Key for Gemini Client.")
+        else:
+            gcp_project = os.getenv("GCP_PROJECT_ID")
+            if not gcp_project:
+                raise ValueError("GCP_PROJECT_ID is not set")
+            _gemini_client = genai.Client(
+                vertexai=True,
+                project=gcp_project,
+                location=os.getenv("GCP_LOCATION", "us-central1")
+            )
+            print("☁️ Using Vertex AI for Gemini Client.")
+    return _gemini_client
+
+def get_upcoming_real_match(db, room_id: str, sport: str) -> tuple[str, str]:
+    print(f"🔍 Searching the internet for upcoming {sport} match...")
+    prompt = f"""
+    Find the most notable real-world upcoming or live {sport} match happening today or this week.
+    Return ONLY a JSON object with keys "team_a" and "team_b". 
+    Example: {{"team_a": "India", "team_b": "Australia"}}
+    Do not add markdown formatting or introductory text.
+    """
+    try:
+        response = get_gemini_client().models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                tools=[types.Tool(google_search=types.GoogleSearch())],
+                temperature=0.2
+            )
+        )
+        raw = response.text.strip()
+        start = raw.find("{")
+        end = raw.rfind("}") + 1
+        data = json.loads(raw[start:end])
+        ta = data.get("team_a", "India")
+        tb = data.get("team_b", "England")
+    except Exception as e:
+        print(f"⚠️ Failed to dynamically find upcoming {sport} match: {e}")
+        if sport == "football":
+            ta, tb = "Real Madrid", "Barcelona"
+        else:
+            ta, tb = "India", "England"
+            
+    # Save back to Firestore room document so we don't query again
+    db.collection("roarRooms").document(room_id).update({
+        "simulatedTeamA": ta,
+        "simulatedTeamB": tb
+    })
+    return ta, tb
 
 IST = timezone(timedelta(hours=5, minutes=30))
 COOLDOWN_MINUTES = 15  # Minimum gap between posts in the same room/feed (matches 15-min schedule)
@@ -55,8 +98,8 @@ def has_phase_been_posted(db, sport: str, match_id: str, phase: str, room_id: st
     - POST-MATCH: Locked to max 1 post.
     - PRE-MATCH: Locked to max 1 post.
     """
-    if phase == "IN-PLAY":
-        return False # No phase locks for in-play (cooldown handles spacing)
+    if phase in ["IN-PLAY", "POST-MATCH"]:
+        return False # No phase locks for in-play or post-match (cooldown handles spacing)
         
     key = get_phase_lock_key(sport, match_id, phase, room_id, bot_uid)
     doc = db.collection("dollyPhaseLocks").document(key).get()
@@ -65,7 +108,7 @@ def has_phase_been_posted(db, sport: str, match_id: str, phase: str, room_id: st
     data = doc.to_dict()
     post_count = data.get("count", 1)
     
-    if phase in ["POST-MATCH", "PRE-MATCH"]:
+    if phase in ["PRE-MATCH"]:
         return post_count >= 1
     return False
 
@@ -234,7 +277,7 @@ def generate_questions(match: dict, sport: str, existing_str: str, pre_match_cou
     """
 
     try:
-        response = client.models.generate_content(
+        response = get_gemini_client().models.generate_content(
             model="gemini-2.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
@@ -357,18 +400,37 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
 
     # Step 1: Linked Match Resolution
     # Check roarRooms first, then watchAlongRooms (for linked integrated rooms)
+    is_testing_room = False
     if room_id:
         room_doc = db.collection("roarRooms").document(room_id).get()
         if not room_doc.exists:
             # This room_id may belong to a linked watchalong room — check there too
             room_doc = db.collection("watchAlongRooms").document(room_id).get()
         if room_doc.exists:
-            match_id = room_doc.to_dict().get("matchId")
+            room_info = room_doc.to_dict()
+            is_testing_room = room_info.get("isTestingRoom", False)
+            match_id = room_info.get("matchId")
             if match_id:
                 match_doc = db.collection("matches").document(match_id).get()
                 if match_doc.exists:
                     match_data = match_doc.to_dict()
                     print(f"🔗 Bound to focus match: {match_data.get('team_a')} vs {match_data.get('team_b')} via room matchId [{match_id}]")
+            elif is_testing_room:
+                # Setup mock match data for standalone testing
+                ta = room_info.get("simulatedTeamA")
+                tb = room_info.get("simulatedTeamB")
+                if not ta or not tb:
+                    ta, tb = get_upcoming_real_match(db, room_id, sport)
+                
+                match_id = "test-match"
+                match_data = {
+                    "status": "live",
+                    "team_a": ta,
+                    "team_b": tb,
+                    "sport": sport,
+                    "kickoff_time": room_info.get("createdAt", int(time.time() * 1000))
+                }
+                print(f"🛠️ Standalone Testing Room detected. Simulated match context enabled: {ta} vs {tb}.")
 
     # Step 2: Fallback to detect live or upcoming match from matches table
     if not match_data:
@@ -442,6 +504,16 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
             print(f"🔒 Match [{match_id}] is upcoming but too early for pre-match (not within 1 hour). Skipping.")
             return
     elif match_data.get("status") == "completed":
+        updated_at_val = match_data.get("updated_at")
+        if hasattr(updated_at_val, "timestamp"):
+            updated_at_ms = int(updated_at_val.timestamp() * 1000)
+        else:
+            updated_at_ms = int(updated_at_val or 0)
+        
+        now_ms = int(time.time() * 1000)
+        if now_ms - updated_at_ms > 2700000:
+            print(f"🔒 Match [{match_id}] concluded > 45 mins ago. Skipping Dolly.")
+            return
         phase = "POST-MATCH"
     else:
         print(f"🔒 Match [{match_id}] is {match_data.get('status')}. Skipping.")
@@ -486,7 +558,7 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
     try:
         now_ist = datetime.now(IST).strftime("%I:%M %p IST")
         search_query = f"{match_data.get('team_a')} vs {match_data.get('team_b')} {sport} live scorecard ball by ball score today {now_ist}"
-        response = client.models.generate_content(
+        response = get_gemini_client().models.generate_content(
             model="gemini-2.5-flash",
             contents=search_query,
             config=types.GenerateContentConfig(
@@ -559,18 +631,18 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
     * Fan Creator / Transfer: "That performance will kill his transfer value — should we sell him this window?"
     Return ONLY a valid JSON list of objects:
     [
-      {
+      {{
         "type": "analysis" or "story",
         "cardType": "analysis" or "story",
         "title": "Short headline",
         "text": "Full narrative story (only if cardType is story, else empty)",
         "bulletPoints": ["Point 1", "Point 2", "Point 3"]
-      }
+      }}
     ]
     """
 
     try:
-        response = client.models.generate_content(
+        response = get_gemini_client().models.generate_content(
             model="gemini-2.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(

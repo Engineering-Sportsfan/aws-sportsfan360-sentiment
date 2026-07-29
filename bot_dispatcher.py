@@ -29,8 +29,44 @@ def acquire_dispatcher_lock(db):
         print(f"⚠️ Error acquiring lock: {e}. Falling back to run anyway.")
         return True
 
+
+# ── Default Bot Profiles (Single Source of Truth) ─────────────────────────────
+# These are the 3 permanent bots. If their Firestore user documents are missing,
+# they are auto-created so the Admin Panel Kill Switch works AND bots never go silent.
+DEFAULT_BOTS = {
+    "dolly-dolphin-bot": {
+        "username": "Dolly",
+        "botRole": "neutral",
+        "isBot": True,
+        "isBotActive": True,
+        "displayPicture": "",
+        "createdAt": 0,
+    },
+    "krishna-india-bot": {
+        "username": "Krishna",
+        "botRole": "partisan",
+        "isBot": True,
+        "isBotActive": True,
+        "displayPicture": "",
+        "createdAt": 0,
+    },
+    "radha-england-bot": {
+        "username": "Radha",
+        "botRole": "partisan",
+        "isBot": True,
+        "isBotActive": True,
+        "displayPicture": "",
+        "createdAt": 0,
+    },
+}
+
 def fetch_active_bots(db):
-    """Fetches global Kill Switch status for all bots from users collection."""
+    """
+    Fetches global Kill Switch status for all bots from the users collection.
+    PERMANENT FIX: If any of the 3 core bot documents are missing from Firestore,
+    they are auto-created so the Admin Panel can control them AND so bots never
+    go silently dark due to a missing document.
+    """
     bots = {}
     try:
         users_ref = db.collection("users").where("isBot", "==", True).stream()
@@ -39,18 +75,28 @@ def fetch_active_bots(db):
             bots[doc.id] = {
                 "name": data.get("username", data.get("name", doc.id)),
                 "role": data.get("botRole", "neutral"),
-                # Defaults to true unless explicitly disabled in Admin Panel
                 "active": data.get("isBotActive", True)
             }
     except Exception as e:
         print(f"⚠️ Error fetching active bots: {e}")
-        
-    # Seed Dolly if database is completely empty (Backward Compatibility)
-    if "dolly-dolphin-bot" not in bots:
-        print("🌱 Seeding default Dolly bot profile in active_bots dict.")
-        bots["dolly-dolphin-bot"] = {"name": "Dolly", "role": "neutral", "active": True}
+
+    # ── Self-Healing: Auto-create missing bot documents in Firestore ──────────
+    for bot_uid, profile in DEFAULT_BOTS.items():
+        if bot_uid not in bots:
+            print(f"🌱 Bot [{bot_uid}] missing from Firestore. Auto-creating user document...")
+            try:
+                db.collection("users").document(bot_uid).set(profile, merge=True)
+            except Exception as e:
+                print(f"⚠️ Could not auto-create bot [{bot_uid}] in Firestore: {e}")
+            # Always seed in memory even if the DB write fails
+            bots[bot_uid] = {
+                "name": profile["username"],
+                "role": profile["botRole"],
+                "active": profile["isBotActive"],
+            }
         
     return bots
+
 
 def run_bot_dispatcher():
     print("🚀 Central Bot Dispatcher started.")
@@ -113,25 +159,72 @@ def run_bot_dispatcher():
             bot_config = room_data.get("botConfig")
             
             if not bot_config:
-                # Legacy room compatibility: Run Dolly by default
-                futures.append(executor.submit(dispatch_bot, "dolly-dolphin-bot", sport, room_id))
-                time.sleep(1)
-                continue
+                print(f"⚠️ Room [{room_id}] has no botConfig. Defaulting to Dolly, Krishna, and Radha dynamically.")
+                match_id = room_data.get("matchId")
+                if match_id:
+                    try:
+                        match_doc = db.collection("matches").document(match_id).get()
+                        if match_doc.exists:
+                            match_data_tmp = match_doc.to_dict()
+                            team_a = match_data_tmp.get("team_a", "India")
+                            team_b = match_data_tmp.get("team_b", "England")
+                        else:
+                            team_a, team_b = ("Real Madrid", "Barcelona") if sport == "football" else ("India", "England")
+                    except Exception as e:
+                        print(f"⚠️ Error fetching match for default bots: {e}")
+                        team_a, team_b = ("Real Madrid", "Barcelona") if sport == "football" else ("India", "England")
+                else:
+                    # No match linked — use sport-appropriate default teams
+                    team_a, team_b = ("Real Madrid", "Barcelona") if sport == "football" else ("India", "England")
+                
+                bot_config = {
+                    "dolly-dolphin-bot": {"role": "neutral"},
+                    "krishna-india-bot": {"role": "partisan", "team": team_a},
+                    "radha-england-bot": {"role": "partisan", "team": team_b}
+                }
 
-            # Fetch the match to enforce kickoff time
+            # Fetch the match to enforce kickoff time & completed status
             match_id = room_data.get("matchId")
+            now_ms = int(time.time() * 1000)
+            
             if match_id:
                 try:
                     match_doc = db.collection("matches").document(match_id).get()
                     if match_doc.exists:
                         match_data = match_doc.to_dict()
                         kickoff_time = match_data.get("kickoff_time", 0)
-                        now_ms = int(time.time() * 1000)
-                        if kickoff_time and now_ms < kickoff_time:
-                            print(f"⏸️ Match [{match_id}] hasn't kicked off yet (Starts in {(kickoff_time - now_ms)/60000:.1f} mins). Skipping bots for room [{room_id}].")
+                        status = match_data.get("status")
+                        
+                        # 1. Kickoff gating
+                        if status == "upcoming" and kickoff_time and now_ms < kickoff_time:
+                            print(f"⏸️ Match [{match_id}] hasn't kicked off yet. Skipping bots for room [{room_id}].")
                             continue
+                            
+                        # 2. Concluded / Completed gating (45 minutes post-match cutoff)
+                        if status == "completed":
+                            updated_at_val = match_data.get("updated_at")
+                            if hasattr(updated_at_val, "timestamp"):
+                                updated_at_ms = int(updated_at_val.timestamp() * 1000)
+                            else:
+                                updated_at_ms = int(updated_at_val or 0)
+                                
+                            if now_ms - updated_at_ms > 2700000:
+                                print(f"⏸️ Match [{match_id}] concluded > 45 mins ago. Stopping bots for room [{room_id}].")
+                                continue
                 except Exception as e:
                     print(f"⚠️ Error fetching match data for room {room_id}: {e}")
+            else:
+                # No match linked — check if it is a designated testing room
+                is_testing = room_data.get("isTestingRoom", False)
+                if not is_testing:
+                    print(f"🔒 Room [{room_id}] has no match and is not marked for testing. Blocking bots.")
+                    continue
+                
+                # Testing room cutoff (1 hour limit)
+                created_at = room_data.get("createdAt", 0)
+                if now_ms - created_at > 3600000:
+                    print(f"⏸️ Testing Room [{room_id}] exceeded 1 hour limit. Stopping bots.")
+                    continue
                     
             # Process dynamically assigned bots
             for bot_uid, config in bot_config.items():
