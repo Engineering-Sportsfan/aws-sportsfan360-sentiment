@@ -1,0 +1,354 @@
+{
+  "athlete_id": "gurindervir_singh",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Gurindervir Singh",
+    "country": "India",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "gender": "Men",
+    "dob": "2000-12-24",
+    "heightCm": 168,
+    "weightKg": null,
+    "profileImage": null,
+    "bio": "Gurindervir Singh is an Indian sprinter who holds national records in both the 60m and 100m events. He made history by becoming the first Indian to break the 10.10-second barrier in the 100m, achieving a time of 10.09s at the 2026 Federation Cup. Hailing from Patial village in Punjab, he currently trains under coach James Hillier at the Reliance Foundation High Performance Centre.",
+    "birthplace": "Patial village, Jalandhar district, Punjab, India",
+    "coachName": "James Hillier",
+    "yearsActiveSince": "2017"
+  },
+  "record_highlight": {
+    "event": "100m",
+    "result": "10.09s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-05-23",
+    "city": "Ranchi",
+    "prevRecord": "10.15s",
+    "prevRecordPlace": "Ranchi",
+    "prevHolder": "Animesh Kujur",
+    "improvement": "-0.06s",
+    "improvementDate": "2026-05-23",
+    "aiInsight": "Gurindervir Singh shattered the Indian 100m national record by clocking 10.09 seconds, becoming the first Indian sprinter to break the 10.10-second barrier. This remarkable achievement, accomplished at the 2026 Federation Cup, also secured his qualification for the Commonwealth Games. He had previously set a national record of 10.20s in March 2025, which was then broken by Animesh Kujur with 10.15s just before Gurindervir reclaimed it in the same competition.",
+    "progressData": [
+      {
+        "year": "2017",
+        "value": 10.77
+      },
+      {
+        "year": "2018",
+        "value": 11.09
+      },
+      {
+        "year": "2019",
+        "value": 10.42
+      },
+      {
+        "year": "2024",
+        "value": 10.55
+      },
+      {
+        "year": "2025",
+        "value": 10.2
+      },
+      {
+        "year": "2026",
+        "value": 10.09
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "10.09s",
+        "holder": "Gurindervir Singh",
+        "date": "May 23, 2026",
+        "venue": "Birsa Munda Stadium",
+        "tournament": "29th National Senior Athletics Federation Competition"
+      },
+      {
+        "label": "Olympic",
+        "value": "9.63s",
+        "holder": "Usain Bolt",
+        "date": "August 5, 2012",
+        "venue": "Olympic Stadium",
+        "tournament": "2012 Summer Olympics"
+      },
+      {
+        "label": "World",
+        "value": "9.58s",
+        "holder": "Usain Bolt",
+        "date": "August 16, 2009",
+        "venue": "Olympiastadion",
+        "tournament": "2009 World Athletics Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "10.09s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "100m Sprint",
+    "achievementLabel": "Indian National Record Holder",
+    "stats": {
+      "worldRank": "248",
+      "personalBest": "10.09s",
+      "bestYear": "2026",
+      "totalGold": 3,
+      "totalSilver": 1,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2017",
+        "event": "100m",
+        "value": 10.77,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2018",
+        "event": "100m",
+        "value": 11.09,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "100m",
+        "value": 10.42,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "100m",
+        "value": 10.55,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "100m",
+        "value": 10.2,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "100m",
+        "value": 10.09,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2017",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "year": "2018",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "year": "2019",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "year": "2025",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "<10.10s",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.67,
+        "peak": false
+      },
+      {
+        "range": "10.10\u201310.20s",
+        "count": 2,
+        "throws": null,
+        "percentage": 33.33,
+        "peak": true
+      },
+      {
+        "range": "10.21\u201310.30s",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "10.31\u201310.40s",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.67,
+        "peak": false
+      },
+      {
+        "range": "10.41\u201310.50s",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.67,
+        "peak": false
+      },
+      {
+        "range": "10.51\u201310.60s",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.67,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Gurindervir Singh is the Indian National Record holder in the 100m, with a personal best of 10.09s, and has consistently performed in the 10.10-10.20s range in recent years.",
+    "peakZoneLabel": "10.10\u201310.20s \u00b7 33.33% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "10.09s",
+            "holder": "Gurindervir Singh",
+            "date": "May 23, 2026",
+            "venue": "Birsa Munda Stadium",
+            "tournament": "Federation Cup"
+          },
+          "2025": {
+            "value": "10.20s",
+            "holder": "Gurindervir Singh",
+            "date": "March 28, 2025",
+            "venue": "Kanteerava Stadium",
+            "tournament": "Indian Grand Prix 1"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqJMnWpQwH1-OMIXg9DIwxV3IrZP5CiRh11TBLyyGCC5i9FPl3xwRgVIqJnvTqWoZSAWABWVN-pyjlwg8XPrWn6qlbQHQ7mF8m9GERY3zqQHW13llcEtXipzWVShYezIx9jCnKi7BFYIxv8prE8os8x4G6JBvG5XmEUuXwZsnOOuukPeLPblKru3gjWUJP7Om6BjFM1uG4Hx7I2XrT3VbCP30rhNFNY61sU10cPn9fQtF9kqoAiaSqY3uYkb1GpxPhIj5OR8qWQY6-VjUjS_MfwEd7jgCceuEv2ubGcXcb0qb9Iv4k8W8OqG462flEfv090vJsoFXw-nszycb_oT8rif2szQs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYfVn3nLF6hT631xM6yNuN3M3B0HXMAGJ2ziesgiKCKS6PBtYy8AQk1ijavpuFWefG1N_IJsRAOZJmTdZQxqLdDfe59B1mSm0IuN9TUI4aDQ_q27b7SO03-uERFpq0monP8jZ6TnzLF_Je2ZgwOCegTdtaIPXsevbqbYs2Bbqgjq-DUxxirGMDbCbR7PXGOcNUp7AJbgzvsV2i",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVofw6JzKFbEy2xII9gczzM9Px80ndE6Mt8zdix4xAuXldtFaw0P-F9Mz4Gcy_iYaW_OMdDWzZrWPGmh_Ydx7uMljLnXdBxV3-zvt7bJ3rjF3_GiA12bXXpelWjoryj-JgLfGlEke8-1Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEODyenlFgs8GwHGDcB2t5ja7fWPo301Wx_UmmsvIBw-q020mwXjbBshkm8HvPUSE7qul78r0o9vBmoqdspUZSYYbYF7opst3Tx9L_CpX8Yx52G-oL26Ha5w2xkZTmBeMukArCE8tUnS8EW7RCGJg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9vRJVKKERTLujOdamrgidXHAYMGjUWtyyzKfE3qJMBO-_TKC4wDV1s6yGNllO1-FrhQzsAmESpSrQCuCdlTsTLQMcSKYxI99YejN-kQ0MUr7jnl92SO1R9y7QP-ghsjAilhuFKNgPWrEJ_xg0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXLlepe34h30IUuSf1u4LStMqEgWM0FurV12srfOhf8pduVPeDGnP7QVZ5C_HhEKwKV6Trt3dQm3LtSIX5809V-KYYcFLAL73W53agH5QhrmqGr0ulRIIzNeMEmu_D3g5dIhW3Lx-ALzYj65YsawT119CMLfkRNEj-LoMaqMi4w8NuWTfLhmne3girJ-fHuXxthDybsLNLIx6FerEWkW2xB1FxIBEzVTstIScKZpSBSHc2Ysm8uGVhyOE8yIpI1w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8GCDXlAWPRzwsIM0H7GV4lheEyCnUXR7IQ7GnaJzKKGgMYprtkUYLUqXyV304wrwZaQsuUCnK6VIl3-tg8dwxydt0snVi660mILmGI4FJPVFNghbc1COyetyqDplkK1jpRFUBDGMCVqmXdmvDdr-jmz42L-1SUQZs80z-JTIIfNTTi8MBJEEhv-HcQU-eEg65oK-sLc3V27DwTnHnNXlFwX0XLdDxyVPayTo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUEdhDtCiMQRqK5gsAc451i4I664szCfXadp5I6kPg-L5n2c9XIziFdP6o2oLN1UQfeuq4ApgP0vWSOeeXTEbyIt81vnFBLtpjVkEfcXfwk7Mmz3SdmpPFii5-ubnnygagfbMUcD_iK6mRayPDbGkHYO7kDdZyXxnX_5FmjB3lWaCWN1LTFtXDqx5Puv86hg9Io76wgjV7oKzuyOxMrQ2IrbSoYSWtItZI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcAzsEa5hDti3436p6sknPwadxIYTIaUkpRh4Hx6sTDMEceRVJFmPEe612mzXBhS5DcOenG0AJY7yTomVTldJcDi6AcbPCp4XXCAcFKyOwukXqfzx7yvL1ydaEpD4Qaaa1gMrPCv7c-UJ3A-Ptt9uIltD2qS3mj9bPeo0gb1VySB4P9M8v",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDH6wu_J8rKBrzhCvcY6j01eP08oMpJExAEGXstwliwv-lLn9RworietK7fJMn30HhKoLT2NYgmkj4B2fucJcZXRJLbAzXf-8sxtPSlx_8atza-YFQ-RnD9AXIcOWNBM1VTbGO2nj5hz5Ux-feE7ol09TfWBLLt6lIvLDyoeREDlrMfFNwz29EZMVk-KMgQ82kHChNIsBObiD9vK9GUTvgCUOQceogDU2oBo-4mulH6YfmUKnzX6UxSZzzzUPSdRJb3pOBgzAn5RI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrKbo1KPfSz3sTIxbQ3aiRA60WRTXPyvWgEY2VNj2SZMSkRPy0tnqOgsGIHMU42Zy3yTeGFEx8fpkFe7PTbFdb7CNC2TfXWhmIa5Y29WJIegBEhkojEyKLl67dpu58RrKj_HKTMy236HfDEHR1IP4fWfFD0JjlbjP5aJ1bZ87L1-vTI6qRTgk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHacQ7bTpivSp22mmfLkTJO7psHgCNzkQk15ELx9ECOZDAkO_rlvq4JsDzmksK1VyNcIbntB0j5zzavlmh8CEEkMDfNao3vhPESReaFlgG7hG4YbQyT7CifFBaP32MWkGgzBhJf68-NRETeOL7_GAGxhCaue4IaO5pnSFAPDFKNyWQmxYTJ4qq_7_XxBp0n1Rp6TNpPc5iR89-F03B5UgUqVI-iUyYTGuroBrOCsUPkK3bVzuJADwd6m06LYC6N2d4VyAjprSNy6xq9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD38jfBX_om_lvccWrDFtItkFF-1OR8u2IXyZaacEKYxbRuFTiPkfDX_J5xqh-hnT2jyFaupa1ZHuIIW-SQjr9ps-BmO_JoMIZn_XesiuXoIDtzCLnEMMDdQ_v1XvV3LHV-slgDMcHHM4iTOjiQORaNgHKyB-1tpmERawZkLc6SEsKk9uh3g7FJjO-DImUnG9XR0PeAGb0J2lBy9Q-wbIfQiyMuY2LXVNys2Ul1eWjRUCl-EMDbnCuM7j4NnxSwds2Y0FldlcJHnA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbEQFN3eq-UDEsOmCSozG8-o3DkSeW4ApizvgJRBPCK3txEXqxLZeqU2mhBTemVYFDPT5iuy9oTsTy1lHLSxXPfV0EB5tuN3LjYV1Vo1-F7ZdaJumEfplJ3SPqO_QwEDrbzVQbw-a4l-_2_HeZi7SA4rcwlJu_MwhCyHlxYTsD97KJRqGTrato5I8W"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-04T09:33:30.133426+00:00"
+  },
+  "performance": {
+    "primaryEvent": "100m",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "100m",
+        "medal": "GOLD",
+        "category": "Asian U18 Championships"
+      },
+      {
+        "event": "Medley",
+        "medal": "GOLD",
+        "category": "Asian U18 Championships"
+      },
+      {
+        "event": "4x100m",
+        "medal": "BRONZE",
+        "category": "Asian U20 Championships"
+      },
+      {
+        "event": "4x100m",
+        "medal": "SILVER",
+        "category": "South Asian Games"
+      },
+      {
+        "event": "4x100m",
+        "medal": "GOLD",
+        "category": "Taiwan Athletics Open"
+      }
+    ],
+    "stats": {
+      "personalBest": "10.09s",
+      "seasonBest": "10.09s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        9.8,
+        10.8
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

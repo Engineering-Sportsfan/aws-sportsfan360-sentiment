@@ -1,0 +1,88 @@
+{
+  "athlete_id": "hardik_pandya",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Hardik Pandya",
+    "country": "India",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "gender": "Men",
+    "dob": "1993-10-11",
+    "heightCm": 183,
+    "weightKg": 65.0,
+    "profileImage": null,
+    "bio": "Hardik Pandya is an Indian international cricketer who plays for the Indian cricket team. He is an all-rounder, known for his aggressive right-handed middle-order batting and right-arm fast-medium bowling. He is considered one of the best all-rounders in white-ball cricket and was the vice-captain of the team that won the 2024 T20 World Cup. Pandya is the first fast-bowling all-rounder in T20Is to complete 1,000 runs and 100 wickets. [1, 3, 6, 12]",
+    "birthplace": "Choryasi, Surat, Gujarat, India",
+    "coachName": "Jitendra Singh",
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "T20I All-rounder record",
+    "result": "1000+ runs & 100+ wickets",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Hardik Pandya achieved a unique milestone by becoming the first fast-bowling all-rounder in T20 Internationals to score over 1,000 runs and take over 100 wickets. This highlights his exceptional dual ability to contribute significantly with both bat and ball in the shortest format of the game. This achievement solidifies his status as one of the world's premier white-ball all-rounders. [1, 6]",
+    "progressData": []
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {},
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5X9Pg-yC41zitN_7RqhYNsES_me9k3vCt4aRHxw0jFRiKKVLFUXvKzlOkPHfyEHuOuorRj47DFARA-k-7eQH3VoLyrsBE_BJS04she8XetTV2UfykNDtWJI9J0vGkC7al2GgpLbA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk-hmyNWZXw8cxHHa3px8XluuQoADroNnPbQLl3qluj0rbo6oBlXcFYAin8m4AS6QcuhLjyNp-l8V4W13qcXw1v792AttrCO2o-xPkg07HuIapGFeskBq63-Io2GmB5nt6QiAslzRn8ERIo1oD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpUqTeCn3z8Tb3BSKxkAusE2q9Q1IOPYXSvXk_gNYG6VPPIG2q0GxaQKSF-hZNIUfRFFI0BD13T1oFhatvQpVRHi_lLWiVWHqDb267Jhs-cMs1ShmALxLvJRkT4g8hF_q89EjEqVp4c8oN"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-03T17:06:41.015535+00:00"
+  },
+  "performance": {
+    "format": "T20I",
+    "tournament": "International T20s",
+    "jerseyNo": 33,
+    "battingStats": {
+      "runs": 2288,
+      "ballsFaced": 1568,
+      "battingAverage": 28.24,
+      "strikeRate": 145.91,
+      "fours": 168,
+      "sixes": 126,
+      "dismissals": 81
+    },
+    "bowlingStats": {
+      "oversBowled": 370.5,
+      "ballsBowled": 2225,
+      "runsConceded": 3093,
+      "wickets": 114,
+      "economy": 8.34,
+      "bowlingAverage": 27.13
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "performance.jerseyNo"
+      ],
+      "filled": [
+        "performance.jerseyNo"
+      ]
+    }
+  ]
+}

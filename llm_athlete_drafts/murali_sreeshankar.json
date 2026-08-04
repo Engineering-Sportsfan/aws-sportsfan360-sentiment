@@ -1,0 +1,148 @@
+{
+  "athlete_id": "murali_sreeshankar",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Murali Sreeshankar",
+    "country": "India",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "gender": "Men",
+    "dob": "1999-03-27",
+    "heightCm": 180,
+    "weightKg": 60.0,
+    "profileImage": null,
+    "bio": "Murali Sreeshankar is an Indian long jumper who holds the national record in the event. He is coached by his father, S. Murali, a former triple jump athlete. Sreeshankar has won multiple international medals, including silver at the Commonwealth Games and Asian Championships. He made a remarkable comeback after a career-threatening knee injury in April 2024, which ruled him out of the Paris Olympics.",
+    "birthplace": "Palakkad, Kerala, India",
+    "coachName": "S. Murali",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Long Jump",
+    "result": "8.41m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": null,
+    "city": "Bhubaneswar",
+    "prevRecord": "8.36m",
+    "prevRecordPlace": null,
+    "prevHolder": "Murali Sreeshankar",
+    "improvement": "+0.05m",
+    "improvementDate": null,
+    "aiInsight": "Murali Sreeshankar set a new national record of 8.41m in 2023, surpassing his previous best of 8.36m. This performance solidified his standing as India's leading long jumper and demonstrated his consistent improvement in the sport.",
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 8.2
+      },
+      {
+        "year": "2021",
+        "value": 8.26
+      },
+      {
+        "year": "2022",
+        "value": 8.36
+      },
+      {
+        "year": "2023",
+        "value": 8.41
+      },
+      {
+        "year": "2026",
+        "value": 8.38
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {},
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn4axTBlK9Mkx2pIPxOGzab9bTDehxFKlqsMigaW34LGdSgwyJYuKkbrry3wcUPwzaJ2wmiBzi7rGWSQcWs9mxLTa4vaRTJhrzsTVedX2IjG8b8w3D6Mi6qDrmm8zopmxDXTYp-cmSvbOkGg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH58B7MoIHknEPyRI6KUMNVjvtD7cW6D_aRLlTb5pJ22fBp1EYersWGC39usSk7ZoN9wKvhr3cEun4JvTo7Zh8ckOwUELn-mmB-fAAMrlQrmHkoYuep2M8oj8phnKtyMmWU7ZGxWBtcVy3L",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLMt49isFiJii_wWuiSkCB2gTr9ls5w77pm-7CwWSSAYBFrsiHvbQoJThSVlsWUSL0e0YVO3qBT1ooaVoUzFTDFv9L8nhMEOsBJPhigWzCTxhUUT-W-lVAHKVCretd8AUj82EZztyRfuwBbGboDEirjEUn19OWDXeAuvfcSsFtuWEnGXIjhnmU7Lojfcby4yToKwt1Xo30zgigoG4iIjPYz_8GTvqZEukKcIjrYhP1o7yLW_dkb14ttG_JFSg2BBhYVuv0tKbYcJ7DlNX643hFhBLDmRIwL5yJx5EBNdzyDV1-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIHsW3KJbKwtdv_L9CbXprLEhZrju2_-ydAqH5Er7_ND2Nwtm1WINLSBoqt705Z-O-q94-63FZPLwj_K1V2Pgib0eCAs11r4DkwqHLKLYZH-ahpgdyTOa3-I7wl-FF1s2f1ui9swc7Q92vSAardo1TF0i1IICqP3cpaBmnbxUpnILEU2xsypvVT-QibvDl5mKg_drXyL8OL_-gFWu9lR1vgNzdr-A7TU500lcG",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxQ8y8I2-zDYp0YcfKihMX1U1A59PbEiD2pOMfC51cOMD37RR4KsNsw_Ce15tyuzyttmsCWzJnghRAAPuTvfR_dP5FDrnUJgiTjaS9DCTFI0coYCA-isDHd7rZttescEuXpBUmtdODiJ3ydPawiBkTIVklApFtD42Mm0DEWL6JtGKA73lN182iTHm5FFVLZHQr9HphunjVUaIO04k9-1CH2SRVJ7biHIkNWGwm9qh6igi1_pA3_HesZcAEqugRO-kfyF-X05Oa6vfz1w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu3hkQ7jQiuE4HJzr8_d5R9X2RDZXNaI-zEs3SvG8wGJCT1sv4OpNQnwqWtDraCYcIio4kTRC8-CBOkpw9QKyhUo22np91bGxcVHMfzuAbZv-rfJNc0ocMQRMnXxAWkBmm-hDAcsyx4M1mi5kNPMSMvs6O2_hZSpZqhGZQGlUJ6mJN5pA6hc6UBdexqBbt8_g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELBAUXZ9pO4sB5Qi8zvX-Z1XPqiVCo6WoRhNxQmns8p924e1MaUUjbNxgNLw3tXQhQ2kAVxairzp0KUXrRnBi_yF9OOJ4LxfJEhVZt9XFJudftfNPnd8CwIciU3DxSE1uBABn8skJi34L1YguXRrscIy0XdxODz3eeW2RpGKSlTAXL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjHa1DZiuSDHKqp7cb73mxABoB-ojLpeMFx6zLjC6HdfO0yv6J3bVHdQo9lyBAjcMrk_M7q_8l06UTwL7YQPxrirX5U36ay0LcSZwzmRnPIDukL4TMnj5I_OMCgzXsw2hr7UmBiX-rXRGFh2NekJqZldqe_VG1N4TjmUjkpVA3snnR0UWYn5wdvlwexVnNvTkddBWLC3BE17vzOZ_Vs1yuThR95z5armAcCDyqIhWKsnJU-xLi2Bi-4yVfZCpbt1qbgRDc9g78Ga7MqAc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPOvoJTTOPFJH8ejfm2q-ZQpnSUUaiilsu4JL4yroP-iix4TjiuZ4laz3GsqLWTekf_f3Yh99WBfLcyw09z0t2US74vw62knzEX9rSbQo2gARrbBQv7t-f4tHgpJgmFDs4qTpDzxoaM7sqxhFjHaybA2QlWul__QzB1GyzQDCarnvI5B4fBIiEF_nsoGTLTbLBF7dkBX7-30NPxAOzzkWvQl35K53jmxjwUPoMfZLbkdTX3KVhSQgYz103Yq3ZCzrI6wGY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrqobMH8dZvCSu7p8AXvxfnpHAoQ-wVnSnAurhjP9xv4LV1fx0fTfv9ef-ncG9Tc1xULtFnGb5LzdNBIVqgqzXsr-LB0ESmnVuUbvq5GJanwy3itjcp-zqHY9Q6AloSUIr6d8164_8iLaufqxbTlExI0FogUH6VRIaCrNFNBixW1Qg5E1EOa7yZwo_Aob9rigQV4AOu5crjuVzlIcPeeiCmZia1DBXegTfcxr3EXjPKtl_csl_Jwf59_t3cMUsjBlkAj-_3jEnPeATrFU3bMnb-bgDc19R8qyJFErb",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMgpv_4d-cglGvdqXdBTvq1mwnKMshmuPuyuqlG9m7Gp_o0eo8OlMTtFQFhbXXjbixWvk0_TFPqhFIUCz6O4r2qoxFCOleIBH1HdbuD9EvEtdoSM2Df38R4whNdq27aE_5XLAa0qkQQkfJrCcB93m9CodHy0ABPkSsn-dbqJkjJkiNFkQV-gS_iJkTcHCoVj_Pq7J6ZlIpk5uv1WsKbDTe00_nLYTpwpOgA6hDWh8ROQCjOqKkrKQxv5cS-DLnk-Zf5Iw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLAsjjwG2UMX00X5JCaBnSXPZiO68pB2Sidk18OC63TkjIeGUjIxG4N4ms0iM6CB_YNRMS1YMRI8UP-842lj1eSgzLKAfE15txRdq_N54Pwh4cLM3PEqw-oM9dan1iDRiArgdwBNfbh7lN-1LYyonm1WZewwHIht3YIG3WRSDZNpB7w0yPtASdBG3JYtW3h5wccgXWLiGjMMt7j4Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWPKf3alynTOouN97mvQL9jouomTuHaRrkGAAPeDUd1vNTPc0KwOUhe5RFEUtRjyRZrSYGrw0iqkakn5H7uwSTbi5YhIkK2ofd3n1y0Mxnq2qWQZHGSuIQGMp-9k7WaL-9zu5f_gVOEtD-OLPeJI62InbMK52LxM9gbyMY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6sQnVif2Ov6JhQY6-6eKR5IVsKbLKdDXxZ_bv2XtBtzkEz-Ocok8GtVsr3qda9CIFPl9Ewfmxv3V0YfftdSSPHZfvGMggkb1qTlra995vZY6Rt0gzd_0vt3WKtYUdKLh2oE-hvx3XbByC_a-dBYqaSU3piUZr8yHUZjrjBp5fu5-QY2cNidlqjU7k3MgidHsanw7iMKU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGrDbh2uUG-WGtByBebHTnXgNXnFTXGFQkgCEow5hTvOj15Vw-DClL7UjbE6P03lodSkYzg0xfLDncL1tx1cwcbl8nJ7ZoyjyfCFZ2nMlP8g6tl1Otp2fZP0aTg-0QaXevgyZZ0_EuByCdbOGSRRf9C19zkZ83m4FbEzolx2w6_mvMzMAazEnhGPyddHRwVpQ2coG9vplVH1FTpbLIBELpDdV-TqpN8aWzwaeG0FxLuHbq51JLKsNfcLQLJzLvDkN8gWXcrAtDCliDE9qtMazITWSFd_aybdC0zPeaen3cjvVTjtJnFt8gqV0PvdJz6Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF13mTcd7p5zzfH2W85Sh8Fd1PqxCzHmCuk2tQwGD6yMRKdQwXf7vFC2oK0O9V_b777FDbgqOPiYwDeLZAsmXGYh1QaB8T_CrgKn1mH-XkxX9XDa03bBvWBVQL_axvUkhb_la9BzpIg7Q8vD1PN02rb-kauGEPgIEEiZjcYMp_XIbtlT8hknX9m4UpfecbLtbhOlk9JxjdqBqyL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSdnKhbdv15bIyTZpbRx4lBnTrhfS-LpnUwlth3VFjGPWL4eYCNvDbb4wAJKG9DQrPkkKogZt6iY834KocvyIpPVH-nUgCle7S-qQVDHH-Qgpwl4OXYjSuDe05V1lsyxO-IY187FmPj6V289UH_Cs6NeJpUQhti6FcS87a08abIL2j71cCalMBRuNEmibxb-PDIkec7c3Oq3DO8clAe2yoAUnEWDAoXRfPPhQuYR-FZu9pEBqr89l8QYqcN49aZGThiw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjxKV_UmJlzgPse1FAq6TrmYgoAl7--YUMGqc6-AiA59QcXRRAbdzjq5qaiKM1RSYOsBZNr3iFkGFQ4SOB2sL5AZeawsaumz5-zKhLt4fi3Yd8hV-wgZlZg988EIscgKqPP1R-T5gkfSN971QK25eyycrpUhMhO3mQUAuHuQ1IDkG529KgjhgyxxC3Laml6lHIV2TZdhudzgE_kskK_Nmev9Wm3TFJI1Oj53YSNZedIcVu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEADCS141Ov9CjD9gxyKwo3jurzSSIF7Dfaunvpiug3ibeQcQ_diT9sRIFDOpYZ1xb81gODz6JcteFsXE8HOgxEMqnRGZg8nOP71sRMo5JhvQd-BH51oZ7Gmm5Due8cTX5sm4ZiXDKBUZsPbbg_gJM="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-03T17:03:15.800790+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Long Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "BRONZE",
+        "category": "Diamond League"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "BRONZE",
+        "category": "Asian Junior Athletics Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "GOLD",
+        "category": "Indian Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "National Federation Cup"
+      }
+    ],
+    "stats": {
+      "personalBest": "8.41m",
+      "seasonBest": "8.38m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        7.8,
+        8.6
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,140 @@
+{
+  "athlete_id": "parul_chaudhary",
+  "full_name": "Parul chaudhary",
+  "sport": "other",
+  "nationality": "Indian",
+  "date_of_birth": "1995-04-15",
+  "current_team_or_federation": "Uttar Pradesh Police",
+  "coach": null,
+  "current_ranking": 20,
+  "career_highlights": [
+    {
+      "title": "Asian Games Gold Medalist",
+      "event": "5000m",
+      "year": 2023
+    },
+    {
+      "title": "Asian Games Silver Medalist",
+      "event": "3000m Steeplechase",
+      "year": 2023
+    },
+    {
+      "title": "Asian Champion",
+      "event": "3000m Steeplechase",
+      "year": 2023
+    },
+    {
+      "title": "Arjuna Award",
+      "event": null,
+      "year": 2023
+    },
+    {
+      "title": "Forbes India 30 under-30",
+      "event": null,
+      "year": 2024
+    },
+    {
+      "title": "Best Female Athlete of the Year (AFI)",
+      "event": null,
+      "year": 2025
+    }
+  ],
+  "bio_summary": "Parul Chaudhary is an Indian long-distance runner specializing in the 3000m steeplechase and 5000m events. Born in Iklauta village, Uttar Pradesh, she began her athletic career running barefoot and has since become one of India's most accomplished female distance runners. She holds multiple national records and has achieved significant international success, including gold and silver medals at the Asian Games and Asian Athletics Championships. Chaudhary also represented India at the Paris 2024 Olympics.",
+  "quick_facts": {
+    "age": 31,
+    "height": null,
+    "weight": null,
+    "birthplace": "Iklauta village, Meerut, Uttar Pradesh, India",
+    "dominant_hand": null,
+    "personal_best": "3000m Steeplechase: 9:12.46 (2025), 5000m: 15:04.26 (2026), 3000m: 8:57.19 (2022)",
+    "years_active": "2011-present",
+    "coach": null,
+    "honors": [
+      "Arjuna Award (2023)",
+      "Forbes India 30 under-30 (2024)",
+      "Best Female Athlete of the Year (AFI) (2025)"
+    ]
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Games",
+      "year": 2023
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "Asian Games",
+      "year": 2023
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Athletics Championships",
+      "year": 2023
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "Asian Athletics Championships",
+      "year": 2023
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "Asian Athletics Championships",
+      "year": 2025
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "Asian Athletics Championships",
+      "year": 2025
+    },
+    {
+      "medal_type": "Bronze",
+      "competition": "Asian Athletics Championships",
+      "year": 2019
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "South Asian Games",
+      "year": 2019
+    }
+  ],
+  "season_stats": {
+    "season_label": "2026 Season",
+    "events": 4,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "season_best": "5000m: 15:04.26, 3000m Steeplechase: 9:12.84",
+    "average_mark": null,
+    "current_streak": "N/A"
+  },
+  "performance_trend": [
+    {
+      "year": 2022,
+      "value": "8:57.19 (3000m)"
+    },
+    {
+      "year": 2023,
+      "value": "15:10.35 (5000m)"
+    },
+    {
+      "year": 2025,
+      "value": "9:12.46 (3000m Steeplechase)"
+    },
+    {
+      "year": 2026,
+      "value": "15:04.26 (5000m)"
+    }
+  ],
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkWhkW8Dhl0Xqpd5avvjx4_59oQek2ivauALdvfUahQG6eQPMndAxGVjDoYVNxpPP-ouFoZamwRbgF0HoeOCIVWhWrshn0TEA8sf_VnnLBhug-xDagWZ8_I6Z8mt_-6Zh-bnNCM74IUkVjsgznRvU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0U78N0_k1deo8IFpy7IfmSUEQJvQLI7UXldFCZI_DIv1RVsPNNUVdRUUVo8cczYmZ99ADmOafMHCEa9AYlPlUYWDK9o0EhULJ-i31G5pNADQY861f9cgGE8o_1T4H8cHEpxbjCknKNg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbSoa_xVEdN4tzdPiHeahynqDnXVbambkt5y5SPTi3N3kvLVMgvJq4Hn9I5xTM9Flri0uM7oOjwPoO87J785XYA8CZNWWUFSz35jSwwQx1ZfxnLfq70AFqf3BTMC2LyUO1EGOHCIc5u-NtJlG02OsPkWkRS9WQ6Ha0xuK0xP4L",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP9r6j--NWQ2y3N0WfaDZZWlJhjjs9QJqNuP57UnNvdT3bNQ74yrgMxXXJH_zc8T04wD0I_XozHzHlmmVHr6XqZ0fJgqVIRnbD_pXRxkmI4POACNtzuo35xtRASgMcqa3oezEmM2yq76EInETt5jn4duPGWQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoH0C2Jw8W6T83QB6fYjh7gpxk2s7RlkcV5ffL6keMsBc4MxirC72zvEYMFKjst4yh6jdqH-_KFPUBGNurLxWeYJAi6d4VHO_N14ClsOJS0CIOUAoDJc9j7wBbSu5BkwzyTm97qyvTewqjUlGUI4hmdgPpFc9iGj22M-QQrLmPqEEKZxebVd6DrYlJ4bxk5rnqzujVmXgnQ3dFL5b7YQhpW0fd_sg0djb4R9eomcc6E3FdJH18_asqFmetR0l2RYJnlNO0yyre6LMErJjoSPfQrMc="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-30T09:32:13.125427+00:00"
+  }
+}

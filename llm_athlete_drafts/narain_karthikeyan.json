@@ -1,0 +1,193 @@
+{
+  "athlete_id": "narain_karthikeyan",
+  "full_name": "Narain Karthikeyan",
+  "sport": "other",
+  "nationality": "Indian",
+  "date_of_birth": "1977-01-14",
+  "current_team_or_federation": "Ajith Racing",
+  "coach": null,
+  "current_ranking": 13295,
+  "career_highlights": [
+    {
+      "title": "First Indian Formula One Driver",
+      "event": "Formula One Debut",
+      "year": 2005
+    },
+    {
+      "title": "4th Place Finish",
+      "event": "Formula One United States Grand Prix",
+      "year": 2005
+    },
+    {
+      "title": "Formula Asia International Series Champion",
+      "event": null,
+      "year": 1996
+    },
+    {
+      "title": "British Formula Ford Winter Series Champion",
+      "event": null,
+      "year": 1994
+    },
+    {
+      "title": "Padma Shri Award",
+      "event": null,
+      "year": 2010
+    },
+    {
+      "title": "Arjuna Award",
+      "event": null,
+      "year": 2003
+    }
+  ],
+  "bio_summary": "Narain Karthikeyan is an Indian racing driver who made history as the first Indian to compete in Formula One, debuting in 2005. Throughout his career, he has competed in various international racing series including A1GP, Le Mans Series, NASCAR, Super Formula, and Super GT. He achieved his best Formula One result with a 4th place finish at the 2005 United States Grand Prix. Karthikeyan continues to be involved in motorsport, currently serving as Mentor and Head of Driver Development for Ajith Racing and competing in the Asian Le Mans Series in 2026.",
+  "quick_facts": {
+    "age": 49,
+    "height": "168 cm",
+    "weight": null,
+    "birthplace": "Coimbatore, Tamil Nadu, India",
+    "dominant_hand": null,
+    "personal_best": "4th place (Formula One, 2005 US Grand Prix)",
+    "years_active": "1993-present",
+    "coach": null,
+    "honors": [
+      "Padma Shri",
+      "Arjuna Award",
+      "NASCAR Camping World Truck Series Most Popular Driver"
+    ]
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Gold",
+      "competition": "Formula Asia International Series",
+      "year": 1996
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "British Formula Ford Winter Series",
+      "year": 1994
+    },
+    {
+      "medal_type": "Race Win",
+      "competition": "A1 Grand Prix (China)",
+      "year": 2007
+    },
+    {
+      "medal_type": "Race Win",
+      "competition": "World Series by Nissan",
+      "year": 2004
+    },
+    {
+      "medal_type": "Race Win",
+      "competition": "British Formula 3",
+      "year": 1999
+    },
+    {
+      "medal_type": "Race Win",
+      "competition": "Auto GP",
+      "year": null
+    },
+    {
+      "medal_type": "4th Place",
+      "competition": "Formula One (US Grand Prix)",
+      "year": 2005
+    }
+  ],
+  "season_stats": {
+    "season_label": "2021 Asian Le Mans Series",
+    "events": 4,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0,
+    "season_best": "4th place",
+    "average_mark": null,
+    "current_streak": "N/A"
+  },
+  "performance_trend": [
+    {
+      "year": 2019,
+      "value": "1st (Super GT x DTM Dream Race)"
+    },
+    {
+      "year": 2018,
+      "value": "5th (Super Formula, Sugo)"
+    },
+    {
+      "year": 2017,
+      "value": "N/A"
+    },
+    {
+      "year": 2016,
+      "value": "3rd (Super Formula, Okayama)"
+    },
+    {
+      "year": 2015,
+      "value": "3rd (Super Formula, Suzuka)"
+    },
+    {
+      "year": 2014,
+      "value": "6th (Super Formula, Fuji)"
+    }
+  ],
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfbOWl5JUTBeXvQK5SjZjM8oSbAzYhK1Btnjp3g-s7_Rria3fbWiSSw2lf6K_GLfZn1gWCh3DGKzkvOHVr2gz2N01xsjsmSn9F5APOxsamRRSqFHmaeOh0NTOqMFCWpOR3lSm-AqzOeof6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgudL9OMhHeOHHsC4XwiF_gduZySMODI4YyLwbjI0dqRfgDG9_Ma9oK_BuvaRFHTwgxQ0TedYdUWLNOw8Lb9y6NeVayj399LJ_wuukd5jJ7XWF2b7JbW8TIGjE1e2XucNt64TE-0elGXTbhini9V4AP8dX6_gAsw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8Z2vbPtCaPVZ9w7nTDi3r3XsWHEoXv8kWQor7jSGnAHMaHc5KOQ-sdWo-MXYk78VY7uyCta-2hrwUqGABmfiZ9kchS9FJjAKZVXi2vCbnWByF47EXyYZp7QclYcJhX2zsRHxRUJ8CEMHO3fJ9qQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Ws9mIixiXobhtJq-Hj0dgLGgOa5N7IWkPnpMEYyJVKC9ZnWr6S8g3UUn738bHXI1yoE-Z2A3IbCGHs6S9o57xOiUUxaDy47SMSsgGVR7-vGSKk-Yb35b7DyCCXmf79FZ7ww=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSN2z__vBqYLfftJkl-cHSF46sGAqoQUVnz97KgE3Af8_gzXjxDeChOP4zq-de-4xzkW9KdDPJ0nFw163puCOZU-RkzPok2CfXzIeipU1hl3U_xMBmKCunytOeKVNhjl-v7HVi6Cjumv0yC__oxQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuN7ftFE2zBf3fw-YXkBtvdeHXi849aGexm-n9JqslYi-E55R5WJO8pIxniRoraqPqkvQfCEqhKnlWMy4BJuyQXxokykq9NHln8wUtkA-7onR6a15aQYnEG8KpwT54ogJg4G5KAYfx1Z3ClfG-jYfJVdAgp4I=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGeSRVI8NPb199-AlbQTCdnXZy_PPEHVl6msL3o2nb1QUWcKbqhCsPPpSyzQa8pEZ3Fl9yMZKPAk6_A9-mDfYcf7VeVk3XtYhfUmuqtgg9DGiBO8WKTrK6X5rseV3ClLu3qGG8-NHLhe3Hjpu521thvT3ya7O_g6ipkGb3_Nw9fcnzHjO8K1PboLo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8L1n7M0-t1p6E9QgrTuWGNN7D45-UaLXla-A9k2dy0yVMdRpKLXtfoY0I7NDFpmR7SMOdNt1-dKUmO4n4AwYfwAZxlIExhXD3_JHwVHt_hIfVIVCeiLc_ih_Xrb7zaTdFq9p2s4QaH-U-OOfJ1KhVa4xk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDBthk85FE1KljTuIYlCgAMScDpoGzv1a_JEXM0bsurNMcHlKeLnzp9jGb5fSslv0RiXBtQEnjSBBdhCT-ep7d2qgfUDbVln0gymL-5LpcPceZerzfdh0RAivvPf_itmj0UlB0WzPqQX5EpOLUfjM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs3B0rFBcks5VMNqEqdD9_bVj5fvq_68zThJLakD22hL8CjQzE3zmZV3YJRwchqEVHOZPutK4hheHV-sMpjqxgbawE6fV7SzM0s7Bcn4Qr9ss_c-P0t7Q7GeNAqDynfoaydTNpPD_muy9jOpXID78mHhp1zGU42gpkQh8k-tIGbB8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZr6oedb8q3_EWDK1TTLm_HozOqEWjeBXwY2RoikK6uqvO8VjJ69L-T2PVOi5mQ6X6FXFXVZypPGkNITvEp5rmtDpdKw3xIW2GLp7xXbU-YDjoa5p3u3YjnmgJE8iyw_Lhvn6jYDLU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxGzieakr7y8x5GdGTGvdpA05dtTmSeHWHQbBTumoolr2zBi4AbtsDkSmYm3NVjUaA4Y9Dq1WodgZ_wXhWl_MISPyKlltPltEavdUJEVOwP3aXjXgi_G7BCiFJKhFRvHMH1K4Nwdr8ykwMO1bjw64xUvZZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxzdGVKw-hjrUC6-yddF4KtQFRq8aEMITaD42xe7TELK0D087JKh2zmYk4dvKgOy3hqw_OAPUzJGblgIpUzZpOz3dlM5nR2lyy8WoQu7aP0J4EoMIV5hx72Ndwbvga-CC1K9AT_D6UK6gboz3NBRqHPrVIMuO1cGP6pAR2drDjj55lI4iU0fvTbB64Swh0I0V7iPYJ1O_7n4TxfO9NugI9bQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhie-JGarcH9tmkZJyn1BOuv431U3xPF5juPijqxpIjzwlYgHFaQ-cvXreQGQVVlcy5hNejdVDMtSTgwLfTOwRQG-YiXQgKzNBR6SUWOcKBDskBtQCYJaqvrWLHTyRjTaO0S7VXOtRBfbcFgmAEqc2cLIub744bKpI2ls2qgdR4q0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbM4_etkZW5BetSC63GC_GUOUcLeUp5wqiAO9uH0qjEWtaoRIhSlUyuLNhqzOFM3f39gCVgBTYvbJjeQenoFhfGOeN3Fl16Fy2IuVloTOBEmgTcKasVtj0QpX3T5-o4pakoZT74DrGx4XT3L5A8DscVEF_Yw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGZmmlBPfBljjR1eNvff002NZwnYnjs5nD2qHFLXNyWIrwV284wTFadepDchg-7UnyqOyHEE_L4v0ranAK5BUFkgyuTaHFAXtAbEJmbEHcxQCXO103ub6RrNmXcVd8fkiZdfinyvrkdxdeyUnrZr1g59I2X1M5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUttc_25AQLYpbjaTf2gN0-DQr8spuuhalmMVCe2FZ1EyPMQwYEXrs6xmm9FLTyIfiGY_5U1hSJN2rEJS2RtyzzEucPEJzWJOSeCS8JyDUySHMgMNDya3kDSZhN65ZDlUJNDCB_zXjYw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX8OJBy53O_khFpsEqdtezC1gsjZwj_QtWLWLxjmHW7g34cSiA22Nl6Za5GBN7nLgViwpxnseRBbwtH0WXJ9K9SymQF9jpCga2Lx9SjR79TBFtyAsEgCqNUVrVDKs7sEOqeOE7wC2RhJlSYA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0GR67W007WsS2Cqh1aXsZALB9g9k_YoiPQmGxmKuo0t5pWf1XqOGOByyDbSF1wmir80eUHROCXsmTSnD1mvCX72xcaGACDPB54_-3Axs_rwAzGKLdSChsVbzz2ww6CNTmhpeK",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT242ZPZMvEkG5EIVvbjbk5nvWNAe1GY7EBavwE9tTBRGeNCgJ_c_d4rWzC9xQLGsJnJcGFBYosE5_5ZXPHl_TYLnNTYTccslSe-6a-uQhNsucyHmKbgdLXnogSdD5yC0DcifATEdafqJQ3e9qOw7UZu7StUddMlJiLeAW",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErWlzN73wOqia5K4rhAXtCqQX-f6KN1F_lmVU__6LmvEUfY6hDHkl7vO_GP5-dLzWqdQ8ftUtgh3ZTZeEyxgBb5ZDlNXXD5t0dRUljBQhMiCcxq6C7h22gFZPJlx1IiP_iHZAsbuJW2VAlkK7mQ9j20j7fHZaigXFgqO7EsYDko9G8k2Huuqg3ZarcDnbxW8RESVXw4zdTFT0vh-eb3p04-4o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNnnIwT6ieOlJyAOqPqEYqxQaRtlo4TLy8QvOHq3-oYtcOZGo-83-cN6rtARwNI5YTgVbI3nfKYjgwcV-JMHOsAz_tFXqcZTWR669_S2FFDHiT1vEYt6iTQ2xvfs7k20f2xqWpvLU6j4qcBD4WCmSH1vM9qzrwzh3a1RWWNgBQEXc6LoLKNwZlqivYkEFpdLAdiEWmwAz0f2sBzxyxi3UJqLGPOfhw4Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9WtFqgWD5LdH3m3EA_3ACvIZou1t3etmSoSGeS4XhxJA_Q4306U_QOJwuUqy-IhCLyvGUu7iWmc_yeUwwu3-qYIADztoCqxkQcNsOIBSxQYihbiHgF3GUG_VmMJ_255DL4-rHEbHXDSS3ftHec_Sw1KK7WvAaa08llJjEZZm7r1XTGAS71kJjGFe9sjCHm0RIEyk8CG0_-BlUnv2MRF9x7HBDejfIu2M9sNBU_CejW6fO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzA-0o8PEJvUb6J7w_p_lVWzkyywNky3BwwR4li2sntzaI41QtYk8DcBawxXQTA9bKnsZ05mDm4-32Y6HzCoxs-MtDMNPK_XDYmfq-Gle0IfvzYuSWkFAMBDPPflsS3NzPIF86YuL-50p9Jw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3dIBcLWAx9AMlD_UvYjhH-ZVyTwcLmQnvVwLstkWAbjCTV5b7SY5tvio36cwnbRZVvPZ6KCOG3m5mLCaJOYV2ijRMsPW_HZs-mefOAcFYFZqlm2QwWwSaVNZ0zkkZCWmcwmz1YBO3TgNB4_sC6anGbvqD1tBDNEk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrbAYee2X7T3k07TlprmDABNUsTKJRRHRJMGuJCJaozxL7_Rp6xSQt5_IpMt9Lz3A7-Z7OVKSZD-V9UeD90VM_1q0M-iN5GpAYRcwonwPr9zlLSrZNoFk1sPFQBAjGqaTEBrdV6h1TTN7yxGkDZUGsDWQZqA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_xKdAMAzOmTT3x4qHQ0BWuZ2QeHS61gl_k0QgSzgHHzAMZJQOL-98W5dUSqAMK3lvoFT5gRCQ-M7TBfTZ53VRQs9gtL8LfmWesTzxRQkcxeClEUTEWOVxsGOnNfKWqinOh8ABmK7QSo1cpaIDl7db",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHftSG2MQQpLcuU-EoMJrR8N0wad-QI2S6jFUTEo5zoRpt568ZdVpAWK1djuRaE5ApvPlyoMXP_wLTB4JG7xD8Kgu20UVUvEoxIqpmpQ2-PbTaHex3LQqhf_xm56exqoyY8HYhxcu11chP6hwxbn6F0wCr6dgI2",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6pJWYQcdoJ0NB7NdJD6R7LtWa9w7yV4MpVHh1jzXDvkdUd298-C3F1jh6ySlpqEeDBdG3j2AAZ21eKn9q2jNJDLawYEXbhha0OZyg3JaSczPKWMsEIYTgSwTcA01ytNBHPWur4RARyoUmtxFyEbLJCd84g2xZdaixtfry2W9KXISz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj96810ynVsueqEYjnFFYyhTubWXTBMleIJ-ap-vTudmOBd5lA2yBQMcHDbBBMZ0TfzZt7aGH4Sw7XVQTZ5aqYWibM5luyGlZaUWOj_wuoLO5KQxCVHddzR5mfX1mtyOINFrsaL3ytC7BqTtxY6gYBU2vzgJ-SdTua-JfxXTVWONFedvx7clQZWo0M8So61PhSPxBSQKEAGzWhbV5BMoBKHbU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf5ZTkk8qUPzYRZjEV0fdgnKYD4dfZZ5IjSzXLvh4-VkVY0HKD-bD1rF1dSWbc3m-RXcqa560j1PxNH7P144ZwP4cdz62Ertu2JLV94QqZd8uCdZSsc_PoltnblTOUxhzOZl62irlVF4mSXIkdpcgBbBzYS4c4KcHfs7oT_siroRkP6ZTdqRLqhDL-REBBpsUTavSGc1J1guUsTMJlLkUQAHkSWkzSWQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXtmsG5Sq7xLYhVPVnbth3aUFUj2W0zQSrpldwB0avbrmqB0REmk9_3owRWspVsQhHDN_w1tNEYrUgkBsj9iutI1-Sizxtn-oZoiS8G-BcmyZJZ06r-yBcRpcuhFqH0fqEZ4yQsZa9DTXP01JNry5kQAA0IDnb4YdCsHAnkdLD-mrg"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-31T10:11:16.580984+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coach",
+        "current_ranking",
+        "performance_trend"
+      ],
+      "filled": [
+        "current_ranking"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coach",
+        "performance_trend"
+      ],
+      "filled": [
+        "performance_trend"
+      ]
+    }
+  ]
+}

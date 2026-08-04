@@ -1,0 +1,238 @@
+{
+  "athlete_id": "usian_bolt",
+  "full_name": "usian bolt",
+  "sport": "track_field",
+  "nationality": "Jamaican",
+  "date_of_birth": "1986-08-21",
+  "current_team_or_federation": null,
+  "coach": "Glen Mills",
+  "current_ranking": null,
+  "career_highlights": [
+    {
+      "title": "Olympic Gold Medalist",
+      "event": "100m",
+      "year": 2008
+    },
+    {
+      "title": "Olympic Gold Medalist",
+      "event": "200m",
+      "year": 2008
+    },
+    {
+      "title": "World Record Holder",
+      "event": "100m",
+      "year": 2009
+    },
+    {
+      "title": "World Record Holder",
+      "event": "200m",
+      "year": 2009
+    },
+    {
+      "title": "World Champion",
+      "event": "100m",
+      "year": 2009
+    },
+    {
+      "title": "World Champion",
+      "event": "200m",
+      "year": 2009
+    },
+    {
+      "title": "World Champion",
+      "event": "4x100m Relay",
+      "year": 2009
+    },
+    {
+      "title": "Olympic Gold Medalist",
+      "event": "100m",
+      "year": 2012
+    },
+    {
+      "title": "Olympic Gold Medalist",
+      "event": "200m",
+      "year": 2012
+    },
+    {
+      "title": "Olympic Gold Medalist",
+      "event": "4x100m Relay",
+      "year": 2012
+    },
+    {
+      "title": "World Champion",
+      "event": "100m",
+      "year": 2013
+    },
+    {
+      "title": "World Champion",
+      "event": "200m",
+      "year": 2013
+    },
+    {
+      "title": "World Champion",
+      "event": "4x100m Relay",
+      "year": 2013
+    },
+    {
+      "title": "World Champion",
+      "event": "100m",
+      "year": 2015
+    },
+    {
+      "title": "World Champion",
+      "event": "200m",
+      "year": 2015
+    },
+    {
+      "title": "World Champion",
+      "event": "4x100m Relay",
+      "year": 2015
+    },
+    {
+      "title": "Olympic Gold Medalist",
+      "event": "100m",
+      "year": 2016
+    },
+    {
+      "title": "Olympic Gold Medalist",
+      "event": "200m",
+      "year": 2016
+    },
+    {
+      "title": "Olympic Gold Medalist",
+      "event": "4x100m Relay",
+      "year": 2016
+    }
+  ],
+  "bio_summary": "Usain Bolt is a retired Jamaican sprinter widely regarded as the greatest sprinter of all time. He is the world record holder in the 100 meters, 200 meters, and 4 \u00d7 100 meters relay. Bolt is an eight-time Olympic gold medalist and an eleven-time World Champion. He is the only sprinter to win Olympic 100 m and 200 m titles at three consecutive Olympic Games (2008, 2012 and 2016).",
+  "quick_facts": {
+    "age": null,
+    "height": "1.95 m",
+    "weight": null,
+    "birthplace": "Sherwood Content, Jamaica",
+    "dominant_hand": null,
+    "personal_best": null,
+    "years_active": null,
+    "coach": "Glen Mills",
+    "honors": [
+      "World Record Holder (100m)",
+      "World Record Holder (200m)",
+      "8-time Olympic Gold Medalist",
+      "11-time World Champion",
+      "IAAF World Athlete of the Year (6 times)"
+    ]
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Gold",
+      "competition": "Olympic Games",
+      "year": 2008
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Olympic Games",
+      "year": 2008
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2009
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2009
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2009
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Olympic Games",
+      "year": 2012
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Olympic Games",
+      "year": 2012
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Olympic Games",
+      "year": 2012
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2013
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2013
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2013
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2015
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2015
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2015
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Olympic Games",
+      "year": 2016
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Olympic Games",
+      "year": 2016
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Olympic Games",
+      "year": 2016
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "World Championships",
+      "year": 2017
+    },
+    {
+      "medal_type": "Bronze",
+      "competition": "World Championships",
+      "year": 2007
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "World Championships",
+      "year": 2007
+    }
+  ],
+  "season_stats": null,
+  "performance_trend": [],
+  "source": {
+    "source_name": "Gemini (LLM knowledge \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-30T06:15:31.497047+00:00"
+  },
+  "event": "Sprints",
+  "personal_best": "9.58s (100m), 19.19s (200m)",
+  "personal_best_date": "2009-08-16",
+  "season_best": null
+}

@@ -1,0 +1,151 @@
+{
+  "athlete_id": "sunil_kumar",
+  "full_name": "Sunil kumar",
+  "sport": "kabaddi",
+  "nationality": "Indian",
+  "date_of_birth": "1997-05-12",
+  "current_team_or_federation": "U Mumba",
+  "coach": "Anil Chaprana",
+  "current_ranking": null,
+  "career_highlights": [
+    {
+      "title": "Asian Games Gold Medalist",
+      "event": "Team Kabaddi",
+      "year": 2022
+    },
+    {
+      "title": "Asian Championship Gold Medalist",
+      "event": "Team Kabaddi",
+      "year": 2023
+    },
+    {
+      "title": "South Asian Games Gold Medalist",
+      "event": "Team Kabaddi",
+      "year": 2019
+    },
+    {
+      "title": "Pro Kabaddi League Champion",
+      "event": "Pro Kabaddi League",
+      "year": 2022
+    },
+    {
+      "title": "Most Successful Captain in PKL History",
+      "event": "Pro Kabaddi League",
+      "year": null
+    },
+    {
+      "title": "Junior Nationals Winner",
+      "event": "Junior National Kabaddi Championship",
+      "year": 2016
+    }
+  ],
+  "bio_summary": "Sunil Kumar is an Indian professional kabaddi player, born on May 12, 1997, in Haryana. He plays as a defender, primarily in the right cover position, and currently captains U Mumba in the Pro Kabaddi League. Kumar has achieved significant international success, including gold medals at the Asian Games (2022), Asian Championship (2023), and South Asian Games (2019) representing India. He is also recognized as the most successful captain in Pro Kabaddi League history, having led the Jaipur Pink Panthers to a championship title in 2022.",
+  "quick_facts": {
+    "age": 29,
+    "height": "5 ft 10 in",
+    "weight": "70 kg",
+    "birthplace": "Bhainswal Kalan, Sonipat District, Haryana, India",
+    "dominant_hand": null,
+    "personal_best": "N/A",
+    "years_active": "2010-present",
+    "coach": "Anil Chaprana",
+    "honors": [
+      "Asian Games Gold Medalist",
+      "Asian Championship Gold Medalist",
+      "South Asian Games Gold Medalist",
+      "Pro Kabaddi League Champion (as captain)",
+      "Most Successful Captain in PKL History"
+    ]
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Games",
+      "year": 2022
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Championship",
+      "year": 2023
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "South Asian Games",
+      "year": 2019
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Pro Kabaddi League",
+      "year": 2022
+    }
+  ],
+  "season_stats": {
+    "season_label": "2025-2026 PKL Season 12",
+    "events": 19,
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0,
+    "season_best": "8 points",
+    "average_mark": "N/A",
+    "current_streak": "N/A"
+  },
+  "performance_trend": [
+    {
+      "year": 2017,
+      "value": "39"
+    },
+    {
+      "year": 2018,
+      "value": "76"
+    },
+    {
+      "year": 2021,
+      "value": "38"
+    },
+    {
+      "year": 2022,
+      "value": "64"
+    },
+    {
+      "year": 2024,
+      "value": "54"
+    }
+  ],
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv1P6ynZ-FfycJ5pDoEhzbzrwgvYj-7P0Jzb6dGaliNmrPeBaVAELB5jixZXI0mB8liJrizt7opnmIsBZany4yZPqufbq-oq5SSIDt18UPTcODhX-b-MAjTb7iBJ8MfvtvDmEylcj3hL6EulkPUCs9QKL73fSEZA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5xlD9m7NmZyL9KuAT9GKW6BaRLa1fmIBR2tOlkocJ7kKXvxItfeB_ij8c2IdsdPa0rlnrz5WAP5jNHFIIjkIOQZh5Lq-bFnyRZXu14KfuA1Y38rkINAdK7Y0KO0qVhlKRAKVb2gZ1G_c7lJkSUA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYES9PV7JdSiS6VM-WjrB840uNSarpRc-EX7CwseuzUcFeghVP4BubMfgsMULb_H8qPKrMjMspV9qnp4Imn-Tga5k_jgeInmfp7iU9-YOmAWjvQelKPvBvj4y8z717gwq5fXY8kg1clZ8UoZlxjA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1ImsgFhQZnY5MO1uKoD15JhDs8m1r-4x1fvko42DY-fjUF5IZMTb2pzXOeIcwhGiW75TxF_ibtWm9nMN4p5H3LM_Om3ftg9m7rPGd2gTR9zmd8JM4JnA309UmyFgm10mEYLGtrY7to_MPqK2JPmgE-ImSv6IMBXkjaK5p",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO5qa75VMNOhk9eF7JromTkwjRptGpiMefIi-jY4yNWec7lqKLM-tZOyByZ5hWgic26Xj3oPqy5xZ5-8mER12GK8dI2xAvUaIUMOsC3SqmgbL9GwbV4uddlYmwwDwZSW-kGNnt4kK-V9E2z4wUD2dOKwLFdFqr06xvzqp0K0RCrBh3NYcN9Bke6USwb_yBAuEvRn0OV2Qe_fX6l1Fm824FyH3u2uPPobGG-TQfuiEnYQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW2bnqkiKWVExiXPxg90jhWG6biSJvWQvTxw2nt9InALhpdd5fGm_wjwD1I1Vtfu2OQenMA3qVBkWgvq44ncEOmuNa-bMttOvrvmeeUD4uJKM6MQBcHHr9271_3RBbebTjDnhBf6mWn506tNBXCGJHRK2Fgamuaoof-glHhdDhHPDSvqY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMzu0MKtDnJcKk79WRC-xOA0viY0al7yMpTsgKmWRMZn6-XZ1CfK4VtnCzrpma2PsjZwcQ4c4mcoX8kbA48ggq7f3Ij3QRheDcremQ4-SUw28o0eFrGkW3K4cCH_XdiC69Xqu2h-XD43zFDvoKJA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxLqA9R3hme4kTHvfX5INc_JP37FRnf0rxtwpO6aqqWHxYnpHC6wb3oJtm8gPK_sSsTzVUqkFzZirmBJmdOVAYbti_bdgx7UT2CRXDWKyRD5gDsx2JmzWJ9VHXiFa8jdmFt5S-UuPp90rNf6MVpg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj1IsBQAijik0ReRumxHIZW65QmEW3b5kSzsSir2If-jzTzv7wTi46Yc4vYX0VDbNsQa4KOzG7l993qI-2v4zpvEaapg6h7YuFHCauBnGumCxBoxIMV89ir2mAlXR18VyA0HGo0s13WBIsUtYYmgJJrPF8pCg3kHEVe0-zulAAHcgZcnU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLAURyoEzNcb2dgs26jWDCv9vCt7Za1Hw4ermEWcUU0BYaf3-3Q18GuGnG1zoqBlCFZeB_FGZqXVczMqs7YHlHRRsrH3cJ1J58ldQAhn5xRtdTzNtHfmSTAW-syyG3-mHA1X5aejsR0-U1-yZE_A78XgN_kCd7XlYX2XOhruQfb9RAThHy12WZiels6Puev4KYdOGApI5nfuPA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuCdDKFcKnVp144h5iq2zy7s7zTGWf-KSbjwrTyILbePGmTp0KqVovKQRCb7bR1_GtgEGrfHw2oIURGywcUgRdfFKRyjfcFcb1_AQZtI4pze4atQnI2DU8mYHBkNArHF4d0dWh1LaJ8WEvRy8LKoZOATT3M2dDeQ51CoJEYCj9t7SSHp-1p_Xq1R0YZsxd1us8zrmNUNBW3Ueb9ZUdoGLjBy_cLHcj68miCmxvPj25ImsRDVtKpic="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-31T10:53:24.503457+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "current_ranking",
+        "performance_trend"
+      ],
+      "filled": [
+        "performance_trend"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "current_ranking"
+      ],
+      "filled": []
+    }
+  ]
+}

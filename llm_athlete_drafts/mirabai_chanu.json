@@ -1,0 +1,150 @@
+{
+  "athlete_id": "mirabai_chanu",
+  "full_name": "Mirabai Chanu",
+  "sport": "other",
+  "nationality": "Indian",
+  "date_of_birth": "1994-08-08",
+  "current_team_or_federation": "Indian National Weightlifting Team",
+  "coach": "Vijay Sharma",
+  "current_ranking": null,
+  "career_highlights": [
+    {
+      "title": "Olympic Silver Medalist",
+      "event": "49kg",
+      "year": 2020
+    },
+    {
+      "title": "World Champion",
+      "event": "48kg",
+      "year": 2017
+    },
+    {
+      "title": "World Championship Silver Medalist",
+      "event": "49kg",
+      "year": 2022
+    },
+    {
+      "title": "World Championship Silver Medalist",
+      "event": "48kg",
+      "year": 2025
+    },
+    {
+      "title": "Commonwealth Games Gold Medalist",
+      "event": "48kg",
+      "year": 2026
+    },
+    {
+      "title": "Commonwealth Games Gold Medalist",
+      "event": "49kg",
+      "year": 2022
+    }
+  ],
+  "bio_summary": "Mirabai Chanu Saikhom, born on August 8, 1994, is an Indian weightlifter who has achieved significant international success. She rose to prominence by winning a silver medal at the 2020 Tokyo Olympics in the women's 49 kg event, becoming only the second Indian weightlifter to win an Olympic medal. Chanu has also secured multiple medals at the World Championships and Commonwealth Games, demonstrating consistent performance at the elite level. Her journey from a humble background in Manipur to a global stage has made her one of India's most celebrated athletes.",
+  "quick_facts": {
+    "age": 31,
+    "height": "1.5 m (4 ft 11 in)",
+    "weight": null,
+    "birthplace": "Nongpok Kakching, Imphal East district, Manipur, India",
+    "dominant_hand": null,
+    "personal_best": "205 kg total (Snatch 89kg + Clean & Jerk 116kg)",
+    "years_active": "2013-present",
+    "coach": "Vijay Sharma",
+    "honors": [
+      "Padma Shri",
+      "Major Dhyan Chand Khel Ratna Award"
+    ]
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Silver",
+      "competition": "Olympic Games",
+      "year": 2020
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2017
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "World Championships",
+      "year": 2022
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "World Championships",
+      "year": 2025
+    },
+    {
+      "medal_type": "Bronze",
+      "competition": "Asian Championships",
+      "year": 2020
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Commonwealth Games",
+      "year": 2026
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Commonwealth Games",
+      "year": 2022
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Commonwealth Games",
+      "year": 2018
+    }
+  ],
+  "season_stats": {
+    "season_label": "2026 Season",
+    "events": 2,
+    "gold": 2,
+    "silver": 0,
+    "bronze": 0,
+    "season_best": "205 kg",
+    "average_mark": null,
+    "current_streak": "N/A"
+  },
+  "performance_trend": [
+    {
+      "year": 2019,
+      "value": "201 kg"
+    },
+    {
+      "year": 2021,
+      "value": "205 kg"
+    },
+    {
+      "year": 2022,
+      "value": "201 kg"
+    },
+    {
+      "year": 2024,
+      "value": "199 kg"
+    },
+    {
+      "year": 2025,
+      "value": "199 kg"
+    },
+    {
+      "year": 2026,
+      "value": "205 kg"
+    }
+  ],
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpcJpqxAxNmIQYAhhM20W3YGjK0G-bJ_jQZxnAZvi4fN7QefcYGOydAKJKS5My5tbFEd4vwTHsDA4mtABS-HpuFjHmz-sS6tSLCTlnYsDJvqnctWYPi_n4t4skRXM51AiVxiQ1Qg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEertkDZmXdPY8bPstRy4VSoVTrX7lcuNQC3lv67CeyZ88BzuJcBizFB-OIT0jx0SA8rAeWlo2IOgrWNRMrxi2wBr_njchcS_YPUTQR7QMC7sqfmudB0ZA5_Pk3BdMylnuRTHlsPSTOW3lbCpnWZryxMcO0uUacpmElGEs3Bj4yVBz3aYLQENfoCdhgo7LrklwemJGHX3WB6cBlcMUte6P2IUmrwk6jrMU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3m31iY9TI3g0k1d5d2FG-PDVA1Ja_iiNmeMyexJFYmGjoabLzgf0KEoRhWaOmc0sqFOrW5oEOquVOyJBoGjBvLn8mzmU1BY1-JKldw4v326RhleeUQati6UlnbzNK7soopVcse6loWyoEFluff8KP3LsHO6NXkoQJU2tLjE56Ig4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwuPHSBMp7jD5daMlSLjRmFjSj3ODNqq4TWzccSctkwISh27g_17Ec8F5zNJCdwSJPEDjPM76Mxsblsv-lVfHMHVfr4z3a3BaURF318T_AkdZLnO7ggpTfEKYc3VC1uhsrhJD1j_D47g-mzwDZDTXm_d9sRME_0Sr0D7w=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8Z1wahkHdPWRqkHC7-3_xp3kVFNG1O9rPyzfSTT2lAJiThVem28dz7dA5DY_-n9UkFheV4uVxo6xmU2aWID9aczlQo1jSTwnXgCyBdZUUJvxiRp1-W58heUY2UWtP1fBITm9TS956mKrG4nM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_xBy2-ckOjX1f5ETO1_H-BOAU27dorjIt8QOiRXp0FLWMnkliMqqNXfcDe8ExKc3tQL9cmc8QTNKXbdxYFwcKc2vCeY07POfrOaJDCQsGzYeRp78XsLfqlG-AfnUIIMB5bS99_Pi4q292JmJQrP2xJUHhEw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuL6O34msGG1fvUmbQd3ZhYUWwCOBOeMNjc9jlrFoAESsuFOUnHiGWXuJh-n1LkwB11lieFgGAYwELAh1hNoDk_gwZJllcDUouyK9r4jHE6cmzf6ciumXzpl9ieuThLhzJaWGBycn7fcV4hS2gC6yooSmRyKR1ET8U8YHRwQP4L-laUEF_50Bg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmQLRYOCH33qnfvxCIPxYTH1BOP5ljRSP07s48x-aZIPz_9yisDM7Ft2VPHjRLj2VF6kRx_uRr7BCxL5hEuPfGM0cZoIOFd0IIfj_dWi-OCqF_Sw4BhsIlgNkQLhxZzAbW9SuOFpxMLxXuRrXR-sqm9RudptNBY_M5TpymX0P2QXP-vA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-30T07:38:05.042963+00:00"
+  }
+}

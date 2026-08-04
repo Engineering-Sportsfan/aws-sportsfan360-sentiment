@@ -1,0 +1,142 @@
+{
+  "athlete_id": "tejinderpal_singh_toor",
+  "full_name": "Tejinderpal Singh Toor",
+  "sport": "other",
+  "nationality": "Indian",
+  "date_of_birth": "1994-11-13",
+  "current_team_or_federation": "Indian Navy",
+  "coach": "Mohinder Singh Dhillon",
+  "current_ranking": 34,
+  "career_highlights": [
+    {
+      "title": "Asian Games Gold Medalist",
+      "event": "Shot Put",
+      "year": 2018
+    },
+    {
+      "title": "Asian Champion",
+      "event": "Shot Put",
+      "year": 2019
+    },
+    {
+      "title": "National Record Holder",
+      "event": "Shot Put",
+      "year": 2023
+    },
+    {
+      "title": "Asian Indoor Champion",
+      "event": "Shot Put",
+      "year": 2023
+    },
+    {
+      "title": "Asian Champion",
+      "event": "Shot Put",
+      "year": 2023
+    },
+    {
+      "title": "Asian Games Gold Medalist",
+      "event": "Shot Put",
+      "year": 2023
+    }
+  ],
+  "bio_summary": "Tejinderpal Singh Toor is an Indian shot put athlete. Born in Khosa Pando village, Punjab, he initially aspired to play cricket before switching to shot put at his father's encouragement. He is a two-time Olympian, a multiple Asian Games and Asian Championships gold medalist, and holds the Indian national record in shot put. Toor currently serves as a Chief Petty Officer in the Indian Navy.",
+  "quick_facts": {
+    "age": 31,
+    "height": "6' 4\"",
+    "weight": "90 kg",
+    "birthplace": "Khosa Pando village, Moga district, Punjab, India",
+    "dominant_hand": "Left",
+    "personal_best": "21.77 m",
+    "years_active": "2015-present",
+    "coach": "Mohinder Singh Dhillon",
+    "honors": [
+      "Arjuna Award"
+    ]
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Silver",
+      "competition": "Asian Athletics Championships",
+      "year": 2017
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Games",
+      "year": 2018
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Athletics Championships",
+      "year": 2019
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "South Asian Games",
+      "year": 2019
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Indoor Athletics Championships",
+      "year": 2023
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Athletics Championships",
+      "year": 2023
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Games",
+      "year": 2023
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Indoor Athletics Championships",
+      "year": 2024
+    }
+  ],
+  "season_stats": {
+    "season_label": "2026 Season",
+    "events": 1,
+    "gold": null,
+    "silver": null,
+    "bronze": null,
+    "season_best": "21.03 m",
+    "average_mark": null,
+    "current_streak": "N/A"
+  },
+  "performance_trend": [
+    {
+      "year": 2017,
+      "value": "20.40 m"
+    },
+    {
+      "year": 2018,
+      "value": "20.75 m"
+    },
+    {
+      "year": 2019,
+      "value": "20.92 m"
+    },
+    {
+      "year": 2021,
+      "value": "21.49 m"
+    },
+    {
+      "year": 2023,
+      "value": "21.77 m"
+    }
+  ],
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWqTZ4u85Yrz_LPduyJp8w7BDsDqUhQinaYV9f_ORJjdaKrkqvp8CGjVeI1rof52bki9MJ9-XYkpeKo8YuWf8LPQtkDtDC1LDE3JWvNkeL1jo5HH7_w2eEk-g1gw0QDw8kNUKDAJOjrZ6Qd2Q1Ph5jSeC2A6CTSnsx5tDFolDkuLF159roTOoAoKBNkTpRzOm2wapqjYji3iZUtaZscUkky2a_w-k=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8pdPH7-tJC2-QTXlFmfNv5dF73FZNWnj5TCTF0rgbv_9ddWY61bbXncwUFPEppnS8PBg13k2KpgneUsmANnS7ub0XqIbOawiXRlEC5KfHYAQO4ItCXKAxv7PaBUbDEz6Letpy5Bwl5jvFYO1yWMI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsEYXvcEsPdI50XgR28Bdwn0NgY5Wk6lE-QQ13jKo3updJ70PzvCFwS8L1NXnKlmxah3cBgu2jpCwRdzJBo9nGW43cgaoVOj3T3imFGE-A6MexA5b0oCBE0T1obFjsiyYeETN6dpXEPzKCXw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrlZfzF1ZnGcMPkw8qXVj_IvquydVouAE_O_h4ZIadMQK8Iq2Mrg_uXoxLtUF3HTO_medYGFrlZpZwkpxzN95zoGkQqvCBP5IIZsqxDCISKtZt22-03SMhmRC4ZsQsD7jrojGVo6KSPtnn6vz3KbjJkTP-GRY6COagD0neQissX-CxiKCdf_HG",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHotmyVnTgwuyWBIoD0c_jJJnKebxqaFVtgqXJKcyDfRjk_O0byb_SqdZtknVgjx58j7I3ywh8Pm-78KvOaLB2ZlikB2JU6ljhzbg8e973Y1Eot_X9PxyltWlDxa88SEosOIxWIksSuBl3poXwJL7dSzy_hmNl4Fh6Smb7LPGt77pkvuE9gHz_E0QWoJdbKu1fA_Axv21kWex2Ac412O9iXrujRWRIMGqRdlGpEhnaAq4Ow2BSbu2YvcZIhFdYwwGrxVQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-30T08:47:24.654689+00:00"
+  }
+}

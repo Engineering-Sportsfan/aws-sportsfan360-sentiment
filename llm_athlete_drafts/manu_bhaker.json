@@ -1,0 +1,181 @@
+{
+  "athlete_id": "manu_bhaker",
+  "full_name": "Manu bhaker",
+  "sport": "shooting",
+  "nationality": "Indian",
+  "date_of_birth": "2002-02-18",
+  "current_team_or_federation": "India",
+  "coach": null,
+  "current_ranking": 10,
+  "career_highlights": [
+    {
+      "title": "Olympic Bronze Medalist",
+      "event": "10m Air Pistol Women",
+      "year": 2024
+    },
+    {
+      "title": "Olympic Bronze Medalist",
+      "event": "10m Air Pistol Mixed Team",
+      "year": 2024
+    },
+    {
+      "title": "Youth Olympic Gold Medalist",
+      "event": "10m Air Pistol",
+      "year": 2018
+    },
+    {
+      "title": "Commonwealth Games Gold Medalist",
+      "event": "10m Air Pistol",
+      "year": 2018
+    },
+    {
+      "title": "ISSF World Cup Gold Medalist",
+      "event": "10m Air Pistol",
+      "year": 2018
+    },
+    {
+      "title": "Asian Games Gold Medalist",
+      "event": "25m Pistol Team",
+      "year": 2022
+    }
+  ],
+  "bio_summary": "Manu Bhaker is an Indian sport shooter born on February 18, 2002, in Goria, Haryana. She made history at the 2024 Paris Olympics by becoming the first Indian woman shooter to win an Olympic medal, securing bronze in the 10m air pistol event, and later adding a second bronze in the 10m air pistol mixed team event. Bhaker began her international career in 2017 and has since won numerous medals at major competitions, including the Commonwealth Games, Youth Olympic Games, and ISSF World Cups. Her former coach, Jaspal Rana, who played a pivotal role in her development and guided her to her 2024 Olympic success, passed away in June 2026.",
+  "quick_facts": {
+    "age": 24,
+    "height": "1.68 m",
+    "weight": "60 kg",
+    "birthplace": "Goria, Jhajjar district, Haryana, India",
+    "dominant_hand": "N/A",
+    "personal_best": null,
+    "years_active": "2016-present",
+    "coach": null,
+    "honors": [
+      "Arjuna Award"
+    ]
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Bronze",
+      "competition": "Olympic Games",
+      "year": 2024
+    },
+    {
+      "medal_type": "Bronze",
+      "competition": "Olympic Games",
+      "year": 2024
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Youth Olympic Games",
+      "year": 2018
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Commonwealth Games",
+      "year": 2018
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "ISSF World Cup (Guadalajara)",
+      "year": 2018
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "ISSF World Cup (New Delhi)",
+      "year": 2019
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Games",
+      "year": 2022
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2023
+    }
+  ],
+  "season_stats": {
+    "season_label": "2026 Season",
+    "events": null,
+    "gold": 1,
+    "silver": 2,
+    "bronze": 1,
+    "season_best": null,
+    "average_mark": "N/A",
+    "current_streak": "N/A"
+  },
+  "performance_trend": [
+    {
+      "year": 2018,
+      "value": "574"
+    },
+    {
+      "year": 2019,
+      "value": "244.7"
+    },
+    {
+      "year": 2021,
+      "value": "575"
+    },
+    {
+      "year": 2024,
+      "value": "580"
+    },
+    {
+      "year": 2025,
+      "value": "580"
+    }
+  ],
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYRBk6xpH0TRb6MsInA0vxjXYWBofedFfWS0wbvJMoNV6dYQzFjBvD-q7aEGA7Y9mB5t7axpiklHjgtSUrRy79Rj9J7kHdveqZYVj5Hb53zRlGZAxJSJxQxeINthB--VBh9O8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENXliabFj152ud25qF4DbRP5-Zg01E3yATkc-G9RYA4K0xBmm2-k1nF0xQBCi3S7hBpL7e8HD7X0XupxkEGIWGE_uPjJQflVZwlym-G7W5sjc8L-394pMYNsIEL_bs3g6xl--IzKoe7Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxnmBw4Fda6SjPmL8xamoqufHiWW-t-mHircMezcrwTFouw300ZTtPh-CaCQ53Dxhta484JsUHIMcKE7I04Cr3ClQIE6FX96Q7ReXJg1GblLS6I3rPCzEvzbQGuo3OeTxLN6xBGpbRUaJz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_5e9Rb4sYDi2O7jx5jsYVczXwQV87wd8htt5MXoe-NfuGobksMRJO4kLnodJefTEx5umqMx2H2ySyNLo-q_AgtOh6046LcthLvdNBBHTUQD3NkQvuKfXfbYutZUmTK9DzyLZhVGos91TbrC3Du2i4GEYV9nD7rmaesCVUpcjb9M7mN_xOQpi8kqR_2JqMppU8-1k_l8jA48ZLCzhikDvLyY2CUHYS7Y0zUw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU1DQXrcFXLdKJiitQDyJDj2p-Bz0MyASq2uv0iV8-zhCqmJ7Oem_dSDGTPX83RUWN4LkqJQuNNGYchUR0U0ia468rh85bI9V0AZJk5yEg4yZ7jRhFlidNKW4gagDKPEfHTRUorTkIsWsoKgBJBFiqE3QLyHVI6pNzbXtLBm70u8bhJS3KHbfaCUg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvhGsXUagcAUU-X0Tp5UCYAW3obwZLhyFis7IVytn8_g3gRqfJC1NJadPRURqoJat9iJYW06zz5o3XPnDSsSxYL5FAF7K2jg7IXYNFX8vAVxVp3jW83s2Pk8XE2f084D565nWpAsL1_5wpv9lnssap5vDxJqIQsa4Rch452cCC__2u7mrDqqBtcg5tk0UCtBVJQsKf2Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoWmyJmg_F9TYWayzoBgSzuouuf6cYHcDhOEq2myJ92G2VQ8SNp5jQ3dGDElfKXVz37MLXjM0Bnk-0dxHv5EyY-nPuSaSykp0qMeNrNAcqbCw9R47RZ4Y5M2Y_b-0vWqRRI1Qm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqCiO8xamy1U8BGObJI2lzoUR_qszdI6BDy9-96gs6mzpFM_YFRK7FG4rY6rkyRK8nrMvCXYBIrkQr4Xquj0wFCCItjXm91g9cv7KXS2iaVQz9Zc5qhB8ZRnQqoawu3VUqFLMJDRkVHwVp9VvzEQEw",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlTdRWqWtEi50nwNzGVKlu4xnAkwTOj4yzl_WXbq3Hw2IPMEvkNhK7kUv4kVhvmVwJx4_VfOizDoXg4mefVx-v2BPTPcaBTlG8iaSGeWVCBNLsY5vof-v5rOHeIN-mSZMTXxhbOA2zryvdKiwklY1BEvM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECnJn3CAg8-5dI8qNXuul6dCyItLOsKm1x3VGE9J4BWTpZZSxNxb0FswXtqq_qp5yWEA2splQ3OtslSvbruIeWXAP3lg-lQ9NOVJVE_dF3Jtm-HfM-aSdmdRWzDRvsHP89snsXmhgIBKWw5A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK72vZym99nUWzXT6Ehe0W2y0HCaDKlQERg9MSB6rxmnzzib7_6WRfYmlSz68n4kOHGqH4r8OhoZKS8Sk7Jfn2-Xe67HT61Y-ID5fFUqUjJmP3fF6pcv5mF3kLtqVM-bCjhFrG8227w-qtJQ_UP_SJ5qryZQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEH24P9rHjyLSliuMC_VvIc0IF4pQofIfzeOmbcEfs5TJIzPOgNtZyf1pKLnVIP5SAJx-j8E3Oq_4UAmJr2lm5fRjUfSWwZu3cNl7vz3IiBcIBl07dO7RVsB1jFpC5rnTlrS4Q_Xyg3xb7U7qdxv3wZSEz7xJDbFFDSSt9kLw9bXlw_ZQU4nMhpwCmpUQRhhwYJZkQSeJVwC1GxsU9ooQbCcqiHLL-FJeM4gbGYvZCJRhEIZCqrquIwdH084slf_hcPLDWbkkfE76QnegGfbyHp9_UDTY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdhoExyJIh24OK8qr0nPC_IZpoep2A2gcvNw81mggz0uWiJ9Go70HXMqWBGHkL9_rQGJdbFKyBWzFhXcxIoJFPrgaDWuM3QZtU2A_kqLq8N8BU3qmlQp-GXWcJmGdCRq_fmZHK7fPhEqP7nzWMze569W8ThJ92WujnJN1UMUDltvwE1iGSnJzSr00T",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq_Y-IWyE9_XeN4tWwcRdW0JQsiSzyQIRP0aRnhfxnqxDZBZ6Lsfj6ta0JYZTV2z5HEEx-iqX3Oo_DMeVK1-lB79SvRKnlDmmdDJEPayRzBJKON2I24ssCCg3CmYJGfV5IZhLoqHVKqaE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbYFelvq7_pJCjB4duKg8XEtZ6OaK0gkIKyfCd75R_Wi17PxDuTGVbdUTTzzXumh_0xVclI7Gff8lOYXaIaYMy6zmOn6yVjxMDyVB2McmhNHkRbUULc2zRR4hufVlBf-fjxDDh",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElzSk58fyqJtniC6-jDeRz0Jmxryig4Ow8hm4bi-jWjRnuewtSdFXuHnHSI5lFprdbSfYJ7zwcVykOj130lq3_7FXqjxQH0F2r2vqMKkUorvUTmaDb7JPdHcMzT0iy-qsIgqPq75xWSeMIEg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVcpEGd8DjS5IUdiDc--u4MBHRQ4N8lc2ugqNx8iBxzeA6vwLJJFsJCC3NqdTJrO9uWGNisQPtNoPHzZOurkBLjpnXtfHdrlX1IL3KIdJmJOmDy0E2RAQK-hZkGjpEEGCw0CAFHixZDJU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETVOqacEpr0axV2Rwl3U0PuTRouaCCj6xQwFJV2Dg0aCKtWgeiKubRtQSBWAXxrYXP4EOhAVZeBprkD6rwg_XcCy1ymv7uL9oXeKxqdQVxT1fsLE4t4eiek1Naug5rQryyhoIlLPXKQSsxuO0uDcxBzgJ2Sk49C7zQ4yfT6ctmNim-jHNQ2WIJ0eQTFzyqZugpFN1y_-gAl-RFgBYTXnQF1nP8nCNg21q3FLm9xTkF_dwaJueugFxxRRmc9oKzqhLg78kF6GNki3-8xQLQtVXI6zk8cZC1bfeOZeSM6u-PiGMf7-p4x44UeZ2smFCeciA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlfsww4v-eUJzpgQ9v4zyQ5hBr7EP-Fg1EbBOMFmuCpFlwiU5Fb_nES6llz4NvytXducLDiSay55gAdxKRqfXPRRa-VMVQocLGPcDo211YF3aSJZqmg4EDY374k2kQto0yinNXwbbwrA23nQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtmkWGwa2jd6n33jrwzOjTVO2ZvLxKPO1REaPMtkZ_lC7oPwLjrNrYf_jZLw_ru__tE8BMBbJTtYpBP-LZtFFcCJdF8_w7ZG7WMnOHSw7S5rhVtgzVBLbMIVUa9pvY1pxgn0pZF3tftp6M_Cq4M8YaVZgQB7tLLwcfyGKQtwGtKVZRAO-cEjXCbOpg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZd9VANcwEFAH6AhOVcDTjqjQXS7cKcCRposCZ3OL3p-mVfxfyHVk_dCOZvGljjeJigbRrqynBMyHo4CeZ3juVBhsMr9F9gnVx37-G3vEdZWYpgJj1KRhmDykcYX2EOrjfWfQyim3UpVgHn66QQflyyuYcusF5QuO-wDZFTquwnCDzXOAUjnnsz2OMt_MH20WzdpbSNLNOrCBHVuiQWIKcT7W-ulvknyT1G0b9VUTl2ved-ra8uvPSe6k7k6hzEnhtsx82MfQ="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-31T07:41:48.230352+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coach",
+        "current_ranking",
+        "performance_trend"
+      ],
+      "filled": [
+        "current_ranking"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coach",
+        "performance_trend"
+      ],
+      "filled": [
+        "performance_trend"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "athlete_id": "gulveer_singh",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Gulveer singh",
+    "country": "India",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "gender": "Men",
+    "dob": "1998-06-01",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "bio": "Gulveer Singh is an Indian long-distance runner born on June 1, 1998, in Sirsa village, Aligarh district, Uttar Pradesh. He joined the Indian Army in 2018 through the sports quota and currently serves as a Naib Subedar. He has consistently broken national records and achieved significant international success in long-distance events. He trains under American coach Scott Simmons in Colorado Springs, USA.",
+    "birthplace": "Sirsa village, Aligarh district, Uttar Pradesh, India",
+    "coachName": "Scott Simmons",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "5000m Short Track",
+    "result": "12:59.77s",
+    "type": "AR",
+    "typeFull": "Asian Record",
+    "phase": null,
+    "date": "2025-02-21",
+    "city": "Boston",
+    "prevRecord": "13:08.41",
+    "prevRecordPlace": "Boston",
+    "prevHolder": "Kieran Tuntivate",
+    "improvement": "-8.64s",
+    "improvementDate": "2025-02-21",
+    "aiInsight": "Gulveer Singh became the first Asian man to break the 13-minute barrier in the 5000m short track event, setting a new Asian and National Record. This performance also surpassed the World Athletics Championships entry standard for the 5000m outdoor event.",
+    "progressData": [
+      {
+        "year": "2023",
+        "value": 13.8055
+      },
+      {
+        "year": "2024",
+        "value": 13.1182
+      },
+      {
+        "year": "2025",
+        "value": 12.9977
+      },
+      {
+        "year": "2026",
+        "value": 13.0393
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {},
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEske8EUD3hKVKwEwDw86Abs0paqH8VvdNB4Hs4yIiQ3mqIP_oH7Jly0yebEw8y6Wvs8K4KKvq3WS1h0pwAmCTecyQRQhAuilUT49ZrjuX9-wpXgFShnsV2jNEhdHcdpVc55L43ulKMb2SRCDseNow9CVzC6JI2WwYJ0XP5GRnAWmBAOzVAQqVXZiW4pg7mN-QJzWU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcAyEM0ad60OVJY2NkYqsa3r8ce-J7fi5oT1KLfe0GZvdNCot-2gI-hPwmQYV6NwdQL9bYQrwRNgAEV8m2H-oG8MAT6VdhhCK8qbAUur16EVbtjBI8E2wDgJR35Xlb04CYdqH119PqxbQ1Ew==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZx0IRBO5wa7HsMHn4I8QnhiRDuQplQgFWHUZ0HGqv7BczJ7cl5Eob4rKAYwo4Je3n7I9JbtVNTbTRdhQEKyQXCWZhPCuT3RRVcHix-pAdpJkN0DR30RRZCv2Qv5KC3ya7ejDBXp4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOknJ_2mKjfH2XZu1s9ODuIOx2DyV9OVaB8LFuc7NUDGrsRZniCecdxts1luoqpHnrZAS8YvHaTCOg1VeWNMjEDo1oniZryIDS2lq1YkR0Sm7aEQLSiria3SQv6kq5Rl812J_a7cUD7EgOE0fYMOmCRHpGtD34ohtF5FAzPysg8ZVKPYDQwRd5sUJTMuPJ0UAN-2t7NyHOfg-Fyf9aXUuflNNPmIaJCzUBw33dbpva_uHo8frPqNK2gI_LAs9RkWyAQk4VGiLeh6-Q9mzjRF2I9yNYPOTfWQpDtNA7kw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt-hJ1MO_MZ2hC87_KfuWBjz5O3oeGUMdiB_meXWdbCcV8ctMuWcMCd7MWaSnabylBbV0m84ofrcafjPP3FGYw_0zTpmoRLwtsNENSO0aHHhiq5NUHD5v1BJ4H6vLiZUGz9PgkFgr0pkq4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMJu-1qVO1Wx0SICzGoiCAJMAcGbVG3jbDQlpP4X-A-KoHPZ9voKUEIVBLB7V3SCdNoAs6qJ0bv5NNub56KBdapopdD7MzyV7yirgEoUWAG3kmiooiCCQYTXfzxryMIIf-XWlgZtwvN8UcphQwYZUCYwsopnH36ZH1jE6b65RsyXNPD8AoPVNM6r2lwEH9CIvsZjthJVSMq1Sd_asNlY-HBq1iwU8xuLWAOkG5GD7Yjpk4kQatXH-swamAt7hNUteI3eHh8IwQyVn5rj9GfZqX",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEce6ZrT-_3tjBjjbxugmzRWLGkd90g3cTnkjhMa_zQ4NaQH_WCQuID4HsFkh2oHbNShm1KVugmN_smn53867sEqXNeNIFqgQ5NjoWC_TAj5LyazgTdx0UiiThBg_huRo-kG3mQ3M6ordCuQu4HWMP1n_WfkF1c6oGozlUUExWGVq7cGCr9gPu2u5Kys0KmdJue0EtkiEATzV04mtlR3KmmjSzjL2rMpJIyXhy8ThTI4gvfoT6O7o66_DLFDOHdd5qLtK2GlxJfIQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVBuQ8zu4Dz842yT2dBr9IELn5xHGQnzE9TkxTczrgHrKQYNrY0TwHIkqsdPeeebx3lVRf7C8BB0RvLVnQvWcp1rtBoulywSd8ZRbSSCK6JfVYKkRft0zIbhTp_al5iY_wfRb5TQni9bRrigaBDw5dN6IpcOFUbFC-8MTraAG28Nt1WzBof1mmrEJpa784MTWhyxvrdX-lSiFS4iwda3gcGLObJztjlncBRgvomg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbxK6SLJcSgh2nQMk1y2KFx1aMyCc39MkFCYkWx9VWEVBRyyDv1IQWSFljcV-3ocbMGf9hQBzD68Qf0isjemUp_m5dCzzuvbnQb3aCVgjhi5qcXGbH7OIMFpANSRA5HNjP0keROQqnaZ6BZoYyplmh7AiAXSwDyZTBXtm34d0nBgfSSFuMc0bC_cSObAvxfRG2c3C7nCuDLb1zNw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUJEEZBBR19P0Cl7gqAxmWbduGV-DPu1PUPoHt36P0ap-mYaTCyIIPwaH2QBFS5q-jJ72y1uW32VhkJTQDrSGLw_i90ihUA-bFp2EzT5Ucv52k6nEUFpjHcn10J_IiNUIFrbiX_5k4NtNxvIR8Byy5CbiqUndNLvPrOZB38sy1_E2J4tPVLdgFqiOSwQNTsOHAX8c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvHS7YIILdNbCQXlPZV2llyFevayllTEKJ7vT_p5DPWZrlfgGYOCAncnYB4SqTvVG2EsbKMdlAwan1OdqCdO5mupkc6Kxu067iqID4xXbDGn_42-skRDm_IsowCmQju7cRpkyY2g=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-03T16:49:31.533305+00:00"
+  },
+  "performance": {
+    "primaryEvent": "5000m",
+    "category": "Long Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "5000m",
+        "medal": "GOLD",
+        "category": "Asian Athletics Championships 2025"
+      },
+      {
+        "event": "10000m",
+        "medal": "GOLD",
+        "category": "Asian Athletics Championships 2025"
+      },
+      {
+        "event": "10000m",
+        "medal": "SILVER",
+        "category": "Commonwealth Games 2026"
+      },
+      {
+        "event": "5000m",
+        "medal": "BRONZE",
+        "category": "Commonwealth Games 2026"
+      },
+      {
+        "event": "10000m",
+        "medal": "BRONZE",
+        "category": "Asian Games 2022"
+      },
+      {
+        "event": "5000m",
+        "medal": "BRONZE",
+        "category": "Asian Athletics Championships 2023"
+      },
+      {
+        "event": "Half-marathon",
+        "medal": "BRONZE",
+        "category": "New York City Half Marathon 2026"
+      }
+    ],
+    "stats": {
+      "personalBest": "12:59.77s (5000m Short Track)",
+      "seasonBest": "13:03.93s (5000m Outdoor)"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        12.5,
+        13.5
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}
