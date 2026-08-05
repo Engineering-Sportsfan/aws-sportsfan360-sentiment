@@ -14,12 +14,11 @@ Structure (per the user's schema docs):
 Examples of recordCategoryId:
     athletics-men-100m, athletics-javelin-men, athletics-women-200m
     cricket-men-odi-batting, cricket-men-test-bowling, cricket-women-t20-team
+    football-men-premier-league-scoring, football-men-la-liga-goalkeeping,
+    football-women-world-cup-team
 
-Currently supports ATHLETICS and CRICKET, grounded directly in the two
+Supports ATHLETICS, CRICKET, and FOOTBALL, each grounded directly in the
 reference schemas the user provided (field names/shapes copied verbatim).
-FOOTBALL is not wired in yet — the user is sending that schema separately;
-add a FootballRecordCategory model + prompt builder the same way once it
-arrives, following the same pattern as the other two.
 
 Same architecture as generate_athlete_content_llm.py /
 generate_match_center_llm.py on purpose (one file, schema-driven generic
@@ -64,7 +63,7 @@ import firebase_store
 class Sport(str, Enum):
     ATHLETICS = "athletics"
     CRICKET = "cricket"
-    # FOOTBALL — not wired in yet, schema pending from the user.
+    FOOTBALL = "football"
 
 
 class KeyStat(BaseModel):
@@ -225,10 +224,73 @@ class CricketRecordCategory(BaseModel):
     model_config = {"extra": "forbid"}
 
 
+# ── Football ──────────────────────────────────────────────────────────
+
+class FootballRecordEntry(BaseModel):
+    type: str = Field(..., description="one of the category's benchmarkType values, e.g. 'Competition' | 'National' | 'World'")
+    holderType: str = Field(..., description="'Player' | 'Team'")
+    holderId: str = Field(..., description="lowercase-hyphenated slug — athleteId for Player, teamId for Team")
+    performance: str = Field(..., description="display mark, e.g. '260 Goals', '100 Points'")
+    numericValue: float = Field(..., description="the same mark as a plain number, no unit/label suffix")
+    competition: Optional[str] = Field(
+        None, description="what the record refers to, e.g. 'Premier League', 'Career', or a specific season like 'Premier League 2017-18'"
+    )
+    club: Optional[str] = Field(None, description="club(s) the record was set with, e.g. 'Blackburn Rovers / Newcastle United'; null if not applicable")
+    date: Optional[str] = Field(None, description="ISO8601 date the record was set/reached")
+    color: Optional[str] = Field(None, description="hex color for this tier — pipeline-set, not researched")
+
+    model_config = {"extra": "forbid"}
+
+
+class FootballTrendPoint(BaseModel):
+    year: str
+    competition: Optional[float] = None
+    national: Optional[float] = None
+    world: Optional[float] = None
+
+    model_config = {"extra": "forbid"}
+
+
+class FootballGapPoint(BaseModel):
+    year: str
+    gap: Optional[float] = Field(None, description="numeric gap in the record's native unit, e.g. goals behind the world record")
+
+    model_config = {"extra": "forbid"}
+
+
+class FootballProgress(BaseModel):
+    gapData: list[FootballGapPoint] = Field(default_factory=list)
+    milestones: list[Milestone] = Field(default_factory=list)
+
+    model_config = {"extra": "forbid"}
+
+
+class FootballRecordCategory(BaseModel):
+    recordCategoryId: str
+    sportId: str = "football"
+    gender: str = Field(..., description="'Men' | 'Women'")
+    competition: str = Field(
+        ..., description="e.g. 'Premier League', 'La Liga', 'Bundesliga', 'Serie A', 'Ligue 1', 'UEFA Champions League', 'FIFA World Cup', 'UEFA Euro', 'Copa America'"
+    )
+    category: str = Field(..., description="'Scoring' | 'Playmaking' | 'Goalkeeping' | 'Defending' | 'Team'")
+    metricType: str = Field(..., description="e.g. 'goals', 'assists', 'clean_sheets', 'points'")
+    unit: str = Field(..., description="e.g. 'goals', 'assists', 'clean sheets', 'points'")
+    benchmarkType: list[str] = Field(default_factory=lambda: ["Competition", "National", "World"])
+    records: list[FootballRecordEntry] = Field(default_factory=list)
+    trend: list[FootballTrendPoint] = Field(default_factory=list)
+    story: Story = Field(default_factory=Story)
+    progress: FootballProgress = Field(default_factory=FootballProgress)
+    featuredContent: list[HighlightRef] = Field(default_factory=list)
+    updatedAt: str
+
+    model_config = {"extra": "forbid"}
+
+
 def get_schema_for_sport(sport: Sport) -> type[BaseModel]:
     return {
         Sport.ATHLETICS: AthleticsRecordCategory,
         Sport.CRICKET: CricketRecordCategory,
+        Sport.FOOTBALL: FootballRecordCategory,
     }[sport]
 
 
@@ -550,6 +612,64 @@ Respond with ONLY the JSON object. No prose, no markdown code fences.
 """
 
 
+def _build_football_prompt(gender: str, competition: str, category: str) -> str:
+    return f"""
+You are drafting a Records Explorer category document for SportsFan360's football section.
+You have access to Google Search — use it to look up current, accurate record data rather
+than relying only on what you already know.
+
+Gender: {gender}
+Competition: {competition}
+Category: {category}
+
+Produce a single JSON object with keys: gender, competition, category, metricType, unit,
+benchmarkType, records, trend, story, progress.
+- gender MUST be exactly "{gender}".
+- competition MUST be exactly "{competition}".
+- category MUST be exactly "{category}".
+- metricType/unit: pick what actually fits this category — e.g. "goals"/"goals" for Scoring,
+  "assists"/"assists" for Playmaking, "clean_sheets"/"clean sheets" for Goalkeeping, a
+  defensive metric (e.g. "tackles"/"tackles" or "clearances"/"clearances") for Defending, a
+  team metric (e.g. "points"/"points" or "goals"/"goals") for Team.
+- benchmarkType: exactly ["Competition", "National", "World"] — always these 3 tiers, in
+  this order. "Competition" = the all-time record for this exact competition ({competition})
+  and category, "National" = the equivalent record for the relevant nation's national team
+  (e.g. England's national-team scoring record, for an England-relevant search) or the
+  nation most relevant to this competition/category, "World" = the outright global record for
+  this category, any competition/nation, typically a career total.
+
+records: list of exactly 3 entries, one per benchmarkType tier, each
+{{type, holderType, holderId, performance, numericValue, competition, club, date, color}}.
+- type: exactly "Competition" | "National" | "World", matching benchmarkType order.
+- holderType: "Player" for individual scoring/playmaking/goalkeeping/defending records,
+  "Team" for team records (e.g. most points in a season).
+- holderId: lowercase-hyphenated slug (player name for Player, team name for Team, e.g.
+  "alan-shearer" or "manchester-city").
+- performance: display mark, e.g. "260 Goals", "100 Points".
+- numericValue: the same mark as a plain number (no unit/label suffix).
+- competition (this field, inside each record entry): what the record specifically refers
+  to, e.g. "{competition}", "Career", or a specific season like "Premier League 2017-18" for
+  a single-season team record.
+- club: the club(s) the record was set with, e.g. "Blackburn Rovers / Newcastle United";
+  null if not applicable (e.g. for a national-team record).
+- date: when set/reached — well-documented facts for headline football records; search
+  confidently rather than defaulting to null.
+- color: leave null — a human editor/designer assigns these.
+These are the category's own top records, not any one player's personal stats — find the
+actual current record holder for each tier even if that's 3 different people/teams.
+
+trend: list of {{year, competition, national, world}} — the Competition/National/World
+record values AS THEY STOOD at several points in time (aim for 3-6 data points spanning at
+least a decade, including the current year). Use plain numbers (no unit suffix) for
+competition/national/world; null for a tier at a given year if not meaningfully determinable
+that far back.
+
+{_STORY_PROGRESS_NOTES}
+{_NULL_AVOIDANCE}
+Respond with ONLY the JSON object. No prose, no markdown code fences.
+"""
+
+
 def generate_athletics_record_category(category: str, event: str, gender: str) -> tuple[AthleticsRecordCategory, dict]:
     data = _generate(_build_athletics_prompt(category, event, gender))
     data = _coerce_to_model(data, AthleticsRecordCategory)
@@ -575,6 +695,20 @@ def generate_cricket_record_category(gender: str, fmt: str, category: str) -> tu
     data["recordCategoryId"] = f"cricket-{_slugify(gender)}-{_slugify(fmt)}-{_slugify(category)}"
     data["updatedAt"] = datetime.now(timezone.utc).isoformat()
     obj = CricketRecordCategory.model_validate(data)
+    return obj, obj.model_dump(mode="json")
+
+
+def generate_football_record_category(gender: str, competition: str, category: str) -> tuple[FootballRecordCategory, dict]:
+    data = _generate(_build_football_prompt(gender, competition, category))
+    data = _coerce_to_model(data, FootballRecordCategory)
+    data["sportId"] = "football"
+    data["gender"] = gender
+    data["competition"] = competition
+    data["category"] = category
+    data.setdefault("benchmarkType", ["Competition", "National", "World"])
+    data["recordCategoryId"] = f"football-{_slugify(gender)}-{_slugify(competition)}-{_slugify(category)}"
+    data["updatedAt"] = datetime.now(timezone.utc).isoformat()
+    obj = FootballRecordCategory.model_validate(data)
     return obj, obj.model_dump(mode="json")
 
 
@@ -625,6 +759,11 @@ def _prompt_choice(label: str, options: list[str]) -> str:
 _ATHLETICS_CATEGORIES = ["Sprints", "Middle Distance", "Long Distance", "Throws", "Jumps", "Relays"]
 _CRICKET_FORMATS = ["Test", "ODI", "T20"]
 _CRICKET_CATEGORIES = ["Batting", "Bowling", "Fielding", "Team"]
+_FOOTBALL_COMPETITIONS = [
+    "Premier League", "La Liga", "Bundesliga", "Serie A", "Ligue 1",
+    "UEFA Champions League", "FIFA World Cup", "UEFA Euro", "Copa America",
+]
+_FOOTBALL_CATEGORIES = ["Scoring", "Playmaking", "Goalkeeping", "Defending", "Team"]
 _GENDERS = ["Men", "Women"]
 
 
@@ -645,11 +784,16 @@ def main():
                 event = input("Event (e.g. '100m', 'Javelin Throw'): ").strip()
                 gender = _prompt_choice("Gender", _GENDERS)
                 obj, obj_dict = generate_athletics_record_category(category, event, gender)
-            else:  # CRICKET
+            elif sport == Sport.CRICKET:
                 gender = _prompt_choice("Gender", _GENDERS)
                 fmt = _prompt_choice("Format", _CRICKET_FORMATS)
                 category = _prompt_choice("Category", _CRICKET_CATEGORIES)
                 obj, obj_dict = generate_cricket_record_category(gender, fmt, category)
+            else:  # FOOTBALL
+                gender = _prompt_choice("Gender", _GENDERS)
+                competition = _prompt_choice("Competition", _FOOTBALL_COMPETITIONS)
+                category = _prompt_choice("Category", _FOOTBALL_CATEGORIES)
+                obj, obj_dict = generate_football_record_category(gender, competition, category)
         except (GenerationError, ValidationError) as e:
             print(f"FAILED: {e}", file=sys.stderr)
             continue
