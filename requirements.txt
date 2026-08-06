@@ -6,3 +6,7 @@ python-dotenv
 google-genai
 pytz
 boto3
+pydantic
+groq
+tavily-python
+tiktoken

@@ -1,0 +1,139 @@
+{
+  "athlete_id": "pawan_sehrawat",
+  "full_name": "Pawan Sehrawat",
+  "sport": "other",
+  "nationality": "Indian",
+  "date_of_birth": "1996-07-09",
+  "current_team_or_federation": "Tamil Thalaivas",
+  "coach": "Sanjeev Balyan",
+  "current_ranking": null,
+  "career_highlights": [
+    {
+      "title": "Pro Kabaddi League Champion",
+      "event": "Pro Kabaddi League Season 6",
+      "year": 2018
+    },
+    {
+      "title": "Most Valuable Player",
+      "event": "Pro Kabaddi League",
+      "year": 2018
+    },
+    {
+      "title": "Gold Medal",
+      "event": "South Asian Games",
+      "year": 2019
+    },
+    {
+      "title": "Gold Medal",
+      "event": "Asian Games",
+      "year": 2022
+    },
+    {
+      "title": "Gold Medal",
+      "event": "Asian Kabaddi Championship",
+      "year": 2023
+    },
+    {
+      "title": "Arjuna Award",
+      "event": null,
+      "year": 2023
+    }
+  ],
+  "bio_summary": "Pawan Sehrawat, also known as \"Hi-Flyer,\" is an Indian professional kabaddi player born on July 9, 1996, in New Delhi. He is renowned for his exceptional raiding skills and has played for several Pro Kabaddi League (PKL) teams, including Bengaluru Bulls, Gujarat Giants, Telugu Titans, and currently Tamil Thalaivas. Sehrawat has achieved significant success, leading the Bengaluru Bulls to their first PKL title in Season 6 and being named the Most Valuable Player in 2018. He has also represented the Indian national kabaddi team, securing gold medals at the 2019 South Asian Games, the 2022 Asian Games, and the 2023 Asian Kabaddi Championship.",
+  "quick_facts": {
+    "age": 30,
+    "height": "178 cm",
+    "weight": "82 kg",
+    "birthplace": "New Delhi, India",
+    "dominant_hand": null,
+    "personal_best": "39 raid points in a single Pro Kabaddi League match",
+    "years_active": "2016-present",
+    "coach": "Sanjeev Balyan",
+    "honors": [
+      "Most Valuable Player (PKL)",
+      "Arjuna Award"
+    ]
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Gold",
+      "competition": "South Asian Games",
+      "year": 2019
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Games",
+      "year": 2022
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Kabaddi Championship",
+      "year": 2023
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Pro Kabaddi League Season 6",
+      "year": 2018
+    }
+  ],
+  "season_stats": {
+    "season_label": "2023-2024 Pro Kabaddi League Season 10",
+    "events": 22,
+    "gold": null,
+    "silver": null,
+    "bronze": null,
+    "season_best": null,
+    "average_mark": "9.62 raid points per match",
+    "current_streak": "N/A"
+  },
+  "performance_trend": [
+    {
+      "year": 2021,
+      "value": "304"
+    },
+    {
+      "year": 2022,
+      "value": "N/A"
+    },
+    {
+      "year": 2023,
+      "value": "217"
+    },
+    {
+      "year": 2024,
+      "value": "N/A"
+    },
+    {
+      "year": 2025,
+      "value": "N/A"
+    },
+    {
+      "year": 2026,
+      "value": "N/A"
+    }
+  ],
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxB48r6nYBtBROzhOh4Gf2gV_LR8PmTFxuM5W20jWHUpci-P14aAFY0Xcj-gayqaruaVOJ1YsUaHBwZ8RCtLivkPSqNh4GzLlyhdsjVAi1n72Y-LtKLHkN9MRoNO9OCGIQ7gl_obo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUvfk8l4Sx1861w_hTSilVpQ8Uxe5eLzIMe35yAXfF6Ywsz1ToB8nJZ8vUMEgc1sGEElUQ7aKN-pOmEScV7RV9RcliC7YGwI34486IGQjgslvivJybq4vRfS0cLfcoAm9tcEA98SlylmGHGP2NIUrE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKvkZ58JooNNdf5KAdhMlOqadGQEgqg4ffejeoZAnQ9cGfZMD5UBOoOlK4mggegiQ9X-CMwPvIbG7OXsnGNgZgioI4HeFiFngtBxtA38AIbSfI-vmY0n9WO2EO_f3Ck0bkj-LRPY9En0f1BOTSLi3L8gvHgHva4oJR-pyyK7w-O4IzoA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyIy1-VtFqi_TPmKvtMYjVhc1cyCsnuQWIjaE0XKXVl4Ar3j_V9Pmh9mpZOcdD8gehb-PUc1M_5Im6ozVk9Z3zd8t2sz45MPkQ4_yRW_Ir7FBNfX6C1wkQe7AGQDAvkIovUl484Pv5EN69OsGuCIBhq5-b0jqjZrqj",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFApLzU0vxyIpfjq7O6jMnhrHcbX3OfdzXtqux_MGNQe_SkdVV3_CeCPjXO9QayI4YqYOAy7L2SxARWwnH4eUKp76oqDXtX5hscQPytEurKlPDRODyh9nmeLUT7e0so_x8lli0gdQ_V0cF89bDG4NRp",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvpYORDzp_GogN1DyfuVv0JlVtDvgzkDed8m3fGfbSPfRK6XZswDX8BEcK9rWi58oRccMLi0P59Mzr3jJoABzR42ScKtQyGKYxN_nGpzTFkNXktkn7vo4CJ7XbGYuR94vOYkx0aIUEa9zg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl7GLiswBEyr6C210l5765Nze3Gnghfciil3P196lYVbdUvC4YJuuqeb_rnd1EK56K78Uxt1Jl25o7pNVlU5IogtQ-TZAQPwWJ7WdA_VjhsUHuCmN58zUh-MT_s3n0k6NxR89zd_VxjA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHPH37bQF8I_A-bR5r7B0c0WcW3f9gD6G7skIydrvuMIkTZz6WkxkkGbhduzmZfaLS1iuq2ipAbu9M1aQ7fdglg0VFLO3fswAEIR0LsyM6ccDtLT04IqPX8UDtUEnk229qYGiKSBYC5xIW9IZmmBOtViv-t9BRyknOiDQ3AA5N_VQoAhPPu0qkhgI="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-31T09:44:11.923470+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "current_ranking"
+      ],
+      "filled": []
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "athlete_id": "prithika_pradeep",
+  "full_name": "Prithika Pradeep",
+  "sport": "other",
+  "nationality": "Indian",
+  "date_of_birth": "2008-09-27",
+  "current_team_or_federation": "India",
+  "coach": "Dave Cousins",
+  "current_ranking": 26,
+  "career_highlights": [
+    {
+      "title": "Gold Medalist",
+      "event": "World Archery Youth Championships, Women's Cadet Individual",
+      "year": 2025
+    },
+    {
+      "title": "Gold Medalist",
+      "event": "Asian Archery Championships, Women's Team",
+      "year": 2025
+    },
+    {
+      "title": "Gold Medalist",
+      "event": "Asian Youth Archery Championships, Individual",
+      "year": 2024
+    },
+    {
+      "title": "Silver Medalist",
+      "event": "Archery World Cup, Madrid, Women's Team",
+      "year": 2026
+    },
+    {
+      "title": "Bronze Medalist",
+      "event": "Archery World Cup, Madrid, Women's Individual",
+      "year": 2026
+    },
+    {
+      "title": "Silver Medalist",
+      "event": "Asian Archery Championships, Individual",
+      "year": 2025
+    }
+  ],
+  "bio_summary": "Prithika Pradeep is an Indian compound archer born on September 27, 2008. She made her international debut in 2024 and has quickly risen through the ranks, achieving significant success in youth and senior competitions. She is coached by Dave Cousins and represents India in international events.",
+  "quick_facts": {
+    "age": 17,
+    "height": null,
+    "weight": null,
+    "birthplace": "Maharashtra, India",
+    "dominant_hand": null,
+    "personal_best": "702 (2025)",
+    "years_active": "2024-present",
+    "coach": "Dave Cousins",
+    "honors": []
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Gold",
+      "competition": "World Archery Youth Championships",
+      "year": 2025
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Archery Championships",
+      "year": 2025
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Youth Archery Championships",
+      "year": 2024
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "Archery World Cup, Madrid",
+      "year": 2026
+    },
+    {
+      "medal_type": "Bronze",
+      "competition": "Archery World Cup, Madrid",
+      "year": 2026
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "Asian Archery Championships",
+      "year": 2025
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "World Archery Youth Championships",
+      "year": 2025
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "Archery World Cup, Madrid",
+      "year": 2025
+    }
+  ],
+  "season_stats": {
+    "season_label": "2026 Season",
+    "events": 2,
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1,
+    "season_best": "690 (Antalya World Cup Stage 3 qualification)",
+    "average_mark": null,
+    "current_streak": "N/A"
+  },
+  "performance_trend": [
+    {
+      "year": 2025,
+      "value": "702"
+    }
+  ],
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwmTce4EjfujHJrQKVXhfrIDsjZmuKflyAfJ76E4kdCGeok8ads2bv5Y7YLQOKNoL6ZU6pSvpnIWzk3vBdNsu54-7u-Q__hbrc-FJQv7LaxkruAJAsG_9tGWpdtUa0D2geBNcJ-gCgItA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0SZXuBkCPvbyGl7MYYqwXDG2qaJQTv2gh-u8Olgtl4F5W9MKkDKBKIoPsdwDiK8kfL0tsAMs4aYmxv5me2AZu8FVoDDCn5gebzcZWVzaSZEHtCyf0ixYeFDBbpMTq9s1CF6laW-vHjoILumGGJKulm0quNfj6n2m8SC5WVwNvgfipkZIziFbWMfm5VsjmAyO6gWXjsAFPh_1v2j2PQ2RNPCLI-PGuWOkUNi-2bnLX9efq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1rrwlbG0wCLnrt6FPuvhe3U_3rz0kR7pzkpRMlnpLc-2Ekp6IxC9MOzbgFIuy99GRPClJ6FC0KX137ydFa2_JhEPcmyb4ZByK70QXmfZUEpJgZodGQiRqolnuoZ4q3Dq1s9tcDFW1IOpiPYxqdxWMZ8NlfrromPdMghP9ICLMVCjrVH8HXyBP7nTHs4-vcYPcg5bcZWRVFEvUivz4avHbvdx9qRsFw-JfJik5y2INWA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-30T09:44:47.035584+00:00"
+  }
+}

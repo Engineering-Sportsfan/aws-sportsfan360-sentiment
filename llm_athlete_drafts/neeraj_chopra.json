@@ -1,0 +1,433 @@
+{
+  "athlete_id": "neeraj_chopra",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Neeraj Chopra",
+    "country": "India",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "gender": "Men",
+    "dob": "1997-12-24",
+    "heightCm": 186,
+    "weightKg": 86.0,
+    "profileImage": null,
+    "bio": "Neeraj Chopra is an Indian javelin thrower who has won gold medals at the Olympic Games, World Championships, Commonwealth Games, and Asian Games. He became the first Indian track and field athlete to win an Olympic gold medal at the Tokyo 2020 Olympics. Chopra also holds the world U20 record in javelin throw with a mark of 86.48m set in 2016. He is a commissioned officer in the Indian Army.",
+    "birthplace": "Khandra, Panipat, Haryana, India",
+    "coachName": "Jaiveer Singh Chaudhary",
+    "yearsActiveSince": "2010"
+  },
+  "record_highlight": {
+    "event": "Javelin Throw",
+    "result": "90.23m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2025-05-16",
+    "city": "Doha",
+    "prevRecord": "89.94m",
+    "prevRecordPlace": "Stockholm",
+    "prevHolder": "Neeraj Chopra",
+    "improvement": "+0.29m",
+    "improvementDate": "2025-05-16",
+    "aiInsight": "Neeraj Chopra set a new Indian National Record in javelin throw with a mark of 90.23m at the Doha Diamond League in 2025. This throw also marked the first time he breached the coveted 90-meter barrier in his career.",
+    "progressData": [
+      {
+        "year": "2021",
+        "value": 87.58
+      },
+      {
+        "year": "2022",
+        "value": 89.94
+      },
+      {
+        "year": "2023",
+        "value": 88.88
+      },
+      {
+        "year": "2024",
+        "value": 89.49
+      },
+      {
+        "year": "2025",
+        "value": 90.23
+      },
+      {
+        "year": "2026",
+        "value": 92.62
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "90.23m",
+        "holder": "Neeraj Chopra",
+        "date": "2025-05-16",
+        "venue": "Suhaim bin Hamad Stadium",
+        "tournament": "Doha Diamond League"
+      },
+      {
+        "label": "Olympic",
+        "value": "92.97m",
+        "holder": "Arshad Nadeem",
+        "date": "2024-08-08",
+        "venue": "Stade de France",
+        "tournament": "Paris 2024 Olympics"
+      },
+      {
+        "label": "World",
+        "value": "98.48m",
+        "holder": "Jan \u017delezn\u00fd",
+        "date": "1996-05-25",
+        "venue": "Jena",
+        "tournament": "ISTAF Meeting"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "90.23m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Javelin Throw",
+    "achievementLabel": "Tokyo 2020 Olympic Gold",
+    "stats": {
+      "worldRank": "1",
+      "personalBest": "90.23m",
+      "bestYear": "2025",
+      "totalGold": 10,
+      "totalSilver": 3,
+      "totalBronze": 0,
+      "olympicGold": 1
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "event": "Javelin Throw",
+        "value": 87.58,
+        "rank": 1,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2022",
+        "event": "Javelin Throw",
+        "value": 89.94,
+        "rank": 2,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Javelin Throw",
+        "value": 88.88,
+        "rank": 1,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "Javelin Throw",
+        "value": 89.49,
+        "rank": 2,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Javelin Throw",
+        "value": 90.23,
+        "rank": 2,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Javelin Throw",
+        "value": 92.62,
+        "rank": 1,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2016",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "year": "2017",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "year": "2018",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "year": "2021",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "year": "2022",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "year": "2023",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "year": "2024",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+      },
+      {
+        "year": "2026",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 88.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 95.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 92.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "<85m",
+        "count": null,
+        "throws": null,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "85-87m",
+        "count": null,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "87-89m",
+        "count": null,
+        "throws": null,
+        "percentage": 35.0,
+        "peak": true
+      },
+      {
+        "range": "89-91m",
+        "count": null,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": ">91m",
+        "count": null,
+        "throws": null,
+        "percentage": 5.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Olympic and World Champion; consistently performs in the 87-90m range in major competitions.",
+    "peakZoneLabel": "87-89m \u00b7 35% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "2020": {
+            "value": "87.58m",
+            "holder": "Neeraj Chopra",
+            "date": "2021-08-07",
+            "venue": "Olympic Stadium, Tokyo"
+          },
+          "2024": {
+            "value": "89.45m",
+            "holder": "Neeraj Chopra",
+            "date": "2024-08-08",
+            "venue": "Stade de France, Paris"
+          }
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2022": {
+            "value": "88.13m",
+            "holder": "Neeraj Chopra",
+            "date": "2022-07-24",
+            "venue": "Hayward Field, Oregon"
+          },
+          "2023": {
+            "value": "88.17m",
+            "holder": "Neeraj Chopra",
+            "date": "2023-08-27",
+            "venue": "National Athletics Centre, Budapest"
+          }
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2024": {
+            "value": "Gold",
+            "holder": "Neeraj Chopra",
+            "date": null,
+            "venue": null
+          }
+        }
+      }
+    ],
+    "beforeCoach": "89.49m",
+    "afterCoach": "90.23m",
+    "coachImprovement": "+0.74m",
+    "coachJoinYear": 2024,
+    "coachImpactData": [
+      {
+        "year": 2021,
+        "value": 87.58,
+        "period": "before"
+      },
+      {
+        "year": 2022,
+        "value": 89.94,
+        "period": "before"
+      },
+      {
+        "year": 2023,
+        "value": 88.88,
+        "period": "before"
+      },
+      {
+        "year": 2024,
+        "value": 89.49,
+        "period": "before"
+      },
+      {
+        "year": 2025,
+        "value": 90.23,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 92.62,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx3Xgfz1TTzmUjW_4_aCjV9qvx1wkkjKVmyNeiZMUpzjw5blxVKmTalTeExtCumTgmkN7F3Q7gDoIN9iNdqk4xcUCtk5emhL1VE7GEhJKYdu9Iaxb4o-4VGcBdDs5fDwccB7u7yU0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4dUk6eFZRXZF2udbhdz7fBoandqq71JV-H_WQ0k1kKZ0C0plWBQescNaRedWGjHdEyuDqmfDC3ID0vXRRjqlWSUoilP1ZW-Zn6q3HK-tIb46_JLG77m6G8PDWxv0Nc3e3MnrbbIBkeBKDgP-v",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_SjvOaDDt6vLpKjlXQIuU9A0CkhYMoggPTTrzsSKES9IgJVjKzTH1q4Qbw0hGAVWwfhSTiF5kc7mTVrV1vxaNLG1HBqpqK7I1x7_a21WzGo4QxgTgYDQUtUY-AKg_Pw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-7niUM28bqWUko-Ex8an8W5YEZb9rz4Nb-KejIMBaYRqEISUGXvOIjFSNGvAILbGqTEDSNqqPfU_Brt5oVIX4ELUW0MSCi3p7UPi6ZyC3Cre045nyjLzs3mbG4srRJwjthBwQDdXeDS2t8R4nf1jSpxOungqxIRpiB8I=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGudfZDUqWyY9bjJITj7badHraoYL-GEX2T1T4aSWKF1BKBls7uo3z-Wu87oQDM8LaPkY4vvyEPCruRfQDHeSxEbMcH4_QNh2tDdQMxGcnh-VT6eRsK_aZo3amn9wl_2i-sTqZnFfqeFlUl",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw3q59aVe-3aG1FVDMIs4CaFtdcuJ6ewBM4MbT5sci8bcOY4vO1XP32FxtgMKVBgTVMgEqQ5RkOrZ1vfzNh3LQQOPnYgGns4ZsbyMW6abdvSUZ_cdGitxmlfJ-huh4WZAbnJFtJUMV_MgpAZzoR2mVq7FymKbDBWa5JNp3iU_eoV37SZ6cFTF7R9GfubecLK9Jyyz8EDFo5BjBJSL5nOehHcauMf4NzWiemW15SVOJzbD_9GiqE8wp5-2NJYjAEt5gY4KXHWsw5Mj9UTq2HmL0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6jJ1c8rna-OCFo4tUGhuoDe33YxLmQ_bxHIoOABXgCQOAo1xbEhGr_KUt1KhxJx2mXAjnCZu--65Or9a0yYocHmQ_7Yxx8_I91CpNwArQFnjGNJpFbF8pPHnwG8MVvuzUdOCpt8MofxoDS_4P",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElCCliNLxTLV8Q3VldjZ6Wmj_as2h3LjBbBq__P9P5ARG6fN-XHAUDhaclA6piq7X_mTgKkf02E0a62NIkRHMW-BZGm8N7e3k0c8LV2Ra2yt_L7nKvYp6IIn4bONa9e6B5AELIJeB0-j47mgs1vADc_T5nbJYnf91eqqdJMzp8i-VKCQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSj5FMCGCGy1lshoKJhUg_XredXiBFNwCHXOcYH3YN7DbhocCpyNZcJIHEQf4YepdLMTRhzywOJLrlV5vmiHy2jtPEcevTCoX2f-53y75Z-KyY3TWPLKyJeiWbvsgU2FnGA7WwCfWVEY1ht6kv4t51VwKojoZo1xBtkbEf0Jv-pjwLJ9bpexawSq4A2FhL4GiXHt8h6RDDOxo-DA3aRe6kFZhXJWWw6rJ3wfPMRMXPTK-B7ukUBQ9v",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRqj3WDCmFCje7OzhWQqJJ9kxiYUj8TcDA48pXrCdejuRqf2K1sJwLZxTVjt7buL4gkv9LrtWrjH6EMkkJXDHBLD3TxuMoLbTPwGALfxUeeyAUFLQ3MDp6J0kEESpWFsqn9ldgmgXbn66eCoh6B4Va5B-YG-P7XzI9in8x5Qq7gRBKpyi6GcSmNizqXjC86mTuYxQRJhMRaMS0tHsKxiBnbD-dDUdIIf6RBjlNU3JRe4PzrlkxwhOlPuKdbMkH7FqMotejA2HpQ01rsP9EPpIwfWzK",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4s-jycXx4l21vvDvBbWaNTMX4xlYg5TDSqllxuds1x4K4AeY2UBQtJT6RRrG858p367ef_c6FSj6oLtODn2Y6luaqgFFsZa-HqC0OS4pz5SExLgwAJ2dqBEANQmPRspWfW8_tzIQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNdy_EDwLmTfFdFLl1CCTJDnrSEfs8sAJqQRpVlKwKepQ9npcznMweu5qEzWpkK2WaB6s-haNd3aebZ3x0cRXrisz5_xUf5MERa9k167IokHqGAZeLN2eczhtERGJzmfuouQDvPgUFeg706k6L--8lHg_b7fx3LAoc9l4-nZS2"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-04T11:36:13.789525+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Javelin Throw",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Olympic Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "SILVER",
+        "category": "Olympic Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "World Championships"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "SILVER",
+        "category": "World Championships"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "World U20 Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "90.23m",
+      "seasonBest": "92.62m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        80.0,
+        95.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

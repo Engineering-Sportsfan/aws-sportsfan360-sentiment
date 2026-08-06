@@ -1,0 +1,116 @@
+{
+  "athlete_id": "lovlina_borgohain",
+  "full_name": "Lovlina Borgohain",
+  "sport": "boxing",
+  "nationality": "Indian",
+  "date_of_birth": "1997-10-02",
+  "current_team_or_federation": "Boxing Federation of India",
+  "coach": "Sandhya Gurung",
+  "current_ranking": 6,
+  "career_highlights": [
+    {
+      "title": "Olympic Bronze Medalist",
+      "event": "Welterweight",
+      "year": 2020
+    },
+    {
+      "title": "World Champion",
+      "event": "Middleweight",
+      "year": 2023
+    },
+    {
+      "title": "World Championships Bronze Medalist",
+      "event": "Welterweight",
+      "year": 2018
+    },
+    {
+      "title": "World Championships Bronze Medalist",
+      "event": "Welterweight",
+      "year": 2019
+    },
+    {
+      "title": "Asian Games Silver Medalist",
+      "event": "Middleweight",
+      "year": 2022
+    },
+    {
+      "title": "Asian Champion",
+      "event": "Middleweight",
+      "year": 2022
+    }
+  ],
+  "bio_summary": "Lovlina Borgohain is an Indian boxer born on October 2, 1997, in Baromukhia, Assam, India. She gained international recognition by winning a bronze medal at the 2020 Tokyo Olympics in the women's welterweight event, becoming only the third Indian boxer to achieve this feat. Borgohain further cemented her place in boxing history by securing a gold medal at the 2023 IBA Women's World Boxing Championships in the middleweight category. She is also a recipient of the Arjuna Award in 2020 and the Dhyanchand Khel Ratna Award in 2021.",
+  "quick_facts": {
+    "age": 28,
+    "height": "1.78 m (5 ft 10 in)",
+    "weight": "75 kg",
+    "birthplace": "Baromukhia, Golaghat, Assam, India",
+    "dominant_hand": "Orthodox stance",
+    "personal_best": "N/A",
+    "years_active": "2012-present",
+    "coach": "Sandhya Gurung",
+    "honors": [
+      "Arjuna Award (2020)",
+      "Dhyanchand Khel Ratna Award (2021)"
+    ]
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Bronze",
+      "competition": "Olympic Games",
+      "year": 2020
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "World Championships",
+      "year": 2023
+    },
+    {
+      "medal_type": "Bronze",
+      "competition": "World Championships",
+      "year": 2018
+    },
+    {
+      "medal_type": "Bronze",
+      "competition": "World Championships",
+      "year": 2019
+    },
+    {
+      "medal_type": "Silver",
+      "competition": "Asian Games",
+      "year": 2022
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "Asian Championships",
+      "year": 2022
+    },
+    {
+      "medal_type": "Bronze",
+      "competition": "Asian Championships",
+      "year": 2017
+    },
+    {
+      "medal_type": "Bronze",
+      "competition": "Asian Championships",
+      "year": 2021
+    }
+  ],
+  "season_stats": {
+    "season_label": "2026 Season",
+    "events": 6,
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1,
+    "season_best": "N/A",
+    "average_mark": "N/A",
+    "current_streak": "N/A"
+  },
+  "performance_trend": [],
+  "grounding_sources": [],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-30T08:52:06.411983+00:00"
+  }
+}

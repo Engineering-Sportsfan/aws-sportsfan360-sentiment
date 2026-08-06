@@ -1,0 +1,116 @@
+{
+  "athlete_id": "pranav_prince",
+  "full_name": "Pranav Prince",
+  "sport": "other",
+  "nationality": "India",
+  "date_of_birth": "2003-06-19",
+  "current_team_or_federation": "India men's national basketball team, Tamil Nadu",
+  "coach": "Scott Fleming",
+  "current_ranking": 2613,
+  "career_highlights": [
+    {
+      "title": "Gold Medal",
+      "event": "5th 3x3 Senior National Basketball Championship for Men & Women",
+      "year": 2026
+    },
+    {
+      "title": "Gold Medal",
+      "event": "4th 3x3 Senior National Basketball Championship for Men & Women",
+      "year": 2025
+    },
+    {
+      "title": "Represented India",
+      "event": "19th Asian Games Hangzhou (3x3 basketball)",
+      "year": 2023
+    },
+    {
+      "title": "Senior National Team Debut",
+      "event": "FIBA Asia Cup Qualifiers",
+      "year": 2021
+    },
+    {
+      "title": "Represented India (Youth)",
+      "event": "FIBA U16 Asian Championship SABA Qualifier",
+      "year": 2019
+    },
+    {
+      "title": "Led NBA Academy India in Scoring and Rebounding",
+      "event": "Euro Youth Basketball League (Stage 1)",
+      "year": 2019
+    }
+  ],
+  "bio_summary": "Pranav Prince is an Indian professional basketball player from Kerala, born on June 19, 2003. He plays as a forward for the India men's national basketball team and represents Tamil Nadu in domestic tournaments. He made his senior international debut in 2021 and has since participated in various major competitions, including the FIBA Asia Cup and the Asian Games. Prince is recognized as one of India's promising young basketball talents.",
+  "quick_facts": {
+    "age": 23,
+    "height": "200 cm / 6'7\"",
+    "weight": null,
+    "birthplace": "Thiruvananthapuram, Kerala, India",
+    "dominant_hand": null,
+    "personal_best": "21 points (vs Syria, FIBA Olympic Pre-Qualifying Tournament 2023)",
+    "years_active": "2019-present",
+    "coach": "Scott Fleming",
+    "honors": [
+      "5th 3x3 Senior National Basketball Championship for Men & Women (2026)",
+      "4th 3x3 Senior National Basketball Championship for Men & Women (2025)"
+    ]
+  },
+  "medal_cabinet": [
+    {
+      "medal_type": "Gold",
+      "competition": "5th 3x3 Senior National Basketball Championship for Men & Women",
+      "year": 2026
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "4th 3x3 Senior National Basketball Championship for Men & Women",
+      "year": 2025
+    },
+    {
+      "medal_type": "Gold",
+      "competition": "SABA Basketball Championships (U-16)",
+      "year": 2019
+    }
+  ],
+  "season_stats": {
+    "season_label": "2025-2026 Season",
+    "events": 21,
+    "gold": 1,
+    "silver": null,
+    "bronze": null,
+    "season_best": "13 points (FIBA Basketball World Cup 2027 Asian Qualifiers)",
+    "average_mark": "9.0 PPG",
+    "current_streak": "N/A"
+  },
+  "performance_trend": [
+    {
+      "year": 2019,
+      "value": "13.3 PPG"
+    },
+    {
+      "year": 2022,
+      "value": "9.7 PPG"
+    },
+    {
+      "year": 2023,
+      "value": "12.4 PPG"
+    },
+    {
+      "year": 2024,
+      "value": "13.7 PPG"
+    },
+    {
+      "year": 2025,
+      "value": "11.7 PPG"
+    },
+    {
+      "year": 2026,
+      "value": "9.0 PPG"
+    }
+  ],
+  "grounding_sources": [],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-07-31T04:02:45.524958+00:00"
+  }
+}
