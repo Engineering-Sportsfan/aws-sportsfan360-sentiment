@@ -5,3 +5,4 @@ firebase-admin
 python-dotenv
 google-genai
 pytz
+boto3

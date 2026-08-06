@@ -7,10 +7,18 @@ from google import genai
 from google.genai import types
 from firebase_store import init_firebase
 from google.cloud.firestore_v1.transforms import Increment
+from db_helpers import (
+    db_check_partisan_lock,
+    db_stamp_partisan_lock,
+    db_get_room,
+    db_get_match,
+    db_save_room_message,
+    db_save_bot_post,
+    db_get_matches_by_status
+)
 from dolly_bot import get_upcoming_real_match
 
 # ── API Initialization ────────────────────────────────────────────────────────
-# Uses the SAME pattern as dolly_bot.py — env var first, then Vertex AI fallback
 _gemini_client = None
 
 def get_gemini_client():
@@ -37,42 +45,18 @@ COOLDOWN_MINUTES = 10  # Partisan bots can post every 10 mins
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
-def get_partisan_lock_key(sport: str, match_id: str, room_id: str, bot_uid: str) -> str:
-    room_suffix = f"_{room_id}" if room_id else "_global"
-    return f"partisan_lock_{sport}_{match_id}{room_suffix}_{bot_uid}"
-
 def has_posted_recently(db, sport: str, match_id: str, room_id: str, bot_uid: str) -> bool:
-    """Check if this specific bot posted recently in this room based on the timestamp lock."""
-    key = get_partisan_lock_key(sport, match_id, room_id, bot_uid)
-    doc = db.collection("partisanLocks").document(key).get()
-    if not doc.exists:
-        return False
-    posted_at = doc.to_dict().get("postedAt", 0)
-    elapsed_minutes = (time.time() * 1000 - posted_at) / (1000 * 60)
-    return elapsed_minutes < COOLDOWN_MINUTES
+    return db_check_partisan_lock(sport, match_id, room_id, bot_uid)
 
 def stamp_partisan_lock(db, sport: str, match_id: str, room_id: str, bot_uid: str):
-    key = get_partisan_lock_key(sport, match_id, room_id, bot_uid)
-    db.collection("partisanLocks").document(key).set({
-        "sport": sport,
-        "matchId": match_id,
-        "roomId": room_id or "global",
-        "botUid": bot_uid,
-        "postedAt": int(time.time() * 1000),
-    })
+    db_stamp_partisan_lock(sport, match_id, room_id, bot_uid)
 
 def get_bot_profile(db, bot_uid: str):
-    """Fetch the bot's display name from the users collection."""
-    try:
-        doc = db.collection("users").document(bot_uid).get()
-        if doc.exists:
-            return doc.to_dict().get("username", bot_uid)
-    except Exception as e:
-        print(f"⚠️ Failed to load bot profile for {bot_uid}: {e}")
     # Fallbacks based on mockup
     if "krishna" in bot_uid.lower(): return "Krishna"
     if "radha" in bot_uid.lower(): return "Radha"
     return bot_uid
+
 
 # ── Core Runner ───────────────────────────────────────────────────────────────
 
@@ -91,24 +75,19 @@ def run_partisan_bot(bot_uid: str, team: str, sport: str, room_id: str):
 
     is_testing_room = False
     if room_id:
-        room_doc = db.collection("roarRooms").document(room_id).get()
-        if not room_doc.exists:
-            # This room_id may belong to a linked watchalong room — check there too
-            room_doc = db.collection("watchAlongRooms").document(room_id).get()
-        if room_doc.exists:
-            room_info = room_doc.to_dict()
+        room_info = db_get_room(room_id)
+        if room_info:
             is_testing_room = room_info.get("isTestingRoom", False)
             match_id = room_info.get("matchId")
             if match_id:
-                match_doc = db.collection("matches").document(match_id).get()
-                if match_doc.exists:
-                    match_data = match_doc.to_dict()
+                match_data = db_get_match(match_id)
             elif is_testing_room:
                 # Standalone testing match context
                 ta = room_info.get("simulatedTeamA")
                 tb = room_info.get("simulatedTeamB")
                 if not ta or not tb:
-                    ta, tb = get_upcoming_real_match(db, room_id, sport)
+                    # Default simulated teams if not defined
+                    ta, tb = "India", "Pakistan"
                 
                 match_id = "test-match"
                 match_data = {
@@ -121,11 +100,10 @@ def run_partisan_bot(bot_uid: str, team: str, sport: str, room_id: str):
 
     if not match_data:
         # Fallback to live match if no room context
-        matches_ref = db.collection("matches").where("sport", "==", sport).where("status", "==", "live").stream()
-        for doc in matches_ref:
-            match_id = doc.id
-            match_data = doc.to_dict()
-            break
+        live_matches = db_get_matches_by_status(sport, "live")
+        if live_matches:
+            match_id = live_matches[0]["id"]
+            match_data = live_matches[0]
             
     if not match_data:
         print(f"⏭️ No active match found for {bot_username}. Skipping.")
@@ -134,7 +112,7 @@ def run_partisan_bot(bot_uid: str, team: str, sport: str, room_id: str):
     # Check match status gating (live vs concluded)
     status = match_data.get("status")
     if status == "completed":
-        updated_at_val = match_data.get("updated_at")
+        updated_at_val = match_data.get("updated_at") or match_data.get("updatedAt")
         if hasattr(updated_at_val, "timestamp"):
             updated_at_ms = int(updated_at_val.timestamp() * 1000)
         else:
@@ -209,59 +187,17 @@ def run_partisan_bot(bot_uid: str, team: str, sport: str, room_id: str):
         text = payload.get("text", "").strip()
         
         if text:
-            # 5. Publish to Firestore
-            now_ms = int(time.time() * 1000)
+            # 5. Publish
+            extra_payload = {
+                "authorBadge": "SUPER_FAN",
+                "isBot": True,
+                "botRole": "partisan",
+                "botTeam": team
+            }
             if room_id:
-                msg_ref = db.collection("roarRooms").document(room_id).collection("messages").document()
-                room_ref = db.collection("roarRooms").document(room_id)
-                
-                batch = db.batch()
-                batch.set(msg_ref, {
-                    "msgId": msg_ref.id,
-                    "roomId": room_id,
-                    "authorUid": bot_uid,
-                    "authorUsername": bot_username,
-                    "authorBadge": "SUPER_FAN",
-                    "type": "chat",          # Partisans just chat, no polls
-                    "text": text,
-                    "fireCount": 0,
-                    "noChanceCount": 0,
-                    "heartCount": 0,
-                    "replyCount": 0,
-                    "sport": sport,
-                    "isBot": True,
-                    "botRole": "partisan",
-                    "botTeam": team,         # Binds the color coding in UI
-                    "createdAt": now_ms,
-                    "updatedAt": now_ms,
-                })
-                batch.update(room_ref, {"fanCount": Increment(1)})
-                batch.commit()
-                print(f"✅ {bot_username} posted in room [{room_id}]: {text}")
+                db_save_room_message(room_id, text, bot_uid, bot_username, sport, "chat", extra_payload=extra_payload)
             else:
-                post_ref = db.collection("roarPosts").document()
-                post_ref.set({
-                    "postId": post_ref.id,
-                    "authorUid": bot_uid,
-                    "authorUsername": bot_username,
-                    "authorBadge": "SUPER_FAN",
-                    "type": "chat",
-                    "sport": sport,
-                    "text": text,
-                    "agreeCount": 0,
-                    "disagreeCount": 0,
-                    "replyCount": 0,
-                    "likeCount": 0,
-                    "isLive": True,
-                    "status": "active",
-                    "audience": "Everyone",
-                    "isBot": True,
-                    "botRole": "partisan",
-                    "botTeam": team,
-                    "createdAt": now_ms,
-                    "updatedAt": now_ms
-                })
-                print(f"✅ {bot_username} posted to Global Feed: {text}")
+                db_save_bot_post(text, bot_uid, bot_username, sport, "chat", extra_payload=extra_payload)
                 
             stamp_partisan_lock(db, sport, match_id, room_id, bot_uid)
             
