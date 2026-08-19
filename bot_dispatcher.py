@@ -1,5 +1,6 @@
 import time
 import concurrent.futures
+from dynamodb_store import get_table
 from firebase_store import init_firebase
 from dolly_bot import run_dolly_for_sport
 
@@ -9,10 +10,25 @@ try:
 except ImportError:
     run_partisan_bot = None
 
-def acquire_dispatcher_lock(db):
+def acquire_dispatcher_lock():
     """Prevents AWS EventBridge overlaps from spawning duplicate bots."""
-    lock_ref = db.collection("system").document("dispatcherLock")
     now_ms = int(time.time() * 1000)
+    
+    try:
+        table = get_table("RealTimeChat")
+        res = table.get_item(Key={"roomId": "SYSTEM#DISPATCHER_LOCK", "sk": "META"})
+        if res.get("Item"):
+            last_run = res["Item"].get("lockedAt", 0)
+            # 4 minute threshold (240000 ms) to prevent overlap of 5-min cron
+            if now_ms - last_run < 240000:
+                print(f"🔒 Dispatcher overlap detected! Last run was {(now_ms - last_run)/1000}s ago. Exiting.")
+                return False
+                
+        table.put_item(Item={"roomId": "SYSTEM#DISPATCHER_LOCK", "sk": "META", "lockedAt": now_ms})
+        return True
+    except Exception as e:
+        print(f"⚠️ Error acquiring lock in DynamoDB: {e}. Falling back to run anyway.")
+        return True
     
     try:
         doc = lock_ref.get()
@@ -60,52 +76,54 @@ DEFAULT_BOTS = {
     },
 }
 
-def fetch_active_bots(db):
+def fetch_active_bots():
     """
-    Fetches global Kill Switch status for all bots from the users collection.
-    PERMANENT FIX: If any of the 3 core bot documents are missing from Firestore,
-    they are auto-created so the Admin Panel can control them AND so bots never
-    go silently dark due to a missing document.
+    Fetches global Kill Switch status for all bots from DynamoDB users collection.
     """
     bots = {}
     try:
-        users_ref = db.collection("users").where("isBot", "==", True).stream()
-        for doc in users_ref:
-            data = doc.to_dict()
-            bots[doc.id] = {
-                "name": data.get("username", data.get("name", doc.id)),
-                "role": data.get("botRole", "neutral"),
-                "active": data.get("isBotActive", True)
-            }
+        table = get_table("SportsData")
+        for bot_uid, profile in DEFAULT_BOTS.items():
+            res = table.get_item(Key={"entityId": f"USER#{bot_uid}", "sk": "USER#META"})
+            if res.get("Item"):
+                data = res["Item"]
+                bots[bot_uid] = {
+                    "name": data.get("username", data.get("name", bot_uid)),
+                    "role": data.get("botRole", "neutral"),
+                    "active": data.get("isBotActive", True)
+                }
+            else:
+                print(f"🌱 Bot [{bot_uid}] missing from DynamoDB. Auto-creating user document...")
+                try:
+                    table.put_item(Item={
+                        "entityId": f"USER#{bot_uid}",
+                        "sk": "USER#META",
+                        **profile
+                    })
+                except Exception as e:
+                    print(f"⚠️ Could not auto-create bot [{bot_uid}] in DynamoDB: {e}")
+                bots[bot_uid] = {
+                    "name": profile["username"],
+                    "role": profile["botRole"],
+                    "active": profile["isBotActive"],
+                }
     except Exception as e:
-        print(f"⚠️ Error fetching active bots: {e}")
-
-    # ── Self-Healing: Auto-create missing bot documents in Firestore ──────────
-    for bot_uid, profile in DEFAULT_BOTS.items():
-        if bot_uid not in bots:
-            print(f"🌱 Bot [{bot_uid}] missing from Firestore. Auto-creating user document...")
-            try:
-                db.collection("users").document(bot_uid).set(profile, merge=True)
-            except Exception as e:
-                print(f"⚠️ Could not auto-create bot [{bot_uid}] in Firestore: {e}")
-            # Always seed in memory even if the DB write fails
-            bots[bot_uid] = {
-                "name": profile["username"],
-                "role": profile["botRole"],
-                "active": profile["isBotActive"],
-            }
+        print(f"⚠️ Error fetching active bots from DynamoDB: {e}")
+        # Fallback to defaults
+        for bot_uid, profile in DEFAULT_BOTS.items():
+            if bot_uid not in bots:
+                bots[bot_uid] = {"name": profile["username"], "role": profile["botRole"], "active": profile["isBotActive"]}
         
     return bots
 
 
 def run_bot_dispatcher():
     print("🚀 Central Bot Dispatcher started.")
-    db = init_firebase()
     
-    if not acquire_dispatcher_lock(db):
+    if not acquire_dispatcher_lock():
         return
         
-    active_bots = fetch_active_bots(db)
+    active_bots = fetch_active_bots()
     
     futures = []
     # Throttled execution to prevent Gemini 429 Rate Limit Error
@@ -144,11 +162,32 @@ def run_bot_dispatcher():
     # ── 2. ROAR ROOMS ──
     print("🏟️ Scanning Active RoAR Rooms...")
     try:
-        roar_rooms = db.collection("roarRooms").where("isActive", "==", True).stream()
+        table = get_table("RealTimeChat")
+        # Scan for active rooms in DynamoDB
+        scan_kwargs = {
+            "FilterExpression": "begins_with(roomId, :r) AND begins_with(sk, :m)",
+            "ExpressionAttributeValues": {":r": "ROOM#", ":m": "META#"}
+        }
         
-        for room in roar_rooms:
-            room_id = room.id
-            room_data = room.to_dict()
+        items = []
+        while True:
+            res = table.scan(**scan_kwargs)
+            items.extend(res.get("Items", []))
+            if "LastEvaluatedKey" not in res:
+                break
+            scan_kwargs["ExclusiveStartKey"] = res["LastEvaluatedKey"]
+
+        # Check both isActive boolean OR status string to match DynamoDB schema flexibility
+        roar_rooms = [
+            item for item in items
+            if item.get("isActive") is True or str(item.get("isActive")).lower() == "true" or str(item.get("status", "")).upper() == "ACTIVE"
+        ]
+        
+        for room_data in roar_rooms:
+            # Extract actual room ID from DynamoDB key
+            raw_room_id = room_data.get("roomId", "")
+            room_id = raw_room_id.replace("ROOM#", "") if raw_room_id.startswith("ROOM#") else raw_room_id
+
             sport = room_data.get("sport", "cricket")
             
             # The "Infinity Room" Pause (Backward Compatibility Rule)
@@ -163,9 +202,10 @@ def run_bot_dispatcher():
                 match_id = room_data.get("matchId")
                 if match_id:
                     try:
-                        match_doc = db.collection("matches").document(match_id).get()
-                        if match_doc.exists:
-                            match_data_tmp = match_doc.to_dict()
+                        sports_table = get_table("SportsData")
+                        res_match = sports_table.get_item(Key={"entityId": f"MATCH#{match_id}", "sk": "MATCH#META"})
+                        if res_match.get("Item"):
+                            match_data_tmp = res_match["Item"]
                             team_a = match_data_tmp.get("team_a", "India")
                             team_b = match_data_tmp.get("team_b", "England")
                         else:
@@ -185,42 +225,46 @@ def run_bot_dispatcher():
 
             # Fetch the match to enforce kickoff time & completed status
             match_id = room_data.get("matchId")
+            is_testing = room_data.get("isTestingRoom", False)
             now_ms = int(time.time() * 1000)
             
             if match_id:
                 try:
-                    match_doc = db.collection("matches").document(match_id).get()
-                    if match_doc.exists:
-                        match_data = match_doc.to_dict()
+                    sports_table = get_table("SportsData")
+                    res_match = sports_table.get_item(Key={"entityId": f"MATCH#{match_id}", "sk": "MATCH#META"})
+                    if res_match.get("Item"):
+                        match_data = res_match["Item"]
                         kickoff_time = match_data.get("kickoff_time", 0)
                         status = match_data.get("status")
                         
-                        # 1. Kickoff gating
-                        if status == "upcoming" and kickoff_time and now_ms < kickoff_time:
-                            print(f"⏸️ Match [{match_id}] hasn't kicked off yet. Skipping bots for room [{room_id}].")
-                            continue
-                            
-                        # 2. Concluded / Completed gating (45 minutes post-match cutoff)
-                        if status == "completed":
-                            updated_at_val = match_data.get("updated_at")
-                            if hasattr(updated_at_val, "timestamp"):
-                                updated_at_ms = int(updated_at_val.timestamp() * 1000)
-                            else:
-                                updated_at_ms = int(updated_at_val or 0)
-                                
-                            if now_ms - updated_at_ms > 2700000:
-                                print(f"⏸️ Match [{match_id}] concluded > 45 mins ago. Stopping bots for room [{room_id}].")
+                        # Testing Rooms bypass match gating restrictions
+                        if not is_testing:
+                            # 1. Kickoff gating
+                            if status == "upcoming" and kickoff_time and now_ms < kickoff_time:
+                                print(f"⏸️ Match [{match_id}] hasn't kicked off yet. Skipping bots for room [{room_id}].")
                                 continue
+                                
+                            # 2. Concluded / Completed gating (45 minutes post-match cutoff)
+                            if status == "completed":
+                                updated_at_val = match_data.get("updated_at")
+                                if hasattr(updated_at_val, "timestamp"):
+                                    updated_at_ms = int(updated_at_val.timestamp() * 1000)
+                                else:
+                                    updated_at_ms = int(updated_at_val or 0)
+                                    
+                                if now_ms - updated_at_ms > 2700000:
+                                    print(f"⏸️ Match [{match_id}] concluded > 45 mins ago. Stopping bots for room [{room_id}].")
+                                    continue
                 except Exception as e:
                     print(f"⚠️ Error fetching match data for room {room_id}: {e}")
             else:
                 # No match linked — check if it is a designated testing room
-                is_testing = room_data.get("isTestingRoom", False)
                 if not is_testing:
                     print(f"🔒 Room [{room_id}] has no match and is not marked for testing. Blocking bots.")
                     continue
                 
-                # Testing room cutoff (1 hour limit)
+            # Global Testing room cutoff (1 hour limit)
+            if is_testing:
                 created_at = room_data.get("createdAt", 0)
                 if now_ms - created_at > 3600000:
                     print(f"⏸️ Testing Room [{room_id}] exceeded 1 hour limit. Stopping bots.")
@@ -247,6 +291,7 @@ def run_bot_dispatcher():
     # ── 3. WATCHALONG ROOMS (Integrated Linked Rooms) ──
     print("📺 Scanning Active Watchalong Rooms...")
     try:
+        db = init_firebase()
         watch_rooms = db.collection("watchAlongRooms").where("isLive", "==", True).stream()
         
         for room in watch_rooms:

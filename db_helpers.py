@@ -171,6 +171,9 @@ def db_save_room_message(room_id: str, text: str, bot_uid: str, bot_username: st
         "sport": sport,
         "fireCount": 0,
         "noChanceCount": 0,
+        "agreeCount": 0,
+        "disagreeCount": 0,
+        "heartCount": 0,
         "replyCount": 0
     }
     if polls_data:

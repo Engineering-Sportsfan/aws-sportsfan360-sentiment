@@ -1,5 +1,4 @@
 .env
-google_creds.json
 venv/
 __pycache__/
 .git/

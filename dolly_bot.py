@@ -113,9 +113,11 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
     match_data = None
 
     # Step 1: Linked Match Resolution
+    is_testing_room = False
     if room_id:
         room_data = db_get_room(room_id)
         if room_data:
+            is_testing_room = room_data.get("isTestingRoom", False)
             match_id = room_data.get("matchId")
             if match_id:
                 match_data = db_get_match(match_id)
@@ -163,7 +165,7 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
         print(f"⏭️ No active live match scheduled in database for {sport}. Dolly will stay silent.")
         return
 
-    # Verify status
+    # Verify status (Bypass if testing room)
     if match_data.get("status") != "live":
         kickoff = match_data.get("kickoff_time", 0)
         now_ms = int(time.time() * 1000)
@@ -171,9 +173,11 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
             db_update_match_status(match_id, "live")
             match_data["status"] = "live"
             print(f"⏰ Kickoff reached for linked match [{match_id}]! Auto-transitioned to LIVE.")
-        else:
+        elif not is_testing_room:
             print(f"🔒 Match [{match_id}] is {match_data.get('status')}. Dolly is gated to live matches only. Skipping.")
             return
+        else:
+            print(f"🛠️ Match [{match_id}] is {match_data.get('status')}, but this is a Testing Room. Forcing Dolly to run.")
 
     teams = f"{match_data.get('team_a')} vs {match_data.get('team_b')}"
     phase = "IN-PLAY"
