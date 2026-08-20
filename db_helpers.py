@@ -178,6 +178,13 @@ def db_save_room_message(room_id: str, text: str, bot_uid: str, bot_username: st
     }
     if polls_data:
         message_payload["questions"] = polls_data
+        # Also hoist sideA/sideB to top-level so frontend can read them directly
+        # (frontend reads m.sideA and m.sideB at root, not inside questions array)
+        first_poll = polls_data[0] if len(polls_data) > 0 else {}
+        if first_poll.get("sideA"):
+            message_payload["sideA"] = first_poll["sideA"]
+        if first_poll.get("sideB"):
+            message_payload["sideB"] = first_poll["sideB"]
     if extra_payload:
         message_payload.update(extra_payload)
 

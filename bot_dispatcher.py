@@ -7,7 +7,9 @@ from dolly_bot import run_dolly_for_sport
 # Phase 6 Dependency Protection (Try/Except)
 try:
     from partisan_bot import run_partisan_bot
-except ImportError:
+    print("✅ partisan_bot imported successfully — Krishna and Radha are active.")
+except Exception as _partisan_import_err:
+    print(f"❌ Failed to import partisan_bot: {_partisan_import_err}. Krishna and Radha will be skipped.")
     run_partisan_bot = None
 
 def acquire_dispatcher_lock():
