@@ -58,8 +58,6 @@ def get_phase_lock_key(sport: str, match_id: str, phase: str, room_id: str = Non
     return f"dolly_phase_lock_{sport}_{match_id}_{phase}{room_suffix}"
 
 def has_phase_been_posted(db, sport: str, match_id: str, phase: str, room_id: str = None) -> bool:
-    if phase == "PRE-MATCH":
-        return True  # Skip pre-match posting completely
     if phase == "IN-PLAY":
         return False # No phase locks for in-play
     return db_check_phase_lock(sport, match_id, phase, room_id)
@@ -88,16 +86,13 @@ def publish_questions(db, polls: list, sport: str, room_id=None, bot_uid="dolly-
         if not text:
             continue
         type_val = poll.get("type", "prediction")
-        polls_data = [{
-            "type": type_val,
-            "text": text,
-            "sideA": poll.get("sideA", "Yes"),
-            "sideB": poll.get("sideB", "No")
-        }]
+        polls_data = [poll]
+        extra_payload = {"title": poll.get("title")} if poll.get("title") else None
+        
         if room_id:
-            db_save_room_message(room_id, text, bot_uid, bot_username, sport, type_val, polls_data)
+            db_save_room_message(room_id, text, bot_uid, bot_username, sport, type_val, polls_data, extra_payload=extra_payload)
         else:
-            db_save_bot_post(text, bot_uid, bot_username, sport, type_val, polls_data)
+            db_save_bot_post(text, bot_uid, bot_username, sport, type_val, polls_data, extra_payload=extra_payload)
 
 # ── Core Runner ───────────────────────────────────────────────────────────────
 
@@ -165,22 +160,24 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
         print(f"⏭️ No active live match scheduled in database for {sport}. Dolly will stay silent.")
         return
 
-    # Verify status (Bypass if testing room)
-    if match_data.get("status") != "live":
-        kickoff = match_data.get("kickoff_time", 0)
-        now_ms = int(time.time() * 1000)
-        if match_data.get("status") == "upcoming" and kickoff > 0 and now_ms >= (kickoff - 5 * 60 * 1000):
-            db_update_match_status(match_id, "live")
-            match_data["status"] = "live"
-            print(f"⏰ Kickoff reached for linked match [{match_id}]! Auto-transitioned to LIVE.")
-        elif not is_testing_room:
-            print(f"🔒 Match [{match_id}] is {match_data.get('status')}. Dolly is gated to live matches only. Skipping.")
-            return
-        else:
-            print(f"🛠️ Match [{match_id}] is {match_data.get('status')}, but this is a Testing Room. Forcing Dolly to run.")
+    status = match_data.get("status", "live")
+    kickoff = match_data.get("kickoff_time", 0)
+    now_ms = int(time.time() * 1000)
+
+    if status == "upcoming" and kickoff > 0 and now_ms >= (kickoff - 5 * 60 * 1000):
+        db_update_match_status(match_id, "live")
+        match_data["status"] = "live"
+        status = "live"
+        print(f"⏰ Kickoff reached for linked match [{match_id}]! Auto-transitioned to LIVE.")
+
+    if status == "upcoming":
+        phase = "PRE-MATCH"
+    elif status == "completed":
+        phase = "POST-MATCH"
+    else:
+        phase = "IN-PLAY"
 
     teams = f"{match_data.get('team_a')} vs {match_data.get('team_b')}"
-    phase = "IN-PLAY"
 
     # Step 3: Phase lock check
     if has_phase_been_posted(db, sport, match_id, phase, room_id):
@@ -229,10 +226,30 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
     if supported_team:
         persona += f" You are a deeply partisan fan of {supported_team}, and your analysis and questions are heavily biased towards {supported_team}."
 
+    if phase == "PRE-MATCH":
+        phase_instruction = f"""Generate exactly 1 "analysis" (Pre-Match Read - key team news, rankings context, toss significance) and 1 "story" (Story Arc - a player narrative, historical rivalry, or storyline going into the match) for the upcoming match: {teams}."""
+        json_example = """[
+      { "type": "analysis", "title": "Pre-Match Read", "text": "Short punchy paragraph with 2-3 key insights about the upcoming match." },
+      { "type": "story", "title": "Story: <Name of Storyline>", "text": "Short punchy paragraph about a specific rivalry or player narrative." }
+    ]"""
+    elif phase == "POST-MATCH":
+        phase_instruction = f"""Generate exactly 1 "analysis" (Post-Match Read - final scorecard context, match-defining moment, key duels) and 1 "story" (Story Arc - what this result means for the series, a player's legacy, or narrative conclusion) for the completed match: {teams}."""
+        json_example = """[
+      { "type": "analysis", "title": "Post-Match Read", "text": "Short punchy paragraph summarizing the key turning points and final outcome." },
+      { "type": "story", "title": "Story: <Name of Storyline>", "text": "Short punchy paragraph wrapping up a player's performance arc or series impact." }
+    ]"""
+    else:
+        phase_instruction = f"""Generate exactly 1 prediction, 1 debate, and 1 story (Story Arc) for the live match: {teams}."""
+        json_example = """[
+      { "type": "prediction", "text": "Short question?", "sideA": "Option A", "sideB": "Option B" },
+      { "type": "debate", "text": "Short question?", "sideA": "Option A", "sideB": "Option B" },
+      { "type": "story", "title": "Story: <Name of Storyline>", "text": "Short punchy paragraph about a specific rivalry or player narrative." }
+    ]"""
+
     # Build Prompt
     prompt = f"""
     {persona}
-    Generate exactly 1 prediction AND 1 debate for the live match: {teams}.
+    {phase_instruction}
     
     Live Score Context (from live Google Search):
     {live_context}
@@ -249,15 +266,15 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
     Tournament Form:
     {json.dumps(form)}
     
-    YOUR QUESTION STYLE:
-    - Short and punchy. Maximum 2 sentences. 1 sentence is even better.
+    YOUR QUESTION/CONTENT STYLE:
+    - Short and punchy. 
     - Confident, direct, articulate, and opinionated — like a professional analyst.
     - NO generic, lazy, or simple "who wins" or "is team X good" questions.
-    - MUST ask about the CURRENT live status (e.g. current score, wickets, which batsmen are currently at the crease, or who is currently bowling).
-    - MUST specifically reference at least one active player by name (e.g. "Will Suryakumar Yadav..." or "Can Archer's cutters...") to make the question highly specific and non-generic.
+    - MUST specifically reference at least one active player by name to make the content highly specific and non-generic.
+    - If IN-PLAY, MUST ask about the CURRENT live status (e.g. current score, wickets, which batsmen are currently at the crease, or who is currently bowling).
     - No Gen-Z slang, no emojis, no exclamation marks.
-    - Options (sideA, sideB) must be 1 to 4 words only.
-    - Frame your questions using your boss's Gen Z Sports Fan Discussion Category Matrix:
+    - Options (sideA, sideB) must be 1 to 4 words only (if applicable).
+    - Frame your content using your boss's Gen Z Sports Fan Discussion Category Matrix:
       
       DISCUSSION CATEGORIES TO WEAVE IN (BASED ON PHASES):
       1. PERFORMANCE (Tactical debates, athlete performance arcs, rivalries, stats & data analytics).
@@ -272,27 +289,11 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
          * Examples: Focus on fan investment and valuation ("0 points gameweek disaster", "transfer value kill", "target linked to team").
 
     CRITICAL QUALITY CHECK:
-    - You must select one specific category from the matrix above (e.g., DRS controversy, performance slumps, mental pressure, or transfer value) and write your prediction/debate about it.
+    - You must select one specific category from the matrix above (e.g., DRS controversy, performance slumps, mental pressure, or transfer value) and write your prediction/debate/story about it.
     - DO NOT write generic questions like "Who will win?" or "Will team X score Y runs?". Focus on the narrative, the player's character, or the tactical friction.
 
-    ILLUSTRATIVE EXAMPLES TO PRIME YOUR OUTPUT (MATCH THESE STYLES):
-    * Tactical Performance: "Virat's strike rate is awful — should he retire to the pavilion or accelerate?"
-    * Team Controversy: "That was a blatant cheat — does that challenge deserve an immediate red card?"
-    * DRS / VAR Drama: "That was never out — is DRS killing the spirit of this game?"
-    * Player Performance Arc: "Slump or blip? The numbers say he's carrying the whole team this season."
-    * Player Mental Health / Pressure: "The pressure got to him in the post-match presser — is coach rotation needed?"
-    * Off-Pitch Lifestyle: "Airport fit goes viral — does X's off-pitch style match his on-pitch form?"
-    * Social Causes / Action: "X took a knee today — will this spark team solidarity or fan division?"
-    * Fan Creator / Transfer: "That performance will kill his transfer value — should we sell him this window?"
     Return ONLY a valid JSON list of objects:
-    [
-      {{
-        "type": "prediction" or "debate",
-        "text": "Short question?",
-        "sideA": "Option A",
-        "sideB": "Option B"
-      }}
-    ]
+    {json_example}
     """
 
     try:
@@ -311,35 +312,7 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
             return
         polls = json.loads(raw[start:end])
         
-        # ── TODAY'S CUSTOM DEBATES (TEMPORARY FOR TONIGHT'S RUN) ──
-        if sport == "cricket" and room_id:
-            custom_debates = [
-                {
-                    "type": "debate",
-                    "text": "Gambhir's gameplan for the white ball series in Ireland & England was just fine. It was a case of poor execution.",
-                    "sideA": "Support",
-                    "sideB": "Counter"
-                },
-                {
-                    "type": "debate",
-                    "text": "Team selection by India's think-tank is chiefly influenced by T20 performances. Is India missing an experienced hand or two to deal with swing & seam conditions in England?",
-                    "sideA": "Needs Experience",
-                    "sideB": "Back the Youth"
-                },
-                {
-                    "type": "debate",
-                    "text": "Caption this: Baz giving tips to GG",
-                    "sideA": "Tactical Advice",
-                    "sideB": "Just Banter"
-                }
-            ]
-            posted_texts = get_existing_questions(db, room_id=room_id, sport=sport)
-            for cd in custom_debates:
-                if cd["text"] not in posted_texts:
-                    polls.append(cd)
-                    print(f"📌 Injected custom boss debate: \"{cd['text']}\"")
-                    break
-        # ──────────────────────────────────────────────────────────
+
 
         # Step 6: Publish
         publish_questions(db, polls, sport, room_id=room_id, bot_uid=bot_uid, bot_username=bot_username)

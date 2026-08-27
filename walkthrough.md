@@ -12,9 +12,10 @@ This walkthrough details the verification steps, local manual testing procedures
 * **Sidebar Layout:** [Sidebar Component](file:///Users/prishadureja/Desktop/sportsfan/app/admin/layout.tsx) verified. Includes "Focus Group Matches" navigation options.
 
 ### 2. Dolly Bot & Background Scheduler (`sportsfan360-sentiment` on Port 8000)
-* **Automated pre-match LLM research:** [Research Pipeline Module](file:///Users/prishadureja/Desktop/sportsfan360-sentiment/research_pipeline.py) verified. Automatically queries Gemini with Google Search grounding to populate 4 storytelling pillars.
-* **Matches live gating:** [Dolly Bot Module](file:///Users/prishadureja/Desktop/sportsfan360-sentiment/dolly_bot.py) verified. Gated to matches with `status: "live"`.
-* **15-minute intervals:** [Main Scheduler Module](file:///Users/prishadureja/Desktop/sportsfan360-sentiment/main.py) verified. Checks loop frequency set to 15 minutes.
+* **Automated pre-match LLM research:** [Research Pipeline Module](file:///e:/SportsFan360/aws-sportsfan360-sentiment/research_pipeline.py) verified. Automatically queries Gemini with Google Search grounding to populate 4 storytelling pillars.
+* **Pre/Post-Match Storytelling Arcs:** [Dolly Bot Module](file:///e:/SportsFan360/aws-sportsfan360-sentiment/dolly_bot.py) updated. Dolly now automatically detects match phases and drops `analysis` and `story` cards before the match starts, and after it concludes.
+* **In-Play Polls & Story Arcs:** Dolly drops prediction/debate polls alongside story arcs while the match is live. Hardcoded custom debates were removed.
+* **15-minute intervals:** [Main Scheduler Module](file:///e:/SportsFan360/aws-sportsfan360-sentiment/main.py) verified. Checks loop frequency set to 15 minutes.
 
 ---
 
@@ -22,17 +23,20 @@ This walkthrough details the verification steps, local manual testing procedures
 
 Here are examples of Dolly's upgraded questions based on the 4 storytelling pillars:
 
-### Example 1: Football Match (Rivalry & Character Focus)
-* **Debate:** `"With Carvajal's aggressive marking style, can Mbappe break free to dictate France's counter-attack tonight?"`
-  - *Options:* `Carvajal wins` vs `Mbappe breaks free`
-* **Prediction:** `"Will Mbappe score in the second half of this knockout match?"`
-  - *Options:* `Yes` vs `No`
+### Example 1: Football Match (Pre-Match Phase)
+* **Analysis:** `"Pre-Match Read: Spain looks to control the midfield with Rodri, while France relies on Mbappe's blistering pace on the counter."`
+* **Story Arc:** `"Story: The Captain's Last Dance. Can Morata finally silence his critics and lead Spain to international glory?"`
 
-### Example 2: Cricket Match (Stats & Storytelling Focus)
+### Example 2: Cricket Match (In-Play Phase)
 * **Debate:** `"With two early wickets down in the powerplay, should India consolidate their innings or continue attacking?"`
   - *Options:* `Consolidate` vs `Keep attacking`
 * **Prediction:** `"Will India score 50 or more runs by the end of the 6-over powerplay?"`
   - *Options:* `Yes` vs `No`
+* **Story Arc:** `"Story: The Swing Master. Bumrah is making the ball talk today, proving why he's the best all-format bowler in the world."`
+
+### Example 3: Football Match (Post-Match Phase)
+* **Analysis:** `"Post-Match Read: A tactical masterclass from France. Their defensive block completely neutralized Spain's tiki-taka approach."`
+* **Story Arc:** `"Story: End of an Era. Spain crashes out in the knockouts again. Is it time for a managerial change?"`
 
 ---
 
