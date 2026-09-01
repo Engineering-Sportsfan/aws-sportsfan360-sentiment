@@ -242,9 +242,9 @@ def run_bot_dispatcher():
                         # Testing Rooms bypass match gating restrictions
                         if not is_testing:
                             # 1. Kickoff gating
-                            if status == "upcoming" and kickoff_time and now_ms < kickoff_time:
-                                print(f"⏸️ Match [{match_id}] hasn't kicked off yet. Skipping bots for room [{room_id}].")
-                                continue
+                            # REMOVED: Allow bots to wake up for PRE-MATCH logic (e.g. Dolly's Storytelling Arcs).
+                            # Both Dolly and Partisan bots have their own internal gating to prevent spam.
+                            pass
                                 
                             # 2. Concluded / Completed gating (45 minutes post-match cutoff)
                             if status == "completed":
