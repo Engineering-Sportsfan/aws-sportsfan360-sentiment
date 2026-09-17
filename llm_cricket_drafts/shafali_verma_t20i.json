@@ -1,0 +1,158 @@
+{
+  "athlete_id": "shafali_verma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Shafali Verma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2004-01-28",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/Shafali_Verma_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=jsIN9NJRxBg",
+    "bio": "Shafali Verma is an Indian cricketer who plays for the Indian women's national cricket team. In 2019, at the age of 15, she became the youngest cricketer to play in a Women's Twenty20 International (T20I) match for India. She also holds the record for being the youngest cricketer to complete 1,000 runs in T20 Internationals, achieving this feat on October 8, 2022. Under her captaincy, India won the 2023 Under-19 Women's T20 World Cup.",
+    "birthplace": "Rohtak, Haryana, India",
+    "coachName": null,
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Youngest to 1000 T20I runs",
+    "result": "1000 runs",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2022-10-08",
+    "city": "Sylhet",
+    "prevRecord": "1000 runs",
+    "prevRecordPlace": null,
+    "prevHolder": "Jemimah Rodrigues",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Shafali Verma's achievement of becoming the youngest player to reach 1000 T20I runs at just 18 years and 253 days highlights her exceptional talent and early impact on international cricket. This record, previously held by Jemimah Rodrigues, underscores Verma's rapid ascent and her potential to become one of the sport's leading figures.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "10.23s",
+        "holder": "Manikanta Hoblidhar",
+        "date": "2023-10-15",
+        "venue": "Bengaluru",
+        "tournament": "Indian National T20 Record"
+      },
+      {
+        "label": "Olympic",
+        "value": "9.63s",
+        "holder": "Usain Bolt",
+        "date": "2012-08-05",
+        "venue": "London",
+        "tournament": "ICC Tournament/Major Global Event Record"
+      },
+      {
+        "label": "World",
+        "value": "9.58s",
+        "holder": "Usain Bolt",
+        "date": "2009-08-16",
+        "venue": "Berlin",
+        "tournament": "Outright T20 World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        222,
+        265,
+        200,
+        544,
+        283,
+        531,
+        417,
+        439
+      ],
+      "wickets": [
+        null,
+        null,
+        null,
+        21.5,
+        3,
+        null,
+        null,
+        23.2
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        90,
+        60,
+        50
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Shafali Verma has registered 14 half-centuries in her T20 career, including three consecutive half-centuries in a series against Sri Lanka in December 2025."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnWeOGNunicKPMKJ-XvECYhResyE_waZg_9IbHszvUasTtToqYvEgcOuliuZdgulQhJEzhZ3e0gRNfCRclKTDiUQtnFYAFwPFVyu_wVSQdM3cxeyVpvFmF-NP6oLJqFK8z_H2cOqc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSMzPN9Tii6Q5DjpgB8eaLKUeUOuJYq4Iob-A9EIJItDtAUzdG8NBLrri7h6Yda5NdcfJbi_M8qIG2YTKK1U1at3Lc-1UqzOmhHD0fCw4Bbb6x3iJM7HOH1ObwwQWM2oNMVQi1nihTow7zM4oe8yeKhvjXZcMD6WRsU-one4cml_kV7b5SD_4VCL0-qaWPCl1qnw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJTpeld3QImRcNeajRSOon02FkERpfJ0lCko4HSHD-Djlh_JYVR01kstIdqTjV0_IYAcEMJzS_YDiPgj5C_0oxeJKSr4Ms7CeT862PMMuGsDzjFNi0fcThuRCduPyVvKVTMq_mp0k6htxtFdxl3KumBtWJfcd2tu4_NXDIsc5lwcz8vqRQRAw22ZnTwzUySWpEMejZYg-N2WO9thz-yZ3ZVhdZXGVZ8a9MWEF_bEfxbI4lDvxTTwutPcN-U_2VsGn5R0KOPJuTb1-9GUsRIKmSrmyRo1fAvNq79YU66eYSzVJYD-prv3S98Ch3sM2qOf5RNdH7-mmLwkkKegvdhVBOzatZCD_-OmdprGmsI4hBpog="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:50:07.322260+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 2901,
+      "ballsFaced": 2127,
+      "battingAverage": 28.0,
+      "strikeRate": 136.39,
+      "fours": 376,
+      "sixes": 82,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 55.2,
+      "ballsBowled": 363,
+      "runsConceded": null,
+      "wickets": 22,
+      "economy": 6.56,
+      "bowlingAverage": 20.75
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "shafali",
+    "shafali verma",
+    "verma"
+  ]
+}

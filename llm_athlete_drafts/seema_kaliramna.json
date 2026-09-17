@@ -1,0 +1,338 @@
+{
+  "athlete_id": "seema_kaliramna",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Seema Kaliramna",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1999-02-25",
+    "heightCm": 175,
+    "weightKg": 70.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14734780.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=o-lMSbwPYwM",
+    "bio": "Seema Kaliramna is an Indian discus thrower and PhD scholar from Haryana. She made a remarkable comeback to the sport after childbirth and a serious knee injury, achieving a personal best of 59.73m in 2026. She recently won a bronze medal in the women's discus throw at the 2026 Commonwealth Games in Glasgow. Kaliramna is also pursuing a PhD in Physical Education at Chaudhary Bansi Lal University in Bhiwani.",
+    "birthplace": "Dinod village, Bhiwani district, Haryana, India",
+    "coachName": "Ravinder Kaliramna",
+    "yearsActiveSince": "2020"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2022",
+      "value": 52.40
+    },
+    {
+      "year": "2024",
+      "value": 57.19
+    },
+    {
+      "year": "2025",
+      "value": 56.15
+    },
+    {
+      "year": "2026",
+      "value": 59.73
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "66.59m",
+        "holder": "Kamalpreet Kaur",
+        "date": "2021",
+        "venue": "Patiala",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "72.30m",
+        "holder": "Martina Hellmann",
+        "date": "1988",
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "76.80m",
+        "holder": "Gabriele Reinsch",
+        "date": "1988",
+        "venue": null,
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "59.73m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Discus Throw",
+    "achievementLabel": "2026 Commonwealth Games Bronze",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "59.73",
+      "bestYear": "2026",
+      "totalGold": 3,
+      "totalSilver": 0,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2020",
+        "event": "Discus Throw",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "Discus Throw",
+        "value": 57.19,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Discus Throw",
+        "value": 52.07,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Discus Throw",
+        "value": 59.73,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2020",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 52.07,
+        "seasonAverage": 52.07,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 59.73,
+        "seasonAverage": 58.9,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "45.0-50.0m",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.67,
+        "peak": false
+      },
+      {
+        "range": "50.0-55.0m",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.67,
+        "peak": false
+      },
+      {
+        "range": "55.0-58.0m",
+        "count": 2,
+        "throws": null,
+        "percentage": 33.33,
+        "peak": true
+      },
+      {
+        "range": "58.0-60.0m",
+        "count": 2,
+        "throws": null,
+        "percentage": 33.33,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Achieved a significant personal best of 59.73m in 2026 and consistently performs above 57m in recent competitions.",
+    "peakZoneLabel": "58.0-60.0m \u00b7 33.33% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2025": "Gold",
+          "2026": "National Title"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnveZcE8jwl3rCzQVDJYcZW_8aAUWugjoQwvWj6tjepzGdy9fLqDSsmLCwuuGlm9ZCECfAaidmoRfjlt1kiuvd7ZTrTcA2WyS8-CBDatlGg6BGdJH14TWXOYO-hXzZsPAExd0FqHd8v7_iBDjH6-c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6UQJujTwRniSITD2WRAhur4WLCnurKHLObouIDibYN-aQqQC48lmdMDr6YfxYQYObBkwpCDrWYO86yIla6W5exMl1tgKXrFsyvlV6p7BWcB_f1R1izp5HAHk0BGWuECwtRzoupMXQSFXphsgbkBVcbaQEDys-xR5ahpF87ql0VtZ9I3Pi_VVBDfZWt7SmqaP_XwZ3A4a_oAFRgXS7F9UyZ69ZNB4rCNShblrc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeSa3BdtqPKopa61gcE_p3vRvTPerVCU3nEFNJzTPh5gO6V9SO8AiwrU5XLNS7ijCkNwZ9NKKL90kwSh9dOJKTGXebdGbQmnOe8o6A3HjFwcvLsj3CwXuc00Uy5Hicl5MV70G-816zzRMM0dr6Nly7jDllrHuXuqNu453QS9ib83u0SNLmQ57g8l-uXsQliC1OqupG3E4awKMqMT4XfE629tZBVoXGRcsMvv3UNxhsR9KIGEczA0zP31RwG5vkBOpAnuI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGE8VAJflwwAuHdWhUtoIFovB7hP-dNoILTaeXrNgKmmRtTxM7vWttF3sxw8CR05D0mMvuiTo1-d54VmHTpMLS0b1FQjZT7WTHbrnvQftE6LrEenh45Giee_ufD6bB6jzkYOTZe89zPbLMEVoxWQ4QGbbNW7O8ryR2_os_rA-uJnbFNL7IfebNRNTkwmHJZuqRRkXn0OfF3Ob6_G4mf4EY-FtIyuO8-53ZTiPWj0mohdQuAzZUOw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrKTyBswexN9JHo7r5vdQZb_LbIgqNnQUcp3LAMRjn2_glzWzKuaopuIOGtmyPDiIlYlsitzAq_o6HrpYnt3SGXUxazsXQ1x3D22UNy95e4TghwdsjaKeQP0C5l_rpl3Wks3EGZAqXVazArN_euqZOGyYPyIjh0u8gruflQ4cjMF4J-aLqZTGZS1m0MUeH9EAfMIO4Cg0oq8AQLpFswmTqC4bhzcDGyzLG-Nvh8n10KgDA6cOJ--K0rliAHO7ceyettqveY6xchjHWrKHjxhDADeKLB4ik3ajJYO-VjvhwyIilJEWmEYMLDCF_8rsBlsW0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC0kBCqK4KXCuhmWERFNDhrh0DLGK4tUMWE95zsKQR6cjXTCHjhnFmRCDwmoaT_X8rKZS889kwuLo3DZXc_94DKSQYiqNl4jgpvTgpnov4UNNQwc8cQFXj_PO-t1TpIj7Ly5jvtRBggHIYWc6Y-eNzykTWvyrWSPFyO7BAs9QVNoZsptxW7H-kLMe1DGPFGPuuGx7YGleIMswdVTz98uPaZuknp9wcFHRlTxXL-d9A4LR68O6BA_jWduRFU_dBY15VzPfflMkliuBEFcVNC2b_bfhwRMGFG947kyZkH98CqXeiE2Komlk7UdlTZ9880xqSbFu40WrQ6nSViNcb7IEE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB2IEEJjdbOwbJNira42noGwNNLpKfUqJZWc0Waeq7LJY5AF1Gw3AptiliW8nZZIAIKFc0KajktASy9RgMe1s1wvl7io0v4tlUcthPzn7qjJoz_rm4IssSG5e52H-qzOQXbtLp_Y3mXP9fbjRLKTvY-jWx0WatxbaZ98KGyZutM_E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYvFyjp8CcP3o4qJxz37RJAFNt4inRCKdT7f9yZpSyNXnlFK0-lp6b8cjq4AqZj7Zi_mgSRceyBPN2BzGYXTNw2YUAoG_prKVMp7BMeZvoqSgQJwHd48lDMw-LhccT_EB7PEVme_Jg4cvZcflt2H8qcxCF9mt3G-sTQpGMDcuLGlL-IseZzQ0rAxNviIKQPLyA8eATkb_Y9i-U6R7sY16AAqkj0gKPQQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5sDghNptUbsSh1S2G5ZQd_nsESTritKwM92xLhWTSgHhcfoXO049FeR3cwMlgcdT-Soj2Dln7trRfqiL6oMEeIIBhM5pWAiGNtCm09jONcHBa4PdyVdus1rU4jnYI4upsFa0eIodm2epCMK8mJ7gjAA1pkF0A54MZXU3cKs2ZdTJB35GuFSohFumVK9vqtuBK6IXg9DOy4T4fLCDJ3du2HryUcAF__Irdm48PM8CSQChZzmfZxA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwC_3qzh5sh7CM1L9g8nR82UoOrlnRJ_TIKAj-Nh-fwyutW6nxAQOexoiETRFLXFtZL5w2L1GmeuLS4zoNvv0i08ONHEHOfb8DSqWMiFepM8Ma2oP3uEX_USCK2T_sVCPyqdjvRZs3J8cDZjgXQcDtfl2bTwQziDJ6F8aPdAF7APoStGX15oM-3JXbR91Gi2GjFUjFFjZ4Ml-t2sItU3RrTHrnDO-GNOOy03g5MEg7EnWXS7VV2aQps1xaUEwoBi6zpKILta5aljNhIZbdSodvALd_r6yhqvWf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpYncQMTzBLF83t5SHcIgGu6-bsdaazupdPR1usoAcdZXUe4exR-QKs9r_JPSMi9phJ2D0pMYVZmKIbfqnOE4GB2Kde6MoxhVuOOyjUg-dqp2GC8sPWkQBjLxnL2RKccqakGr4_8Q_G9gNuFN4fuIzYY746klcDbPsm2bn6pBSZLLecj9NqSugg2Iig6lyb4_-IZ4AYA1ZjZyaBhmnQ9DNaXSH5NrmjmQjRplsF6TZYVWx0x6sY8W4rhXgd9UBcL5uiHMTLUDMKcO5KXbU3bH7oXFMZVDl-M4ke2eYJNE0RS5pdWWl6Vfa6psOj8_XCe4v",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2F24eNGvfIaczRsHZApG539CupCbDc5BHLJyMEq45AMtlfTO4DOSqLDLUy_uu4F9T9dMRtU-6iOl01mTtDzcK-y8Iv0ISustPbb0IRbfAZ-KenG0YMIOqvWgAljBmiPbL4nEuj5cZaFu2vFlIE9Jzk2gAw6nacgYrG_x6cmbId3AwjbXTXN7z7Lluj3xq1RpLmQUKuMwbFNhD24kKX9k=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZvuW-RMDVEPFC0AXS_4CW80q4VA4JYz9TUQE_Mw-_9i4-1p469oo9QrVaOUW2tlHrufSBJXXIfdpKhIaXZWjiOqLfb4TatNTGKYXUrvO0CeuPCZOjOvmKC2GOvpY0aoqfWZYKv5FbcVHCoViiEyYVxNgH0mjFDcVos-L7ksdNIhf8GkqueWnHEaNQgjjc1Z81FUP40k7C3H-eYWyaT7LJCnIZwNdT71G3Fh-vg7Qok3SH5KeEk4g2eZ32QlZG3LF9xssQ9E-ygmf54Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAsDBqgLapDmFeOv77HTV73tiiIDEyJP6tew5RZw8h5XPT9fi9MiifBeqEtZRiqSrTFri8XP-kxbe3DMJ5pUylO3A1n6Gd3GzpHGF5FSVGtiG_pq420bCyfhdjmrp5vldwxgOXj4gly0IFrqxqKEU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcB77xQ7AxmTUwobSeBhCFqUS1Mj8a85UrDX5Z6ZeeT-LRu7UNsMoCDYkSMQBs5dFdDtGWE2w6ydiy5XP4Nl-zpApW61LOpAZHZ6TnNt3Vs1YIeqcj0DTUrXluN74G7Ul0MOkdVmsjd8Yzeot459XWnPtqHwFVjpT6bG5hQjb5V7MAKPAA6Q0Jj92OOPn5Kxhs9Qnqt7qBEQs6-aKDLUwE-dkcPKofiTvT75-0HXPBX581PbygcItpRPJRDYkw5cdSBkP_cxYtXKgXm3YE-4gF4HLny6LW",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPYqVCNsEHjEfOvtmR3tyeA_IXr-P24XcFTX58kIH51tq5q2_KAnFyEjmPD75nmYSJ2mcH9_RUy7JzjL86t5tnrdzwks36WtqzJFqCoUDdUY9aWiRsRGfPoe6C38DGmqylyrA6IuJiQIOAUFdoHhkrxiog_QimEwUFCX_hnI7InCNHJOBKuQ-8-IcWhB_0f-4JBZhSkAwRYIiWXDSepJCTXuxQehbvagngHwUKZn6fcUNG_lRk32JdLtujZCBOkmvlYYQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjraGgCGocrHdF-BbSfeNaJ3FaTa8Nxl82BPrHUAd8kjW9GHH5WFlQu7n6htSLZyn0Q1LRQMEpIwJKYaXbhAAClaqWgSRSPwKU5Y2fKI8JZb4IlsUeC_ySr4EbJUgDV_o3xOzurSKjKLrc2RDCCPpxEHXpDNYEprIJCJLxBcLvtTNmxgwh2c1He0uDG5dXVJVbyGfNht5gSmA__8wweip5Lv8M2KD0kA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2wWTO0qN1Cbu8mMEGYFaqM8beQI9VMrziVH5z-GWfJVpOFgWwFdftaYxKKOMaq705JbIxw28BQyg5yHVsDweztBWbeWY0BCsfrGn-inoVR9WDSopEXz6_-x3vT5YMKsk1i2q4Pg-ewX4wDYwYx1A9Y2-AWF4PhVVsHRrSfAzOoLjwUjPbYXFX__G8xO5AOg2c3DrjJPM1RcdcEGd6htS0kzyo8A6nYYK2OIOB4AuPjlSdlEmq8ZdHG2GorDlXS20KTJiFQb7LCA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWMVkYQT29RL8Z7ZUzZo_z1XmiOysRxeXrrvv72fiCkXsChnxza9ETc21cv0MRtWEKPSRyq1MVTuRf6OI7rUlQ5SAtbK4E4PLI1uIsViprqjUHQaJsy7mMWlhMOnVA62vvBfmvJeyZ7e_QntcNme7XcR4UdveDC81IZMln9aApwBThnkWW_mLH0PNKvghmmk3ojnMielSshySN-5Sjkyx2rAK7vo2Mwmpm36iv1Mjbqg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQXQqjcbGWlMP2q_bF3daZyDc_jtQjN1eZwaAB3gQQAIXL1p4IySzxi0ZJeulHaon4fdI178DYBHrnS1D2dtj2Hv63MIUSp3YRwndlDu7ZS6CsxYal22pUvzQWtHjtoDRu5S7-4-6f5kF4XwR4T_8oQbr3XiPRElTYjZHzAoTZQvK_Oei8axQ4YHx67Iw9XUepMaV9GPNFRMm_RT5ATqq3mEyuaRs9CftRzLvotw6yTPY0kw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T17:15:36.974895+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Discus Throw",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Discus Throw",
+        "medal": "BRONZE",
+        "category": "Commonwealth Games 2026"
+      },
+      {
+        "event": "Discus Throw",
+        "medal": "GOLD",
+        "category": "South Asian Athletics Championships 2026"
+      },
+      {
+        "event": "Discus Throw",
+        "medal": "GOLD",
+        "category": "National Games 2025"
+      },
+      {
+        "event": "Discus Throw",
+        "medal": "GOLD",
+        "category": "Khelo India University Games 2020"
+      }
+    ],
+    "stats": {
+      "personalBest": "59.73m",
+      "seasonBest": "59.73m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        55.0,
+        65.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight",
+        "record_highlight.benchmarks",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "record_highlight",
+        "record_highlight.benchmarks",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

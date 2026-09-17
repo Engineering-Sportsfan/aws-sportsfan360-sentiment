@@ -1,0 +1,222 @@
+{
+  "athlete_id": "kumari_saloni_nagar",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Kumari Saloni Nagar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2004-12-22",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": null,
+    "bio": "Kumari Saloni Nagar is an Indian athlete specializing in the 400m and relay events. She holds the Indian national indoor record in the women's 400m with a time of 53.73 seconds, set in March 2026. This performance broke a 21-year-old record. She has also achieved personal bests in the 4x400m Mixed Relay and 4x400m Relay.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "400m Indoor",
+    "result": "53.73s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-03-25",
+    "city": "Bhubaneswar",
+    "prevRecord": "53.89s",
+    "prevRecordPlace": null,
+    "prevHolder": "Pinki Pramanik",
+    "improvement": "-0.16s",
+    "improvementDate": "2005-01-01",
+    "aiInsight": "Kumari Saloni Nagar's national record in the indoor 400m is a significant achievement, breaking a long-standing record held for 21 years. This performance demonstrates her potential and marks her as a rising star in Indian athletics. Her ability to improve her personal best by a substantial margin suggests a strong trajectory for future success.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 57.16
+      },
+      {
+        "year": "2026",
+        "value": 53.73
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "53.73s",
+        "holder": "Kumari Saloni Nagar",
+        "date": "2026-03-25",
+        "venue": "Bhubaneswar",
+        "tournament": "Kladno Memorial"
+      },
+      {
+        "label": "Olympic",
+        "value": "48.17s",
+        "holder": "Marie-Jos\u00e9 P\u00e9rec",
+        "date": "1996-07-29",
+        "venue": "Atlanta",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "47.60s",
+        "holder": "Marita Koch",
+        "date": "1985-10-06",
+        "venue": "Canberra",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "53.73s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Indoor",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": "383",
+      "personalBest": "53.73s",
+      "bestYear": "2026",
+      "totalGold": 1,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "400m",
+        "value": 57.16,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "400m Indoor",
+        "value": 53.73,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 53.73,
+        "seasonAverage": 53.73,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 60.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "53.7-54.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 100.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "National Record holder with a recent significant personal best.",
+    "peakZoneLabel": "53.7-54.0s \u00b7 100% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "53.73s",
+            "holder": "Kumari Saloni Nagar",
+            "date": "2026-03-25",
+            "venue": "Bhubaneswar",
+            "tournament/meet name": "National Indoor Athletics Championships"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIvuhVBI5bCbulNVQpuYEpZwMfs6yzFSCmLhrd1Y2a-zMrdYbQqnuWUlH5ee3GiWbH6JvFq9wdruuhHBvJLSib8x2tsGdt0lJ9xv61xxoh7NPCtFBLme9RWVckh7bIB2JH-2bjNQBy00t8SjuMM_E5Otw9J5p0McLEN-U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeCVbYUXFCK9AREmAQhF_w-5txv59jmfutNmvWX2fjC3Umg1Eoavd5PJDfMRaiJhhlEs1StF1RKJKDZ9hLkTncSVKxs464gcfL0DpR3mJKTLvDZpQXxeSMRGc1x-AnEQL443DCDunI2WS2lDNk9MUtnVDYN1vwn5OVwi1o5pwHzv_KuDSGpWXLC2u4rTidVJ5b34tNk_8nfgnO8odlnMgwrgsuMj2lm9Tbeo8gr5IpMQu1Iopw1jY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsCYMYgO-ZE3x7pjFrTJn4NYXPPTSlKuH4IbENx2aK70AjHyuKTeNmLf-BSUgm7N7CahfJkGtOqfpvbrXGEe-fpAfraoX1TdyG0X9ehu8t2Z96Ur5G4Rg94g22rfuMabOCygobGTfFI96XWtgpNO75jbb8X8hIWZKwZOoOQTwVamwm8jBq1cg4Ac4Uqmw9huro77T2gawsSc43tQrxBOoFuczEr8nTHCg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuXvkuojt1wUfVhaR4JkFK9GpInPWebC5wHh580gGlZDrlFVyGgk-ym3EScZoNMHg0pYvT5YCXbhiPRdiYkhlVIggjL01Yz0VPbIVMBcFSHXvY3zwi6JXpah0wAVQLDb3A3Ul8eQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj3z1Qf1xEYF4rxYkODRyMK0F_DWM0xl9oJfVuLPyTh638BnIrZt1yZ2CwoHQKVrhtW0OS-B9L3r4acX9Kgj3eW_v_ptRW8zZxWkzztf2fcomEieYsko7nX4yFgdWjKO0CAYczV3c0It0IpOw7S9Sko-SKIeUcPl4BC8RBt5ktEIjciRzVBVh3GP-Ecsm0Qc04LhVjLbJtveb7io7g0zYzkbC2HjcgkJdGY0gbTTjW6n7F1KAlvANb-4oZfEclc1bumglzbNSENZiYVMr_Ggvs3QqEgj05LQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:07:49.669719+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x400m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "National Indoor Athletics Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "53.73s (400m Indoor)",
+      "seasonBest": "53.73s (400m Indoor)"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        53.0,
+        58.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

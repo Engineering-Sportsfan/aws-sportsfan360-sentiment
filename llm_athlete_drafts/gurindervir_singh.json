@@ -4,13 +4,14 @@
   "coreInfo": {
     "name": "Gurindervir Singh",
     "country": "India",
-    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "flag": "IN",
     "gender": "Men",
     "dob": "2000-12-24",
     "heightCm": 168,
-    "weightKg": null,
-    "profileImage": null,
-    "bio": "Gurindervir Singh is an Indian sprinter who holds national records in both the 60m and 100m events. He made history by becoming the first Indian to break the 10.10-second barrier in the 100m, achieving a time of 10.09s at the 2026 Federation Cup. Hailing from Patial village in Punjab, he currently trains under coach James Hillier at the Reliance Foundation High Performance Centre.",
+    "weightKg": 59.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14792569.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=Xnr0V5jMnOs",
+    "bio": "Gurindervir Singh is an Indian sprinter and the current national record holder for the 60m and 100m. He became the first Indian to break the 10.10-second barrier in the men's 100m, clocking 10.09 seconds at the 2026 Federation Cup in Ranchi. Singh joined the Indian Navy in 2022 through the sports quota and serves as a Petty officer. He trains under coach James Hillier at the Reliance Foundation.",
     "birthplace": "Patial village, Jalandhar district, Punjab, India",
     "coachName": "James Hillier",
     "yearsActiveSince": "2017"
@@ -28,23 +29,15 @@
     "prevHolder": "Animesh Kujur",
     "improvement": "-0.06s",
     "improvementDate": "2026-05-23",
-    "aiInsight": "Gurindervir Singh shattered the Indian 100m national record by clocking 10.09 seconds, becoming the first Indian sprinter to break the 10.10-second barrier. This remarkable achievement, accomplished at the 2026 Federation Cup, also secured his qualification for the Commonwealth Games. He had previously set a national record of 10.20s in March 2025, which was then broken by Animesh Kujur with 10.15s just before Gurindervir reclaimed it in the same competition.",
+    "aiInsight": "Gurindervir Singh's 10.09s run is historic as he became the first Indian sprinter to break the 10.10-second barrier in the men's 100m. This achievement secured his spot in the 2026 Commonwealth Games and marked a significant milestone for Indian sprinting. He reclaimed the national record after it changed hands multiple times during the same competition.",
     "progressData": [
       {
-        "year": "2017",
-        "value": 10.77
-      },
-      {
-        "year": "2018",
-        "value": 11.09
-      },
-      {
-        "year": "2019",
-        "value": 10.42
+        "year": "2021",
+        "value": 10.27
       },
       {
         "year": "2024",
-        "value": 10.55
+        "value": 10.2
       },
       {
         "year": "2025",
@@ -60,25 +53,25 @@
         "label": "National",
         "value": "10.09s",
         "holder": "Gurindervir Singh",
-        "date": "May 23, 2026",
+        "date": "2026-05-23",
         "venue": "Birsa Munda Stadium",
-        "tournament": "29th National Senior Athletics Federation Competition"
+        "tournament": null
       },
       {
         "label": "Olympic",
         "value": "9.63s",
         "holder": "Usain Bolt",
-        "date": "August 5, 2012",
-        "venue": "Olympic Stadium",
-        "tournament": "2012 Summer Olympics"
+        "date": "2012-08-05",
+        "venue": "Olympic Stadium, London",
+        "tournament": null
       },
       {
         "label": "World",
         "value": "9.58s",
         "holder": "Usain Bolt",
-        "date": "August 16, 2009",
-        "venue": "Olympiastadion",
-        "tournament": "2009 World Athletics Championships"
+        "date": "2009-08-16",
+        "venue": "Olympiastadion, Berlin",
+        "tournament": null
       }
     ]
   },
@@ -90,10 +83,10 @@
     "tooltipValueSuffix": "s",
     "yAxisDomain": [],
     "sport": "100m Sprint",
-    "achievementLabel": "Indian National Record Holder",
+    "achievementLabel": "Indian National Record Holder (100m)",
     "stats": {
-      "worldRank": "248",
-      "personalBest": "10.09s",
+      "worldRank": "236",
+      "personalBest": "10.09",
       "bestYear": "2026",
       "totalGold": 3,
       "totalSilver": 1,
@@ -102,25 +95,9 @@
     },
     "seasonalData": [
       {
-        "year": "2017",
+        "year": "2021",
         "event": "100m",
-        "value": 10.77,
-        "rank": null,
-        "highlight": false,
-        "glow": false
-      },
-      {
-        "year": "2018",
-        "event": "100m",
-        "value": 11.09,
-        "rank": null,
-        "highlight": false,
-        "glow": false
-      },
-      {
-        "year": "2019",
-        "event": "100m",
-        "value": 10.42,
+        "value": 10.27,
         "rank": null,
         "highlight": false,
         "glow": false
@@ -128,9 +105,9 @@
       {
         "year": "2024",
         "event": "100m",
-        "value": 10.55,
+        "value": 10.2,
         "rank": null,
-        "highlight": false,
+        "highlight": true,
         "glow": false
       },
       {
@@ -138,14 +115,14 @@
         "event": "100m",
         "value": 10.2,
         "rank": null,
-        "highlight": true,
+        "highlight": false,
         "glow": false
       },
       {
         "year": "2026",
         "event": "100m",
         "value": 10.09,
-        "rank": null,
+        "rank": 236,
         "highlight": true,
         "glow": true
       }
@@ -153,27 +130,43 @@
     "medalData": [
       {
         "year": "2017",
+        "events": 2,
         "gold": 2,
         "silver": 0,
-        "bronze": 0
+        "bronze": 0,
+        "seasonBest": 10.77,
+        "seasonAverage": 10.77,
+        "currentStreak": null
       },
       {
         "year": "2018",
+        "events": 2,
         "gold": 0,
         "silver": 0,
-        "bronze": 1
+        "bronze": 1,
+        "seasonBest": 11.09,
+        "seasonAverage": 11.09,
+        "currentStreak": null
       },
       {
         "year": "2019",
+        "events": 1,
         "gold": 0,
         "silver": 1,
-        "bronze": 0
+        "bronze": 0,
+        "seasonBest": 39.97,
+        "seasonAverage": 39.97,
+        "currentStreak": null
       },
       {
-        "year": "2025",
+        "year": "2026",
+        "events": 1,
         "gold": 1,
         "silver": 0,
-        "bronze": 0
+        "bronze": 0,
+        "seasonBest": 10.09,
+        "seasonAverage": 10.09,
+        "currentStreak": null
       }
     ],
     "radarData": [
@@ -184,22 +177,22 @@
       },
       {
         "metric": "Top Speed",
-        "value": 90.0,
+        "value": 95.0,
         "fullMark": 100.0
       },
       {
         "metric": "Acceleration",
-        "value": 75.0,
+        "value": 90.0,
         "fullMark": 100.0
       },
       {
         "metric": "Consistency",
-        "value": 65.0,
+        "value": 85.0,
         "fullMark": 100.0
       },
       {
         "metric": "Growth",
-        "value": 85.0,
+        "value": 90.0,
         "fullMark": 100.0
       }
     ],
@@ -208,48 +201,27 @@
       {
         "range": "<10.10s",
         "count": 1,
-        "throws": null,
-        "percentage": 16.67,
+        "throws": 5,
+        "percentage": 20.0,
         "peak": false
       },
       {
-        "range": "10.10\u201310.20s",
-        "count": 2,
-        "throws": null,
-        "percentage": 33.33,
+        "range": "10.10-10.19s",
+        "count": 1,
+        "throws": 5,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "10.20-10.29s",
+        "count": 3,
+        "throws": 5,
+        "percentage": 60.0,
         "peak": true
-      },
-      {
-        "range": "10.21\u201310.30s",
-        "count": 0,
-        "throws": null,
-        "percentage": 0.0,
-        "peak": false
-      },
-      {
-        "range": "10.31\u201310.40s",
-        "count": 1,
-        "throws": null,
-        "percentage": 16.67,
-        "peak": false
-      },
-      {
-        "range": "10.41\u201310.50s",
-        "count": 1,
-        "throws": null,
-        "percentage": 16.67,
-        "peak": false
-      },
-      {
-        "range": "10.51\u201310.60s",
-        "count": 1,
-        "throws": null,
-        "percentage": 16.67,
-        "peak": false
       }
     ],
-    "consistencyNote": "Gurindervir Singh is the Indian National Record holder in the 100m, with a personal best of 10.09s, and has consistently performed in the 10.10-10.20s range in recent years.",
-    "peakZoneLabel": "10.10\u201310.20s \u00b7 33.33% success rate",
+    "consistencyNote": "Gurindervir Singh has shown significant improvement and consistency, breaking the national record multiple times and consistently performing in the 10.0-10.2 second range in recent years.",
+    "peakZoneLabel": "10.20\u201310.29s \u00b7 60% success rate",
     "heatmapData": [
       {
         "tournament": "Olympics",
@@ -262,49 +234,73 @@
       {
         "tournament": "National Champ",
         "years": {
-          "2026": {
-            "value": "10.09s",
-            "holder": "Gurindervir Singh",
-            "date": "May 23, 2026",
-            "venue": "Birsa Munda Stadium",
-            "tournament": "Federation Cup"
-          },
-          "2025": {
-            "value": "10.20s",
-            "holder": "Gurindervir Singh",
-            "date": "March 28, 2025",
-            "venue": "Kanteerava Stadium",
-            "tournament": "Indian Grand Prix 1"
-          }
+          "year": 2026,
+          "value": "10.09s",
+          "medal": "GOLD",
+          "event": "100m"
         }
       }
     ],
-    "beforeCoach": null,
-    "afterCoach": null,
-    "coachImprovement": null,
-    "coachJoinYear": null,
-    "coachImpactData": []
+    "beforeCoach": "10.27s",
+    "afterCoach": "10.09s",
+    "coachImprovement": "-0.18s (-1.75%)",
+    "coachJoinYear": 2024,
+    "coachImpactData": [
+      {
+        "year": 2021,
+        "value": 10.27,
+        "period": "before"
+      },
+      {
+        "year": 2024,
+        "value": 10.2,
+        "period": "after"
+      },
+      {
+        "year": 2025,
+        "value": 10.2,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 10.09,
+        "period": "after"
+      }
+    ]
   },
   "grounding_sources": [
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqJMnWpQwH1-OMIXg9DIwxV3IrZP5CiRh11TBLyyGCC5i9FPl3xwRgVIqJnvTqWoZSAWABWVN-pyjlwg8XPrWn6qlbQHQ7mF8m9GERY3zqQHW13llcEtXipzWVShYezIx9jCnKi7BFYIxv8prE8os8x4G6JBvG5XmEUuXwZsnOOuukPeLPblKru3gjWUJP7Om6BjFM1uG4Hx7I2XrT3VbCP30rhNFNY61sU10cPn9fQtF9kqoAiaSqY3uYkb1GpxPhIj5OR8qWQY6-VjUjS_MfwEd7jgCceuEv2ubGcXcb0qb9Iv4k8W8OqG462flEfv090vJsoFXw-nszycb_oT8rif2szQs=",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYfVn3nLF6hT631xM6yNuN3M3B0HXMAGJ2ziesgiKCKS6PBtYy8AQk1ijavpuFWefG1N_IJsRAOZJmTdZQxqLdDfe59B1mSm0IuN9TUI4aDQ_q27b7SO03-uERFpq0monP8jZ6TnzLF_Je2ZgwOCegTdtaIPXsevbqbYs2Bbqgjq-DUxxirGMDbCbR7PXGOcNUp7AJbgzvsV2i",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVofw6JzKFbEy2xII9gczzM9Px80ndE6Mt8zdix4xAuXldtFaw0P-F9Mz4Gcy_iYaW_OMdDWzZrWPGmh_Ydx7uMljLnXdBxV3-zvt7bJ3rjF3_GiA12bXXpelWjoryj-JgLfGlEke8-1Q=",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEODyenlFgs8GwHGDcB2t5ja7fWPo301Wx_UmmsvIBw-q020mwXjbBshkm8HvPUSE7qul78r0o9vBmoqdspUZSYYbYF7opst3Tx9L_CpX8Yx52G-oL26Ha5w2xkZTmBeMukArCE8tUnS8EW7RCGJg==",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9vRJVKKERTLujOdamrgidXHAYMGjUWtyyzKfE3qJMBO-_TKC4wDV1s6yGNllO1-FrhQzsAmESpSrQCuCdlTsTLQMcSKYxI99YejN-kQ0MUr7jnl92SO1R9y7QP-ghsjAilhuFKNgPWrEJ_xg0",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXLlepe34h30IUuSf1u4LStMqEgWM0FurV12srfOhf8pduVPeDGnP7QVZ5C_HhEKwKV6Trt3dQm3LtSIX5809V-KYYcFLAL73W53agH5QhrmqGr0ulRIIzNeMEmu_D3g5dIhW3Lx-ALzYj65YsawT119CMLfkRNEj-LoMaqMi4w8NuWTfLhmne3girJ-fHuXxthDybsLNLIx6FerEWkW2xB1FxIBEzVTstIScKZpSBSHc2Ysm8uGVhyOE8yIpI1w==",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8GCDXlAWPRzwsIM0H7GV4lheEyCnUXR7IQ7GnaJzKKGgMYprtkUYLUqXyV304wrwZaQsuUCnK6VIl3-tg8dwxydt0snVi660mILmGI4FJPVFNghbc1COyetyqDplkK1jpRFUBDGMCVqmXdmvDdr-jmz42L-1SUQZs80z-JTIIfNTTi8MBJEEhv-HcQU-eEg65oK-sLc3V27DwTnHnNXlFwX0XLdDxyVPayTo=",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUEdhDtCiMQRqK5gsAc451i4I664szCfXadp5I6kPg-L5n2c9XIziFdP6o2oLN1UQfeuq4ApgP0vWSOeeXTEbyIt81vnFBLtpjVkEfcXfwk7Mmz3SdmpPFii5-ubnnygagfbMUcD_iK6mRayPDbGkHYO7kDdZyXxnX_5FmjB3lWaCWN1LTFtXDqx5Puv86hg9Io76wgjV7oKzuyOxMrQ2IrbSoYSWtItZI",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcAzsEa5hDti3436p6sknPwadxIYTIaUkpRh4Hx6sTDMEceRVJFmPEe612mzXBhS5DcOenG0AJY7yTomVTldJcDi6AcbPCp4XXCAcFKyOwukXqfzx7yvL1ydaEpD4Qaaa1gMrPCv7c-UJ3A-Ptt9uIltD2qS3mj9bPeo0gb1VySB4P9M8v",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDH6wu_J8rKBrzhCvcY6j01eP08oMpJExAEGXstwliwv-lLn9RworietK7fJMn30HhKoLT2NYgmkj4B2fucJcZXRJLbAzXf-8sxtPSlx_8atza-YFQ-RnD9AXIcOWNBM1VTbGO2nj5hz5Ux-feE7ol09TfWBLLt6lIvLDyoeREDlrMfFNwz29EZMVk-KMgQ82kHChNIsBObiD9vK9GUTvgCUOQceogDU2oBo-4mulH6YfmUKnzX6UxSZzzzUPSdRJb3pOBgzAn5RI=",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrKbo1KPfSz3sTIxbQ3aiRA60WRTXPyvWgEY2VNj2SZMSkRPy0tnqOgsGIHMU42Zy3yTeGFEx8fpkFe7PTbFdb7CNC2TfXWhmIa5Y29WJIegBEhkojEyKLl67dpu58RrKj_HKTMy236HfDEHR1IP4fWfFD0JjlbjP5aJ1bZ87L1-vTI6qRTgk=",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHacQ7bTpivSp22mmfLkTJO7psHgCNzkQk15ELx9ECOZDAkO_rlvq4JsDzmksK1VyNcIbntB0j5zzavlmh8CEEkMDfNao3vhPESReaFlgG7hG4YbQyT7CifFBaP32MWkGgzBhJf68-NRETeOL7_GAGxhCaue4IaO5pnSFAPDFKNyWQmxYTJ4qq_7_XxBp0n1Rp6TNpPc5iR89-F03B5UgUqVI-iUyYTGuroBrOCsUPkK3bVzuJADwd6m06LYC6N2d4VyAjprSNy6xq9",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD38jfBX_om_lvccWrDFtItkFF-1OR8u2IXyZaacEKYxbRuFTiPkfDX_J5xqh-hnT2jyFaupa1ZHuIIW-SQjr9ps-BmO_JoMIZn_XesiuXoIDtzCLnEMMDdQ_v1XvV3LHV-slgDMcHHM4iTOjiQORaNgHKyB-1tpmERawZkLc6SEsKk9uh3g7FJjO-DImUnG9XR0PeAGb0J2lBy9Q-wbIfQiyMuY2LXVNys2Ul1eWjRUCl-EMDbnCuM7j4NnxSwds2Y0FldlcJHnA=",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbEQFN3eq-UDEsOmCSozG8-o3DkSeW4ApizvgJRBPCK3txEXqxLZeqU2mhBTemVYFDPT5iuy9oTsTy1lHLSxXPfV0EB5tuN3LjYV1Vo1-F7ZdaJumEfplJ3SPqO_QwEDrbzVQbw-a4l-_2_HeZi7SA4rcwlJu_MwhCyHlxYTsD97KJRqGTrato5I8W"
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFepGuWpOJIweQACsX35FkWWG4k_Beszlg0rYLqIqMKtavmz2rhupnmBOzFgn1yoj8dQnrvvCxQCDTENt_e2uCTXEAWI8oFF8e-9aAXzPShR2R_WczekUprTvsJvA4Vg9Bbcg9Vsolm6EEV7VJbO4Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8TLPBk4ikFt6stkfoooX4btB6bftOuQNYxjVRAqhINQPOtcIvYbVP-B-J7Wc8T__q5kCpo3_-EoYHrTRZfDQ1oUX-55S0XC1Gx3iOt-VhxxiK2TnuiOUKtzDjiUZqNAXEmZEIeSEeavZ8",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgyj1za89_U1LognjtAg9IqE_Gl19WcUPg-1U6k13DxH47bDWMxEleOi4FjqkYUj207xuKl6uuCuX7baCf7V8TPB31GqKGUom63JonXuo0Y1rj1sPN_CrtVcKFKmWeHmSRCUs5iKrWlKeKXULI8rz5_MsjXU_KHAsl8rZ27rr-ELCrol69pmyqHe6jscKGliA_4dWDkcZmWuUUx0jYUrPSW3IpjkB69YSCUyg7044Jf5KyRzdqh-RHwDD-GbPlx-t6wO50gnyJYiimPa0zzPHo5wVp4zVrCoqh0sJ-aoRiykjg9OSrmQ4YX5tKuqyClCWu3tRw_qIsx9sGRJP7VEuvWyT8c1dB",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnYBbxJhCLOmkcr3WZvnNp6jfZGJVDnURpSPkMO_IrMf0sI7_utc5r5e2T8W5SSkOfEEPs2hNiXpo2-Ddv8RzsEBAOU_rvnKIFfQFIu8Rbz5_0oo7X9AaM47-O8Ctr_q_u-A5eX4aRTwPsxo-DyfFATzzzCxGe1tBeERMp3mBseFEpK1UzqDmIxI1q2UfBFLxko0QdHrmreuDafccSEMTkpHXnbnKHH_m3mK10",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE35rlm5flqzTRURnMxPSTepiJ5AqrXOte-8-hNHiJHMMvUxi06ht7CHLvRRGtXBR2TWTFZ97P_d95tTJs9eG0lFWHZF6ZTFlSpeR57aHDZdbKt9uILbTF25eOTnsjarMvWHWwVSM0MDXDv8s-IbhnQJavvJrJCHirIxsy5KZmFdzA1PVszdrULd7nff2RDO_GRKRNF6p9Imt5eKA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk-b5tm085ltKisixW5pKjBLnypzW-ZL_sF-Rl3mKrsbl0L0RcKudkzLIV7y_qcNP-UErIlT3Gkd66PCM0PtRBv4I24sdLswHcZF1fH6d2elQqHhDxfzwmRt1OP8U9p2sXHjk20G4EgRPHbcBqG0K9Ig1aldHYqh2tZlrCa8w93hKFv1c6yw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIqjTylG5azdAy2Bee9gDOSucv7ZH6gHtqR7_AhjzBMjgUVESQoQD1WUcRFRRJ1uGSHCDghh9_x34UJNKb8MzS0thMceIRQABJXxPOzKBHBusmdz_r89I3waQrCGfOqDh6ajaEHt5deeE7ipM2hhIYTXOeJxBNFMaPBr8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhjvYDEIqwYrcBR6BWbga7J_lvcKzZm3qWOGig5x2tRK5PPzz9skIHCBxm05iu03kcWimqp-QF8YvWlIRNz0GySRIyexcQUgfbeDFpUVv1RDJFvRMSkrMF4zso-D0dOWD3vwTu-zuLrMRe0SAgUC_WqoeMo0895FeLQ5AQQvXDIxE3nTYiIW_EGmRhyjYPu85IZlKqXDJNxqTbei1ZtsdOoVpCVuf6Y2LluWMCsIA6T7-vccdqpb9ATEDThlG1AVZhMat449Bu1L2D-G2HRBDSzp9GZI0MxH-asSLHbywBwJzxz8TrRJ-kFbgmaX55UVFcI-igoxVJUnpgwgiw3KLdt56KUiSU2ALps4ZyH8K9_VvIRblcYsiAAMBc0i-WwttQIfcBYieXFKoRZ_DEeyigfIUF4lwE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqdE0vOCnyyP4rV2hRclq49hPC5Nn4TMPy8RLswbLPTlaRJ0SflZCH3jmn8ZnGqpvIaRzOv159r-atv55S-Gaazl7MuHBQ2SCnWaApzTWEjcRxmrmVxZv2bA3mnBkQW5Rt5qFI_7CpCsU98R_a-w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_3smkvwDq1sSKmaXnBy3KVxbaotMx6r5YGbZqhYhtj8P0lPHqL7Cz8Cic5FRCoPyBU1-npVtbtlZIGone7k4ZfOC7D7UZx6MGWh2oGGY5quC7RgdxrDHoo2BPZIEiHSRFQFHZr1P2yWKDidruddQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO9i4SKoDEJ6f5saSJ6Z1F0d6ICMOG72sGc9iYWUYOyta-K2SIE5psSP6zxH8Fg2n4XUDkkVfJ288AT5W9y6CcWj1NYOpxuo_T_u0dHMKKm6zuEEgjrIw0BLjj3Fqz7hO9YDPDUxKzFine",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJd_C4kOMkaBlVxZXXsZdgVv1lZaj1nmLFLwKocft5PNAvmS_uI0c45XuUJQ-Nv89T150FoskZu9u6A0r7zoc5p91HcuZd7igXg3CyQgYMxP3PAggBTjTp76J1qTtb1GN-XddVZnh38SqCIZIp9C4-wrm3epXOQi1RhzWoHI252Gf5PzMOIh0YsZX-_myp8EBlgqbgeHGuaywU5g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErXfKdY1WSPakvreZtyy0qoMm87OtoNy25uasLNRBq3HkTI6mSw0ayRmp_zA5EDydo1hiKhEWYBC1mJpYO-AfX_1St-bR87_Xl9K5gQAge0s74WuSljyQ8jsuCP3MxaJzPdedPe9MShX6XLSrxJB9Ap3JPsNv_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVk0ueOD9xmDIdAwAoFQ27viI0UL7Iyy-YpSH8nKpGWS6UOmolcwxNYR60w6ipDLeR8w6FYr7P5FyIAoMy0V90mtiGXlMLwYmdeqTPym1x-TaC7nxkDivPA2pcLubuct1IL_8uNLU1kH4hmtKkX9907v4opJYM3OZqF_JLMMrbrEYsCp2ki2K3AncIdGK2ZE2Km4VEDMwS1FL1MCT_GLElXFHaBQQPf6mWoXat2ga96FwfQff_FQg5sYZESbv658dvveGN3IR_M6wtkKS_l_3yi5TpJcGXtPy5RxZ9cVJIzSnb5-TBYhtRQLlt6uLaXvJpvB9Fp6EEMcRQm5gXeQklYeLcMg3c",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeKfVzyk-fvvz3YRYYfeA5LCDkYjUut55IqVU3ygXmAkr6TXJS-yZ_rpbUDQ13l0Gc0Yj5ktaLEvkiznheD5WbdBDLT29kL8btdNlSmI_0K6gH39AgjEKBcODyrzWd9IvpbwtnTlJ2NYMutbPnyPm1yy_4C0AzbEfMj_TlCDLX2lVkNDEj3YUgvC6qmnQ_Orulh2gRR2U32phHWQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaOZ_lyDRXzMQMkuuG6yqeZgGQqul1AeRy6cRi6IXsGiIdOAywHhrM6l3muS72EfeteZEBhfA690h8WbQcA8rfNZ5d-Yz4Vog8lUTEAMNuMpoWtU3XhBfDzg-22fYSh3l4oSoCQ-tSP1N1",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUzJqmdk6ZNeKxz0Ykf4Fu4MUv7_i0d5vubzqoGiccBglfL7mFXJq8NRoOseHoKAzcJ8ur78iFq8JAtXdWMMjBStSv3CCqv4ia86R4Vo2XEP1UVNeyfw_5Bs2NKcQPKcreb9t78j2zDzOIyqQacs4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHds0D_UxwOZzjqImdS3zBOtV4xFvfAtchWoEXHdTs9uJSvWx6vdVgncYTD_X4sjI2GVVOMLkLzmTbU0e8LNKe31l6IJfZb7JovsIyg_qDrd58H92NiWilNDEDmzID7d52f0F-nozkYbzEJXJaZg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpG6lB4UBSffPiOXsmld2s3AMxbunOWyMs4_-0HrIiyEtdNyNbfptkVH06bLenu3K_dW8hTQXYScMrC9_P2WHqG76QQrpefbdSRSCsk6QwaT2NTIslsVMX8rx7uDqR5Iy-9TL-rt1JQKg1wmjGxgoTKUJO_9nXBu21FWXSioazgIAIU1DMD56tRCT97OMuIj03QU8-HuwersABCMYGvuad2hDr_lPw61T35z07RcuGDfwUspsVSYaK_unelY5CUAjVVKWgeknZoEAMDt7BupSr9L3wl5dEJlyA41VmpCR91q8RmJkXKmjmmxUC4pYRqO5LfNgEVY-IfFw-IaE2oSJ1Uhkuhg7X",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeyq4a2PHeQ-jJzkIxj_srPgEFgFL2liOaa6tHyQsjvfKgIouEdlbo8AaTM8-Sx91wPcpbxU5UVcv8GMR2yUTPnTBX7QPafLicuiYcc9emM5iCT2WXnr8NHqhWkd3F61XVXfKYnvVnijuKYBUm5apWmjTtv0bsVjfhbGiwIL31455OHRbrM4eFHdzSSYj_6NIZyvj9z1Q_HZKp7xBsNnJCsECx65hey78JebJi",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-mmF3IBookbrefAmadzizKLahS4i3aungaZz9zmb06MZVyvp_9sP090zWZkxFyR1G2-lOXCbFObmMKoYPq8cgiLV0p3sFmuHkU-qbJIr81hg-7rRVGoUCQR1GBajho_lXbOoElxmhshXvcpOb2PmxgBR3cdmZLwMySY7B5lDI71lZlhpzjEgQA8UkXQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm3QMdLdU72oCYY3jA6XeU38hL3kCOnjI6hPZkFAEhgg4EMYWHxk468Gdv5mKweB3pXV8U58F2tPXonCngpI_7oP2qCEBrv9zXSX6Y91u7x6yp-9PKC114kI0puMKnB5Mjr1U2upnRFWvQ0A1wo3Yhc4dlxmGdeiYQRiqkMIpfqZkZpwp9y2QUj9QJsK8qA9VAdAFbjQx5FpJ_cqRv7zDfDMJvbzKuK7tPFJwYBHYbJI_YWkGkQWn7kaLib6iJcyYcDvciN2xkhAwx9dtrg1tuMjPIedE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-tGbW9GlABLl2GaxBpJj9R0Pd7Gqo5GcmP4X3LX41jrACE_kl1rCAcntBqjIfE_TwHJdFqGLzN428RK4-Kje4Ctsgs_eZ73v07TU-62ney6oPLO24FVWA8SocY34DOmcOwG5FKqgEUaiQ0MIkr8vS04Lgqg-Agp2FyUN7avoyJpV_8JkEfu2h5ajbifINKCSYzr_Bfl_4d-ceCTwBAtTSW_R5N9B6rtRsFk-D-7XcArc8eXqSsq2TMnCqjvhcSuXPsQyL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_9G8OWCReRGl9k-H_gSJRdEat2-4jZQEs2sX_VyvX8Kwmi8BNKeJqDXAnBL_FEDdSRT4mFWBqE_g37AM4dXp22-LG4eEHomFJ0dcYY1d_7UGIz23xajv3406KdmqkNi4D3B3w8myMog0Gr4RKwc3SsBzwoAAOqJf1F0be5uJH_1zagyrAVJYhI3suFfjvYXR7cWVWCFpcYiJrOBb551ToQIdGcg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJZnCHXLYwkAAwmvJHunQAahGodIhchcg-jJbGkYqJwM07kHCYWHvdNMVySQe4-bBOQitSpKT25Ygkco2sKQl_ACY7eoCcI409zYbU1fBexTVJEPlWmDEDm7c3LV4gux3ptab4dPGvfa5l0ZI_kFDC7Tba_XGnN4PO0QebKak3Cbc5oHEAPw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYkHtDTDgIG0QTlc-Hyn8RadGVrUKv2LTNWGVihLx557QBYhAX_Zp9i1PCsTP6vkeAOpNwdp_ln5Fav8FYrlDcR8AtZ8l-k2eZeMMK4DmXFPws-26WfnqH-bfOmqntI_yL8cYPd_NqYEl-XBBIv8OOdD5msibsEl1edwCoHZVaouvktneTWry3ZEI3DsktogskMHxlnX7b5CVdxtrbauPbB17jFk5iV7nWEvwSayPl1nL_zV9LaBOzwoOmaX-IAx6DshnpAzEwuanWLSKGKNcjIHIhOUG5_fw6_049AisTRFqVkwnS2lb5hdetyvPyfjSkZTpVVf8ilzeMeOheU_lYfwQp7A8LwENH6FJQaQf4N133a2yWr3H4MLAyiTZrEb2QPXNBDKx3MPbQOVAX_2UFbp0-Qq-c",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtfss5LaXjmvQRgR3nexLYYTNJQOHbZnv3ZojY45E_yHNdaBdHRjymRlj1teUOetAFf-iHNwU2INvGOqIVV8IsGhGBtc_9R0VkS_RbRzU1q8qjzF0zO3AoCwpdc7GOIozjLrOM8GsP6m3x8ZY3Kld7ZDD0z9aqV7MkoCX2YIA="
   ],
   "source": {
     "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
     "source_url": "https://sportsfan360.internal/llm-draft",
-    "fetched_at": "2026-08-04T09:33:30.133426+00:00"
+    "fetched_at": "2026-08-07T09:38:59.382288+00:00"
   },
   "performance": {
     "primaryEvent": "100m",
@@ -323,19 +319,19 @@
         "category": "Asian U18 Championships"
       },
       {
-        "event": "4x100m",
+        "event": "4x100m Relay",
         "medal": "BRONZE",
         "category": "Asian U20 Championships"
       },
       {
-        "event": "4x100m",
+        "event": "4x100m Relay",
         "medal": "SILVER",
         "category": "South Asian Games"
       },
       {
-        "event": "4x100m",
+        "event": "100m",
         "medal": "GOLD",
-        "category": "Taiwan Athletics Open"
+        "category": "Federation Cup"
       }
     ],
     "stats": {
@@ -345,10 +341,34 @@
     "chartConfig": {
       "yAxisDomain": [
         9.8,
-        10.8
+        10.5
       ],
       "unit": "seconds"
     }
   },
-  "_retry_log": []
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.heightCm",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ]
+    }
+  ]
 }

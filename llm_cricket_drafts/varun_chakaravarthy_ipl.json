@@ -1,0 +1,158 @@
+{
+  "athlete_id": "varun_chakaravarthy",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Varun Chakaravarthy",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1991-08-29",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=sUnm65oImYw",
+    "bio": "Varun Chakaravarthy is an Indian cricketer who plays for the Kolkata Knight Riders in the Indian Premier League. He is a right-arm leg-spin bowler known for his unorthodox bowling action and variations. He made his IPL debut in 2019 and has been a key bowler for KKR since 2020. He was part of the Indian team that won the 2026 T20 World Cup, 2025 Champions Trophy and the 2025 Asia Cup.",
+    "birthplace": "Bidar, Karnataka",
+    "coachName": null,
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Most Wickets in a 10-Match Window (T20I)",
+    "result": "27 wickets",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2026-02-19",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": "Ajantha Mendis",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Varun Chakaravarthy holds the world record for the highest wicket tally across any 10-match T20I block, claiming 27 wickets. This achievement surpasses the previous mark held by Sri Lankan mystery spinner Ajantha Mendis, highlighting Chakaravarthy's exceptional consistency and wicket-taking ability in the shortest format of the game.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "17 consecutive T20I matches with at least one wicket",
+        "holder": "Varun Chakaravarthy, Arshdeep Singh",
+        "date": "2026-02-18",
+        "venue": null,
+        "tournament": "Indian National IPL Record"
+      },
+      {
+        "label": "Olympic",
+        "value": "818 points",
+        "holder": "Varun Chakaravarthy",
+        "date": "2025-12",
+        "venue": null,
+        "tournament": "ICC T20I Bowling Rankings"
+      },
+      {
+        "label": "World",
+        "value": "27 wickets in 10 T20I matches",
+        "holder": "Varun Chakaravarthy",
+        "date": "2026-02-19",
+        "venue": null,
+        "tournament": "Outright IPL World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "wickets": [
+        1,
+        5,
+        18,
+        6,
+        20,
+        19,
+        22,
+        20
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        10,
+        10,
+        75,
+        90
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Varun Chakaravarthy has demonstrated remarkable consistency, notably taking at least one wicket in 17 consecutive T20I matches, equaling the Indian national record."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPr-yIrP2eumfaIytt6e29kLTKd3RUb1vqOMA2sEy1z0JOeG-8muEB6sQ1wmAn5BWUFhpKarBmvLKIkfZOB9w_yxyhKK9DXjpuoZ8AiUM0j8qMRTD7gR5SwhTpvNoqYcxt77O9cY-H44PgSj18X6hsqmarVbU_OY-vBGlqRdE0KQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG80moc3mMeRgHOIUb6898OBIi3V1cgt87nMczW8-9V63-pW0vZqve5YirWmX5vGZ78kitheAu61uHeI5zcVKOcUFoVdBTrwXy9TqKKH-MXPip1iwRlFGz6d2FedifFjuXFl4uaZyDR7BKaGQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA4mb_oSWoTRcaBjQqfj-udLbIuV5t2HGxZj7qagifVzq8DE5GXens-1aWTVLEY6aG4U65urRe0hPsvOQcmOaD2uOhVduNSZt0OEv-pzER6LaQ61f0pdAa7fhUJ-sNkQvzNSW1qnzowBhMiQy6ia11SL9wl55AqUaVsrOqPhVaAL3hI05y64CM4kb0OlhMsnrac21-rEc02DCfI1QIpyhxwRYwHyo8eOqIgsPnraFM9moiIX54YDNBKOX1gCbnBR0Ufc86xs5FUn_6XT-E"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T08:37:09.863521+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 25,
+      "ballsFaced": 46,
+      "battingAverage": 6.25,
+      "strikeRate": 54.35,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 2134,
+      "runsConceded": null,
+      "wickets": 111,
+      "economy": 7.72,
+      "bowlingAverage": 24.73
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "chakaravarthy",
+    "cricket",
+    "india",
+    "varun",
+    "varun chakaravarthy"
+  ]
+}

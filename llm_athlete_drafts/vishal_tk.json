@@ -1,0 +1,366 @@
+{
+  "athlete_id": "vishal_tk",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Vishal TK",
+    "country": "India",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "gender": "Men",
+    "dob": "2003-12-17",
+    "heightCm": 189,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/An_Almanack_for_the_Year_of_Christ_1672._1672_%28IA_bim_early-english-books-1641-1700_an-almanack-for-the-year_almanacs-coelson-lance_1672%29.pdf/page1-500px-An_Almanack_for_the_Year_of_Christ_1672._1672_%28IA_bim_early-english-books-1641-1700_an-almanack-for-the-year_almanacs-coelson-lance_1672%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "welcomeVideoUrl": null,
+    "bio": "Vishal TK is an Indian sprinter specializing in 400m events. He became the first Indian man to run the 400m in under 45 seconds, setting a national record of 44.98s in May 2026. He has won gold in the mixed 4x400m relay and silver in the men's 4x400m relay at the 2025 Asian Championships.",
+    "birthplace": "Jolarpettai, Tamil Nadu, India",
+    "coachName": "Jason Dawson",
+    "yearsActiveSince": "2024"
+  },
+  "record_highlight": {
+    "event": "400m",
+    "result": "44.98s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-05-23",
+    "city": "Ranchi",
+    "prevRecord": "45.12s",
+    "prevRecordPlace": "Chennai",
+    "prevHolder": "Vishal TK",
+    "improvement": "-0.14s",
+    "improvementDate": "2026-05-23",
+    "aiInsight": "Vishal TK's 44.98s performance in May 2026 made him the first Indian man to break the 45-second barrier in the 400m, a historic achievement for Indian athletics. This mark also surpassed his own national record of 45.12s set in August 2025.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 46.77
+      },
+      {
+        "year": "2025",
+        "value": 45.12
+      },
+      {
+        "year": "2026",
+        "value": 44.98
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "44.98s",
+        "holder": "Vishal TK",
+        "date": "2026-05-23",
+        "venue": "Birsa Munda Stadium",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "43.03s",
+        "holder": "Wayde van Niekerk",
+        "date": "2016-08-14",
+        "venue": "Rio de Janeiro, Brazil",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "43.03s",
+        "holder": "Wayde van Niekerk",
+        "date": "2016-08-14",
+        "venue": "Rio de Janeiro, Brazil",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "44.98s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Sprint",
+    "achievementLabel": "Indian National Record Holder",
+    "stats": {
+      "worldRank": "63",
+      "personalBest": "44.98s",
+      "bestYear": "2026",
+      "totalGold": 4,
+      "totalSilver": 1,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2024",
+        "event": "400m",
+        "value": 46.77,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "400m",
+        "value": 45.12,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "400m",
+        "value": 44.98,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 5,
+        "gold": 3,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 45.12,
+        "averageThrow": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 44.98,
+        "averageThrow": null,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "46.5s-47.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "45.5s-46.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "45.0s-45.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "44.5s-45.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Vishal TK has shown remarkable consistency and rapid improvement, progressing from 46.77s in 2024 to breaking the 45-second barrier with 44.98s in 2026.",
+    "peakZoneLabel": "44.5s-45.0s \u00b7 25% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "43.03s",
+          "holder": "Wayde van Niekerk",
+          "date": "2016-08-14",
+          "venue": "Rio de Janeiro, Brazil",
+          "tournament": "Rio 2016 Olympic Games"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "43.03s",
+          "holder": "Wayde van Niekerk",
+          "date": "2016-08-14",
+          "venue": "Rio de Janeiro, Brazil",
+          "tournament": "Rio 2016 Olympic Games"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "44.98s",
+          "holder": "Vishal TK",
+          "date": "2026-05-23",
+          "venue": "Ranchi",
+          "tournament": "29th National Senior Athletics Federation Competition"
+        }
+      }
+    ],
+    "beforeCoach": "46.77s",
+    "afterCoach": "44.98s",
+    "coachImprovement": "-1.79s",
+    "coachJoinYear": 2024,
+    "coachImpactData": [
+      {
+        "year": 2024,
+        "value": 46.77,
+        "period": "before"
+      },
+      {
+        "year": 2025,
+        "value": 45.12,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 44.98,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfz9ONQAaPx49h7wlUY4qG9Wos0bLmxhVLyjO_h2NM9s_F0GIgp6B0uGS1dvIukIN5eMr76WzqyaXRX9XayqQa_q29lT6zZt4lzLC-IV75uWfInF0blrYel2n2TljyukaaAVH0SlPJq4uLCe4P0fFz0gkaNpw0Dd7T7R88J9AJ1bxjS9wP3sVOHnKvweOV7c5rbTM37EacJZmEwoK-eG7cXg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCunU035XuWoAJmTBL-JBdlTZnYKeqdqUoNL4uS17iAH-ioGtgI7h117CkRMezLNduhuM-_rIhgykJ873j1t1TZN38nf2pPB5z_oQByz2zmeZwETkG3SO4n5x8B_yo4SHH8LBOVhyLuzWV9MNxKVdhID2dD0M4n9cKwhAdznP2tmQkTGQLfFPVqiuUAbT63DCJR93r1gDAF1yNcl8aEZsNseasr12VUzW6ZiuArUtOZM1yaLk3v0wirgc04s04491uIQ4QxKLHeyqT_p4vonW-20v9ZCoTDbfAfm72IL_C",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtNT-5C5AxTYS95DpZ6Q9BPAuHzI1tHzawmYjedAWOq3onLpgabuev7G8lPwK3buURtxhuMnPqV2aS9aDOqpC_J2Xdzy1FtaVq6fvUY-f27Rt8HRSYw9s0AE6Dw9CiRFgjXyfF_6CQ5xCFCN476X2adhsKORcVAD8ggA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ8aSH_pFS-n5JEJohWaaDFausrKxjsDRQ1ctY9k0qx1fMQF6pbnckXwOMlIEklFHdpkTA6qoiXHKxujJfe7J2b0CO3UOXWBHcjD_DJGQxH_a0aSEq9xPQ1fRjj1O45f6pl1xnnvQpRrSkvDZUJxHFKVMHeZ7jGUVbb8uaEDWUrBnQdJ_oI1vqtdKfCqkRmYVv7lZ5xiuo88QA1Qr50vw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9tk4r1oq3iZJl6wiTbabrIoydoyjJBTAeNr9SE8kbo_SvtpKPkG1fY38skJ14r4PaxC2qP2fEOCVVAHfypifxVESXgGtMf8xnJX79SnHP3hceMt68NZFbUJr8N-VQIZjFdYTpzA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKhpys8e-SN2_wraPV4Vt_grxYTQOu1Qoi2sViRCPVCbQBtkxS_PoyHwqKB0fiHaokzv-kHhyqDg1z6zzRAQp1yu0V9cYq39zwd9zqquzOoQtL5zRqXqPnUFwmw1tYqbFZDL_wQdTzThM5zyqvh9zNGnpXl0My8O4jJE891doWDRA8vf-Tcbula-HVDt3TxIKX1xNx2cRoauS7dc9n_kGrNrA-ogDZlguoGmMUdVrtGuoRsG8SOBwzLgJnLZkEeBwwiFpgnUveDGiS2yGgdw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF24rt9_bPDmXsmxH7w37bsaVa31bwQ6fHqAcwmFb3H3FMNd9PRe56Au2reDyRTwCFlO8B0RcyZkql7-xA1aCAWPfu2T5Ehzwtgf10OxQ61qNlNigs57Dm5u3uE4_WdVRRby0SCV2r125p6O6fpLBJ9vLFCRdw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3CYxDbJxhvmWAcRlnS95F5aJHWJF0dMglvZAc6tbZbdK_E6rvLTTVikih0OVraYSrvzxeLtluHhhquGUepgoy-Y2ZlB3tr1cUZT59GJQhIzhTO1-sn-eRbfg_6GRZbaA0ZWcRapVfZRmlTcuL1fwXxzPP71ZTi1B2JxKkZat1kCv5G2zm5xgcWQ961GGCkHR8zpPU--RhNKPrKs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvqmT-2Sv9K2hYBynzucfODM5thbRh0UVyJG0TzVC37Wv8q5-Klddg8xGWTl-LY8-76SjFZ5YgubsGuGB8EpgsNVbHpxzSHvCP6ndqhQn2R-woi9niO91jeQMa5Pc5c2wcjxgsNvUusGH-yhmuzKUb54RSzLjV9SrShMLc4g-5ZpIU_HiKbfrV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGezcHh4oJ9ufV1JCrooN-HKlhvoKUiWqTe_cOstjPcG6LA9Tjh80rpAUOMk4dO-eaefM36utI0-t4HR72BmhWe4Qk_U_5c2eQ747XDZSjv-ER6fPbftxCoqxC_bxJFLtKUlnKMBF-tZNim0SEBZIBX00mSbz8dKkurI9zI8nq6djL-DTGsI6JL8-YYaOII7qBufeNupwq6PPDPhIqKdRPn4CvC0RfqXUOooUKXon62bLywIBwpCVmhLjyLEZ3XnT2xcG9xR_aE_I3Yj1gfQDZ1zn4vIQHAVIa",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDM7z3uXMmbk1VXZD9hSf02d7JqMLDdpPaWc962RKkGt1nhV_yElWGhMgjHdGGQnsspLe4xlSyiU_hb15AAEdeY-dRZMCeWDl_vsgFCrCl-lv_riZbXyMMam9G-kl7eSpZkzWbP9l9uZWpJXIKYoesptbX2EXMNdx398lz-094UDMgJL4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH00F7Qun_Xq-OOfiboDxxJVBM7dPDHLXkCc-khlD7H3XTUXO8rwRXESoLhEAJZNULhMxtJCpUpT7sPCGeaKcZX3Q01q_dBz747dO1JO87pynM1Tazb8qf2lHxbAHzSouCtnhEwDYxYCgLRr6Af5OWX7E3zgLYioJaDTDCUDKaKSFbJrwsmFzC_d4XKQA1VMTXJz20O6ldkVA2jG8sDcM4xYOXyogyxr8LeMpyJ-JHIgSzR2xT8NbsELDRGkU4vDbUd0x78YBE76rpHi_t2m1cIdAfAogZmoOdWd7h3UZWR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJuAxFgWHZfJsvyCNglQDfsqwzEHzXVlV2GnfbF3rXVcMKsRsCH3w4IzFPnCF_C3TVe8Itkk4FRruINoqs91x6EdQnZnNfv62Kz_CpwrrDU4fWf7rbRHKjRt5A590O6agFFX1LSyuFVWSdPVOXC_hYnRz9qRfGkJnG_YdDJCrjy-hLzBkKsda_PS8auRFpe90ImQYAudCsJuZ7KC3gpozKig==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwMMX6drMsAtfbEvx6cJ-bRuqBVtTHbSPvbjMeiXQM2tOEZxjrfLYOZXjpau5z5XavcLs3Xs_E8DF9DiTtF5R-PJ1ucAKVlA4QyLPGCYCgCgbb8useHNMPVh_HLKO7lER8f9lInGGJghwI7wqb8xJMIdWDPUv1ykoP2PKqfH37NQZZZiTy5LlS",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkornv6BenkRaCDb8t6yJqeEfKZ8zB6asE5AvH9dfs6uyHjNKB2mp0HEE4c6_3lnPF7q9n8y53K2VWDmO0LuJgve2U6fNmB4IquHub2eTAZtuqdgPlPxDxS19wnbxEYwJewj5gPrOMhWtFyN2TzNiQ1LlHGEnO6Yy5lD3mHMKmXZ24vQk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd-llgaESzzIk3-Dm4DiHhg51Q2Alk8X2UOi-1m6iAzEQUyAtZ2QvqbLDvmkeKDDZrb9Ox9002nCmZp7tPNu60qSuHGgK4WJQLLKngjQbhdZhhZ22oDQRGGw2QPUd1c5rry2MCQM_ohSfZ_o-So2_Y6ouOr4losv_j1ZyBEUD0pglmlpMp7NarOnDUGlJaQpbcK2ZOHSBsrEo-67Y-J5Cf_zZ8uAOWNgjvhXDrDee9y2t6uMdzW3d-XN0vvi5awZPxDGoGV9cXK4c3lhKUPxs-tis7T6gsqhdzvDwekUi5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb6yeL-lIU7S_YcjjH-6dTbsU0fcRn4I9f6l7hFKVfC4tCnS0CPsGt_8-TpKaYspFcwgz6CxTqXmlFQyPaRc89b0fqxHjTdibeCG8NYgA8nJihcsOLbx_ENDaLCBmfMlgdtoE3cME1U-RMPO0HJSC_ZtwEgHqsrJYlsw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNybm__Ac_pHUaR6SH3VY5OVeQZUudzqm2yKmgoUy3yodpRKxXj31MczUsYxYMg5IHVgVOjnLHpkuyvoveD5paQBGuZ7rXENz6-MXlPf091VquaEW4ER-8WFAbMIcwMZchFNXp_0n6NHV1_lITBRg6kwXSj1SvuRuBvd2UtbYyj41jTC3BwJC4wn79HWxTHtv_Q-8Fl2B9MlejIsZ-DCqjkImKaOAoVGYBVIRMgAaDx5R1UaWqxxbx476L5qGdQvsVXK1AfIz51hZzwpxFLA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL6-DElPyFswGvUHmvnkEMGFhChlS2H85U6GXLKCjXlXxfFGjdaKn4R8NF_QCd3Q8eBVMfBj5LsJkX_B6fSe112oF4qRK0EwIOrkFVJ4qwzx9TbUqYj04qm0usqrKEtWP7zTKGaeTIz74tQPeYqxvKrhdYYizmpFS_2fKmg1LiSd3QVs8zHcmihO0kKgSTZLoyoIwbr2Dcb4aUjHbnstE8r4Y8",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_zz1fs03bsmpTRoArKfzw3kLCTwIaH9qybMiAyFwE7z-f0vrqhQjXJR-WDdKYE4d4IQbuux3kbUQorNkfwqWHK7CFJ3C6PEV6lfK_X-7tOD4QBQwZBwx1_Evv4pTFiyrmzfes73T9wF2cRDa45vbuJrfo9clPwP-Ze5n8KFx5VZeLXvbD4qSx8ch0W08MpzeTfvCXOh09vRI_REeZYP_i2Ik=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC8lYpF5IGaeV1JlU9OFB9AZJ8KKvQrn1Nj401Gr1maoaCqVnkBW4_wz7cfvKJ-l3_9fH1Al6_mWSOKvwdEb0kANSiuf6Wv_bj1c0iDeOpwQk9pAqS9g1Q1Q1a8xnCmadzxPt9d7iko4WroJVYRPR1F9DB7jkn9RMyeLFKc9xmUFQgdIBMw_BnVlI4yNfNuiuyMIDx2JiTm61lgwUFZhyomOFhFzpi5IFkoc_fVOEbBdNew59HzZFqNEDFTc0SN4_tozII9u64EG1Pb9LAKA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGsUsstAR_jljUlAVrDH-GFr_8Kb3jPOaooSUUGVqjnVS4fHUofsDzdyObyoUY85UXnnddQqzxer4aLS4OTECJT44E3mE30LtIUNuJOrUgIp2pi8WKE1i1LIVI9j-LpBYzjk6PSy2WfgKh63yRs1NzIOGI-ZR-fBBOr4GbViUlAN6GJKq22oMchV6E-xS8MH0C5xD_iV07LT6B6D4Ai5XVby8sX2T_5Ljle358IHny_csTAxKjE7_cch_aHbuMEbnThzlOODIsZub1N4dfks0oiHA5lTj8Xm4-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj-F3XHk-GQNbr7h0kwTRb8Qu0jl6tMRivCYyg3s538GaNgzngi2a7OMXMcNPK7ITTWd0ZfrNTf65Ghjv3GipPYqeoaOS7FG7kpaGL2_OH6YuEbyxi-SiWWTb-3bI5d00GGllrquqYgbWU-Osa886CjmWyV3bM79kS-0oL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM7FClq_gfcTcKTuS4KTtE-mGcGyX_tkRPOg--mSliWkoTtHzhJshh4oTXZLpX2xh0Sek_nRum20rte9gXp-_h0iXWTM2C5YfWV5izno-_0b4JOgJoCTDgXw0IBTI9FJzvvUBd6eUexS3KF9cK3eM5ZF-VISR6NMmP_DjsA6l3ZS7P4J3s4WLUCIjrZY68P4v_wPGkSwJ16V_C65cXdKp_JpUXDHYYNkk3ZVkHPVd5gqqZIfcthWGcgRiiZ2zqeRrE97Mn",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKZ_7lxOB5pRxJoZRf34VgeN8_eevrfixPX_hgAyvaAPbq1q8seGE8F1beHcFyAU5HNT6oFLCXRhCoXXzLOb-kZIdm9J6PYuDWQlds0vyIECy5TtxHA7hvE19ZmXySl2SAZJLumqwkWagrLT9eyfjqN0RT0haAV_zVC578CVbfU7wb5Ms9gmp8LuTZ_XhjVgqpZDl1tEVbPsvy34ogFSmtbHBJOU-osLurozwgI2zcSNkURIq6PQDhkTplStBS09ZOYfiWHUirYSOebH3T2Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEInIyobmLJ6l2tRyfcwJBwoELMwo7gQBY5AXbKKLQdvKVpH_5c-gxPaOrBnH4YJ3y2Y0JoAfbvAq_ndlWpnzEFRK_p2qedvVzJLVw_3uSiMfdFQ8FLTRABYB6QVw9-L7sz5J23KUgToDKnmZilb2oYrInUmcpNQohH79MIFKJ4g-EoCq0BpfG0GX2knFR1q_I3xiTZUMPEbwQiVdY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqyhxFpUHBLwEX7XArSk7k0MZm9sVjECmCbOId9kJBidFk0y8QTZ5VaEpjAS1qvdXDs7AAtLYG_p2KN28t5MrSE1ApP8UfemFzSqqn46krIwpno4UJP7CDq19ns5oVhtjT0tJr88_8R2EE17O42QH5hE52pYNVmnf9t11dz6T-nLcM7I4rXDNQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7GOyk48--NkKpknXIpm1Q1GqQmo5S69nk04ep15JNSkDjpPpJ9tVcPTfYI1LueD8vVzT_GU2WfB3eLCUTlPg6B_6KeZeZIT7CVYopQTQsuqOhXZjk-m3u0ZBfjo9sqYeUFiOJBsC7Fzo7ZiCR6i4351Q2J3dQzYUlNwl-ygVgFBroVWUK-funM3C610u1pWNBhRVYE9gZhixhUS0lbFCGyIV7YSMX4fqqtSX_qBWS3FDNX7PL-JVcwJEVXrbJIclnP74p66YGBCxCz5dObLARjv8r-aqTUGKORUMMrR-k",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEThIox7Nm2dqOwRRY8e8zYNc-t_KxNi0QrLgQzykiarsTkl_0Ub8TVsz_lUzVeiHbU1aqHDWKrQCHNPCDRQngEfMKeKWEmxt75cZAyDfL3oyo1VhMhRFNuvGXlQxiQ0bv8WY32dYT_q8NlI8KM_UAgCObEycPFFgoD2L6w8rQLo0jIl36PcoJia7LC-EQ_biPtwaB_Lw-slT4lG47CmRQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmLgFnt45t_1YN4Er-v5tHPJRRDBqglI1Hp3_NOd2i2XMByxYduGVCfqg6-xQf21Q8hgw7CpdRPxHDo3gCq7JwG1VycN8Xy6-GUY5p2sJg0zMYgKa7cj3BzGpHWG2q0RjWk9_BE-UCZIGwu3cLZSiFhM-0RA4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1G_JgU6a5qpivfLx2s9nlogc0SLDpOY0wXMp6lvYC1eCumX_0-khXy-s-XSdiBsr7aNApLikwF7ENmMfyg4Di7GDoUOfjbxTIkHC53NLED7wwjGa30qYFD7CpvXpttxixYb0UNd-U8cRJ_OjvXrgjKKfPKLedtmM86-3ZxZj87VuJZ1JVlDi8mH6YV3lMdezd-K3rpWACSTSL27x1uAf1ZZZxCA_hIU1e61dMjD1LNYO1BuJDEPqtf97CMW59v_lMBEvbylk49ZhllOXKrUWLyDvEBBO9zLlq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtXmvRE0NqhBVwtUavWpqVtnWq3l9E_ZWAv418PtBnpTBaz9jWZWNV_AJFxDjYbe3vMShpGzK7tknalg0Q4CyA9nxFYaJDEHj7hV4r3nISgBw4S6O-EQliB_kVP6o8eVCTXxOSoOEH09cTfAY0w-jsuzJ9Mke8-AJsLHRyIa535QIgzcOrRT-rbWnS__kxdpo1-SpYjiAEORwN-sq6MlsFF6VjemRbvdUHynQXrtHSC_KNG7GhgiS3uolto4KOMp5mafqaVZR_W4BucdcW-k1SCiNf2KRfer0zfu-qvWGk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyc9D4-7jEDzTftHad2pBhDWfW7oYc7m-Mc-ozBNfD2d8izlfYKshOhF8fubE9Wy0RDrjv10xJaMabJSsDsb_d_Vp-Fm9w_PTIndQq3qGKlxA-XwwBx660GtMygGk0jJB70WTrvZq66IROdNo5IpWwvkwK2l-kwmtMUA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9l1CnUpNlzeJIN2-k_PNr0dcOc8abyQPM-uME9LfAIYE1pz3kHLjar11OJqZiYRkNEZ_3tetCSrtwBDUwdr02-5IcAkyOg9fnRJ3kZPIv80OngBTqCLKzCUV3EI4wTdnA5S8mre9UisoD_NP8hwqSSoW4jXpmyxc8VEq4Bb9S743MwCxckGvegPmHLq0Yw2zmZ0yNKPIYnggc38djJKFXSACP8sNuruCK6Uye2eX_8cU2aDL6ZZ_qkasJZeSLpR0LKjcW"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T06:58:39.593612+00:00"
+  },
+  "performance": {
+    "primaryEvent": "400m",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Mixed 4x400m Relay",
+        "medal": "GOLD",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "Men's 4x400m Relay",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "Federation Cup National Championships"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "National Inter-State Senior Athletics Championships"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "World Athletics Continental Tour bronze-level meet"
+      }
+    ],
+    "stats": {
+      "personalBest": "44.98s",
+      "seasonBest": "44.98s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        44.5,
+        46.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.heightCm",
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

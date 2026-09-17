@@ -1,0 +1,336 @@
+{
+  "athlete_id": "neeru_pathak",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Neeru Pathak",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2007-01-27",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/15053534.jpg",
+    "welcomeVideoUrl": "https://youtu.be/WpJsVqAw25k?si=EaTJqG5Ekk-f4GDP",
+    "bio": "Neeru Pathak is an Indian track athlete specializing in the 400m and relay events. She won a bronze medal in the women's 400m at the U20 Asian Athletics Championships in 2026. Pathak holds the U18 National Record in the 400m with a time of 52.85 seconds. She trains under coach Vishal Saxena in Meerut and Delhi.",
+    "birthplace": "Gadakhera village, Aligarh, Uttar Pradesh, India",
+    "coachName": "Vishal Saxena",
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "Women's 4x400m Relay",
+    "result": "3:38.07s",
+    "type": "CR",
+    "typeFull": "Championship Record",
+    "phase": "Final",
+    "date": "2026-05-31",
+    "city": "Hong Kong",
+    "prevRecord": "3:38.20s",
+    "prevRecordPlace": null,
+    "prevHolder": "Japan team",
+    "improvement": "-0.13s",
+    "improvementDate": "2026-05-31",
+    "aiInsight": "Neeru Pathak was part of the Indian U20 women's 4x400m relay team that set a new Championship Record at the 2026 U20 Asian Athletics Championships. The team's dominant performance and smooth baton exchanges led to a significant improvement over the previous record, highlighting India's growing strength in relay events.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 52.78
+      },
+      {
+        "year": "2025",
+        "value": 52.85
+      },
+      {
+        "year": "2026",
+        "value": 53.23
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "3:26.89",
+        "holder": "Beenamol, Manjit Kaur (India)",
+        "date": "2004-08-28",
+        "venue": "Olympic Stadium",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "3:15.17",
+        "holder": "Soviet Union",
+        "date": "1988-10-01",
+        "venue": "Seoul Olympic Stadium",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "3:15.17",
+        "holder": "Soviet Union",
+        "date": "1988-10-01",
+        "venue": "Seoul Olympic Stadium",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "52.78s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "4x400m Relay",
+    "achievementLabel": "U20 Asian Championships Bronze Medalist",
+    "stats": {
+      "worldRank": "248",
+      "personalBest": "3:34.70s",
+      "bestYear": "2026",
+      "totalGold": 6,
+      "totalSilver": 0,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2024",
+        "event": "400m",
+        "value": 52.78,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "4x400m Relay",
+        "value": 214.7,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "4x400m Mixed Relay",
+        "value": 197.06,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2024",
+        "events": 3,
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 52.78,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 52.85,
+        "seasonAverage": 53.80,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 53.23,
+        "seasonAverage": 53.40,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "52.50s-52.99s",
+        "count": 2,
+        "throws": 4,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "53.00s-53.49s",
+        "count": 2,
+        "throws": 4,
+        "percentage": 50.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Consistently performing in the 52-53 second range for 400m, with a national U18 record.",
+    "peakZoneLabel": "52.50s-53.49s \u00b7 100% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2026": "World U20 Athletics Championships"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2024": "National Youth Athletics Championships",
+          "2025": "National Open Athletics Championships"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFymSXAiEzHBJkEyOGd_VkypfcOHJEK0LsMFCsHtLIL8QPYjJG_rWHFiL8LwqN8IXNUqoNLLdNubku6MVrRNriqajsM70k5nMVReOJbBSPOy6VCitFVMh7fbcz0wP3Ov8rACSkPBF5SZpfL2jjqeiPpz7ZuvoPJ32eP1l67WDXKdXcx4mSKFvo0pHcpMoa8tQb0ZFaaPvDzYwEeF0KEX5EEZrNdiP_p2yY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN0QXq96lLJdXRgokDF3blB5cEvBMKyijaR9bZp1CgfgsqlVRBHXJpLfdNcvWLYz1OJq9I9KtSz4kW3IYOfREmzixP66Ob0bPAMlC-J7sDeNT6imOZOHQxXawNmJ6C5V2t9fLGa8y2IhXaaFb-usIzcwSlglMF37cIFmvjUu6r7vNyuEGhLm8CBRGtqlMiNTU2wWNFlW-_7yw6f3poyldapmEPnqTRVvb-1yMCV9_XBF8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd5IgnKrpQd2u3jPeusdtwdl2m2jBLVCY8SM0-wwXqQEjwLri73QuhpHy7wQMo7IRKhpPefe0UmGQIGFjR4dEF2V8GY5r9esGDZEpJgyFCk11eMS2W6QzUkCsemweftgyRTjEe-jR2BJqokMs5CnzGgAmHcnJ_nbKuc6d-skjVSb5QDr_DotMAhf-mPLFZKvRGLnqDhxaJsqPenCN3gA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhOwPr-YOsplhF4yB0q-FRZn4JkatyJG2gxC7gglfmlm6FUXCoV0MaKZFaDDZhJlX4rjqCjkEgo45R2zHHPO_xaAoCkQga8djI5RuCl8Jo3wQTUPV3VUvf9duwG_KqnvigYXViG5SN80t0_TdoJNIsOhFuSgmC8CwDchAywoYfqLgq1FYGSovJ35NW19T55gdEJxhavqlDl2sbZZ3d6qGn6Yd1NXpZW03IY_V8c0UmNsnBMqoMenr_8qUokRMd1AF5f5x533KMHemRocbCoCCWU38UU2T3mfiXtnrGmmR3IXfbElPvaKX4tPg1",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr1j8T2VNF5XVpP7xRraxKMjMrf6gQ96hoznsrWFhejc5prrwg20sCz0a8Iy5-lWfqpaIXp6TabSSb-vtd-vS6-TEiMjOb8XKNE2wdAZtxCCm-2Cuyi_JhMb2T7_dEnZja7TeZ4c7tjZ9WnEaWwoQXysFYT4jxWgMfcLHzP8F0yAhl4lJlRjob_VM5H02jsrdiMRnLdO0zHTrk7ML9QLeH5LXz6GkNeyMh-ychBnjsyah40xjBJPKbiFaCDKO6HfF_YaCOB5ap1QBfBALEqToQ47lT-MbyjDHAKwyKuNI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRsKnrhiW_P1nfjTm8xdjq_ba1OR3eEczvqEgjJ8zawr1T_pPYJa5Z3TETyZpqaErHUzpjXQA3z_wUkdEquArLFk8M2pTw-sZC5tAFZGTANHYChuWMNEPZ1S9PwvMZJM0VH9Vky6kLqnpWObG0Dyqt9hy9Q4mpCtVuCw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7MXgt3-geTZeQNSMm6vYbhHuN7Wdhq4LQJ1pO8KgBkwK4FURBRl8f3pEBG-3nxsaqbuizpWqOHiq6-aH7c3luAlscV2ky1sE0mHZUo4zP9zK6XZs4XZnmKG7WUe0_ZLYKg8s1EnkKMQSzZBhLoR2j2aaJ-oISLuNTT7MJjx2E5bC4dSsdR7qBxNzG0SqoGlp5-IMQqMO3LLCr",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkUKMsSLOJHUkq-Y53viGIMSE4obOFwr-Lafea_pWry08nFvjqcTNvYl7GnsdLuVCmXw-AFYvOvFgNExERPc60-dc2WWEw9cLZj3LD35cOc8TVJJdgaQMVVHn4XFQuivZ-1DJoO6Iih-FH6J-duFeJsGlNK-VgsSNJvloS2aWCc56ktakPZumuY01zqjwB8SayOENuTPX-p4S5dGoogg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiEzdk04pAD_GJNHmBbL6T59FmyFkUDZu3jZVaCAcvj7QFYfDYuNIrduDB_4XFkjQuiJGjNEPAF97KWMG2pBq0mOi3KtlPEWoAWuXLGP054tSOvQ7kMz8-AdI8An7GpJ52Y9CtsTU0xZw1HUOPLb7bSQ0Sq3tiPocbfg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUH-0OYpbNBUPFpfTSVcsz4ntg0aw2fuSozxdeqTA-rxOy5yPl6NRHRFJHOD4dafZTZN-etEspQ1g5EAKTyAX4DL2Yq2vbsb2Ep8v1pouu2eBDSJscXv0O-_M0RUYkMNB2JTILoIXVDWDb9MQXej5_zFWbgTNPIBGKR_PeAtHtRHSQF9oWTv_RyEs2qcpkvuYw7d6aEE0dE_Cv8LXRhRQ8wklYICaUVaVlGLVJxRyLyBL2FmvUWp60nG7-k1wklVOFt5WwimSZ5j-9YaUlDFEd_weJ7JrmK4BdW3ztTVFXeEb9MLCmTcK_EjQ2",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_fEWx6FceP0LVa46FYwL1F5r4rrnafMnjI-MgF-A0ApcjfSnTWcdHLwjCwcxn-nlSldWrUNsG7htM6p9__aHw2L3u0iKpxyPB0l44e8txcKLTS32qA4P3CK9GTxWZJFaJ3nAja24NLwTkkuYSX-yHuyuIDppJKvGME2FXdPb8lPDs2Ging7V-2I7njts1x6dE4-I2aYHcFB9jR2EUawV4HvbKY_d5ccjHbIguWwx8tTY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyA2WHkpe2zBy2sIymY2-RYNwTNy-cx8svfRfU5uah7DA4CRjnTO6dkpL4iLM3Pi3_emaQFjyxsbhYpmsb-7rNTrrZJMMKAGPBF68JCJg7vRRSlm5hEDRpDywBYfs0X_Cchu_QOf7SdaO-x6ttQyFVDn0mZLaQ0LUEmroLitivxnIMKfEiyhQER-iMD-6nSi40NGFsNT9IinCqaHbwZZKK6oDJl0_VzOD9zjSH5u8nbTlASAV-Hp9hRx42qkIHzQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG991nKWZCLbHxuSw7iUlP2-oqgwUpEvXtuw1xH0aisShekWFu7KKnV02C6od4nDv4r_2jrLzOQ45OaHPenUrLG1R2kmrjotWghzamr8nvgm0vj4ivecHIahwOmsUY0c2mX0F94cmzuzvI4pC7U8R-eeZOL9lSDpero3ao7uwofDL8_Bub77X4AJDqMQE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFwq-Baajb47IHVd6SQngB5J_IzneXwWyPsM3JoljM38LY83sqgxhhPBYWnWgCnTW5BNXk5waFaeiRxgOHMcOEL9Xpb3P50-xD8IlY_LyvTqMav0jNTcWwYNDoak8Wz70womCR-l4xpKpQK8KA17L-7V0isqu1c4DZdxJLAAu-AOxdTja3Zgka7_IOsP67HqXJA_l6avMJvSADYtVkQA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmbgg6mEIxOkXd_W9KahSMkb9tSt-HriSVSv2KSucVx_CtFhn6ht8hiJmGKj-dl_hRcnVNsvJ-ij4yN-nbYgiWPtJ_dlLVj5xkVpB6O1wLSoBovv3Oz49ywNimksdMf_NtA6tDxfEAICRSuimw6RaYq_W1auVuXB_pvJDK3H1HQbHdmdnDbwUc5jb53pNE2I3TiVDDImNE-iODs9koLvqv7Vi9W1uBxtVFs_pVSj3uftg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElVCIBfz7_Bzwxj7STDIZLWKp7QC3k3gVOcF_Qgqa9wXUTacfrYRYxNw4jhcbfqoVCHGi7598jHpNUKePtxbyLuohZ3RBazOTNQ0dChbUGx04fxlVcvrj7LvFKV2v5Plib-sDBCvN9T8BEgI0360PF4gcz38m35D52iw_Ikp487prSG4N6dml15Pj04Xegac70oI9ClF1mcoCVjHHp-6F3aSIVabPESNIcHh7M9nxTT5xab19B6ScH4yz0KtZXLJUmIU34Zbe9tRckNgJGDK4V3PuSPEdfpAycYtMg_vVjhq0Vc9YYfZk9QxVI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxLgccEgl8rmO3CRNvMJq4jeMP5BbS8OBw1dCVlmYhV84rzPfZGPPd6Wi9OjiOdAgWTIwcpGTf3Br-_697g0w60h2QwdmltJcxiErjvzweUVJvN_Tc35U3dXWiDgT58VBnKzig4eyUTNol0Z8EtmJAMIrePsiN0BCDZ9u29BJkiEZnLFh3dyzhkSmkqrMFgd6j7n98RskjcWzo6NFVeDV3I8EDHMWT913JKiJYjHBrr_0yUwb320djkyxacNURwzdm6kgBdv3Vx9c5-sQ3LSEq04EfCWJSnpWyXMtIHWu9i9bl9lxvDYxkp2fKXfLh_pPGVbi2nR775thuVw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7IY5EHiiB2OPP5jEzbcl7nM8CBI1G0RmrruAQIHcmcl0qCBn01OduJmD_-nGc8Ym1D1I75VRhJAL4zsFZqMhlWKTSHTGwWcEDy5XkuakBUIq2IS_F-zijt3lk27ZA6fuFEbko2l8rYyq9rrg_eaF0XtYGN4JYDMcIprL0sippVUxXHVFMKi1ARFKcZ59GrzOi3GybsYvMsaaQP9CvUnhgPzUzD9DAn9A6Bp4Y2OXYGNMiOgBByH51NVoz5XMokrIRkuLuxXzmLg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtiOh5K9Vmyys0Ytt61HfeoMrfyYG_ZbYDnsNfEAS-pyBefrDT0Q2VvDeSvFkpA8hr6I2ZwO9ksFlPNISGD7DzNi9rnDPQGND2c-52WcDbpuKrEgutBIPxhEAoKr-RIYiJO_EbxWxbGthwWGNHg7DJPB9cGUIJhHHtH8P_rGl1g-y2uTCgDuisMLFPmXPWn2pfCS-PbbMEmzxz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRUK3jOsNVLZlkzMaLl7zBoc3oPa-mzwmQ1LiuGoybHcTy6Ox-K7zFcGbacCFiZnIyUwqOh8lMkf7BZFGT0nUwIji3bMVt4WtiLlm_DNVHpwJp-f6XtobOMrQMbI1ZlDK9VL-irmSVZUyQWFm_7CdyaNhFreBPrBgOGWJCnzdRU2shYm4JlcNlyUIqAl5HeGaXRbtRMdLYXmnYX3PWi8uGeND7YNz7Zw8NgunLUeU_ZhHmi-8kM5hYChkFjU8zGEnO2KevaTo0ig152vPAK3A="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T18:04:51.668707+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x400m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x100m Relay",
+        "medal": "GOLD",
+        "category": "International"
+      },
+      {
+        "event": "4x400m Mixed Relay",
+        "medal": "GOLD",
+        "category": "International"
+      },
+      {
+        "event": "400m",
+        "medal": "BRONZE",
+        "category": "International"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "International"
+      },
+      {
+        "event": "4x400m Mixed Relay",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "200m",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "National"
+      }
+    ],
+    "stats": {
+      "personalBest": "3:34.70s",
+      "seasonBest": "3:17.06s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        190.0,
+        220.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "athlete_id": "bharti_fulmali",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Bharti Fulmali",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1994-10-11",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=v8fmm1ILwpo",
+    "bio": "Bharti Fulmali is a right-handed batter and right-arm medium-fast bowler from Amravati, Maharashtra, known for her powerful finishing in domestic and franchise cricket. She made her senior debut at 17 and has primarily played for the Vidarbha Women's cricket team. Fulmali's breakthrough came during the 2023-24 domestic season, leading to her selection in the Women's Premier League (WPL) and a recall to the Indian national team in 2026.",
+    "birthplace": "Amravati, Maharashtra",
+    "coachName": null,
+    "yearsActiveSince": "2007"
+  },
+  "record_highlight": {
+    "event": "Highest 7th-wicket stand in WPL history",
+    "result": "51 runs",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Bharti Fulmali, alongside Tanuja Kanwar, set the record for the highest seventh-wicket partnership in Women's Premier League history with 51 runs. This highlights her ability to perform under pressure and contribute significantly as a finisher, often coming in during crucial phases of the game to accelerate scoring.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National IPL Record"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC Tournament/Major Global Event Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Outright IPL World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        21,
+        133,
+        92
+      ],
+      "wickets": [
+        0,
+        0,
+        0
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        90,
+        50,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Fulmali has shown consistent improvement in her WPL performances, notably scoring 133 runs in six innings at an average of over 66 and a strike rate of 172.72 in the 2025 season, and 92 runs in four innings at a strike rate of 191.66 in the 2026 WPL season."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH77lXe3KVOkvgGiFBNQFmVU4YSld6jaXD2c2JEPm-ubM8mJ_Ufyek2ZO9Rc-ix2ni-S_dPPZSG__znp3avBk8ZUyD-PAjS-Mf5WZirng3wpO86b-1G315YZWr3TklN0dC3bg7DnJ1wc-fXhEEA7BCSLTO76aSW6AbC33TSUw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWZrc9sdGSykJwbi1a1bsTfm0WW9_M-S-SeVBe_418hnjwCaW0cuHsts3Zu4jaIDIkIy_-2kE9L1_6ExTZCGcron2mHwYQX4K77fFCv0i6QUevGKh1ulfHiXYo1E9eaeR6I9u9LGCrp-J2JEmJADMt9J9X",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAAYN2BnGB36s5mAbPy2FZ4fuQxdNwMz-Xfp2WPfamb_9-DuJue4_KS6n2M_5xQYdjzuKW-WKCan0Mz6zfKzimSvCil3uIGkPmjW57Kds75T2u8ZacgMPE7HhiXkx82T13o8h8cQVBlH95TxijDoacdDMYgHhUDN-cI3w3anD7N8s6frwrK-Ln",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUiL4bu61mBsa0sJBYuW8F5qitqx8t63orhtqUshotu0q9uTL4MtYzx7mwwbMMWw22JZHWouwu0WBpUI84-h5VHZ7anGiF4JUy1z4eNARN2JB9GIf3aq3pxuBzP4MfS2WubC6cGQ01lu8NNZxTh_569c2yA2MN4FeDzsBoDv-3n8S_rYmb2vCSVwY="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:51:29.513833+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "WPL",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 316,
+      "ballsFaced": null,
+      "battingAverage": 31.6,
+      "strikeRate": 149.76,
+      "fours": 30,
+      "sixes": 16,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "bharti",
+    "bharti fulmali",
+    "cricket",
+    "fulmali",
+    "india"
+  ]
+}

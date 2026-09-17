@@ -1,0 +1,148 @@
+{
+  "playerId": "nishan_madushka",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "nishan_madushka",
+    "name": "Nishan Madushka",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right Arm Off Spin",
+    "dateOfBirth": "1999-09-10",
+    "birthPlace": "Moratuwa, Sri Lanka",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2023-03-17",
+    "profileImage": null,
+    "bio": "Kottasinghakkarage Nishan Madushka Fernando is a right-handed wicketkeeper-batter from Sri Lanka. He made his Test debut on March 17, 2023, against New Zealand. In April 2023, he scored his maiden Test double century, an innings of 205 runs against Ireland. Madushka is known for his consistent performances in domestic cricket, including topping the run charts in the 2022 Major League Tournament."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "205 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Ireland",
+    "venue": "Galle International Stadium, Galle",
+    "date": "2023-04-27",
+    "aiInsight": "Nishan Madushka's maiden Test double century came early in his career, showcasing his potential as a long-format batter and marking a significant milestone in his international journey.",
+    "progressData": [
+      {
+        "year": "2023",
+        "value": 205.0,
+        "event": "vs Ireland, Galle"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "205 runs",
+        "holder": "Nishan Madushka",
+        "date": "2023-04-27",
+        "venue": "Galle International Stadium, Galle"
+      },
+      {
+        "label": "National",
+        "value": "374 runs",
+        "holder": "Mahela Jayawardene",
+        "date": "2006-07-26",
+        "venue": "Sinhalese Sports Club, Colombo"
+      },
+      {
+        "label": "World",
+        "value": "400* runs",
+        "holder": "Brian Lara",
+        "date": "2004-04-10",
+        "venue": "Antigua Recreation Ground, St. John's"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 11,
+      "innings": 20,
+      "runs": 596,
+      "average": 31.36,
+      "strikeRate": 55.75,
+      "hundreds": 1,
+      "fifties": 2,
+      "highScore": "205"
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "matches": 8,
+        "runs": 385,
+        "wickets": 0,
+        "average": 48.13
+      },
+      {
+        "year": "2024",
+        "matches": 12,
+        "runs": 186,
+        "wickets": 0,
+        "average": 20.67
+      },
+      {
+        "year": "2026",
+        "matches": 4,
+        "runs": 51,
+        "wickets": 0,
+        "average": 12.75
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI3QVJ9qxconrnRoHfu9tMgM1IAHj2eJbn1iZtA2Mtz9gopf4R6kU30pfzdU5ttlstw1ag9DPKnZj1HdOzM_WYcYJpw2J0Bb4X7kMEl3qDFUbTF1jcb2V7BUFZ1D2-ug-LpihFqzFW8A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9guwrjwkTdsNGaf0PqvJowRh032vL_Dbdmw5ByjTXEs5okm9QV4FQZ6qkfY2qXY4pc3HsYIc1DAxRDwCfFlM1JAQRXeHNWeBU7McrREB0dZmcXGUKEnrUxALcdDEA6iU3VQPClWIaUvICdMH3nCD171jn8Nps",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwesYJt5kPMQqtikV_gMIAaqDkKoDh4we96NjX1AHGlTcVxCucFQuu8on2bGijPqLei0Y_0R8XBqp4Bn-MiJ008aFHRAwOov7ARg13G6m5b6u_HIwpVkXLXvWEoDbARj-Irdj96d-WZV6Q547p1IAFNRrLuauNBxwAIfdwLG2qY49suEmG",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1FLPt4ZckaV4hbyKfNdgiSYOh3uIs-OC19ywXm8rUUTgcn8qYWagHbNJsMpHsoVS09d6S-MImlM6U5YZYFamiUTFbkXykCYTNNAK9AFiDB1y3mgJqiZoQPdNkKZxihlhIKfp_ACQ4epv9TVKsIgsLuqB3l4bFzUJXaY6fVaDEBo3yGVVybLs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIox92ssJUchZbKEm13p8LtWWUOye8ONgwa3StvG-HIU6iSrTdsoVZ-Ew7x8ElGyG19d6xNNjoeLi9ZCDi-amPTIUBOiFlaReR7AI-C_HRx_tdgL9CEadtdIwuN4tyjm3Q4_WBK6sL4at2mT7Pszv_Lfqtr-E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLmOe4qbBAJTsAien_dfHbbhlSmH_Lu3FBIEmWhKnpTj_djjgfQT6HGqAZEPZZzy36kd986iRJ2zTsID__EemZAsvHM__v4gWAbmPtLguq4exPlt-jvLek5E56juTxCQizSsxBND6RLEaGX0Xhe9SZ7lk3oASwagNT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0kmV7zLKRwKY0vbYy_kfAgznfkXxVALL9Yzq6hyCMN6XSIHTDI4b4eru0DTixqKd3SXHqYYMmYY2b9Vg8aqegzxAb1u9H-dbYEtBtPCbhTqEui5mZm2IsecubLVtpKsU23mqjdH399wmcP4CLfeU0zN1HsUnOvxCwE87GosPDB84EBDssukgqrLOb4j7qZoSneH451A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlaZdYQKmu878cvRGZsm2JMB4nd-WJWYTgqi2gmkr9CYnqkHulMgW9_aZRJ5lLcEcI6LHqpnz0KrhrMtvtNX3IY32NXsSYz7Dd3WwUxuiqBl_MRjRmyoCzmZWqRUNAVdu73tTOZhNg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaAzokAZCnJakJwwUfrmUPJao8c3AxmVxJWDf7hD6CiF1tyHx-uJ2IbLeokPcXcDwIxC8T4rumvuUzWfsFHwFLJeAVniXvqjPFpq29bBWUZrqO9uq0axZLUyF63BR2gnlk_CF8JA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEhwuHcbDMYP5g82KH7J6n-C-vkyFvz5rZAnkvCXlsDYHPw_te__kBF2ITJQIsu-XYraRBVPhYBQVHPCcO8asJ9e4SNEDlt8mWmeG3_iZJapM_koVYjSvBZzeSEA97wm3WSxZRTTGyHpuPORYUnT2XdZKQnQs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2JeWnrsk8v2y8lHGeBWuaCa8Sichy0NiNK-05dpR-UKOYCur_5I1Et-_XrKm15_6iRu3WAX8e3B_EGMQO2PSG-9CBjN4DhAbaskMYOUuRlrxrJ6yI6J0qh2H4L57GuauvJ5sBi2QD1z1W1dv6IIYfMcrt9gC8bc2t_k5upTy4LPxlRzjy2g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6lkDEDVihuypElRpHn8pn1APDSayrfjJOgG_jRQ6HBKFSs8SOoftmlFkVQHRgBKazV0WDfYMBW99aqJoEXT5oP4Wok2q6yng4VwFzn8fyz4wKKaJlpgJGofJevSfntDcutziY96Kz0uGcNPg1PWG4sB7lBZ2eRAm7-ikn7De9xfBOFnk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTcQL3hNuwB4nxiz2RVTYhS1IsmYc9vm2C-KAPxUL_gAtBEE7snpPFdrxeGmY6XrRqsQMr9JxqB1XcCpPfuUBwG_49Rq7isky4qDe0YdX3rv8lr0rdoh2fc1tzh-HKWrjlhaOywjpQR1zXwm2pZnr_krdIiQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpK3quEI2tq6W4Jf7b3YAtbuS5rfJak2jeqSQTMtq08L9Bn3p8ZWjK4WBFsZlKrzPBa7ReefX-rOqgTzal5cXY7FT_dBVvSNMkL0MQFvpTmOrCy2_kSNjF5dzo48zKPgP7z6--6eaxr9EfjtZiAe-BhBPOcscClftedojipWBKclZZc7R2WpE8E1sP2zs16mKS_HDMdhVmqjKBuzTgykJhODdPHKZ0nNkC4dl_e2F29WnHPw2iL4WTjOBcSjIvdKAt2uJxyPveUqSpGUGD"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T18:07:44.898510+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "analytics.bowlingStats",
+        "analytics.seasonalData"
+      ],
+      "filled": [
+        "analytics.seasonalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "analytics.bowlingStats"
+      ],
+      "filled": []
+    }
+  ]
+}

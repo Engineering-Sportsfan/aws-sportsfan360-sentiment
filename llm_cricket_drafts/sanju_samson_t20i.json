@@ -1,0 +1,173 @@
+{
+  "athlete_id": "sanju_samson",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Sanju Samson",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1994-11-11",
+    "heightCm": 170,
+    "weightKg": 73.0,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sanju_Samson_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=byitJuGunJs",
+    "bio": "Sanju Samson is an Indian cricketer who plays for the India national cricket team in the T20I format and for Chennai Super Kings in the IPL. He was part of the 2024 and 2026 T20 World Cup winning teams, earning Player of the Tournament in 2026. He holds the record for the highest individual score in a T20 World Cup final with 89 runs. Samson is also the first Indian batter to score consecutive centuries in T20 Internationals.",
+    "birthplace": "Pulluvila, Thiruvananthapuram, Kerala, India",
+    "coachName": "Biju George",
+    "yearsActiveSince": "2011"
+  },
+  "record_highlight": {
+    "event": "Highest score in a T20 World Cup final",
+    "result": "89 runs",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Final",
+    "date": "2026-03-08",
+    "city": "Ahmedabad",
+    "prevRecord": "85 runs",
+    "prevRecordPlace": "Marlon Samuels (2016), Kane Williamson (2021)",
+    "prevHolder": "Marlon Samuels, Kane Williamson",
+    "improvement": "4 runs",
+    "improvementDate": "2026-03-08",
+    "aiInsight": "Sanju Samson's 89 runs in the 2026 T20 World Cup final is a significant personal best, surpassing the previous record held by Marlon Samuels and Kane Williamson. This performance was crucial in India's victory and earned him the Player of the Tournament award. It also marked his third consecutive 50-plus score in the tournament, placing him among an elite group of players.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 107.0
+      },
+      {
+        "year": "2026",
+        "value": 89.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "111 runs",
+        "holder": "Sanju Samson",
+        "date": "2024-10-12",
+        "venue": "Hyderabad",
+        "tournament": "T20I (vs Bangladesh)"
+      },
+      {
+        "label": "Olympic",
+        "value": "89 runs",
+        "holder": "Sanju Samson",
+        "date": "2026-03-08",
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "tournament": "ICC Men's T20 World Cup Final"
+      },
+      {
+        "label": "World",
+        "value": "172 runs",
+        "holder": "Aaron Finch",
+        "date": "2018-07-03",
+        "venue": "Harare Sports Club, Harare",
+        "tournament": "T20I (Australia vs Zimbabwe)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        398,
+        339,
+        204,
+        291,
+        386,
+        441,
+        342,
+        375,
+        839,
+        618,
+        500,
+        660,
+        518,
+        477
+      ],
+      "wickets": []
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        65,
+        90,
+        20,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Sanju Samson has shown strong consistency in recent T20 World Cup performances, scoring 97, 89, and 89 in consecutive matches."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpD6QB-4hwYMEi1y6IYnLz6vH3b_DUAtt9vXl5DIltGUrYASeQI1ff-iKcfk1BWLOyL7NJpRq9AQP6_4JJvI1MRVHZQBfmeMNqjoZXAf4914TonD92c-PD5veZQ_6j7yT87VqE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVSpYUzpyysHdTdQdIq20dg8K78_Bp-QLP-9lnCAJKbDb3_JdK9a0Kly1tAdOj7fKpGbsfpneAGwCXn6Ee9CqTUY5qghZ8daayC0tgh6EGCVdu-L7Jh8z2CPcTGNvhgUYbD_Pi9b8GfKRA_IRwMqAvwuBU5elXpEExXow8r-UjGRlqDT15wxaQiGrR69JuKvOOSuQLcYGkfFguWDuN2uUxKlHeDduT9O8fwjzO1tnZTedYV1TzaTBJESlmnMVQNATru1w=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOUBCkxOJ0Cf1o8d1tzIqi5gdGLt5vFItWPY9xuqzD4EJp43vyDgjD3TfRr2qOWS7uAe-scx0tMFzsCMfWcjfXv8d56Pj154ysrDv5XEncXKMDSo7G5F3xwbVfo6Ge46cODKAV3uBvglqHEqQWszZg8ss2QK7f1_iEQgx4ByqDMmQqP3uBiOCn23uIZeIL0LZslrIeVT4WcUdE-y7XmIGPHa21BFu4sqo1iRyQoZtaeQNqazbMzOoovUbVgycMESz8a6sxUFfcdwkoX1A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcYv0rE4ImNn9k8SySuqSXwsyQ0XTdYX3VzW_LGpXpHsgDQAfYeXF9vopZ6PH0U7KsaoYM1jggr8QB9uTwe4XWlLV4neiSs9ZzDz7qxcIWMmYL6LWjR-w01cNCpqsUPO6iOXJDOaNti1jYN0Te0usv6QP-jS24xA5em1DGl_lbF1j0lzPnIminyGKkf0QrNPFfS2sVXGukidcKVQ6t_XR0NFx2uZJ-Q-kIuCQA_LwCJXOm3ldE39er412ScjUyPOhidA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmpnsqkAZKewm2slZNDYh3AjGMNY1t-lAWkBYpX0ZnQY34nd-h1sdA5Uq29-nK0eDz8dY0L85dFPX4PaATaQxnh7d0FZJgBAltG-HRiriVIcwnWl72HLAHRFXhyXGwk8rfZZjqTyLgcZXSuNZDQzMAqhN7zAxNo7Z5qGFhXunGbKrgcS7-QK66USa-Cdvgp0kzv9p7ZxqAdHKktuMS9Ajbx6O9O1EVsE6y_A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAQA_KQug4dCvE7IZVKDh8MZq7NT0Q7FXK3grV6wQTYFOrUtXkKNMylom_Tr-TFRUquYZJNf4zO8sLYAw5z9E9oNBUCjrWw8AXDqVsaJ-H_pw0mWPxW88SCN2ZtbwzfEVjmnAsB2kbukgfinlPbJ2HIQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:48:31.794381+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1432,
+      "ballsFaced": 918,
+      "battingAverage": 27.02,
+      "strikeRate": 155.99,
+      "fours": 119,
+      "sixes": 86,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "samson",
+    "sanju",
+    "sanju samson"
+  ]
+}

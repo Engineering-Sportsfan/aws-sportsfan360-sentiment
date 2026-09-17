@@ -1,0 +1,444 @@
+{
+  "team_id": "india_test",
+  "sportId": "cricket",
+  "format": "Test",
+  "coreInfo": {
+    "teamName": "India",
+    "country": "India",
+    "flag": "IN",
+    "shortName": "IND",
+    "captain": "Shubman Gill",
+    "viceCaptain": "KL Rahul",
+    "headCoach": "Gautam Gambhir",
+    "homeGround": "Wankhede Stadium, Mumbai",
+    "founded": "1932",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Board_of_Control_for_Cricket_in_India_Logo_%282024%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "teamPhotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/ICT_Players_with_PMO_India.jpg/500px-ICT_Players_with_PMO_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "The India men's national cricket team, also known as Team India or Men in Blue, represents India in international cricket. Governed by the Board of Control for Cricket in India (BCCI), it is a full member of the International Cricket Council (ICC). The team played its first Test match in 1932 and has since become one of the most dominant forces in world cricket, particularly in the Test format."
+  },
+  "record_highlight": {
+    "category": "Most consecutive Test series wins at home",
+    "result": "18 consecutive series wins",
+    "type": "TR",
+    "typeFull": "Team Record",
+    "opponent": "Various teams (streak ended against New Zealand)",
+    "venue": "Home (various venues in India)",
+    "date": "February 2013 - October 2024",
+    "prevRecord": "10 consecutive series wins",
+    "prevRecordDate": "November 1994 - November 2000 and July 2004 - November 2008 (Australia's two streaks)",
+    "improvement": "India surpassed Australia's record of 10 consecutive home series wins by achieving 18, demonstrating unparalleled dominance in home conditions.",
+    "aiInsight": "This record highlights India's exceptional strength and consistency when playing on home soil, making them an incredibly formidable opponent in their own conditions over an extended period. The streak's end in 2024 against New Zealand marked a significant moment, emphasizing the competitive nature of Test cricket even for dominant home teams.",
+    "progressData": [
+      {
+        "year": "2020",
+        "value": 120.0
+      },
+      {
+        "year": "2021",
+        "value": 121.0
+      },
+      {
+        "year": "2022",
+        "value": 115.0
+      },
+      {
+        "year": "2023",
+        "value": 118.0
+      },
+      {
+        "year": "2024",
+        "value": 118.0
+      },
+      {
+        "year": "2025",
+        "value": 121.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Team",
+        "value": "18",
+        "holder": "India",
+        "date": "October 2024",
+        "venue": "Home (various)"
+      },
+      {
+        "label": "Regional",
+        "value": "18",
+        "holder": "India",
+        "date": "October 2024",
+        "venue": "Home (various)"
+      },
+      {
+        "label": "World",
+        "value": "18",
+        "holder": "India",
+        "date": "October 2024",
+        "venue": "Home (various)"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "ICC Test Ranking",
+    "heroStat": "116",
+    "metricLabel": "Rating",
+    "achievementLabel": "Current World No. 1 Test Team",
+    "stats": {
+      "worldRank": "1",
+      "rating": "116",
+      "totalMatches": 599,
+      "wins": 186,
+      "losses": 188,
+      "draws": 224,
+      "winPercentage": 31.05,
+      "worldTestChampionships": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "matches": 14,
+        "wins": 8,
+        "losses": 4,
+        "draws": 2,
+        "rating": 121,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2022",
+        "matches": 7,
+        "wins": 4,
+        "losses": 2,
+        "draws": 1,
+        "rating": 115,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "matches": 8,
+        "wins": 5,
+        "losses": 2,
+        "draws": 1,
+        "rating": 118,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "matches": 13,
+        "wins": 5,
+        "losses": 7,
+        "draws": 1,
+        "rating": 118,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "matches": 10,
+        "wins": 4,
+        "losses": 5,
+        "draws": 1,
+        "rating": 121,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "seriesData": [
+      {
+        "year": "2021",
+        "seriesPlayed": 5,
+        "seriesWon": 3,
+        "seriesLost": 1,
+        "seriesDrawn": 1,
+        "notableOpponent": "Australia",
+        "result": "2-1 win"
+      },
+      {
+        "year": "2022",
+        "seriesPlayed": 4,
+        "seriesWon": 2,
+        "seriesLost": 1,
+        "seriesDrawn": 1,
+        "notableOpponent": "South Africa",
+        "result": "1-2 loss"
+      },
+      {
+        "year": "2023",
+        "seriesPlayed": 3,
+        "seriesWon": 2,
+        "seriesLost": 1,
+        "seriesDrawn": 0,
+        "notableOpponent": "Australia",
+        "result": "WTC Final Loss"
+      },
+      {
+        "year": "2024",
+        "seriesPlayed": 3,
+        "seriesWon": 1,
+        "seriesLost": 2,
+        "seriesDrawn": 0,
+        "notableOpponent": "England",
+        "result": "4-1 win"
+      },
+      {
+        "year": "2025",
+        "seriesPlayed": 3,
+        "seriesWon": 1,
+        "seriesLost": 1,
+        "seriesDrawn": 1,
+        "notableOpponent": "England",
+        "result": "2-2 draw"
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Batting",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Bowling",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Fielding",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Away Form",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Squad Depth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "matches",
+    "consistencyData": [
+      {
+        "range": "Win by innings",
+        "count": 25,
+        "percentage": 30.0,
+        "peak": false
+      },
+      {
+        "range": "Win by runs/wkts",
+        "count": 35,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": "Narrow loss",
+        "count": 15,
+        "percentage": 15.0,
+        "peak": false
+      },
+      {
+        "range": "Heavy loss",
+        "count": 10,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "Draw",
+        "count": 5,
+        "percentage": 5.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "India demonstrates strong consistency in home Test matches, often securing dominant victories, while away performances show improved resilience but can still be prone to occasional heavy losses.",
+    "headToHeadData": [
+      {
+      "opponent": "Sri Lanka",
+      "played": 46,
+      "won": 22,
+      "lost": 7,
+      "drawn": 17,
+      "lastResult": "India won by 238 runs",
+      "lastMet": "March 2022"
+    },
+      {
+        "opponent": "Australia",
+        "played": 112,
+        "won": 33,
+        "lost": 48,
+        "drawn": 30,
+        "lastResult": "Australia won by 10 wickets",
+        "lastMet": "November 2024"
+      },
+      {
+        "opponent": "England",
+        "played": 141,
+        "won": 37,
+        "lost": 51,
+        "drawn": 53,
+        "lastResult": "India won by an innings and 64 runs",
+        "lastMet": "March 2024"
+      },
+      {
+        "opponent": "South Africa",
+        "played": 44,
+        "won": 16,
+        "lost": 18,
+        "drawn": 10,
+        "lastResult": "India won by 7 wickets",
+        "lastMet": "January 2024"
+      }
+    ],
+    "coachImpactData": []
+  },
+  "squad": [
+    {
+      "playerId": "shubman_gill",
+      "name": "Shubman Gill",
+      "role": "Batter",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm off-break",
+      "testCaps": 20,
+      "isCaptain": true
+    },
+    {
+      "playerId": "kl_rahul",
+      "name": "KL Rahul",
+      "role": "Wicketkeeper",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "None",
+      "testCaps": 50,
+      "isCaptain": false
+    },
+    {
+      "playerId": "yashasvi_jaiswal",
+      "name": "Yashasvi Jaiswal",
+      "role": "Batter",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Right-arm leg-break",
+      "testCaps": 10,
+      "isCaptain": false
+    },
+    {
+      "playerId": "rishabh_pant",
+      "name": "Rishabh Pant",
+      "role": "Wicketkeeper",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "None",
+      "testCaps": 47,
+      "isCaptain": false
+    },
+    {
+      "playerId": "dhruv_jurel",
+      "name": "Dhruv Jurel",
+      "role": "Wicketkeeper",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "None",
+      "testCaps": 10,
+      "isCaptain": false
+    },
+    {
+      "playerId": "ravindra_jadeja",
+      "name": "Ravindra Jadeja",
+      "role": "All-rounder",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Slow left-arm orthodox",
+      "testCaps": 70,
+      "isCaptain": false
+    },
+    {
+      "playerId": "kuldeep_yadav",
+      "name": "Kuldeep Yadav",
+      "role": "Bowler",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Left-arm wrist-spin",
+      "testCaps": 18,
+      "isCaptain": false
+    },
+    {
+      "playerId": "mohammed_siraj",
+      "name": "Mohammed Siraj",
+      "role": "Bowler",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm fast-medium",
+      "testCaps": 30,
+      "isCaptain": false
+    },
+    {
+      "playerId": "sarfaraz_khan",
+      "name": "Sarfaraz Khan",
+      "role": "Batter",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Leg-break",
+      "testCaps": 6,
+      "isCaptain": false
+    },
+    {
+      "playerId": "prasidh_krishna",
+      "name": "Prasidh Krishna",
+      "role": "Bowler",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm fast-medium",
+      "testCaps": 7,
+      "isCaptain": false
+    },
+    {
+      "playerId": "devdutt_padikkal",
+      "name": "Devdutt Padikkal",
+      "role": "Batter",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Right-arm off-break",
+      "testCaps": 1,
+      "isCaptain": false
+    },
+    {
+      "playerId": "manav_suthar",
+      "name": "Manav Suthar",
+      "role": "Bowler",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Slow left-arm orthodox",
+      "testCaps": 0,
+      "isCaptain": false
+    },
+    {
+      "playerId": "saransh_jain",
+      "name": "Saransh Jain",
+      "role": "All-rounder",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm off-break",
+      "testCaps": 0,
+      "isCaptain": false
+    },
+    {
+      "playerId": "auqib_nabi",
+      "name": "Auqib Nabi",
+      "role": "Bowler",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm fast-medium",
+      "testCaps": 0,
+      "isCaptain": false
+    },
+    {
+      "playerId": "gurnoor_brar",
+      "name": "Gurnoor Brar",
+      "role": "Bowler",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Right-arm fast",
+      "testCaps": 0,
+      "isCaptain": false
+    }
+  ],
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVaZNPFw9FYMkD1hIAtR5aNJDPwINOVZFRHZotwMaOfPSQxcTbGkraJKWXeigDPSDZh0m3a05dESCUqoyHTiSxgUnWGAZGf5L4nUQaO1ntaPtvM3LCayMBi0_anQt3iT5DD8G7NB4oWaDL2KUb96_9kZs9BA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtn1Zei9B9axVQ1Z5_j3r7etHhlqI7PrUKYzlSt9NqnI1xNDjBTHMVmSHiKpliM-x5KPkcgCO-xOnBJVH2WMkHvdyiVokFT9m9Bc0OawVD2hdF_VQ_GPQsFx1Vw_TXqKbItkCdH0AvAU2Ssnh3yVm85Q2eHjugGOqEjutCVOhc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH2ocg2IWciMqP4RsJmfoSLrikGfow43n_pRh4_frR-Y6T0IAddEK7jrhdAwjzqmfHsavoqML6V9PFYFid8xXdcyXMi7uyk6C3GXlYlM7WekHJhmhFNpE67QuL-Du5ipxWeeuV1pVX0aAxUpCkEqSNxmF7oa1Mv2x1BbU="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T07:49:32.643564+00:00"
+  },
+  "_retry_log": []
+}

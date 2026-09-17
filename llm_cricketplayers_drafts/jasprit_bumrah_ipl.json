@@ -1,0 +1,206 @@
+{
+  "playerId": "jasprit_bumrah",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "jasprit_bumrah",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast",
+    "dateOfBirth": "1993-12-06",
+    "birthPlace": "Ahmedabad, Gujarat, India",
+    "heightCm": 178,
+    "jerseyNo": "93",
+    "debutDate": "2013-04-04",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Jasprit Bumrah is an Indian international cricketer renowned for his unique slingy action and pinpoint yorkers, making him one of the world's leading fast bowlers across all formats. He has been a pivotal player for the Mumbai Indians in the Indian Premier League since his debut in 2013, contributing significantly to their multiple title victories. Bumrah's ability to deliver under pressure, especially in the death overs, has earned him widespread acclaim and established him as a formidable force in T20 cricket. He is known for his consistent wicket-taking ability and exceptional economy rate.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "5/10",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Kolkata Knight Riders",
+    "venue": "DY Patil Stadium, Navi Mumbai",
+    "date": "2022",
+    "aiInsight": "Jasprit Bumrah's spell of 5/10 against Kolkata Knight Riders in 2022 stands as his best IPL performance. This exceptional display of fast bowling showcased his mastery, even in a season where his team struggled, highlighting his individual brilliance and ability to dismantle opposition batting lineups.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": null,
+      "innings": null,
+      "runs": null,
+      "average": null,
+      "strikeRate": null,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": "16*",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 158,
+      "innings": null,
+      "wickets": 187,
+      "average": 23.74,
+      "economy": 7.34,
+      "strikeRate": 19.42,
+      "bestBowling": "5/10",
+      "oversBowled": "605.1",
+      "ballsBowled": 3631,
+      "runsConceded": 4441,
+      "fourWicketHauls": 2,
+      "fiveWicketHauls": 2,
+      "maidens": 8
+    },
+    "seasonalData": [
+      {
+        "year": "2013",
+        "matches": 2,
+        "runs": null,
+        "wickets": 3,
+        "average": null
+      },
+      {
+        "year": "2014",
+        "matches": 11,
+        "runs": null,
+        "wickets": 5,
+        "average": 60.2
+      },
+      {
+        "year": "2015",
+        "matches": 4,
+        "runs": null,
+        "wickets": 3,
+        "average": 61.33
+      },
+      {
+        "year": "2016",
+        "matches": 14,
+        "runs": null,
+        "wickets": 15,
+        "average": 27.07
+      },
+      {
+        "year": "2017",
+        "matches": 16,
+        "runs": null,
+        "wickets": 20,
+        "average": 17.8
+      },
+      {
+        "year": "2018",
+        "matches": 14,
+        "runs": null,
+        "wickets": 17,
+        "average": 21.88
+      },
+      {
+        "year": "2019",
+        "matches": 16,
+        "runs": null,
+        "wickets": 19,
+        "average": 21.53
+      },
+      {
+        "year": "2020",
+        "matches": 15,
+        "runs": null,
+        "wickets": 27,
+        "average": 14.96
+      },
+      {
+        "year": "2021",
+        "matches": 14,
+        "runs": null,
+        "wickets": 21,
+        "average": 19.52
+      },
+      {
+        "year": "2022",
+        "matches": 14,
+        "runs": null,
+        "wickets": 15,
+        "average": 25.53
+      },
+      {
+        "year": "2023",
+        "matches": null,
+        "runs": null,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": 13,
+        "runs": null,
+        "wickets": 20,
+        "average": 16.8
+      },
+      {
+        "year": "2025",
+        "matches": 12,
+        "runs": null,
+        "wickets": 18,
+        "average": 17.56
+      },
+      {
+        "year": "2026",
+        "matches": 13,
+        "runs": null,
+        "wickets": 4,
+        "average": 102.5
+      }
+    ]
+  },
+  "grounding_sources": [],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:10:21.933120+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "jasprit_bumrah",
+    "jasprit",
+    "bumrah",
+    "jasprit bumrah",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

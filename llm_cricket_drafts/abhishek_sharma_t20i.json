@@ -1,0 +1,144 @@
+{
+  "athlete_id": "abhishek_sharma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Abhishek Sharma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2000-09-04",
+    "heightCm": 170,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Abhishek-Sharma-3.jpg/500px-Abhishek-Sharma-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=gJvVnjRuou0",
+    "bio": "Abhishek Sharma is an Indian international cricketer known for his aggressive left-handed opening batting and occasional left-arm orthodox spin. He holds the world record for being the quickest player to reach 100 sixes in T20Is for a full-member nation by balls faced. He also became the fastest batter to reach 1000 T20I runs in terms of balls faced and achieved the highest-ever rating points in T20I history with 931 points. Sharma was a key member of India's U-19 World Cup winning squad in 2018 and has represented India in T20 Internationals since 2024.",
+    "birthplace": "Amritsar, Punjab, India",
+    "coachName": null,
+    "yearsActiveSince": "2017"
+  },
+  "record_highlight": {
+    "event": "Fastest to 100 T20I Sixes (by balls faced)",
+    "result": "100 sixes",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2026-07-01",
+    "city": "Durham",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": "Evin Lewis",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Abhishek Sharma's achievement of reaching 100 T20I sixes in the fewest balls faced highlights his aggressive batting style and ability to clear the ropes consistently. This record underscores his impact as a power-hitter in the shortest format of the game, placing him ahead of established international players.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "Fastest Indian to 100 T20I sixes (by innings)",
+        "holder": "Abhishek Sharma",
+        "date": "2026-07-01",
+        "venue": "Chester-le-Street Ground, Durham",
+        "tournament": "India vs England T20I Series"
+      },
+      {
+        "label": "Olympic",
+        "value": "Highest T20I rating points",
+        "holder": "Abhishek Sharma",
+        "date": "2025-10-01",
+        "venue": "UAE",
+        "tournament": "ACC Asia Cup"
+      },
+      {
+        "label": "World",
+        "value": "Fastest to 100 T20I sixes (by balls faced)",
+        "holder": "Abhishek Sharma",
+        "date": "2026-07-01",
+        "venue": "Chester-le-Street Ground, Durham",
+        "tournament": "India vs England T20I Series"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        256,
+        859,
+        514
+      ],
+      "wickets": [
+        null,
+        null,
+        null
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        75,
+        90,
+        50,
+        40
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Abhishek Sharma has demonstrated consistent high-scoring, including a record-breaking 314 runs in seven innings during the 2025 Asia Cup, where he was also awarded player of the tournament."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlKKXc-rqzSoCaNOpon3pYK0DcXxVAbZ6faeVC5iJWN1NLIKHiHD17twz238NxWSMXvqPOuzhPMckcMmM0YXsB4FN2ChEhZV_ewCIUXR-rzZOb2f9OMTh1_8pYP4Rujd6ANRG9IyE16POxk21x9l4DOKm19-HgIayzHoP9pDHchCcpBCCcIpjneuacllnTUxS0RTbEy9wfOo2L3so7PiZqs7s-k7xN6iw9I_Etki6tj_PHBrAvLlfh-Ti61XKGv9v35shgI2SSmiMjxIS7f7x0R6hhuHBB",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_5vfs9T0fY2jH0lHlwO2gx7R1sTnKa5iCwjuMp33MNF9FQsa6AM0xN3BsaQULY_1jleh-93JRxYhPjTyNLHYUlm8_GXx2mEg6nvWhCVJ_mw7YC-Cat5dbsZul3YfDHBfBqSqYZIqYYA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcNvVJAGAQp0rNMUvVwluPEOvJelyEY3ZE4QCM6p9ZLYszJml_MHrFlSnwpn0ohNkEEnDxmIHuQjXObWN_3Gq3Ke9-XVdM8GoZGMK0Cdi9_aznnAFnIMKO8BfLcy3WZXQvRWk7_l3-J3We1QIe9HSbV1KDd7nCfzdlWvrXPn674YwwIhmghkDz6Mguknc7D6u_I8zK8v8Wy-9a-N4OAIo9xlCL3lqi8z1EFLZkoo2WqOLt1oa2Qg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzao7vAdgDI_QM3VHpqXmxBHYps7TYoNwEMawB16soBpvnL6ZQFU2MxtmthqFfB1iBshVlZHoHsZbtaz0TuqcEGLqjgyThQMlUsFB2g3YKZ_KeVOaK-TQiiH7muKQI9SxeY4Jb0JfR5pLu8V_5c6HK6gZtansDIEccPB_PtqEa65_6DUEHAjo7thQFU98ObZgrNmOJOKUG9Exe9SowWXNpTeuZiaDZblVlRaRcaeXq0TEdsVw="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:46:49.213965+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1554,
+      "ballsFaced": null,
+      "battingAverage": 33.8,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": 100,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 32.2,
+      "ballsBowled": null,
+      "runsConceded": 274,
+      "wickets": 7,
+      "economy": 8.47,
+      "bowlingAverage": 34.14
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "abhishek",
+    "abhishek sharma",
+    "cricket",
+    "india",
+    "sharma"
+  ]
+}

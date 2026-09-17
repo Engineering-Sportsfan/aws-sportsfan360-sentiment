@@ -1,0 +1,169 @@
+{
+  "playerId": "niroshan_dickwella",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "niroshan_dickwella",
+    "name": "Niroshan Dickwella",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "Wicketkeeper-Batter",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": null,
+    "dateOfBirth": "1993-06-23",
+    "birthPlace": "Kandy, Sri Lanka",
+    "heightCm": 175.0,
+    "jerseyNo": null,
+    "debutDate": "2014-07-24",
+    "profileImage": null,
+    "bio": "Niroshan Dickwella is a professional Sri Lankan left-handed wicketkeeper-batter known for his aggressive batting and sharp reflexes behind the stumps. He made his Test debut in July 2014 against South Africa. Despite facing disciplinary challenges and a recent suspension, he has been a consistent presence in the Sri Lankan Test squad."
+  },
+  "record_highlight": {
+    "category": "Most half-centuries in Test cricket without scoring a century",
+    "result": "22 fifties",
+    "type": "WR",
+    "typeFull": "World Record",
+    "opponent": null,
+    "venue": null,
+    "date": "2023-03-09",
+    "aiInsight": "Niroshan Dickwella holds the unique and somewhat bittersweet record for the most Test half-centuries without ever converting one into a century, showcasing his consistent ability to get starts but also a persistent challenge in reaching triple figures.",
+    "progressData": [
+      {
+        "year": "2021",
+        "value": 17.0,
+        "event": "vs West Indies, Antigua"
+      },
+      {
+        "year": "2022",
+        "value": 18.0,
+        "event": "vs Australia, Galle"
+      },
+      {
+        "year": "2023",
+        "value": 22.0,
+        "event": null
+      },
+      {
+        "year": "2024",
+        "value": 22.0,
+        "event": null
+      },
+      {
+        "year": "2025",
+        "value": 22.0,
+        "event": null
+      },
+      {
+        "year": "2026",
+        "value": 22.0,
+        "event": null
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "22 fifties",
+        "holder": "Niroshan Dickwella",
+        "date": "2023-03-09",
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": "22 fifties",
+        "holder": "Niroshan Dickwella",
+        "date": "2023-03-09",
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": "22 fifties",
+        "holder": "Niroshan Dickwella",
+        "date": "2023-03-09",
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 54,
+      "innings": 96,
+      "runs": 2757,
+      "average": 30.97,
+      "strikeRate": 66.47,
+      "hundreds": 0,
+      "fifties": 22,
+      "highScore": "96"
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": 3,
+        "runs": 91,
+        "wickets": 0,
+        "average": 18.2
+      },
+      {
+        "year": "2023",
+        "matches": 2,
+        "runs": null,
+        "wickets": 0,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0,
+        "average": 0.0
+      },
+      {
+        "year": "2025",
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0,
+        "average": 0.0
+      },
+      {
+        "year": "2026",
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0,
+        "average": 0.0
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVzYRu2u6FdHZIUD1Z0QO6kYADOapZqxs_SZT2M3X67pG7E-KLUEkmogCvD89R-uXuj2Ov_qDdhjG78cwVWyNbB3nyp5q_xBiiStUKtGiSyJRjBPY9lCq_3oN2cRQBQ5OcA-iK5lX-4T7ZVQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECCP09sjD6C1G5c9glfx9Nj6Kvaj1sljFJkPpsCIfdnYYCaj5N-1kJEwixe-uy7NjKXX3FBaNii_i1FOuPyxuZHw1uMTEeIfcHtXfPNt-v54BmM7fq_j_axv37cK2vcx3lizQziQzGIddxZkjoB-bsG_ONtBfchyI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuIqyM4wHpF5sttUzE07JOSMlP9Lhw5jIzT8xfkWJQ3TNEkGxNVZ6V-NKFeewndx9z2MfAqm7AfL265necrldj11nXtAjOouP26HOT7sWU4HRmW7AwpBlx9KOpTMtO5FycRi_UFx7txA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF63gQ2Tk564lKPzPjmLGPGMEgJVCwRLUjZjlwCcoGcGysbes6s5exG9LJL436A2e6perHRiyJNy6d8iMs8VjZXi4Red1etG3GaRorh7qhLSubIdPDAOMxewUXrDhGNqxOIWzzEi_E2cvw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtN7mTlbIyNocBQw5KaDmI58ajLO2GmRq_7_zfhs9jNWSQlYKnwbrWCaJksqXvokU2qRVMuqCAXmkNUx6VnrWv77QRr89_MXWUGQf1yjXGA_zeNFhvfyKpesGJz4Cc17bitu4VuKQuJ2I0fPPQelwftHdB0_ldLqo9fHi8poQCUo4VSGtuUPWJ-hFkeoBdxayMBW2B8Ppxwb6T0WFcfa6iY_nVpxHlaYGM0Qi78XfbzIVTzqlJbF9Bdws=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyKFmh0EONwcMl_p1Lfl9rrtf3TgGoQ7Fw778f-IkbJio7G_YePXTaXh0DJdWrJYkvUJVLA-talp6Q0SIj0mnkkZbZSq-oDfy0_LZpLxoAEP5TJHFvEbxIHgrh7U8zM6j8GwyEHLMcAtd7n-GK10pR77yeAxT2h6E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEs2nUuYV_1QfjiL9i8L_GmMcaFju1sPv2mh1LurJm2pMg1yGUPkO6G-C0N0lzYK5cPihjPV6g9C60EZq-yds_SekLxL-xpdlgMbGgBuqtu21rfCv8vG_hwGv-N1igKaZYXf-D22yb8feKRXoLKxnWy3hN9o9RKthLDH_OgAxvlaTDQEmu5fmIEbaoBUBRer2X5fsh0MbIz9KAJ0om",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe2O5cfKIIgqc2V4ZWwN129PU_jlBtq9FmUNNG1Z762-ZlDMfK8WKjC8fJhjp-I8exCnjfg1tcEyBU2UV6Z-pe1EQq8hXhkQr1ombb5HYnbGphypyaodNPQ1pgb-49sMyVurw0N5Wo_TCCfUC4tlZm1PxAPyTZwgfIgV6k77T4JvtkIHXKx1UkTDtJKQQqC3MqcJuehRpf7AvdUAoxHo319YUvnQl_fqqT"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-17T07:26:27.769163+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "analytics.bowlingStats"
+      ],
+      "filled": []
+    }
+  ]
+}

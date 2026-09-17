@@ -1,0 +1,181 @@
+{
+  "athlete_id": "shreyas_iyer",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1994-12-06",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Shreyas_Iyer_snapped_at_the_airport_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=qNWbURNPRkE",
+    "bio": "Shreyas Iyer is an Indian international cricketer who plays for the India national team and captains the Punjab Kings in the Indian Premier League (IPL). He has scored over 4,229 runs in 147 IPL matches, including one century and 32 half-centuries. Iyer led the Delhi Capitals to their maiden IPL Final in 2020 and captained the Kolkata Knight Riders to their third IPL title in 2024.",
+    "birthplace": "Mumbai, India",
+    "coachName": null,
+    "yearsActiveSince": "2015"
+  },
+  "record_highlight": {
+    "event": "Highest Score in IPL",
+    "result": "101 runs",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-05-01",
+    "city": "Lucknow",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Shreyas Iyer's personal best score of 101 runs in the IPL demonstrates his capability to play match-winning innings. This century highlights his ability to accelerate the scoring rate and anchor an innings, a crucial skill for a top-order batsman in the fast-paced T20 format. It underscores his impact as a key player for his team.",
+    "progressData": [
+      {
+        "year": "2015",
+        "value": 83.0
+      },
+      {
+        "year": "2018",
+        "value": 93.0
+      },
+      {
+        "year": "2026",
+        "value": 101.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "175* runs",
+        "holder": "Brendon McCullum",
+        "date": "2008-04-18",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "IPL (Highest Individual Score)"
+      },
+      {
+        "label": "Olympic",
+        "value": "175* runs",
+        "holder": "Brendon McCullum",
+        "date": "2008-04-18",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "IPL (Highest Individual Score - comparable to major global event record)"
+      },
+      {
+        "label": "World",
+        "value": "175* runs",
+        "holder": "Brendon McCullum",
+        "date": "2008-04-18",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "IPL (Highest Individual Score)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        439,
+        30,
+        338,
+        411,
+        463,
+        519,
+        175,
+        401,
+        351,
+        604,
+        498
+      ],
+      "wickets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        80,
+        30,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Shreyas Iyer has scored 400+ runs in five of the eight IPL seasons he has featured in, including his personal best of 519 runs in 2020."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkqZSHi2qsjXep7-BWQ6_G0eR6lXJmDROC27VXjDMQS-KUSwVuIyPOHV2DPiB51fM2t0-kvI07RaAYsVhz_jhJzolQmn-Ioljmd46v9kWvkfcVLxZGJf0lRu4vteIA9dqb3Z9BVrWdRxO7mQCbyRkyrlHYXdNR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmY7i_igIbWavJw1PPJKDwIvi-qZIU6fhwSQEXFxdUldN-xWnl1PHUs3RJTB1OTxGzFKWJeuHts-Z0Mo0hAJlwGb0Lb4kMsg4JfZXGCN-AbAELc7USo-qlVoqp7VWeL8dQbUkFMgF6WGjdP1yJm24PktzOo0mdu5gU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw7DPg-tfoFrZ_XN9wadxSYIEPsifdtfGqtlaG6dn-ODT9tT5QBxes8XQPKTQXBqDM6CForgEnov-Rvfvih428U3wns2W3-7di1vV4jP4eAdWNI1aU3GHMKmS9ewv4aeeJmx1KIw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtSf6pwxhVcsozfeTUMlYUvAbmN7Yckt7PL7wMueXk9aBW62Ve2nHZtjZCBBQmKZQHtKBZisw1LGpoZsMyaSBLpj7BhJJnqFGq4MWltTRgTe56j0YMaiZva7YW408YUtzF046tXh66F3KJg3cwZLBb_7HPLa-w6I23B4mVmlSwXm7TF0A9hyb9MpGrYLddToGw"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:43:11.852137+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 4229,
+      "ballsFaced": 3093,
+      "battingAverage": 35.84,
+      "strikeRate": 136.73,
+      "fours": 353,
+      "sixes": 182,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": 7.0,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "iyer",
+    "shreyas",
+    "shreyas iyer"
+  ]
+}

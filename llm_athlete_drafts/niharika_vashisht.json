@@ -1,0 +1,274 @@
+{
+  "athlete_id": "niharika_vashisht",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Niharika Vashisht",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1995-10-17",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtube.com/shorts/JnmXydoRFyM?si=27F5L0oeiOvydQuB",
+    "bio": "Niharika Vashisht is an Indian triple jumper who has achieved significant success at the national level. She holds the national record in the triple jump with a mark of 13.64m, set in 2026. Vashisht has consistently improved her personal bests and has won multiple gold and bronze medals in national and international competitions.",
+    "birthplace": "Mohali, Punjab",
+    "coachName": "Swaren Singh",
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Triple Jump",
+    "result": "13.64m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-05-23",
+    "city": "Ranchi",
+    "prevRecord": "13.37m",
+    "prevRecordPlace": "National Games",
+    "prevHolder": "Niharika Vashisht",
+    "improvement": "+0.27m",
+    "improvementDate": "2026-05-23",
+    "aiInsight": "Niharika Vashisht's national record of 13.64m in the triple jump at the 2026 Federation Cup highlights her consistent improvement and dominance in the event. This mark not only secured her a gold medal but also surpassed her previous national title-winning performance, demonstrating her upward trajectory in Indian athletics.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 13.37
+      },
+      {
+        "year": "2026",
+        "value": 13.64
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "13.64m",
+        "holder": "Niharika Vashisht",
+        "date": "2026-05-23",
+        "venue": "Birsa Munda Stadium",
+        "tournament": "Prueba de Confrontacion"
+      },
+      {
+        "label": "Olympic",
+        "value": "15.67m",
+        "holder": "Yulimar Rojas",
+        "date": "2021-08-01",
+        "venue": "Olympic Stadium",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "15.74m",
+        "holder": "Yulimar Rojas",
+        "date": "2022-03-20",
+        "venue": "Beogradska Arena",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "13.64m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Triple Jump",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": "96",
+      "personalBest": "13.64m",
+      "bestYear": "2026",
+      "totalGold": 3,
+      "totalSilver": 0,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "Triple Jump",
+        "value": 13.37,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Triple Jump",
+        "value": 13.64,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 4,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 13.58,
+        "seasonAverage": 13.31,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 13.64,
+        "seasonAverage": 13.52,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "12.90m-13.00m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 16.6,
+        "peak": false
+      },
+      {
+        "range": "13.01m-13.10m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 16.6,
+        "peak": false
+      },
+      {
+        "range": "13.11m-13.20m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 16.6,
+        "peak": false
+      },
+      {
+        "range": "13.30m-13.40m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 16.6,
+        "peak": false
+      },
+      {
+        "range": "13.41m-13.50m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 16.6,
+        "peak": false
+      },
+      {
+        "range": "13.51m-13.64m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 16.6,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Niharika Vashisht has shown consistent improvement, culminating in a national record-breaking performance in 2026.",
+    "peakZoneLabel": "13.51m-13.64m \u00b7 16.6% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2025": "Gold",
+          "2026": "Gold"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFjRlFXMgUberZrQn03JS6DZqHt9Pui6v4qGXjSdItNUe27xqlN_YoBGMWD54ZDO8Bd2eYS7t2uO7surthaV3oqKWW1jIZcXtbilQdyyMldOX-EZihBZKeIO0YsizPgBtWPQpzOOJOV9fOfOgYwOBXDQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJY3wP7LinfY3i1y_iCPtOfg0MN9-IZGCAIVDUYcWIruoaE94wfvsrwVRL_lJtcySP2hPUfsz095ySzULaa45r6aGfRmFynv8atz_3LlU5oqVy7QhP2GL0k6JakmdbTDFxstlev16brmQV6EY="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:03:10.157481+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Triple Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Triple Jump",
+        "medal": "GOLD",
+        "category": "28th National Federation Senior Athletics Championships 2025"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "GOLD",
+        "category": "Indian Athletics Series-3"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "BRONZE",
+        "category": "UAE Athletics Women's Gala 2025"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "GOLD",
+        "category": "Federation Cup 2025"
+      }
+    ],
+    "stats": {
+      "personalBest": "13.64m",
+      "seasonBest": "13.64m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        12.5,
+        14.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

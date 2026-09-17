@@ -1,0 +1,98 @@
+{
+  "playerId": "ravi_bishnoi",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "ravi_bishnoi",
+    "name": "Ravi Bishnoi",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm leg-break googly",
+    "dateOfBirth": "2000-09-05",
+    "birthPlace": "Jodhpur, Rajasthan, India",
+    "heightCm": 170,
+    "jerseyNo": "56",
+    "debutDate": "2022-02-16",
+    "profileImage": null,
+    "bio": "Ravi Bishnoi, born on September 5, 2000, in Jodhpur, Rajasthan, is an Indian international cricketer renowned for his right-arm leg-break googly bowling. He made his T20I debut for India on February 16, 2022, against West Indies, earning the Player of the Match award. Bishnoi first gained significant attention as the leading wicket-taker in the 2020 Under-19 Cricket World Cup. He has since established himself as a key spinner for India in the T20I format, consistently troubling batsmen with his deceptive variations and quick arm action.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "4/13",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Zimbabwe",
+    "venue": "Harare",
+    "date": "2024-07-06",
+    "aiInsight": "This performance showcases Bishnoi's ability to dominate opposition batsmen, securing his career-best T20I figures. Achieving such a feat in an international match highlights his impact as a frontline spinner for India, despite the team losing the match.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 49,
+      "innings": null,
+      "runs": 65,
+      "average": 9.29,
+      "strikeRate": 125,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": "10*",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 49,
+      "innings": 48,
+      "wickets": 67,
+      "average": 20.55,
+      "economy": 7.46,
+      "strikeRate": 16.54,
+      "bestBowling": "4/13",
+      "oversBowled": 184.4,
+      "ballsBowled": 1060,
+      "runsConceded": 1377,
+      "fourWicketHauls": 2,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0oLvMvUwQ1UHOvLvP3BQfMqRW38TMaHmzxv5CPxV6rTWzjhXuRw9_5Tj1kujbk5i88QWkgjikKrnHKW_Aw6ZY2ZODfSNr0dovoaLx3gQDi2GddDA-Af_NmRIiw70l08P5Id1a",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsa_Rx-p2pIFB1DZa1Uij2jbc3TMA0inxVqZ4sEhRqLaC-jhEpmSe-xYaO54Zu2KBjZZjSYNDhahj6TH6Wzz7I5FZnhIYMkDnDg3zm-ztBDR5PsDuiFaiI2S38WX6RJPoVojyQBfGnhcP-_A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo1ShnVa_xkQSm-T5pR-QPfTDWp7N6mdy3sVaQmY7kSvAiBcoDSdlzc_kfUqSfpcOHmcZKcSnZsnQwRaO4n2NSEerCq_eEeMmb5mJHekbP2T09sPVYjCstBA93uFW-lAImSUiulBnSBYcQZLt4NWegtHf6_3N-yVXCNe2OMqBisRu46crLjQUjNXwhdR5uIcnMzZyT3LlpWpYImvicESH7tiCCVWriLmfBNgiW_ePmOAPEsEg3M1hNgVUIyBLuSmTyiLeGtNZTqMKk7n6dYcch1DBf5I2GdCwb8_DMNdHyJMvcAtoMeI8niA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-pBfQZ3VPzkJmWBNkK_YCuTlT6-y-DslCBqnc6S0B6RdwTQ9aIOW4DjjDFwGVofQoBjPBBIHeGRFVW-vDSbdmBazlDQfNe1YolzWn9SQJsAZnf6P4BBNWk_gWuJDC5l-asFcFP36y8G92dclhevm1obAQyHGybWGP2Eslk3B5jW7aU09Lqr0CMWf-hQ2I-r6WXk-T0k3wRMk3AfnbGampxpZLpqYRIQPKFgB7n7kNykyJ9fRUauSdSwhuKkrbt8AF7V0vMD_c8sPDSlI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFk_XARcVZ8KMeTqbhG24aqrnwtpIfm8PwN5lOecAg41JFDEses-YlsgNUXNg8ZmNJx6R3gJIYEqj-ajuvJ_YzdkhbbPCdy-E0Sttos6PQkKHWpZOoOPRXDcL9qfOPW1vJcOO_lr9v83sKKkww-ytcJdEBXPlW4pfvU83mN4WLZQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgQgI2iVIOaB9Wq8lrM0LNqYy61eLIzAT9zcZ2umuf0US88hejD6mUug-T-dvUajhte-URweI3wAVROsNuJ4QiFkUve4YwYqbQa8_TEsTSPgpTMGo4fwgRXnr7EgMrB1h0Fu7CWg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5EgU-rJOJpjFQtSA32E1fcGuGcgUHqD2Uyi-U6hwJUrqvX8jJ5hz7AE_3w7qFlqJ3BU81mNW6PnoBtAIVXxn5iYcKqfjJquoo-uTNiZ45nxj29Rkcs2KjswaWBeFAPwF85ZS3t28tzE87YLffgvgQzLN8yEd-a4GuA0YNEIBG3W5h1X_SI1i7wDsdtj_t6JVUNXmrk5aV4pL6CY5A-WACkoUaCyFlNcH6qmWB4lSwNg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC4CSjS6xFfsnLwGAZgaZFmtJ-Hazsx4eiXlX-Qm7WEr-yaFERw1LXgxDbeIOofF3zGBBckQme8_aUwiP-X8bAxRtPfkmg-XdmVEjlg-Z8tlylv-PG7jGLDlcQVn2sFMm1bptfsYLoMlt1-CNI_Cs9cOi8lt3HtskW3qonvYA09a-MSqDRXw2SamRbBzlfyoA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFminJ9VfnR3lty1oVTCZL3HdUyr37Nexp1BiJ8a-twdffvSauG8QQ3y-03qRbAL-UoTcNiTYvOev-sPhAi1qxlE8lEIRsfnATtnc71k2NOhZokBgVaGnCZ3rSiUz62so7HwiTesX2BMhOhDg0VIOnxvHJQpS2ZY6kR80elgfx3ixeQRChc8mE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEj0BPJPyUQEuiYsMkp_kdQaZSGVW117yULVUoqhcVib7UPRGeF3rZ1NBg5Ao1Z7NYvVh8iqKZWgN1_QeIb_DKhMuTZJrEt8wsS3TNXd81wfv7VREQZpHNJjCXFd-3rIoaPhsGnggm0aiJath685KZhWEe858SUJCCIenpVGUg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVThTAkMOBFFz_v-CJ8xfWtaabsCeeFow4WhWlKu_USV4y3nZtVbiUSFDG_ueBrKrn3zdTw8VZ7kzfYrIjtmGsDdRrzPrUwlPtnErpeQH2o_KEiUJiNv21iDmP_mm8NDg_A8mKWco1DfULFWXVR0_cxzBWYUXbJA9RBn85ql5hol9bIqjgoYQzX6JJNF2ktwPmNW1HK5y7iSihaM4n",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhSZiWdF92AkGXnTtRa5QatYciwwi3pIpIJrNARDh6dIoYR3j4Ti7rPbaqaCeMJEG2eHxaJJs3fPUqfjm7GdISTP3OPgjHg70Fk-bKqhtqHh7xQ7PXL1Ls_B2oThqvcYEREOm_iU26903y5l-GQSwKUWZ9XaR1UyRMNcruU8Yy4p0ZtaNsSZ1IZ5APgyYBkZZLeRuJ2qqTRybinsI-XMVEiGAYDtfpC_BC6_GrIg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:07:31.047346+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "ravi_bishnoi",
+    "ravi",
+    "bishnoi",
+    "ravi bishnoi",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

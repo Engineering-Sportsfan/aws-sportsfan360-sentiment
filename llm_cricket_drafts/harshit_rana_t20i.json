@@ -1,0 +1,124 @@
+{
+  "athlete_id": "harshit_rana",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Harshit Rana",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2001-12-22",
+    "heightCm": 188,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=7-dP40eGtb4",
+    "bio": "Harshit Rana is an Indian international cricketer who plays for Delhi in domestic cricket and Kolkata Knight Riders in the Indian Premier League. He was a member of the Indian squad which won the 2025 ICC Champions Trophy and the 2025 Asia Cup. Rana made his T20I debut on January 31, 2025, against England. He was the joint-fourth-highest wicket-taker at the 2024 Indian Premier League with 19 wickets in 13 matches.",
+    "birthplace": "Ghevra, Delhi, India",
+    "coachName": null,
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures in T20I",
+    "result": "3/24",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Harshit Rana's personal best bowling figures of 3 wickets for 24 runs in T20 Internationals demonstrate his ability to take crucial wickets. This performance highlights his potential as a impactful bowler in the shortest format of the game.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "World Record T20"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        50,
+        55,
+        30,
+        60
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1RgZ8ZCgC97c7yqljxPG8CPfelcDhvQX-tZTL-aGjzKijaN_eCtPgUd7EXEFjQGO_N8iDcKRwgSp2hZBXuF5_O8oDXJd0WEFRwhkX6TaIg3cd_wk95U3pyPF27mT3CVZ-49Iz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY-XwBxLhCZNMQg82CT1_h0SVgEXae0ZPUqZ5muHKB9AErEA2By--onFsEx8sRWYN3sCBVFzQaK5DH7uLoWBQ4pu6YiBpMpP8akQP3Yum2wi9SNzfNfwcGsEdGOrTBGJztSMLyJMI3S28nHZJZMbEEyD4GI_UK"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:46:11.140862+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 101,
+      "ballsFaced": null,
+      "battingAverage": 14.43,
+      "strikeRate": 110.99,
+      "fours": 7,
+      "sixes": 5,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 16,
+      "economy": 9.71,
+      "bowlingAverage": 25.5
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "harshit",
+    "harshit rana",
+    "india",
+    "rana"
+  ]
+}

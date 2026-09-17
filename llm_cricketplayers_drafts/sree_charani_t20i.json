@@ -1,0 +1,92 @@
+{
+  "playerId": "sree_charani",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "sree_charani",
+    "name": "Sree Charani",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "dateOfBirth": "2004-08-04",
+    "birthPlace": "Kamalapuram, YSR Kadapa district, Andhra Pradesh, India",
+    "heightCm": null,
+    "jerseyNo": "40",
+    "debutDate": "2025-06-28",
+    "profileImage": null,
+    "bio": "Nallapureddy Shree Charani, known as Sree Charani, is an Indian international cricketer who plays as a slow left-arm orthodox bowler. Born on August 4, 2004, she represents Andhra in domestic cricket and the Delhi Capitals in the Women's Premier League. Charani made her T20I debut for India in June 2025 and was a key member of the Indian team that won the 2025 Women's Cricket World Cup.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "4/12",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England",
+    "venue": "Trent Bridge, Nottingham",
+    "date": "2025-06-28",
+    "aiInsight": "Her T20I debut performance of 4/12 against England in Nottingham was remarkable, making her only the second Indian woman to achieve a four-wicket haul in her maiden T20 International match. This outstanding start immediately established her as a significant talent on the international stage.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 25,
+      "innings": null,
+      "runs": 9,
+      "average": 4.5,
+      "strikeRate": 128.57,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "7",
+      "ballsFaced": null,
+      "fours": 0,
+      "sixes": 1,
+      "dismissals": 23,
+      "ducks": 0
+    },
+    "bowlingStats": {
+      "matches": 25,
+      "innings": null,
+      "wickets": 42,
+      "average": 16.24,
+      "economy": 7.0,
+      "strikeRate": 13.0,
+      "bestBowling": "4/12",
+      "oversBowled": 93.5,
+      "ballsBowled": 563,
+      "runsConceded": 682,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": 0,
+      "maidens": 1
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXhSBhFRgbzy4pQ9_xepv50Xl9s923ZfLVRPvCKNVZ1MgMhkQNjfiKXSsbMaM52Z68rmxmnpx12N4irXHPgj0lnxEjJl9-3emscwg72pon7iWaG0OSlzcGequHnkTEG_DqoPOljTg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_dc3dEltUNWHYOI8DQJcOPCW2qkBTFj8qD2GDk9qQ8HhEA_bYmwe3AYZ3KuAdsLY6WAM7nCs_IdXh_sahzriQnYcCDKK26jMan1kd0O2cDd033aRD6cVzblRkVsAL5f1NeZe6AcLkLh-sQJgFIIYhEAo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKG6hDua71hvLwD328Qc3DkMmfe4z373qThotI55cIyc3CF2AlBMTv3--nWTA7DnjjE7oMGKwFQja-yW2qhX08QKfBUao1azMQgG1OneCWluyJA8Y4_qaGRct31lJGaJojGvglnDt1UjE3iMU1eQET4hhq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDwT3e1G7TySvDPznCKI8zVabppUbdO5OpcckHtH0tR3zkVFneqLp9wEE30Iy4flMA7B0vFvyrFDQ7UvYxAewIwUlIc-qSXHMYoSluXOUcpCSsmRO8hXAce6egSPHJRZXq1hX-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWfBPGnl9Zk5aZZICljsnsooBiWTiwRfqEz7iT-DirSNkCG_KxWDh7HgHq8uc05K8h97dNfPbTplmTOEqhctl-9-4HhAZxREk3kKI6ivWDH4BjmhitpRWiwGC0E-oV__lVLMvW5KtCVcvMKkiJkZYIaileUIYMgn7c_I2HCvyoedTakGNkZIRbG0PAGDfzm1hyt6Cfxgg_p0do914nZT-wNTKVDHnkKsNZ0urxetb2c_I-dFqpFQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCzAH_pWdRyxyYynW0Q0fNxAoRSfXbrfF_G4CcExnHacwcLZOSgaRspTsW6DNS6vHW65t75nGAHMJHH-ZdlZ7SmNGCezJtNH5lnjU6v-gi5CIMpNTcRdi3_lcW0fdE6SiwaAcaRV-sKBzmSNvSbKAlDBWDnlQMGcTRuKuMbZmQ-iLX_fVb-RF5RAU1N3I4sadeaqAIDlwtoGGlAcZkbuWlrc7VNs3WBpKIYIM="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:43:39.926885+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "sree_charani",
+    "sree",
+    "charani",
+    "sree charani",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

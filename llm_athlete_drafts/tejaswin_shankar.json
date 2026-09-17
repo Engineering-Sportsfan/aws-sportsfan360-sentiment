@@ -1,0 +1,451 @@
+{
+  "athlete_id": "tejaswin_shankar",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Tejaswin Shankar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1998-12-21",
+    "heightCm": 193,
+    "weightKg": 88.0,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/i_hcqrjLU9Q?si=y20bFFY5kuBVURJx",
+    "bio": "Tejaswin Shankar is an Indian athlete specializing in high jump and decathlon. He initially played cricket before switching to high jump at the suggestion of his physical education teacher. Shankar holds the Indian national record in decathlon and previously held the national record in high jump. He has achieved significant success at both collegiate and international levels, including multiple Commonwealth Games and Asian Games medals.",
+    "birthplace": "Saket, New Delhi, India",
+    "coachName": null,
+    "yearsActiveSince": "2015"
+  },
+  "record_highlight": {
+    "event": "Decathlon",
+    "result": "8057 points",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026",
+    "city": "Ranchi",
+    "prevRecord": "7826 points",
+    "prevRecordPlace": "Bydgoszcz, Poland",
+    "prevHolder": "Tejaswin Shankar",
+    "improvement": "+231 points",
+    "improvementDate": "2026",
+    "aiInsight": "Tejaswin Shankar's decathlon national record of 8057 points, set in 2026, marked him as the first Indian decathlete to surpass the 8,000-point barrier. This significant improvement of 231 points over his previous national record of 7826 points, set in 2025, highlights his continuous progression and dominance in the demanding multi-event discipline.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 8057.0
+      },
+      {
+        "year": "2025",
+        "value": 7826.0
+      },
+      {
+        "year": "2023",
+        "value": 7666.0
+      },
+      {
+        "year": "2022",
+        "value": 7592.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "2.31m",
+        "holder": "Sarvesh Kushare",
+        "date": "Jun 27, 2026",
+        "venue": "Kalinga Stadium",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "2.39m",
+        "holder": "Charles Austin",
+        "date": "Jul 28, 1996",
+        "venue": "Olympic Stadium, Atlanta",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "2.45m",
+        "holder": "Javier Sotomayor",
+        "date": "Jul 27, 1993",
+        "venue": "Salamanca",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "2.29m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "High Jump",
+    "achievementLabel": "National Record Holder (Decathlon)",
+    "stats": {
+      "worldRank": "51",
+      "personalBest": "2.29m",
+      "bestYear": "2018",
+      "totalGold": 2,
+      "totalSilver": 3,
+      "totalBronze": 3,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2015",
+        "event": "High Jump",
+        "value": 2.14,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2016",
+        "event": "High Jump",
+        "value": 2.26,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2017",
+        "event": "High Jump",
+        "value": 2.23,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2018",
+        "event": "High Jump",
+        "value": 2.29,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2022",
+        "event": "High Jump",
+        "value": 2.22,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Decathlon",
+        "value": 7648.0,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "High Jump",
+        "value": 2.22,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Decathlon",
+        "value": null,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Decathlon",
+        "value": 8057.0,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2015",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 2.14,
+        "seasonAverage": 2.14,
+        "currentStreak": null
+      },
+      {
+        "year": "2016",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 2.26,
+        "seasonAverage": 2.215,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 2.22,
+        "seasonAverage": 2.22,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "seasonBest": 7666.0,
+        "seasonAverage": 7596.5,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 7826.0,
+        "seasonAverage": 7826.0,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 8057.0,
+        "seasonAverage": 7943.0,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "2.25-2.29m",
+        "count": 3,
+        "throws": null,
+        "percentage": 37.5,
+        "peak": true
+      },
+      {
+        "range": "2.20-2.24m",
+        "count": 3,
+        "throws": null,
+        "percentage": 37.5,
+        "peak": true
+      },
+      {
+        "range": "2.15-2.19m",
+        "count": 1,
+        "throws": null,
+        "percentage": 12.5,
+        "peak": false
+      },
+      {
+        "range": "2.10-2.14m",
+        "count": 1,
+        "throws": null,
+        "percentage": 12.5,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "A versatile athlete, he has consistently performed above 2.20m in high jump and achieved national records in both high jump and decathlon.",
+    "peakZoneLabel": "2.20-2.29m \u00b7 75% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2016": {
+            "value": "2.26m",
+            "holder": "Tejaswin Shankar",
+            "date": "November 2016",
+            "venue": "Coimbatore",
+            "tournament/meet": "Junior National Championships"
+          },
+          "2018": {
+            "value": "2.28m",
+            "holder": "Tejaswin Shankar",
+            "date": "March 2018",
+            "venue": "Patiala",
+            "tournament/meet": "22nd Federation Cup Indian Championships"
+          },
+          "2026": {
+            "value": "8057 points",
+            "holder": "Tejaswin Shankar",
+            "date": "2026",
+            "venue": "Ranchi",
+            "tournament/meet": "National Senior Athletics Federation Competition"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-lCxbbkOkThRrkr5Rzo7FoS69SfIoINQuWXDMbvA9q7VotjWdefzvnrzRQJ_8HG-7BMhq1pXjquOe-A32kyOjkt19XsNSpRlMgctHsO_IKZ3bdjuLRmeRB-lTVWOQUX-qbFhlYBY0_pk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvzBlEwKRs85QNqCyRPjUdf3oDKHBPZ_IKDWeS2DUwZ6m3lirp0y3tr1olHvbGy_A8ldYiX6q-LebF2cRgxgfpWRTqsmkcJX8Mm7oB66rTdrQfugt_3FDFqIgUoMJQAkqDkTsZ7GyHdF_ewIDcJtwN6ZoNTfWCvDSW0-4J8UZi4uRVlKg02IhXUroT7vjgRBZ2bRqkw2x-e7wneJoca6wN-hn040tb",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqDJt-qYqXgPbv1PEtQ2VzcI0I0BuQ6JovTBSDn4CbcXJEmUX9E55YUgFoKxPFikLiggJsqLtC293p9GGizTSb-DhX6rFWYrJJfEYJOgRqCOaPlOMNbJDpTHWokeAmOBPHh8ggL5DidaEmSA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXtiw58aLBv8-D5smUwThnwmkU0Kyu78eYk8KMdVMGanZzRMxkycD7zPK2uEhzhRgppKs14ohiksekteoZztSEGvSDgbQt99LEhmxy8gSoz4ww2QuDXWSODlgv62Q4v3Jv6YqmSnnYbwCgCNqrdfaszL-TW14o5BK7WCCSO7RyPguyrUnGG7b8CUlN4UCd4H1gEEhCsd3nsdpY-_hZcRUgk5QmZBw0kreSyNJJupGI6P3QLPriLq5iPlo17Z_HGjvMyMzGoRxsVR6n51s_d3igri1Jk0iGG5Xe8kdp1cBbxw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErCd3O0xqWGl3x5TO2ez5zjAHb-laDfX_oS8R8nbTm35Zh5jSDZRpyNNAYFVqTqxw34U3MKcIo6EhTZR5s5GxYz7ExEir05LmakantUbxS1n0OVaBdOCo0l3l7B6wyuSSP3H3n39h6hhbHHXc7FmPiINtTbjZ3MfFSPSFoPJzBvIY3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwKHqCbYd3nnJK2IOsoPkqHpWiruOmZXksuMUHVYw9Sa3vtCSf8qsuV6LE3Kbew4m_OUAo-lWeHWrxvCg7LbcXmZcfUmwLgooGE5J-RazvkrdDD6shIyq93w1ZlTlw5yTXQGZHoJf71eD7EJNxUZ7Mf3HKyxkDXPp6WDrV4fc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCEBSOQi29Zy8dfsS9r2bUzy24vVuGnhA0yGab3puzwkZmqNyfg-zFlCJHYXM46dqXOJgeDHR1VoqZhP2A4Nn_vJCIkIEywZygWTQkL3okop6a6qzZW_IZaQGM4GS_M6whDORKDFnZYe-_iOPRY_gm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtIKD01sDNaJkcqwZi7_ZSd0BDu4tDZluBGIFViS3PB1hAWfIn4qkaVIhvZIV9e0sscSWIG8JISIYJlm9eA9Oy3Jdp24lq15u2V-xTAhsxX8Qv29F4Den_HRWI8CJhZsQz8Q93UY5k_Tov6mXtY1YZsD5rPZgkcps2Sgg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeR6SGPTD-uDDR-n8iPkMSZei5KNKjOOCprJSGUIysvgFdObw0Uhc8Ukoi1UR9srHKWUgPGSQxzsh_98ELM6ObVu67xml63gFXb0BvFeOMYUoEMRnYUxxS7cNNtSu6bXT_v7uQMi-1mNONTfqadMPof68Ytfrxr1bA8W7KxjTC_CeUhEeGxoZm98EGkKOxSopFf6UCU_doXxhjF6QQUuIPY64NJps=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAxEXyNnZi9wFIs3MZvgH5IyygLPblTbLDR2MLW_u59Ls8U_3OZKaEvSoKZ4YIKmRPFlIGuOLHOkDMFmJ87lCnrFiwaBxIb7TX8XcuqcTtuJA6MwiLZ-otVzVVv2ecq774DbYYl4OPbw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdPnHSzqqxP9fKo7MIjmFQXguhQRpU4y1c2SkEyIDwg2cPpf98ixfiTao-md_5L1Ne-ZmGoFgUtH_56ISEy_2UzcsHHPA2pbhNgTeEB5Rd_vvwC_0VeQ-YmOd4BpgcNezWnpiNpaOehgKw",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNrF6bDzy3kvJQladZJXJjPV-4-lACadYto-IwtIOsmCDM-d2Aj16vtfS4nhmhHdDrxP5Wb11naE_r2j2DrCkBcZImbDMCk0mclMqscQY3bcXaGorRsGBF1jLTmPUeNW8ksal1pnkjrQZoYHZDBJ4HtjBeW9rGylkh1JeDu80BNDE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC8UpeFD9pnWp0Kmkuvf4qbBIk0-sZDh6kCbNzQcBtUovtwK35Nqg7glpR0LUJwblqoqtoC57oLHk9ZorleVjJgJuFJqDZo9ewh1yAXz2YGVGtjlj7Iq3TKqN9LM5D6YSwpP9W_EAofPKb0gGqfAE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa-_p9qfiYKn_hOSv6YpZT20T1k38oCEn7ByBYovt6NMLnvrfZWOtesPswuZbGTqPN4mJ3Il3m4DkjjBaU1gxkSiHqEsMzo1tP7J1nYiO20kWL4kri3Fz5No0a3B6JxP7TzFZzMLTBHBiB25rHG1OfYnMfAnXS2XOkrQuKiwnOrDyPEEVCv7kzdbgKKxmJrfc2axE7PGpO0rc7VfBIw-hRYKVUXaGAfFE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGheANl1Y1SlfaA3g8_nit2vttne6gtQOgNutcb7irCz4D9dOoK9V3H5P6UGNIoA_nV6yeDDtnceEvnu8dB_-ugU_2l4Mm3Ad2KrXhF98K9vqKhoXFCPaPqEZQI3vuUosow8DOmdnTRbenyahII7sl6UNyaj4uCpwiq9zK2BYvjXio-6ECxyK_hVtmXkwMIjkiH_z-2u_zfWzpfjbBxdkBjyMN_fM0IR5jigkmGQ5N9EhTmjREx6F7KXqRTS8J_DPo4F08=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqE6LA_-YrMT5HPnMnYJNvieQ1QmYSmdS-tK_AuxJS2hfwR-XAU8G0W8wqGvC4jD3_MY0m2jjPyLiu_KJIjAT0hWkMQxFcotVY64omHSxhrgzKRHoeKN-Dc2xtsKYoe24-d-L79yR2FpL0yDihmFPgMIvpWBrdQPqu8AvrYk07f1IeNo6O-jOGF37PzpngUwrn0Rm7A0TiW5up9wT6eughTjs1q1A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO3X08VJc59aYG3OCeXBAo1vjFaLX2FGS2s_p-cmsTZSjtijL9zR64Bl3w9Zit3ibgUwpLFlTMTN9SsIIhLUs-iCeG70gYfrM_2BUh26YuVX_qU5fJL0LVjwdceU0XZkecFvyZhXaNCw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErGJyVtyBZr910K5pYiPKMijZ44bVhHr6HFbG9xCUaK_dtfOgQklGt9OtlpVJIB3KLMTdX2a_b31cNTIP6aNB3i4f22nZDo8VHwaU46WsVwucorzCCs88E4qTpeELnaIZr8ZGaXGTsZIF8byaJuX1OmnidbsH_-N8euaNzZgqv6lJ0mIQO09P0Hj_gqWmrzR3VwKRsDGPhauPECDuP_ZRHWazO82QuqXSl2TYboXXyGvbeu7XxiEjDi11DE_OZqy7IEfLxpo1NaTA9Y9aQ4sE5eJ8hsppmyJO8FTaIvGEb",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk2z_UI058RzGE0NDDNSUrvbxRJkPOVbJf57WVLAoJDggNBMvWJPSeDQygMRV-vZWenf4iG_pCQNK8DXRNolVbEx8YnSXaBizG4VJAijpDi5ciwuUNTmS-yJQforFncO09SZlrVlp3a_sPbn7amnDgQia0xvbzxzTeXXIP61cNEaN4xVB3XyJoAOPqsyUBbCGkn0EESleSW_lqbYcHf05sAQlDPWsZheGAd4kt-e9O-N3LxzkCtOXaLOhpHpQA0rYi8Mw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi5ieEfeNyCssajrvwYParB4qaVtTMNKNjsgRDVKM-5YnDg18Htevtigz33hEekzpfGGiVHD2YA3sEnkhTleSe7Vu6Q4KHXuQMaDohcm4guXGz0eGhNUzXhCk602oRt_VgE3KR_1W61jD4Htx0a7LlVVezu1g0lYuP9YI2zw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElAHGRnVKze2_PlqBQ3LLLqMmoVeLfrkTnOsMw6qeTPrMkePZaDweGooIzE1ohcPMG2LjPj5NqWugmGMAkpAhClILmPCJCdTsO3EXR9JvZJCy9WnriE-aq3fAT4bWWoR8aXrsV_OQ_UL3HPnQDIIHIJe5KiOTPbsA8Ryr8hjaAnzeXW6WJiOwActs-KbcTQApXkMy7MtqMzNXm8KX0AV70d4sZwCAPjSx01EyLN5Fwpoq4sQaqht7mzaSr44fCWQssebc7vfow1QibPRbORpQOSTATeoixCfGbG_6fNKcfizgnkt7h1g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGARQpI7rIGf-5NMQhJ-lUBg-xXQAfydMMr-NEDwsNbEihI0zgFYfd2oTz0yFSNBFosg8UC6dGVQeEA20bWNuaibFCOBYRJEbmOmoBvYFum0KQLh2ZwCH5Ud-n0fbvnTXXN9w-wYebdmvQJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-5Vru4OHaUku-YwDlNWZkCKC5lS8jr5h6Ce-pWsTk0q8aHhJfgX1NbCHCLfa3HmmuMSA0m9OnN20HWyBSbdHOq8QcU-YttzSmVzpHuALcI-B8XdDVt5GO5jvE5SLsC5_2lqb-ww=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T16:31:24.861805+00:00"
+  },
+  "performance": {
+    "primaryEvent": "High Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Heptathlon",
+        "medal": "GOLD",
+        "category": "Asian Indoor Championships"
+      },
+      {
+        "event": "High Jump",
+        "medal": "GOLD",
+        "category": "Commonwealth Youth Games"
+      },
+      {
+        "event": "Decathlon",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "Decathlon",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "High Jump",
+        "medal": "SILVER",
+        "category": "South Asian Games"
+      },
+      {
+        "event": "High Jump",
+        "medal": "BRONZE",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "Decathlon",
+        "medal": "BRONZE",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "Decathlon",
+        "medal": "BRONZE",
+        "category": "Asian Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "2.29m",
+      "seasonBest": "2.26m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        2.0,
+        2.4
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData",
+        "analytics.heatmapData"
+      ],
+      "filled": [
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData",
+        "analytics.heatmapData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.coachName",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

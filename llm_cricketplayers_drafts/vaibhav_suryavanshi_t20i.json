@@ -1,0 +1,111 @@
+{
+  "playerId": "vaibhav_suryavanshi",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": "rajasthan_royals",
+  "coreInfo": {
+    "playerId": "vaibhav_suryavanshi",
+    "name": "Vaibhav Suryavanshi",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "dateOfBirth": "2011-03-27",
+    "birthPlace": "Tajpur, Bihar, India",
+    "heightCm": 167,
+    "jerseyNo": null,
+    "debutDate": "2026-07-04",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vaibhav_Suryavanshi_meets_PM_Modi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Vaibhav Suryavanshi is an Indian left-handed top-order batter and occasional slow left-arm orthodox bowler, born on March 27, 2011. He made his T20I debut for India in July 2026 against England, becoming the youngest player to represent the Indian team at 15 years and 99 days old. Suryavanshi is also known for being the youngest player and centurion in the Indian Premier League, playing for Rajasthan Royals. He holds the record for the youngest batter to score a half-century in international cricket.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Youngest to score T20I half-century",
+    "result": "50 runs (19 balls)",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Zimbabwe",
+    "venue": null,
+    "date": "2026-07-23",
+    "aiInsight": "This achievement highlights Vaibhav Suryavanshi's exceptional talent and ability to perform under pressure at a remarkably young age on the international stage, setting a new record for the youngest batter to score a T20I half-century.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 6,
+      "innings": 6,
+      "runs": 193,
+      "average": 32.16,
+      "strikeRate": null,
+      "hundreds": 0,
+      "fifties": 2,
+      "highScore": "81",
+      "ballsFaced": 102,
+      "fours": null,
+      "sixes": null,
+      "dismissals": 6,
+      "ducks": 0
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCDj_8lpRurJXvtwZtqdoqfwyz9tkNlnvsYA4f1qGiAMP64GOtE0kSgd8neY-2dgUu9UEKL5bC51uPDj0KGeNbwvISShSAez4gRj5SaVcnHHEYUuOUv8XQPhV6_-OmpyZGXlLCGOmRA4iOZw0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkbENda3tbgARQRQx1YTD3v296FIckyY_JvBcgJ0S3XW_VUzW1nZJnoJ9FNjw8wDueeYCc7ATjtoZQq1vRbIM07OjNygjUIugUOdUHmavVnM41-GKVi5PaBAzbj2PrrbvU1KgqlORVgCwpx0_JiBjHCJLIJeAgyEj97kZTQltUcHBpLFpZyUQu0y0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVAFj_4GX44IRTB7ZDYvkcEBm50CADxn8v3P545yGBi8yMXRdrnUWTCQKnqmfwr20Ij9dFQZ05GfyNamh9FhqL6LPDGjOvJkKf8sJ6sNDnR0hWMPqqfiz7g8COaTpV6-62BJce_dR-i-SUj5aXfXF8vghegUq_h7o35TAEmJWqSaU="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:39:04.380221+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "vaibhav_suryavanshi",
+    "vaibhav",
+    "suryavanshi",
+    "vaibhav suryavanshi",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

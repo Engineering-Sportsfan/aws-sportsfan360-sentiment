@@ -1,0 +1,96 @@
+{
+  "playerId": "sree_charani",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "sree_charani",
+    "name": "Sree Charani",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "dateOfBirth": "2004-08-04",
+    "birthPlace": "Kamalapuram, YSR Kadapa district, Andhra Pradesh, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": null,
+    "profileImage": null,
+    "bio": "Shree Charani is a left-arm orthodox spinner from Andhra Pradesh, India. She made her international debut in 2025 and quickly rose to prominence, becoming the first woman from Kadapa district to represent India. A key bowler in India's 2025 ICC Women's Cricket World Cup winning team, she was signed by Delhi Capitals for the Women's Premier League (WPL) in 2025 and re-signed in 2026. Her best WPL bowling figures are 4/31.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "4/31",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Gujarat Giants",
+    "venue": null,
+    "date": null,
+    "aiInsight": "This performance represents Shree Charani's best bowling effort in the Women's Premier League, demonstrating her ability to take crucial wickets and impact the game significantly. It highlights her potential as a leading spinner in the tournament.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": null,
+      "innings": null,
+      "runs": null,
+      "average": null,
+      "strikeRate": 114.29,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": "11",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": 21.33,
+      "economy": 8.41,
+      "strikeRate": 15.22,
+      "bestBowling": "4/31",
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAZdOSK6bT6myYgoC0b_f3TOKWVWv7WwzH6crpzXF9wAfKOm0cYcts8nz1zYPXriM5ugnYHvm7KmMLPJlxztjtbAp2XlGY7z6kSx0wnF92Gl1Kg05S_zKmbWsSlLuXbLk2RQqpWktA_RHMVukC3MtZlec=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsKQs_ybBo7kGKcrnYrhvmew5zmquBXqpH5hJcdFn1bM14OcnSFhVIcpp5EnF9eGRYd2P3xQp9AaBdZruRbhRhcKyut7Z_WrSKrALdSnmLh3FNNjcpDJERD9qzxH-SKsfFjHWBiyVVEYQdJj6Rn3G_J6CfiWda3a2pjp8PaDCKThFKUEJnMqqJdwCxwXiyJO8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxdW0A_CRLvkzS6kIPRoaQziYLfZ72UneFFKPdLslOmXspcw7z9OwBp14_Oq7OvDXIyGEuqySsnuO4yL-snf0IcJDrjnhM9q6P0lqKhKOM6E9838OGdXcxNVc0qotE82tMFT2E",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjW1GGuwsLPqCx25j253VJZUzFJJIyAR8fR0r4NpXvCi636HRxZPMQM0rVMEL-_BuMWTjBp87589WfkawWAAqS1LYfjqqnkCrKFjRD1bUBU_Vj2EMPmyoxXzLC50ElaEf0X8GkHAQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi1DfA_MKsp1GL_h6iiHtvDFO8NTkzRG8lyTiU8ycYUxdw0m2MzFL9kztDyTOE7z8PBJjNceIm2wzMNb4mIPjqd2tS20OiSe79sjbAwkj8IRcmBoEVX4wYPZHzNDseJx-WGGyM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmAxwPCrbJ1IJZAQJsMO8SJ-wgzjTNm7kJva04-RCS5yft8AXlXznTb3jCaL6n9Yn6bt12ziJcEs9aw4XB-6fqNromIUMZErMG2iVop9107bH-KG59uOPg5OxBUsxSSo4taJKLqf_zgHIj8stq8iRtruHtNuKsLHZLyWv1CwfgGUXXdA4r5ZywIHSzZGxz9yi8LA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_dwmL_ATxL0kC29Te4Ec5D0cX1zvpif6hr0OPpbXZTkVhLceHUeF__yzgjM8Fw_xVuyW2LXZV97tdpGz31E5VYxV2xcshD4AMA7QcIYdC4e2J8pzib9GQ6Xtb-dUzKKX8EYt1nb61tM3ladfxPOuWuQfK_FIfOOgBTPbvAPenlYgYShSSVMjvpYir1esJ919CJ8KtHd_ti9ttPlkE3HkVWDs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVQ_7FNhTyfgj5E2uIQzrhiD8d__3H0iKCdqfuiIXgDsvUqDLK6SS49DcEMV1HXk_t-Dp42Eyz2GWPgGMAud-eBJlaRvk-emL8Tw09fFR01Bb9VRzgU0K7APTTsxLsqhaokWoqnhZZQWY5vXvQd8a80HgP",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn4Vx4M7blTyBHxuuXrWyJ_J0TChZbe4mt8cWeNAbBgOdVVwEC59XQFzPlLdL6_1O96frUsAQaKhBPlR5DS1iQLDUz1TKwfGM-Sb3yLHVu4IxT_7lq6Ns9hMcQzhrIfR9PnnJg_kOa0KifGZUzl195CyDIB-l_rxfchoYHPTWklNcXV9gy4znlYQiBLAExTj--f_oqvBP8MuK1ObImcz3zZ0IT4FkI4yb3wRHvnhGNPB46eZMDAlixMhVqygbYuJXC_NAIFBpIhZxBE_5_gWqRmBzQIIOwU7ifCHhS3ps=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhChpdbdc3urLKzYOgvBF4oxwGqs8iH7Gk7ZCz1cVqO_cEPpif_7SNLwKIXuf8FRwDCNT1vGY2ozbTp0Fs-UyhqMNFOFitGxskdrx2bHndwfCPMA7jAMYTjvT4-dR_abRetDYxpxO2ePtjabsT7N_F7pDMbCNmM56eFlY="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:45:41.698297+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "sree_charani",
+    "sree",
+    "charani",
+    "sree charani",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

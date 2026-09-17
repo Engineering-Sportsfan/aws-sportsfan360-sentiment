@@ -1,0 +1,126 @@
+{
+  "athlete_id": "vaibhav_suryavanshi",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Vaibhav Suryavanshi",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2011-03-27",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vaibhav_Suryavanshi_meets_PM_Modi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=E56KJUqW77c",
+    "bio": "Vaibhav Suryavanshi is an Indian cricketer known for being a teenage prodigy. He became the youngest player to sign an IPL contract at age 13 and the youngest IPL debutant at 14 years and 23 days. He also holds the record for the youngest IPL centurion and the youngest men's T20 centurion. Suryavanshi is also the youngest player to score 1,000 runs in T20 cricket.",
+    "birthplace": "Tajpur, Bihar, India",
+    "coachName": "Manish Ojha",
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "Fastest 100 Sixes in T20 Cricket",
+    "result": "100 sixes in 514 balls",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2026-05-01",
+    "city": "Jaipur",
+    "prevRecord": "100 sixes in 843 balls",
+    "prevRecordPlace": null,
+    "prevHolder": "Kieron Pollard",
+    "improvement": "329 balls faster",
+    "improvementDate": null,
+    "aiInsight": "Vaibhav Suryavanshi's achievement of hitting the fastest 100 sixes in T20 cricket at just 15 years old highlights his exceptional power-hitting ability and potential to dominate the format. This record, surpassing a seasoned player like Kieron Pollard, underscores his aggressive batting style and makes him a significant talent to watch.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "10.23s",
+        "holder": "Manikanta Hoblidhar",
+        "date": "2023-10-15",
+        "venue": "Bengaluru",
+        "tournament": "Indian National T20 Record (Most Runs)"
+      },
+      {
+        "label": "Olympic",
+        "value": "9.63s",
+        "holder": "Usain Bolt",
+        "date": "2012-08-05",
+        "venue": "London",
+        "tournament": "ICC T20 World Cup Record (Most Runs)"
+      },
+      {
+        "label": "World",
+        "value": "12,500+ runs",
+        "holder": "Chris Gayle",
+        "date": "2021-11-06",
+        "venue": "Various",
+        "tournament": "Overall T20 Career (Most Runs)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        80,
+        90,
+        20,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Vaibhav Suryavanshi has shown remarkable consistency, becoming the youngest player to score 1,000 T20 runs at 15 years and 29 days."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK0TBeX2d-RYzIM_z2TpD53mXx4jOiQZc9HkgYgCiOY-iyMX8BBgXacJvW7r3XVQdtUqmS1XI8ALb0Li7wVK9b19I9Gj8I8o8FjmxoFP5JmV2KxcGmU-XfGWcGQNbgoY7gOVHm0v8902_lHRcpP8kdO42MiQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2x7Hu3RSHsKfvlJz0Of1km0lOaoV_Ab6QyFcT8xA78Ih8js7wX8q4LPn7Xpb8ZV-sWdJXCPhbvOd1ye8KP_aHuoIryBrbBJ0_9pnzfpDaSMElehkCJPP6OmDqTv7Vxk-BhAbmISWCmeeAb7c5fQFbzhLUMkhVzbfBP55rklbVSyGjka7Y5M9RTGsazKQ="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:47:58.908192+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1670,
+      "ballsFaced": 514,
+      "battingAverage": 42.82,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": 100,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 17,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "suryavanshi",
+    "vaibhav",
+    "vaibhav suryavanshi"
+  ]
+}

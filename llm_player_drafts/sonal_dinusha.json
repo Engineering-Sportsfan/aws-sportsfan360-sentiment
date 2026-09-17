@@ -1,0 +1,136 @@
+{
+  "playerId": "sonal_dinusha",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "sonal_dinusha",
+    "name": "Sonal Dinusha",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "All-rounder",
+    "battingStyle": "Left Handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "dateOfBirth": "2000-12-04",
+    "birthPlace": "Colombo, Sri Lanka",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2025-06-25",
+    "profileImage": null,
+    "bio": "Sonal Dinusha is a Sri Lankan all-rounder born on December 4, 2000, in Colombo. He is a left-handed batsman and bowls slow left-arm orthodox. Dinusha made his Test debut for Sri Lanka on June 25, 2025, against Bangladesh, becoming the 170th player to represent his country in the format."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "92",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "West Indies",
+    "venue": "Sir Vivian Richards Stadium, North Sound",
+    "date": "2026-07-03",
+    "aiInsight": "Sonal Dinusha's highest Test score of 92, achieved against West Indies in 2026, highlights his potential as a middle-order batsman early in his Test career.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 11.0,
+        "event": "vs Bangladesh, SSC"
+      },
+      {
+        "year": "2026",
+        "value": 43.0,
+        "event": "vs West Indies, Match 1"
+      },
+      {
+        "year": "2026",
+        "value": 92.0,
+        "event": "vs West Indies, Match 2"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "92",
+        "holder": "Sonal Dinusha",
+        "date": "2026-07-03",
+        "venue": "Sir Vivian Richards Stadium, North Sound"
+      },
+      {
+        "label": "National",
+        "value": "374",
+        "holder": "Mahela Jayawardene",
+        "date": "2006",
+        "venue": "Colombo (SSC)"
+      },
+      {
+        "label": "World",
+        "value": "400",
+        "holder": "Brian Lara",
+        "date": "2004",
+        "venue": "St. John's, Antigua"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 3,
+      "innings": 5,
+      "runs": 186,
+      "average": 46.5,
+      "strikeRate": 59.62,
+      "hundreds": 0,
+      "fifties": 1,
+      "highScore": "92"
+    },
+    "bowlingStats": {
+      "matches": 3,
+      "innings": 5,
+      "wickets": 6,
+      "average": 49.33,
+      "economy": 3.68,
+      "strikeRate": 80.5,
+      "bestBowling": "3/22"
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "matches": 1,
+        "runs": 11,
+        "wickets": 3,
+        "average": 11.0
+      },
+      {
+        "year": "2026",
+        "matches": 2,
+        "runs": 163,
+        "wickets": 3,
+        "average": 40.75
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnZhpYgJH-FFsuiXIYiXMZqP0kR84q6-OP7BcwnYa3_JWoWdv1SkAGvdazASLDREo1fFesl1Zh-mDpayZFL5tprV1FTxyB01npGQphVYvYCTuuf3K4PDKPUmkHOK-VZFsSK3xoQoou80pUqkMHP-z3yAXP6wpXlrf24d7RDshqC72JeA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsSl2zxjYj2dG1uIylNSuzRaSs8LELmT3V-L3q7Qn9ldch4T86Y5ud13powxBUTt5ogu_-a3Qft7qSYGuu0_0i1aTJjwOPN56g7q4DtZyUJwRwVE-_6uNjNwXlf4bpQ6qSPhgcmShNzL4jLNrdv25z462uFA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPvZUJzSM5TefjNEHi70o0hgQZvzGQFWqhfoSoUotXuN5m5ZFN59Zo5bBYdutAHSxUHyKiTf-mWgr6-DX5n9Q0SRwit0unYwSEEax8x3yjNl4P8mcnswuoshYZ5w9VlhaagumwkOQkmyrvLYZSuqG3_4QQfQv64zRmjtz7pbWl",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmwNfRhDgHOU7D9dDHxyx_z-5icBT1jToXf6QaLsu5w19JS0Xb11mOlQKcK02BQaZCVwO16x4BW54HO0fXyCkMNWWWMEltLmM31SNnkROuxQHrKQ04mi-CzAgcG0HMZOXgxL4IB8M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0b05sPmO8j97KYIUSatcfUvrCzao3ZsL5TUR3QsA1IrpQlCAGSfb2iBgYVEG1OQXP9VQxuHoEtRM0_41qerjYVJZzc6XqWnFAK1PPj8DaBGwqIlqOBYEG7bm6kg6sZS4EupQZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6wxYwf7eo-xTe3KaIG6w55Z9XcpX2LEH05k7dHgfQwzG8xAoQrP39G3o3D3gDkH6AS1Ig5zxYNIA2iTKJBUz9MiIrTC1LGSyuC_vDuxTlIfeV99r5imQtem4Z1saECc2h5-Mtj2wUjlxtv1WmISguLs_fEjfmNFvDQamFDbVX",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExHERE93-g3b4fB0qiGf7vtGqDrtjMOmOsxw4y_fHd52QMCcsHMG9K8IWJdOOU5g-SnyEst2xMpLgcqi8DO3UCzvqIxodp0uZjuKr-lwvKzYl24rZpHgbUYNxIe8Ye0zKkxSoidumGlIADFjljlof__Ws=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo4-EprIKyZszUMQOmw-oWSigKEJGVulwKk8tIY1jk8Um-0uC6cPZ8I5c2zLNtXinXlqtjzCQXlqhXLJyWI3EhpVnnGAVv7KqU7QaouwKtnmEI5KZOefnlhVeE7Y_kEiQyM-5O0tVu5VqA2dSET3fjQJ2ye5Iv4ATDIKJbMXi0HU6ghzlZ0aBAFtGz9y8IKweqjS8CLow26vWLTSwuK8NSrAeQjQuNierEO4m1ccOcXDGU2mg2BYxvhmjSj_XlNTYU86QSLnI-3ORiCvO0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBGNKzNenUIhXS4WDW-WBqGPA5cHardrn9whuGLRDfCv8pFkx91m8Wwn6swdzTRYnM3obyumAcUKDELfQ0FzGjlxHuqQ8aDi-sRgrnf9ElM3JGK-znKO4HmPiAQrXRTD2MPPme9wKPIksym1mhKIon38co2yZTakFLupSNvWQOaas0TgkhNnWZVg_Zfi0qGN5d7EGKLhvB1JMvSO_j1EvDZvlW7YeTo2gG6jr8F8-I1wzMoF4SQwuAFyxwBVzwZ5k57ybpNg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Y_Bwyr0F1syzat7kx76PmS-q7EWDYwnlu8TVwYUPXxk4WhRJ4kEh11ftnqZdC6Vjla0XdILJq1r2Ebcd_Ox5FKcY4h4L1cYiheicfEAbVdvbO7dQ6qlmc2s5Z_f0AXePbznFx_UOn27Kp1K2qoz7t2bpMw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU93SMHFZiZIC2aam0c8DsPbrrZbtjiVAYtKwxlXr-nZTfDC18GeXEY6Ef2SJXQT-HGri1J4rlj1JfoQr5QQvGYjboTDKWfOE6cU3Phowqu2-tMXDhP4_LgH6-lGFEtOQz19YwayJVMVHCgpNHDpbt7jx1DWrNkTyLXUjaRvxy1Zbt4uVdXuEQUGoskDKl3w=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-17T07:23:30.743473+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm"
+      ],
+      "filled": []
+    }
+  ]
+}

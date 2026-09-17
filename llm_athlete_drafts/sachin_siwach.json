@@ -1,0 +1,337 @@
+{
+  "athlete_id": "sachin_siwach",
+  "sportId": "boxing",
+  "coreInfo": {
+    "name": "Sachin Siwach",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1999-12-06",
+    "heightCm": 177,
+    "weightKg": 60.0,
+    "profileImage": "https://boxrec.com/images/thumb/5/50/851667_2025.jpg/200px-851667_2025.jpg",
+    "welcomeVideoUrl": "https://youtu.be/TkdYk75_71o?si=JAz7YgU4VwHxAtZh",
+    "bio": "Sachin Siwach is an Indian amateur boxer from Bhiwani, Haryana. He began boxing at the age of 10 and trained at the Captain Hawa Singh Academy under coach Sanjay Kumar. Siwach is notable for being the third Indian to win a gold medal at the Youth World Championships. He recently secured a gold medal at the 2026 Commonwealth Games in the 60kg category.",
+    "birthplace": "Bhiwani, Haryana, India",
+    "coachName": "Sanjay Kumar",
+    "yearsActiveSince": "2015"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2016",
+      "value": 100.0
+    },
+    {
+      "year": "2017",
+      "value": 85.7
+    },
+    {
+      "year": "2019",
+      "value": 75.0
+    },
+    {
+      "year": "2024",
+      "value": 71.4
+    },
+    {
+      "year": "2026",
+      "value": 88.9
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "Reigning National Champion (60kg)",
+        "holder": "Sachin Siwach",
+        "date": "2024",
+        "venue": null,
+        "tournament": "National Boxing Championships"
+      },
+      {
+        "label": "Olympic",
+        "value": "Nephew of Olympic Medallist Vijender Singh",
+        "holder": "Vijender Singh",
+        "date": null,
+        "venue": null,
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "Third Indian to win Gold at Youth World Championships",
+        "holder": "Sachin Siwach",
+        "date": "2016",
+        "venue": "Saint Petersburg, Russia",
+        "tournament": "AIBA Youth World Boxing Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "wins": [
+        3,
+        5,
+        4,
+        2,
+        4,
+        0,
+        1,
+        0,
+        1,
+        2,
+        2,
+        5
+      ],
+      "losses": [
+        1,
+        0,
+        2,
+        1,
+        2,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Power",
+        "Defense",
+        "Footwork",
+        "Ring IQ"
+      ],
+      "values": [
+        75,
+        80,
+        80,
+        85
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Sachin Siwach has consistently performed at international events, culminating in a gold medal at the 2026 Commonwealth Games after an unbeaten campaign."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2015",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "AIBA Junior Boxing World Championships",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2016",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "AIBA Youth World Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2017",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Commonwealth Youth Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "President Cup Kazakhstan",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 3,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1,
+        "tournament": "South Asian Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2020",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "BOCSKAI ISTVAN MEMORIAL",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Elite Men's National Boxing Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Strandja Memorial Tournament",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Commonwealth Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO9w1DK-TL5nxHvlw990Ji-5P0l2igRF8rOo0cb0wBj9-CtoHBnZCmhCO72H9pATA6UFVo2qKWsbyVst3orP19S18utq0leLQ-Luy9HN7wjBSMPmWR64SsEI0A0XGMHEMO9lK4x02xH_n-Ut_s3OA70kg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_4QlBhdvmImI-cgwviK2TIlsTGMXIjSg_CLiZOXeRH83H_AVc_RpRuIutbM_JSqaTKxYfjRCTb8jMjfXgkzAzXw3WDUgGf06qev9A8dO_IomENfCuY7HN6PkcOQYj-Sc3QmSG7X5MRVwmv3FTi0Hqw6TlOhrSb3JisFP1Jsat2mOCuFNmkZ_Ttn6uw9oM0FVrpb9dizwtzOj69aphjn-Vd0-7cYtiFAzNNGH4Zr_BNZ4duW1TD0XXSFRrUJBtE1Uc07AnQNIofEPxZJL-6qh818eMEjdinYU5Je7quz2n2pmITfo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGApNcetZwiP2YWoBNHkRtFZvNTGKCddmsWr5FPqG-FKAFdW4sPUa2RNjKmXd_W1Ze5Bgu7d0EsgscxP0vnFxH4U_d9_lxj-6p-cTVMzSBNZ6z6xh1N92NnnSDWaXqbNBkL4XthhW9rPak1LHMkuVas4WgF8kKTTzWMR8JneWrW91KR-P9owKq9fg-j",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4Ik4g7fWLcBz9DJapQiFqj3kBgQo3x6qNRlujU2S9VdpkOzWkvCX7Fv-SC3jt2Tq2P35D0XSdeoVrGRf3G2soTzPh21iw8LxzKikpYdnQZcsZY__FGBz_cUdS-N1kejK1hGZL-bu2JAcJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwWNA77GFkGoWdtmZuAtsC2-gTakrsttsdz6t3FcpV2Y7nZZ4ntBGv9exRqIOQxL9AoDkE1fE-xRLx1FM3akUXEwcUhcL12rYrMpAKuVLXMOYLv-2TtJ4Cu1C5-IeYfIHS3LUc86uxbftYuD2wssQPPyMpcgpFN8ryz9HA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVwlZ-G_B6XFCJ-_S6mIJS4G8O371jchn_mrxz93SoshZQo51MSaCc1GSzOsYo3WjK5lJvXOwyvkVc7sTXQTQL8vstNZ2NpAyB-ldzz-PpiF4ikiXPU_bYiJAN0CkoNsXojA-Qve6zGg6j9YI4SA2bOX43wlyBJDRtku2H9w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8BMUkBxooNuxTzhRTFMfBXoMehHLTdcqp2fJd2K-ikMgKn5h3roslTL3p3Sz63UQQSE5eZRwp97qMo7Gn_smWqUMMlakVLHAgnjuDUnLIN7Mwtz1QfZrUAzfVpVYLT3bxI7QGneq_qWLmVDw6Ru0Zn2dv8m2JL1B6C5q9Pi5WsclAEIK44-y0jPSgGxEQgbQezPq2wM4-MiIkj6CDTFya8O4YQl_fkd1euL-_PhBLid3WijVPbSxZ7J-hDQZFW1jphR4HaCsi4CU-RjXV4Xe2EGJ9JpY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwZIYXKNPSGs9eaIgr0QImWoknhl0hj4mvKO0_G6jluoqN3BTryFJZ0RoscJt9oij93BKsGSruuRoPaVPGAlpFDn6ehT6if9nnqE49of1NQhQcpHH56MNwrs36IIJxConM4qIVTjYfAmIPwAAqCyEvius=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFg77-HVYtZQd1r7is7Y_wd5NImGZ7DNZ7f2P9EEMh2VsVoB89nQfreZaxwNa1ljoWnvGtr4RAuY4NISG0eqiZO-tO9Qx41s8O65iGHLYdispBg2s51GZPFWZX76UVeI-45lOqN9wcCJMQQmPIaZI8UYXDmk94ZPRzmlJ4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0hrQdxKLMo1ijeDg74Fjft3yNMb6n_O3YVaz0Z1zIgAB5lHtWcgPWCGIN7JKfnnJ_kUDsmALj8xWyA7WVEjr0Xedv6r6k1Yk9-KpkxBl_l9yd-t8Z0JOKjFgXdqIlpnlPZkqR3Box3Z1K-SKQybCq6TdrsxbXPCr2C9LgYJyobkLxG9JfR9N8kIZH",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiJT2LxEaPQWpjbkufnX-omUjGHU5kSFYgkEpVi-_2n8JAD-IA7DczLoQQi7Ei6q1NT9ieJx1un9zkmRN0zv2kHewzXEeXY2svxSM-d5OMfFrzkCrC-s1Jyvq5d6Q89gOryJNJAIT2iN5ibQ72H9ZVJ_oSTop3wYIGLh46TzvYBHI1ca0UJAx4bvry5wr4LDRLGpMK0wmBeLrueUbi27rvQ5JcmKSxHXb9VPdwcFef4N8otw23-2mAQQoQ4ph2SbOFTEgrgDdvBl9X018j2tI2ivWdEZjTZ-lBARCq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETtXOsJ5L4Xmsh3Yg_OlGEqmzw1ngNtsr87bpPFGwkREZ0rKviRSJ6KiE7rKxp2iP5BdUbYs6jdkZeaJFL5TOedOpBRrhERvZoYWs0mFxR9Y6WjWY3a2_DPO9znEfNGhK062sgRCfSS3hrIk_qd8oC_1BdtKNljepniJLlTVOH1Rrn3WAkVCGX6f8nCkvbYZqRD0B81oGRvHx7MCiOmWBpf7kZM8lGWYZghVR8sbfif6AdOTFsPM0iZfdncd-2WHDgJ7YHvdfHj3LAQhtbOWNH9H3HOQRm8UpfPsg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfhGhb-S9qGd9uDWAZW719R06DVUs_f3KeYqKGdWPx0R344DV2-UhMTwrrXe29P-GobuNKhmwYpnj8iIBArm0km3kYo-f9X51NhjgMpGpNwxuZXMKsP8rjHKYf-dclnPhCiwqQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS-ZbV7Rhp7s2dvOPLfcHNJTS5H4JhprnBqoNy1v0ambImHH3jMwFu21k0Dp4BwmiSSAaUahC9zIabC0kkhsWVLyMihekCDjH0eBczBHlga2NKgtbaoZ0yN4qWwGtIjTUezmgsmTHlvxhf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Pwt_HaOkBi5wD___L-la127TRAfzRkTU_Ns2-oxqnL6wblLnMMeydRoLLPMwk5w1DerykgT4TECxvF9YPw8HmXj7hE9Y7WEky-662fX6E1Oz9qTRqmPGgZb1YwpnkyXSn3kDa265rstJj5oBaMSMEmMuDW8jxnnB2mbrvRtfvB-qGAv-FqBQxXWuo3ho5SKAm2HMZYOJdyFRWxM42g5TTM87urNtC1-f17exFjIUBNUjtNL6-dZd_OvfjgEwYwhveuIemFL3-ao2914UT4qo10Y1bmGIcHAgVDJx2uPU5Tlu9lk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkAF8CV9qVlYH6j1kyqqi3cVekQiICrqisGv_s5lGlwBUKTfUFImj2xJCegTAxgZ2xHYKvE2h3sp_E4PCJfXNv8ke6XEsvHGsBCffScNMPZ3m1dqf8JhnMgMy2M8Rr4oLnL5YyGfXbSazpzH9R8VZk3rI2PD9YhCguiMoYMEW8RWOS4pe1okiu8alztFzsOrOob9JqH99CIrHccFmgtlkyeAW6DkzwM9ofzT9dDZbZ9MOeXwzDeu_TIqdGr_46-ZsJ-MwbFdnVHKHjeUYutDlUClVY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKGzJM69bdd19wvKVRzpEjr-Wef_cvXHT7wYbQHuMSljyJInS_c3wAKBiQKbzvqU7lvwAuE9ujs0ZeG1_03eaGtGDqUqvF9mxLeCcEKl8FhQFZW7vmbJdWS7LDeRIT9fvAR-7BpRZnwW_EuJYsV6ETlnDbVggjepAY7NMKM3L-J-buCAfhDMIzyIOjK3x8ogOw6IqysQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLYjo20XF4WmdFtu9i6iAi__xbBF2Fetvyuc9X05HE5bRuynO_Utdgygh1d5DJr8sTXrAKsDpNzapFI2Vql2GscgxuLmPSUxkaTTN35sxJdlBCL6Ddo1FzBsEEUSoyp0E3Wr4vtEZ14ADS5PTlJioiOOuK4wZX0rt8cDRiWlObkFu40gHJVjVDaw-tUtvb3n5c-JzZPWcez38n_K8uqyc-0txKIlwkeakC2lgRfv4KeXxTKDn9gQD5HM93goMgk9-D8SXK6zo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUByZrS1ESngFdtAm_2X4Bk_pCMvpVwpg4VpCHUu3og_OqsA93PmPc9jH_dxCQzLxMsRl2ZzqEyuwKGpNnNN9l1Yu_6pvCZMkM5qq5tywOFzxA4OaCbTtN_SZ09HlmU6rks909ByItFcIeF7X9WxvDs0Yqo9KqSEnm4xCaQHlJdlP_pxr-Yf9gToUhoLfPC1iqw49DqLYwiddCrVPAYUwFLyeX_8FiprgyLNBFeOLu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECiAZ1ij0T_TPqls-2g3pMQFL1Ae27OHxmsr8mCR8Pq_Npp_HN8jUB-0G2sZ-J7jk-yHKx_jAet_TKnvbNT7VOMlWItglrBIr19iy-G2PSlwvIQkFcTojrFMVgcDQ2lPxqwT5BM8wIFjdDv47I-tXayRBDM_gJmCTazDLSzVCvbhNeu12JcNZD89RVCPvDaZh1lBewGA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiwWhSeyL9ri9E4cgIM1vlXdwIt1qNfkF0aFZLIT9rt1UXIh2MijSHlsDaCpboOvPMl-0YE8sCr-yaPwbe7tMyZrOCCdGaiYT-PU5CP3qudopq0H15FDHG1_rUPv2bSWUQxfJ1H9pWsTMsFuLB8vI9cIU0jI1Iyh-HMFXG2Vwe2NemJmRChw8HYl_qWDd3lX-XS46l-s_EmjHnhsQN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoF8JFuYJQlXCRfOerHiWKaeSnjxCn-WmLL27XH20YqHcrqVdMLLI_DM-GKjDEqQU42pKb4r8qUexf7F-tdKk7eYAG20JWgfitkNmULMz7Wt8jrN0-TCejPAJ0TVminZbr2U5G9bIFl7P6o85Zdj4KObNTEctNzIZ6uj2OLD0Tiiu9oX6FsqTIH9MpmHLc2siz7M7GT_3cCSzM2Jd26B-tvHbO1pyDKfft-H9QzySNihbPRFeT7L9wz9Gf4Jqa2EMiUK57wqzkN-mANHXoMI65RoVc5CQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv7kfPh02vu1yrp-wCqFwSQbfPgnnNEfwvSmON-mOGXDDl4hauur_86Nhwnh54KMzubfn5apEvXut1uTJ2sXF_ywMids3Ze819OckzlDTPD-5KkK2p2lkGBR-ph5-sFCojXkuCA8nbD1cfNDFmfQ7yRFzwm8Q6tMmujC5juFXEWse-WJLLsixCqoY_iSOkibUWDTG0FPv2tJ5mfPJPNR5vn99CpcWUCg5Uu20NK_6gf8nXCWciwZXXOaX6gCdbccdwggt9d8VzCiNc2x2EGRtmjI8H9u4HQP_4nX-QN3dMtgd0R8n-mo3HFzz2aaWXT5j7rZZxopo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG51snwh8k16KnLT7t3j182wfJiYQOZl65aGTnbXHnlNG9HDNzMwI2RaOLGVS7wuTZtT-qO2-R1T9Q0xtgBshQx3fmpsoItbqL_TIYWR80dtAmRhl_71b_eE5U6vLnMYzafcBHHD9rQR_gM-b6C0AGYNlw2MgbVkgBG24N_-jW12L5p7rtVRaQav1QIIWZ6aOVe_xTzqeSUlarYFov8085xhXlWOTRx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxyu5pYUvKcW2VjCeNUCW1XwNfM-LfCcndqmKpT16M7H5EkyDR12bAZl6v_KkbTsqYynUfRjOLwDPhemVobLRU4QxZWvwqrZWzSm0qvaTcWHo-8zYXnXoXrFnTji4jEeOAE0a3RtscaQHB3V3saNRwt_PTMNPuoIrzPYDHzEN9ipVci8upbPziah4-09D3zI_bEVfJGeOQ-R-dzJIZHY3wsV4yIVTVo-zaPK2SZYAaqi4iQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-10T07:33:21.847575+00:00"
+  },
+  "performance": {
+    "weightClass": "60kg",
+    "stance": "Southpaw",
+    "reachCm": null,
+    "heightAdvantageNote": null,
+    "tournament": "amateur",
+    "titles": [
+      "2015 AIBA Junior World Championships Bronze",
+      "2016 AIBA Youth World Boxing Championships Gold",
+      "2017 Commonwealth Youth Games Gold",
+      "2017 Asian Youth Boxing Championship Silver",
+      "2019 South Asian Games Gold",
+      "2019 India Open Silver",
+      "2019 GeeBee Boxing Tournament Bronze",
+      "2020 BOCSKAI ISTVAN MEMORIAL International boxing Hungary Bronze",
+      "2023 All India Inter Railway Championship Gold",
+      "2024 Strandja Memorial Tournament Gold",
+      "2025 World Boxing Cup Bronze",
+      "2026 Commonwealth Games Gold",
+      "National Champion"
+    ],
+    "recordStats": {
+      "wins": 29,
+      "losses": 10,
+      "draws": 0,
+      "knockouts": 0,
+      "noContests": 0
+    },
+    "chartConfig": {
+      "primaryUnit": "wins",
+      "secondaryUnit": "knockouts"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

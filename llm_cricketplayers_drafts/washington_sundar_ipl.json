@@ -1,0 +1,170 @@
+{
+  "playerId": "washington_sundar",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "gujarat_titans",
+  "coreInfo": {
+    "playerId": "washington_sundar",
+    "name": "Washington Sundar",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "1999-10-05",
+    "birthPlace": "Chennai, Tamil Nadu, India",
+    "heightCm": 185,
+    "jerseyNo": null,
+    "debutDate": "2017-04-22",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/2/23/Washington_Sundar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Washington Sundar, born on October 5, 1999, in Chennai, Tamil Nadu, is an Indian international cricketer. He is a versatile all-rounder, known for his left-handed batting and right-arm off-spin bowling. Sundar made his IPL debut in 2017 for Rising Pune Supergiant and has since played for Royal Challengers Bangalore, Sunrisers Hyderabad, and currently represents Gujarat Titans. He is recognized for his economical bowling, especially in the powerplay, and his ability to contribute valuable runs down the order.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "3/16",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Mumbai Indians",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "date": "2017-04-22",
+    "aiInsight": "This performance was a significant highlight early in Sundar's IPL career, earning him the Player of the Match award in a crucial qualifier. It showcased his ability to deliver economical spells and pick up key wickets under pressure, immediately establishing his value as a T20 bowler.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 83,
+      "innings": 61,
+      "runs": 888,
+      "average": 20.65,
+      "strikeRate": 135.37,
+      "hundreds": 0,
+      "fifties": 3,
+      "highScore": "55",
+      "ballsFaced": 656,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 83,
+      "innings": 68,
+      "wickets": 40,
+      "average": 38.0,
+      "economy": 7.77,
+      "strikeRate": 29.35,
+      "bestBowling": "3/16",
+      "oversBowled": 195.4,
+      "ballsBowled": null,
+      "runsConceded": 1520,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2017",
+        "matches": 11,
+        "runs": 9,
+        "wickets": 8,
+        "average": 9.0
+      },
+      {
+        "year": "2018",
+        "matches": 7,
+        "runs": 65,
+        "wickets": null,
+        "average": 21.67
+      },
+      {
+        "year": "2019",
+        "matches": 3,
+        "runs": 1,
+        "wickets": null,
+        "average": 0.5
+      },
+      {
+        "year": "2020",
+        "matches": 15,
+        "runs": 111,
+        "wickets": null,
+        "average": 18.5
+      },
+      {
+        "year": "2021",
+        "matches": 6,
+        "runs": 31,
+        "wickets": null,
+        "average": 7.75
+      },
+      {
+        "year": "2022",
+        "matches": 9,
+        "runs": 101,
+        "wickets": 6,
+        "average": 14.43
+      },
+      {
+        "year": "2023",
+        "matches": 7,
+        "runs": 60,
+        "wickets": 3,
+        "average": 15.0
+      },
+      {
+        "year": "2024",
+        "matches": 2,
+        "runs": 0,
+        "wickets": 1,
+        "average": 0.0
+      },
+      {
+        "year": "2025",
+        "matches": 6,
+        "runs": 133,
+        "wickets": 2,
+        "average": 26.6
+      },
+      {
+        "year": "2026",
+        "matches": 17,
+        "runs": 377,
+        "wickets": 1,
+        "average": 37.7
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlZzO0a45xWp3DrPgba9WcUNJBN7fVELBCBmMaPUeNIyDJAoD3wHzdLb1cJp-MmoMkt3knrO97pTysfowoB2oQDd28ZOEaoRsxACZnt0pNSWHmTwm3WctAyLjVad2peR4ysagB4KN73GDe",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8oWdZLXPphhvJ0xr4v2VwrNL0_QYaOs0iakuLGXQK05jvvU9w5wQWh03rAGEbbuqc0hBxxGvNWAjkuHDc9ViKiFzOArN7yxVKuejDmuBwMCLfYN-UxPj_3uhG72v4fVxyZHFxLYQEGXy1ogqs5mMDBTBwJnLx6xabCwpoRXY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqSWbjif2-uOfBujf1jSKCYXNlFhDnPt8hu68bLGSpig2rejwPRL7lR-kLDHPAP8JbRdrnNpQk99xJ7QgPmD9v_i1HVAkPAHK1DW_-fcJGVQBfNBvTCo1NZhynZemh1Z9zDCD-Mk1eoOXdq8cJeFTjsVoJz4a49Ko-yOoxYaaS64FA8g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMUIkTFXI7F8AKRJet_Ho0I2bIKgwLrMSGPpJDSIdeFNgSZZUFOtM5ONAbYr3Rgod2oXsUiBv8IDMtRk1hD5l7bow3Aa8xq3l4dVor0Q-GDO0JeSZjq1gB49mqIx2VQS5zFw4vXrOO_A5vhSi5Qms-AerVoCTEBonm0OL5ED2XZG_xPtj0YEPFiSidrjyOIog=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIVBrqf6dzF_dhd0mHirilsn4vJqNrn9COSvREv8oygPu1xNkBiSRytHiRRixQrdG2uiGW9yLZi8FhCd-zEvO1lGfDz7G4CVMADEbGFrMlRzp5XGrSgmugvUSv2O6fiOnqh6sW2jbwBYIl_z0KTVQflQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK6LzOrqCsWeseu_j_EwTs4oiI6evIAbHA8_vXX-ovLy_ZGpeViTFQn2-lIKoRTZCD8NhEeoq1o6ot2I172WTMdq35N9j77ldwB6x0sfdRwCfOHoc6Xx_dQ69GIEQZzLnWSPutKcj-bapT_oWQTeFAx6VeOsVuBDKB-wpBLqac6wxx4uENMJbGEYSnY_l-QA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXCg9fHreExZdxJoYZbeRvBExD2G1c4Kl7gyqe1HRNUCVDI8lfcEfalJ-I7PAhFNlPAQrRJ1QOJN_R3I6w8Bkh_A346z-_KjYZfoUK7M98C0KAcdSPFbH_OEVh0v8VoQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIYAQaZehGKc2BPChGtNIVUZMOa0Vtxz6aS-B1NZTmn7Kkt54TvBztjbdkmpzJstAYNV5Fdqv85B0DvRQsXCFiiIJek0i2bIpJNalWSQGxm4U5c4tuo0v9oR6Ud34gnPP5q1bHK6Ygp4KVRpz8vgrdUv2KfHiH",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGv1rWhZdIxJ3UK4YGlBq6uAnQwZAzCvUjCsq3nBK_FAjXT_yd8ssdeMCc-TzWKQfhr4Zr_pOzv90Y2m_cnMIrCkpHgHgSNbBICmw3qwt8aRjgGBXyZDdzP5km_wfqTHkLntqCTLYjUEbDoeC4OHYXgX2AU2UDXoynyDRQzIUOwYKlZVBJiPyIoYeOvsA3ydI7vhhkrhg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkxZOyBQ9MAwykOGgZM2ppedb379r6qKM5xHDaJaYdVR80RfgsEDsanJxxxASxQmy0un0JooNAq85JZUCZIdnVqFpb79LYQGGF8-H0iTLU0NT3PGXPeoAYvh-GsPwYGGkCBRlLHEJB2l1NveU9WiPXa9PHYK_px8S5fq3yJU5U18nlhn28npujnMYAU267Lk4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXxHSY9witf69Vl5ysU9gtHhgyR_SuMLH44pCgzFOrisDF41j3TSKndReVe78UXlk5XjABmJuJQRpCNBHQ8H7UKZVYL_6mCObJO9dCxB9f3_YQkTXoirPsxSx3rdfg6Vr03XPXjnh56RbSLIN6NJIJX7FCUQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2to_LtuTJVHaZgIFmGy3vBRXG5L993akFD_E5UfiTDqwCfVplqRNM6Ey5tkgVQ3eXy1FM1z6DvO_RmoapGirl5i2f1S-y0SNAyWJg8fM5dCr49_MckirMSDGdqkDu6ecSMcyTV1G6gBc_goOULqLMCbFno71uI6n7",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH1_gS-jEW2hpzxAaeiWsRU87erOoppV1R3E_ShhnHuwWr60yBbc2cYueV794dx3BVIVTW81G-FSkCfO8XAaaeXR_sQt9xIaFg0rt4pvqO1hUoob5JG_Y5lB9VGXM8PLZ_sgtdFeDIGvHST9IbBz43JtELckl7JORw4qGAYsmwi4Y="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:23:09.659289+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "washington_sundar",
+    "washington",
+    "sundar",
+    "washington sundar",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

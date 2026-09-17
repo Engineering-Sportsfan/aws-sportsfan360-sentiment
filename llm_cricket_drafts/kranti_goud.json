@@ -1,0 +1,123 @@
+{
+  "athlete_id": "kranti_goud",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Kranti Goud",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2003-08-11",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kranti_Gaud.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=AsZCwst-DQE",
+    "bio": "Kranti Goud is an Indian international cricketer who plays for India Women, Madhya Pradesh in domestic cricket, and UP Warriorz in the Women's Premier League. She is an all-rounder, batting right-handed and bowling right-arm medium-fast. Goud was part of the Indian team that won the 2025 Women's Cricket World Cup.",
+    "birthplace": "Ghuwara, Madhya Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "T20I Wickets",
+    "result": "8 wickets",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Kranti Goud's personal best of 8 wickets in T20I cricket demonstrates her potential as a bowler in the shortest format of the game. While specific details of this achievement are not readily available, it highlights her ability to take wickets at the international level. This personal best contributes to her all-rounder profile and suggests she can be a valuable asset to her team in T20 matches.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "6/7",
+        "holder": "Deepak Chahar",
+        "date": "2019-11-10",
+        "venue": "Vidarbha Cricket Association Stadium, Nagpur",
+        "tournament": "India Men's T20I Record"
+      },
+      {
+        "label": "Olympic",
+        "value": "6/8",
+        "holder": "Ajantha Mendis",
+        "date": "2012-09-18",
+        "venue": "Mahinda Rajapaksa International Cricket Stadium, Hambantota",
+        "tournament": "ICC World Twenty20 Record"
+      },
+      {
+        "label": "World",
+        "value": "6/7",
+        "holder": "Deepak Chahar",
+        "date": "2019-11-10",
+        "venue": "Vidarbha Cricket Association Stadium, Nagpur",
+        "tournament": "Men's T20I World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        40,
+        70,
+        50,
+        60
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBdqfKAsvinZd_9PQ0Zo1CNil4S2Uf4FQZ_XiElIGC1B-s6YZZWCrOTjpT38svh_jYJBP3kMgcoB6rofn2Q1qnwxIhGiAn8SOvk525kvlNHIdzEjLnYg5KlIle8Ow2tcck5Lyr"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:20:40.135080+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 17,
+      "ballsFaced": null,
+      "battingAverage": 9.0,
+      "strikeRate": 130.77,
+      "fours": 2,
+      "sixes": 1,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 8,
+      "economy": null,
+      "bowlingAverage": 42.62
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "goud",
+    "india",
+    "kranti",
+    "kranti goud"
+  ]
+}

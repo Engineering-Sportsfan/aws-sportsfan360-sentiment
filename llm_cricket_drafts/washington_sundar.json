@@ -1,0 +1,162 @@
+{
+  "athlete_id": "washington_sundar",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Washington Sundar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1999-10-05",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/2/23/Washington_Sundar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=lNatIVg-eOw",
+    "bio": "Washington Sundar is an Indian international cricketer who plays for the Indian national cricket team. He holds the record for the fastest fifty by an Indian batting at number six in a T20I, achieving it in 25 deliveries against New Zealand. He also holds the record for the most economical three-wicket haul against Australia in T20Is, with figures of 3 for 3 in eight balls.",
+    "birthplace": "Chennai, Tamil Nadu",
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Most economical three-wicket haul against Australia in T20Is",
+    "result": "3/3 in 8 balls",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2025-11-07",
+    "city": "Gold Coast",
+    "prevRecord": "3/4 in 2 overs",
+    "prevRecordPlace": null,
+    "prevHolder": "Chris Woakes",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "This record highlights Washington Sundar's exceptional control and wicket-taking ability in the shortest format of the game. Achieving such economical figures against a strong batting line-up like Australia demonstrates his prowess as a T20 bowler. This performance was instrumental in securing a victory for India and showcased his potential to be a match-winner.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Overall T20 World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        null,
+        null,
+        14,
+        7,
+        4,
+        null,
+        50,
+        27,
+        49,
+        11
+      ],
+      "wickets": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        3,
+        null
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        30,
+        70,
+        80,
+        65
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8OgIGo1kHRXmnWbEnNWl2ovS3Kj51KQs38lKKfa1w2zRxtTwxIDUTjtzqDVw-OjY7BiUIALP0nmmpHPnfmRSwn3UovoNMZlzAqy2Yrc-BaqgiQ6-nVRha8yVQvkPES_5nHYGgSCVOPNHlmaLpi7twnw3x0q5otOC4mWkwLbhXH3rhAQv45h0Nt6nbwnrFXHRETnGi7g0UZYLjifBG4gNfCJKsAI2nOG9hXTLrxBHSuVfPhA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiHm9qp9phFCSf2Ewc4v5zAHS_icae2VoANxhYI0toXmLByU9PxHHDOmQGZ_UG_5PG2saZorE4UjSY9cUdKda_X9smNZgWiyxPJBEcEln5whJf0I0ezxBpQOCZj8-LKHJoapzicFymk2MpUVrzs0D6P7ga270KILen5-1qyo3CDmsoDzdziDVgYM67lLaMo8tjKq5gvnZr3bw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqfwpPXLeMV1CfrqNDj7q8y8Ig98_cPcOHXHbYK7ypzJQ-yhcvU2_WXoe813IK0RVNRGyjro_KSc8aYzvcHkPIKCHUFyRNHR_2lbbiqugInFp-QMyRLlZyVq7LfbRYyw67OCvfDUMjTGzW9cq1qpky5Czy_OUmiNKfLy971mkuapkdaCHMjxh_Fr2kCLjv3Zg-0NV1Q5i0YfAXOaRTglHctwRfN2TEbkkcJngeD-GCrTbUUy3sbFTV0OwBz6PO1ZA7VKoURqtRVU1eY5FIlflJCviLlOB00UxM_5c="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:17:17.530238+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 279,
+      "ballsFaced": 220,
+      "battingAverage": 15.5,
+      "strikeRate": 126.81,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 175.5,
+      "ballsBowled": null,
+      "runsConceded": 1252,
+      "wickets": 51,
+      "economy": 7.12,
+      "bowlingAverage": 24.54
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "sundar",
+    "washington",
+    "washington sundar"
+  ]
+}

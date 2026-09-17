@@ -1,0 +1,156 @@
+{
+  "playerId": "varun_chakaravarthy",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "varun_chakaravarthy",
+    "name": "Varun Chakaravarthy",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm leg break googly",
+    "dateOfBirth": "1991-08-29",
+    "birthPlace": "Bidar, Karnataka, India",
+    "heightCm": 175,
+    "jerseyNo": null,
+    "debutDate": "2019-03-27",
+    "profileImage": null,
+    "bio": "Varun Chakaravarthy is an Indian international cricketer known for his mystery spin bowling. He initially pursued a career in architecture before turning to professional cricket at the age of 25. He gained prominence in the Tamil Nadu Premier League and made his IPL debut in 2019. Chakaravarthy is a key spinner for the Kolkata Knight Riders, baffling batsmen with his variations.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "5/20",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Delhi Capitals",
+    "venue": "Sheikh Zayed Stadium, Abu Dhabi",
+    "date": "2020-10-24",
+    "aiInsight": "This five-wicket haul was a significant moment in Varun Chakaravarthy's IPL career, showcasing his match-winning ability and establishing him as a key spinner for Kolkata Knight Riders. It came in his first season with KKR and helped him finish as the team's highest wicket-taker that year.",
+    "progressData": null,
+    "benchmarks": null
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 95,
+      "innings": 86,
+      "runs": 31,
+      "average": 5.17,
+      "strikeRate": 58.49,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "10*",
+      "ballsFaced": 46,
+      "fours": 3,
+      "sixes": 0,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 95,
+      "innings": 94,
+      "wickets": 111,
+      "average": 24.73,
+      "economy": 7.72,
+      "strikeRate": 19.23,
+      "bestBowling": "5/20",
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": 2134,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": 1,
+      "maidens": 1
+    },
+    "seasonalData": [
+      {
+        "year": "2019",
+        "matches": 1,
+        "runs": 0,
+        "wickets": 1,
+        "average": null
+      },
+      {
+        "year": "2020",
+        "matches": 13,
+        "runs": 10,
+        "wickets": 17,
+        "average": 20.94
+      },
+      {
+        "year": "2021",
+        "matches": 17,
+        "runs": 2,
+        "wickets": 18,
+        "average": 24.89
+      },
+      {
+        "year": "2022",
+        "matches": 11,
+        "runs": 12,
+        "wickets": 6,
+        "average": 55.33
+      },
+      {
+        "year": "2023",
+        "matches": 14,
+        "runs": 1,
+        "wickets": 20,
+        "average": 21.45
+      },
+      {
+        "year": "2024",
+        "matches": 15,
+        "runs": null,
+        "wickets": 21,
+        "average": 19.14
+      },
+      {
+        "year": "2025",
+        "matches": 13,
+        "runs": 1,
+        "wickets": 17,
+        "average": 22.53
+      },
+      {
+        "year": "2026",
+        "matches": 11,
+        "runs": 5,
+        "wickets": 11,
+        "average": 32.73
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEsireRetr57XUv7FivF9UZ2JhyHrNT8YuIJZjSZN0fRqN6Q9qHZbt6_zM-aHw-yZLapWZhUd43X-nnv3OU-HlrWylOpcezrBbM8kZftoibdx24AA0gfPUYtjI-o_0cA63PaKzo30EyhWlCQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN6ro9JC6484FsGp4pWPnY8CXrMdMS790VYWUtOeXojPccqfiYI5mCckiGlKV-SXP-Y5oyZZtTReywd9MrUpzExtF1OwpmhrDwjM4E5TMlQDHm75-QpEbY6A8At1E6JSn6PHpnmOUIbIBs3WucawJw4_QIixnHh8rMmXDuMgl3pA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm5eEC7elnJdaP53NdEZ2qJoSkWlMgM567fT-ySWNCAvHlJsDNmgXPGj-Qo5YRIVnNUPHQV0Vy87k_4FltFPRi5YG3ZXUrx15t4N8bzH2C_HW7TLNlHYcZfV9vxxs1s18vwpPKbbytXUFF0VtsRw768rQmsCrr_kc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENQi5tnOyENlaZhRFfTIvdXfUQrI6Ld9ud-Tfywsjg7PTPMYZJ3f5MooOEwmtxftHGLVVyzI1cgp_kUJFI2fr1998MRDu6jFChNE8S3-CvuYjH6vhftMvIBE59lnj_IhYsHdgo8uoPpzkmTLwcfe41uanxyZkcmhUeH0iEUWFAPhC3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESLkpYkvgrdM59CHMq0wAl7I8mZGeCjBK0AGwXPh3qDlLk-xu5KZfpTyY_n9m05YTQYZ3F17ny5JEPGGt8hWC89klxHT7wFqaZgO7uXB1UiBsn2poB2YnToTHBy9zbGFi7YnU1r383y02Cn8JguMe4CjEFuyos5kZ-3YJy_qOM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx-v43nKxEhPSXC-rAo1Kn2Kuyr8YKQxncFCZ95U9Zm73BsJoYvn-gO5cIACJ34L0JVSWX45beRhRU8UstzYsbbX35WA1VSJZuk99kuKe-NMRNvDSuXY30iq9jwzaKHBMzigcI-tTtb01P2PCkWW6EGNwZU6LlPa3A42Ujhy1etfgptzfU2CzDZKluxOXFZ58XD7siOeCQS3JYs2yJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFu_vYz5eSzNg6zj01J0mqiqCIXlTnVXeW2_l2Cat7r8LZUbi9kI_-bVy3IwOGrtRucStnekDBfNOQUjXpnXNhSW-xomkX-InLmJDHd6llMAUlBoDuLlBZ4kGt0lDNR3FZkpzK68zpHjq805Uu1D5pWqovIPHbT2ppjuRKge9U6b2_0UulKXPCVeL-KA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH60Yi9SxHr9svfzSy63a7BGq1ijTemxs2mc7fQE5O8v82KQKwNvp4AqpTDgsXiPK4S6LRHya8A9rDQvEPWBXid6GyqGde5s8IDXvzc5NazlPfeWoW5tuQ3mz0txne2XimqSJsonFfW7iCMx71sjVQpSmGTsNYCc4MGDBM-zT7UZERhrpuETQdpROe4gjb_kxA1HDzQdQfvD6I8hemtq1bPO-3xDMm3ZK6GEcmE8MAPHOr_Sva7_P0u",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk6mYguqeitcd9P6_QFdZ_dOyPHe-Gupw3uOx10c1HQ31U1dx1cRcg58tqsjiF-rquvf3hBQzE4eTFNCuY3WH28vErf_2CZNZ5mtmR-sBTguH-KCzkAYpc0Hkq7T85M9iajrWvKWFGNxQ1NmALs0-bkFeFCVcclYW7ZPrT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyb0ispfa2MR4KfMbrELxeOUzQuhGvEo1RkoydIXtf8rocIJPMoC_a-qHAMNip6ptT18YobOFpbE1E8RWtkz4vqUyD9Qr791vY6mS0ApeHLxXjqZ6mry27kOjho2sW7BV47AdGN-9GiNWix5q9fEQ61EYNre1w8WmevFO5WjNAeyOsFqKVaKDMNJlD2gbg6ltb4FKCJTYuhNXDSx-UPE3mGT0AkezW5bkCOh2eIN3AbbC0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXYhDzP8Is2v9IPSQe_UiGRBavmyJcvCIzpaaep-kXNxqHYTM2l1w7JAqT6Nj-JTi8uCAHlcPvRnpFy_2Bz5J7IupSS84ytqIqRnTm7xaafLZiBlfMsVh5pkm7RAR2-QuTAXJLBmtWC-QK2AVzOmt2UQrnl7U6VtSJhuDYXhRPktPXsjl7NGm6ytebknh0R9VXq-0FQiwfgoJ4u9dPhzBUR80MbDfH2oRzw1-Uc-Q2dvkwKOTO-q_nQxgliLI4OPCsUkmz4en5XBk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzHQXBG8SQ40E8qHGGFIBxJgyme9qnomYS54onBm6eMqwHccpadDcpyOQBjtIBNpQxidXI9KrMS5aT7QwNwPs_zcyz3KMWVzR7NpPzXUWOMtaKfmM2n638C2X8xxhTOn-_VjgMlS-z8Z6XR9MsFvQEKNxk4__azJyKi6w-PLYJ1mS_h9b8ZjL2dTGWTCSaPwMAOBe7lUIa77P33QAJc0YBVsvPr0UfpkQV-KUE25Dt7-YUADDFdbJBsvNR7n62LlojvzLPrbZ3dJY5fDdrZqWtxSFJkG9izlMKW5EWzw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHryF4cg5aWNH-i91vOF7vCrcQGIgSCm7mbo7IPnRJzChbE37eMV-vnhEP42Jh-fC7NCYdmbWk0u_KFVj9GAP2IIu0lUNvi0YYRfN7vVvxYm2ACySyQ9_xtH63AMT9AsG5jm_y5cyNQgokb22eDv-zoo3UGESyqrwWDJzMScsYdj4KWUO5EPf4OevJ4b25TSv4SAxJ_JAp_4Y6zBvQGFsCGOyWAy0B7G_CLJmZc3EEY2avNvZ0SOXjSWpc="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:11:44.196445+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "varun_chakaravarthy",
+    "varun",
+    "chakaravarthy",
+    "varun chakaravarthy",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

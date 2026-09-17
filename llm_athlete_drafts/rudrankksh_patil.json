@@ -1,0 +1,305 @@
+{
+  "athlete_id": "rudrankksh_patil",
+  "sportId": "shooting",
+  "coreInfo": {
+    "name": "Rudrankksh Patil",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2003-12-16",
+    "heightCm": 178,
+    "weightKg": null,
+    "profileImage": "https://backoffice.issf-sports.org/media/athletes/portraits/SHINDM1612200301.jpg?v=128260",
+    "welcomeVideoUrl": "https://youtu.be/jwodKIOhs3k?si=AikZPnErKkhs9EmO",
+    "bio": "Born in Thane, Maharashtra, Rudrankksh Patil is an Indian sport shooter specializing in the 10m air rifle event. He won the 10m air rifle gold at the 2022 World Championships, becoming the second Indian world champion after Abhinav Bindra, and secured a Paris 2024 Olympic quota. He also led the Indian team to a gold medal at the 2022 Asian Games, setting a world record score. Patil became world No. 1 in the men's 10m air rifle in December 2022.",
+    "birthplace": "Thane, Maharashtra, India",
+    "coachName": "Ajit Patil",
+    "yearsActiveSince": "2015"
+  },
+  "record_highlight": {
+    "event": "Men's 10m Air Rifle Team",
+    "result": "1893.7",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": "Qualification",
+    "date": "2023-09-25",
+    "city": "Hangzhou",
+    "prevRecord": "1893.3",
+    "prevRecordPlace": "Baku, Azerbaijan",
+    "prevHolder": "China",
+    "improvement": "+0.4",
+    "improvementDate": "2023-09-25",
+    "aiInsight": "The Indian team, led by Rudrankksh Patil, set a new world record score in the Men's 10m Air Rifle Team qualification at the 2022 Asian Games. This performance secured India's first gold medal at the event and showcased exceptional teamwork and skill.",
+    "progressData": [
+      {
+        "year": "2021",
+        "value": 630.2
+      },
+      {
+        "year": "2022",
+        "value": 633.9
+      },
+      {
+        "year": "2023",
+        "value": 631.9
+      },
+      {
+        "year": "2024",
+        "value": 632.3
+      },
+      {
+        "year": "2025",
+        "value": 633.7
+      },
+      {
+        "year": "2026",
+        "value": 632.1
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "637.1",
+        "holder": "Shahu Tushar Mane",
+        "date": "2026-01-24",
+        "venue": null,
+        "tournament": "National Shooting Trials"
+      },
+      {
+        "label": "Olympic",
+        "value": "252.2",
+        "holder": "Sheng Lihao",
+        "date": "2024-07-29",
+        "venue": "National Shooting Centre, Ch\u00e2teauroux",
+        "tournament": "Paris 2024 Olympics"
+      },
+      {
+        "label": "World",
+        "value": "255.0",
+        "holder": "Danilo Sollazzo",
+        "date": "2025-09-11",
+        "venue": "Ningbo",
+        "tournament": "ISSF World Cup"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "scores": [
+        630.2,
+        633.9,
+        631.9,
+        632.3,
+        633.7,
+        632.1
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Precision",
+        "Consistency",
+        "Finals Nerve",
+        "Big-Meet Performance"
+      ],
+      "values": [
+        85,
+        80,
+        90,
+        95
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Patil has a habit of scoring in the high 103s or low 104s in qualification, then elevating to high 106s under pressure in finals."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "ISSF Junior World Championships Lima",
+        "seasonBest": "630.2",
+        "seasonAverage": "630.2",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 5,
+        "gold": 7,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "ISSF World Championships Cairo",
+        "seasonBest": "633.9",
+        "seasonAverage": "633.9",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 2,
+        "tournament": "ISSF World Cup Cairo",
+        "seasonBest": "631.0",
+        "seasonAverage": "631.0",
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2,
+        "tournament": "Asian Championships Jakarta",
+        "seasonBest": "630.4",
+        "seasonAverage": "630.4",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 3,
+        "gold": 2,
+        "silver": 2,
+        "bronze": 0,
+        "tournament": "ISSF World Cup Buenos Aires",
+        "seasonBest": "633.7",
+        "seasonAverage": "633.7",
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Asian Championships New Delhi",
+        "seasonBest": "632.1",
+        "seasonAverage": "632.1",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuVyvvzukewQ1SdiDgjwr0rFnm2xPrwASalyScIQs45nvChYaY2QSHXQldIOIi6EbPdx0rCys4iPngmwdqlEwV8oxT-_pl1e-mjOU90lGq7Ilgw0qbxJ64Qf8H4mYOUvgt_DSvFwdHLHU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESRJg19SegnzIKfA8QAsE0mSGiGokcUDaIZceWBg0AEaTh8xjKThIsfuXxgz3vn2Ppkt8S-ws0Yb5lyySSOCdCGad4b5jHsJMBuhwyDlEjyeya0OBakgNXOiPAFaKQNGE4MVIM0Ps=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfw0z0vO2TXiAy3PmJdVb6VM90Ce5x3rivlCkLu5LHqgIczWFUheo8bd2NHPgMEuTbJEobzZDkuMrzziFCn_Qxwl7h8jmIS-bm_iSvUqUOqXwxA_zPkzpfw4QAraeYSr3Kk8Uea8mfAyCaWvAVYIDIXGfGiaFIDGC8mBBWQAztE_lOltW0c9H9ElZU5et2w1NI7eNpYaBZVjUSzubir-hsQO6gae5L6VP5CLrGUpJGYTPLlwAEe-awFBdDfJDEIwXKQrJb7yt6exLPolhUqB3gAdRystwIkuM5ds33lz2fJ0dbE5qhcOhCz8T48hvXInt-4atQomRJ0vhl6FbASrb2OCFIojbPenv774WMP2iFtwg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUCnEja54D3DFBL0PiiXPC3lT82cd-lCWwBx0fttKgBAakgBqpv6YsBTlPjxSr3TjoNVEewlNMfA4eWWYgMtbFN3rHCgGJG3NWvPR4RdxsLQBUc_nBvFirDksRhMDBXUcIghiD8V-Kvo2gAxrRJI-LqVAblkkbQq5QQCBsQ7Woa31OV1M500C7jm8uGjgMaSgYEYzPfxibPpes8XHf9MKFxojwpGVyfONW",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb0VlGHTlTGQNw6q2wLmBHBEB-FvQlBWBJ2PbfL59BhZAezh2xTXUeOsbe6cq3bf4bnYDBKhnSWVu1Ravzt8u30IvPkGk2DXbXiomhWhP0NGh2rtvzpHGQC-L5s-iQHj5zREmZBS6rcCvY0eLDBun7xPHcUC6aMiBc8NbmsRJiZOFwQwk5OIkj3z7Fniko0XYASIn2KFw1U8QV_mkPAW1CcqI2DMbIRuXhkhqa3FV4BnS_qy4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYO_OUB2CXiScAdks8QJ77cw0FyXjztnWHenX6nhEo4gFcCSbqTxGzI3fBUtboA-DkTB1oqEf46ugsFbbdoiGD_PsFO878PcDP3sVH3ZOtAaOJ8gyERSfbHgBv7MMaN74gv4U6OblcPXnPTMA8l94qTQyA-AbtJKng5WT-NVIErpePxS-x1IAYin2byzOVZAYxJ-zPZ_pIYzYT95xttqD7qnkcQiJIwieJ7XlPVmzIslheesFB-EhBnr6Sgl31tFl5tE5XhdKpuHC-v-z2OBCHeH5w1qHWw3lcfic=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLyqJ6qSPCrt0KySTGXhag9H6fcoc3SqRYrAJ_dLSyDI6czNj__a8ZjW-9z7U-F2Bm_RBTpLFxnNJhfNesQVyfP9b-ricsEawsUd4TrtB2JZGw0l9uN5mJEWghSWKvhnm67r1Vlp0rbsnDLt1gO7sSwrLn3E6nd2xat84Xh6ztsbjZyqP633WayG4xNriinwT1jyz7GGiWqOpHogXDRT6gQtHLNRzvAt9gcHsBWs1jtwFPHUXBPsLu-fspIcAimuvqtC3x7C0Td1yPMgF4ksqufF_9sUD7MjmEwOU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHulYXazIoEyw6fY_c0iNIiEVTWw86jC5isn37n8Fpwcd--4kWnsdwML8gVIYtnAVU-Xw072VKR75u6RiRJTWGwtAE34Ot6zcKUZTtx7USd3CDQWVLBpmQcVdEeVFVqjFotN11aAgDyiekFFzqbUwknWArATKI2EbiN7Pkb1Y0r63V7L2x9ayYji7DYU1qqZaj6t0R1CkyaMi5BUzOW06g",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm7NVW1jy1ReDVU8jGWYGe4N9h2_5Jv_drDJnIHhVsgvVHLz8EiwGDQBq00wA3KXpQ932WFIbPL6FUh0wWrCdJF3sxEDr6z-xXbW6ay8QCGiXiz0ZLwU8FKVr6lc4JOcuWob6oZ0xP_1h3kjMmew_qievfrwNWVOQ2RJZG9EtZry9-THITH2vjT23g6-Fo8B41mIMOMMOGkRko5UqWMXDi1GLQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa2SQWNx1ZHfXWYoTkBfkKX-TAwIdqAzP24J9pgPZ_8JQkYvsCN1SMLhx2iRmOpMmK-4p4j4MoXHd05_gDeKO_bILoFxyz3Feehfe4-r7UhYQo3zILc4B0GuTUwuF8dCz-kjhKFDQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVxPKRS09I197mrMW-dv4SGB8gmbb94iRtTrM9As5FVSYy5qpaPHlH8VWj_HF5OBlK54MOH5jNbJGwTKTabsbCgFOybkxVQ09XuJd5e2JnCKY2IuuJ1NIIinHRGnpwxrZpsd9g9I2tpUe33XMy-nQx4g0qQXP1KS-RINDoColKaoCSZTNYkc04sIV-za2O1CCo5OCAV4bVDVq2zTW_oVfNlg2VrXIJyeGffnI5FIQ-4x3pAn3n2YLCafRpxbo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-YzwDHYPcypKLjjv5IPuRNfQ8bBy6WrrAPHe7J6gAB1PMyF-NW9mzm5HQ7hZF68ENavhCL8h0_QByqb_2R3Ureza3ug5v9tSU6NUcQ3OQ1mLZJRLG-gpMRZlOnLXD-yfVfvINPy_h-SM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPZWrxi0WmMncHYeqIQrq0XtGRnJWstdTZWtrbBXzU0dL0yKMdTN6BAg632J0UJKDXM8XRK2R5T1ArD4znt8iHbSJ56OetxYhRRSsvS4d46rK5EjDcjxKtbqXQbhDw-oVmpOKBa89VgyPEkjhSBYgRlPnF5_jq2zGUIe6MVEWItAYrNNttznPJM5KVlg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmgxoQ6ZhEkselFAW_0QVW6-hD2X5l5o7-TqVqSf1YJeGp5StPJy510X9VgmwDfupkq3tpIg568hn4nNJDXTCu31OSu9zfrSs2j19kC-R8ByyAMeN-pKOwRPFAXCGgonTAmHE_liBtsfz4LeNpP5hRifLNR36Brusg8rUCCLYMu3h8VRwZqN3k7biEVgSUbPfpfZbS_JRhLEqqkzGewUm4JaTkPdjhJyp-sWd_tHhxE-lqvHQjCKRVl7uwy-gCeQ1diKYpJlVzS-V1",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrKHHoO2DgIcpCpM58quYVCO6L1w3g25I7vYhTto2LM2dCmfoe12pUn5xz1yqNcQiIKMB-8bh2XglVrHNjnGiUEsCC8DBhNu-q_7qQz3Sb-48cTaDjZFAKHZeozgwKmItC-ffTjLl6baoTZ0dZzjm7nmsaDJ_W6cUWlrdAP02hx4BbnEMz-eu_b9xM6QT_miXEdasD-oAkAUAQmzHTWZEhZnNKN0_Fp8PXSUvSsAi7Jc7HHcI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7mvo0cm60CxRsXtVI8SIQMt68jMHsQ2I8MWm8cqLgj1PgleEErk6NaxebIrHpvB5vChka-zDGT0Pw8xZ_MQ2EwH8HjkK6EwAdcp5xWt0PkJqqkbFB67jbcYY2JocM3sEM0usmoTk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFytShnpcsHxXioev7-HLubEVUC0gj04taTk4vutGHcm1NsWEqc9fhtnMFJVQwmtrrCoF1fEa9K0q5ywf7gzK9k7q81I-yKafvbXK7xESoO5_FZJznohF93qdfdcxzyDC3h5Axg-guDUy96ZTQBeNcImBVi2l2dLM07j-a0_42Ds8mkhixCGJV5mMTbqa0dJq5Umc26_L3370VFOgEhH41HVYNam9q3gTGQbkBg_qgUsP9tDO341nRAdHhgdTymjBexb-xWPxTp74Qo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHfoYNu8uwR9mNKi3jvLoBZBQWWsejgFA1-g0yQr1WczGNfK5r9ULMYr1KsXxD5SY1F1X5GCK2fUNy3MElIPTgfb6BcQg2s5-yi8we-41OW2WRI_PS0UWV6lMhLXsyfJjm7KzUJENLQbokgbr0R9wlm1_UAbY-o3S6Tt6Y3QBASAilp-lUrMylubO4VP0o007GqppZhft3t_koeenP2LT3IMhlfyoeqcftaimdSCwFcZLFSXg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVdLvEDSQ_ZSpzkiw41dzaNctEa8EJOyp6MtSNRqCV4S7_Nm5_M7fkLTcnfqU3nRsD_FiF3hP4mn0rDgHD6FTQID41fV6sJf0di2Wz8b5SRBJeZK0IZibZNpvc_Iy-nFDpk9J23QlnoDI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzTDiAB-3Vgp_DvCyRqUhrfvtudy-epm2ZruYUPrSVyFLhAgHZu7xYHPiaCQTVSlptd5QYTpY7tMpqKG3yNU13rJGD1GIoJ2e3INH8xjZPCKEfJV_2kx_VLnYhoJCSkl11W7CKx3L36r4erE0z9LUhfcpe9OibeNfyChUvHz3gJsMGMzLjSdLUQ8QFkQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyYgBFjo8bcn__4TRKaPE6iqx3U4yTGAj0BuoQEco9JOGaQ9YFX6k6HpWw63a8MXwvfRfAGn7REXNDNeRRc4dWtC1n9fJzyTORcr4Hh9__1Xo5UNOMy595-z--bFUpVHgeDkKygDY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJSCaMoiIP0Nx1E01rHAqOuPrZ2KjcV4QhHY0Psn2rp9XYtS-jbfz15oEHdh3TvYO2I3czUq2NnjTkE3YBOXrl2LZphyPGfXnNdWj9NctvHmXKo3cQx0Q9L6p5LOM2L9zycLttE4rkZA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-12T17:08:08.641722+00:00"
+  },
+  "performance": {
+    "discipline": "10m Air Rifle",
+    "category": "Rifle",
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "World Championships Cairo",
+        "medal": "GOLD",
+        "category": "Individual 10m Air Rifle"
+      },
+      {
+        "event": "World Championships Cairo",
+        "medal": "GOLD",
+        "category": "Team 10m Air Rifle"
+      },
+      {
+        "event": "President's Cup Cairo",
+        "medal": "GOLD",
+        "category": "10m Air Rifle"
+      },
+      {
+        "event": "Asian Games Hangzhou",
+        "medal": "GOLD",
+        "category": "Team 10m Air Rifle"
+      },
+      {
+        "event": "ISSF World Cup Cairo",
+        "medal": "GOLD",
+        "category": "Individual 10m Air Rifle"
+      },
+      {
+        "event": "ISSF World Cup Buenos Aires",
+        "medal": "GOLD",
+        "category": "Individual 10m Air Rifle"
+      },
+      {
+        "event": "Asian Championships New Delhi",
+        "medal": "GOLD",
+        "category": "Individual 10m Air Rifle"
+      },
+      {
+        "event": "Junior World Championships Lima",
+        "medal": "SILVER",
+        "category": "Individual 10m Air Rifle"
+      }
+    ],
+    "stats": {
+      "personalBest": "633.9",
+      "seasonBest": "632.1"
+    },
+    "recordStats": {
+      "olympicMedals": 0,
+      "worldChampionshipMedals": 2,
+      "worldRecords": 1,
+      "finalsAppearances": null
+    },
+    "chartConfig": {
+      "primaryUnit": "score",
+      "secondaryUnit": "hits"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

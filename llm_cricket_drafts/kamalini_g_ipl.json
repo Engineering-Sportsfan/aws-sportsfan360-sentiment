@@ -1,0 +1,127 @@
+{
+  "athlete_id": "kamalini_g",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Kamalini G",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2008-07-20",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=uK5LolHVZ0w",
+    "bio": "Gunalan Kamalini is an emerging Indian women's cricketer known for her versatility as a left-handed batter, wicketkeeper, and leg-spin bowler. She gained recognition in 2023 by scoring 311 runs in eight matches during the Under-19 Twenty20 National Championship, leading Tamil Nadu to victory. In 2025, she became the youngest player to be signed in the Women's T20 League (WPL) when Mumbai secured her for INR 1.6 crore. She also played a crucial role in India's Under-19 T20 World Cup winning campaign.",
+    "birthplace": "Tamil Nadu, India",
+    "coachName": "Aarti Sankaran",
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "Youngest player to debut in WPL",
+    "result": "16 years old",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2025-02-20",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": "Shabnam Shakil",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Kamalini G's debut at 16 years old in the Women's Premier League (WPL) marks a significant milestone in her career, highlighting her immense potential and the faith placed in her by the Mumbai Indians. This achievement underscores her rapid rise in women's cricket, especially after her impressive performances in the Under-19 circuit.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "16 years old",
+        "holder": "Kamalini G",
+        "date": "2025-02-20",
+        "venue": null,
+        "tournament": "WPL"
+      },
+      {
+        "label": "Olympic",
+        "value": "N/A",
+        "holder": "N/A",
+        "date": "N/A",
+        "venue": "N/A",
+        "tournament": "Cricket is not an Olympic sport"
+      },
+      {
+        "label": "World",
+        "value": "16 years old",
+        "holder": "Kamalini G",
+        "date": "2025-02-20",
+        "venue": null,
+        "tournament": "WPL"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu2mLoTgQxV8BRT3KVrCRWCuuq8QTgYyg3tY6rZt459OKHLGy2aQojmZDdVM6AKqcTCNUz9Z7-UPtJGNgRg1b4-ET6Evis-K_XiKjwXwUDFLTyNATQ994vLLGn1aOie3V2dRz9v_kP0S1IWPESOqH0o6m888MitfY49os=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwUTmr9dysrvMVrqz00jgv90yj6tuE3U6iocGcoQv8kUKSeOlIYDe3VGP3U46GEKZn9Q_y6My8u5zXAbEY7vhAQNmFDij_Ob2fQLEQx20VrWG56hlVKHmAu5BQfZyoZ7syX8YmHicSFv099EMxG5V0Ig==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSnDsaMpVZaKotAeIs3lnO7If62DR0zqyYV_K0G09AYR0c8q8oOHKpRcCtQUQ1pijNoKQftLLts4pMNZUWvEa1jVUseqMWcNt8Rz9mvkTo4XQM_qKAHzEBg5KrhXJAagfRnKGJ2RewZzmA94q80BvEv02u1QUNOvpz9Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcdHbG0lrrjFbAfDK44Yz64IzSQYdgkUAcGfik1BYUXpQxNTz3IOfxyjSQXnBipEfhbL6BQYptLvOW_8PdUNjZmoqMf-z41DhgLV3w7J1SGio0ZafCxaM2rOarx7p4Rud07QZfGQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6MLR-nn1gov0yP_skllZST8CXoWvYZzAlfpzLgViyYNRCBTpHX_EtZjj3j_E5eJrFBHkF58bXlEpWPhI52o8bnlTeBlGoOgcGERFIhdCbl2cOf6j2ABRVskGfSUTyZYx5_gAw5xiyUgM9xzoGPjSYHehgWBxuABoOJJyKby2zpcqHRk0cMTDC58N-pPaaeyz4xjqdfP1KurHTAyXc_Icj_yRN9if_dn-c_AQDc5cblRCMqb0_W7f-Kw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:52:58.374541+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "WPL",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": null,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "g",
+    "india",
+    "kamalini",
+    "kamalini g"
+  ]
+}

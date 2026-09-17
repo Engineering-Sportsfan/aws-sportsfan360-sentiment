@@ -1,0 +1,126 @@
+{
+  "athlete_id": "kranti_goud",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Kranti Goud",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2003-08-11",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kranti_Gaud.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=AsZCwst-DQE",
+    "bio": "Kranti Goud is an Indian international cricketer who plays for the national team, Madhya Pradesh in domestic cricket, and UP Warriorz in the Women's Premier League. She was part of the Indian team that won the 2025 Women's Cricket World Cup. Goud is known for her all-around abilities as a right-hand batsman and right-arm medium-fast bowler. She became the second youngest player to take a four-wicket haul in the WPL and the youngest Indian female bowler to achieve a five-wicket haul in ODIs.",
+    "birthplace": "Ghuwara, Madhya Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "WPL Four-wicket haul",
+    "result": "4 wickets",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2025-02-22",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Kranti Goud achieved a significant personal best by taking a four-wicket haul in the Women's Premier League (WPL) against Delhi Capitals. This performance made her the second youngest player to achieve this feat in the WPL, highlighting her potential as a rising star in the league.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian Premier League (Women's)"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC Women's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Women's Premier League"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        30,
+        80,
+        60
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0IYfqetjbja1giS1ENq-jOTnwkxXO5dAXH-RsbgyMJ3dt9fX6E8tmWgboVs1E2JG3J0n27pz-O0QaPXz6N-qcEV-uyJZIi8tLvT0zdFp2s4-7I1tggvsyyPV1K1XvKeNF9uSPzXDiSc0XuXpOh7FJXlDwqIGTLAEseg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8QzXgJO-JyKiMf5ejrKKeVTBICiMGo1MIEU-sPBwrIqhqv_gioHczhcHVxQZzT21DKUSaaNqmb8a1z22uud_8cKAdKUQDmza1mHuUVWxpwkwuWMECJXF2TDKMiCcFrYkmWwk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG_J7TzqI2DZtFU6PIVDEyBph8oXU-xOiSAlwfwptvlT1SduJB_N4IVPQbJJmCy7E1Y4ApW4XqhWgCOof0V5HWmp60PvlRa59u3QoLTGntXzO5odFCkpFVTHT11F3gZgj2kLp6_gRc1ViF13DwdHcAxT7SjQaF-M_d3-WiXxWjAbKuY2_23d2_VnZM1ZxLa6DVYxoq7o0LGzy8QmuQwfoUA1yJon9J4xcb_cQLaGDv9TrweQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG3dZduMQ707Uf3efbGJAFtBuFwDsh577-55QILoBO0yMPOESiRt81eTPDenu2IS3-Ir5ygeFXysr1Trz4n4HURoT--drfz0I6g3vcWIZq3ITa8gEj-4MEqg1_sGk1sLi_wMXZzQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:52:00.629176+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Women's Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1,
+      "ballsFaced": 2,
+      "battingAverage": 1.0,
+      "strikeRate": 50.0,
+      "fours": 0,
+      "sixes": 0,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 22.0,
+      "ballsBowled": null,
+      "runsConceded": 72,
+      "wickets": 2,
+      "economy": 3.27,
+      "bowlingAverage": 36.0
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "goud",
+    "india",
+    "kranti",
+    "kranti goud"
+  ]
+}

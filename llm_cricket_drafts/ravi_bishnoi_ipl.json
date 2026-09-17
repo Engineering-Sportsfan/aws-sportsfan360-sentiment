@@ -1,0 +1,171 @@
+{
+  "athlete_id": "ravi_bishnoi",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Ravi Bishnoi",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2000-09-05",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=mx11iWnXQnQ",
+    "bio": "Ravi Bishnoi is an Indian cricketer who plays as a right-arm leg-break bowler. He made his IPL debut in 2020 and has consistently taken 10+ wickets in every IPL season since. Bishnoi was the leading wicket-taker in the 2020 Under-19 World Cup with 17 wickets. He also became the first player from an ICC full-member nation to bowl three no-balls in a T20I match.",
+    "birthplace": "Jodhpur, Rajasthan, India",
+    "coachName": "Pradyot Singh Rathore, Shahrukh Pathan",
+    "yearsActiveSince": "2020"
+  },
+  "record_highlight": {
+    "event": "Most Wickets in an IPL Season",
+    "result": "16 wickets",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Ravi Bishnoi's personal best of 16 wickets in the 2023 IPL season demonstrates his growing impact as a leg-spinner in the tournament. This performance was a significant factor in his retention by the Lucknow Super Giants for the 2025 season.",
+    "progressData": [
+      {
+        "year": "2020",
+        "value": 12.0
+      },
+      {
+        "year": "2021",
+        "value": 12.0
+      },
+      {
+        "year": "2023",
+        "value": 16.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian Premier League"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian Premier League"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "wickets": [
+        12,
+        12,
+        null,
+        16,
+        63,
+        null,
+        null
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        30,
+        70,
+        85
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Ravi Bishnoi has consistently taken 10 or more wickets in every IPL season since his debut in 2020."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Z9dNStZ36x4O3dUYBcWlDL66Ai0T8wn_1dxBaIR9zlWfeZwKpALfcrxQ7OwTmvH392507WSTVKzbI8Duhd73Qxz43rnf1MXSbFhymtiUY6CDRkbObRY2zHp9YirgsR8UAYCuJVcQtMvdGznJB26BPJxBMM_E6veZbg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEihll2jm8UYYGbkdN1L9r7JhE_0Od-A0byh40Vb_r428Ve1FwCiGwrcFW2ngj_MexkdSAKhRMN3BuswnlOVswReMtfok9U0L-L9lUZOk99K2_p8n3_516JaHK3Pxgoa-ZXDbkfiEEapRCUKf2Vxes9l5FF7Sdm0RwsfsCTPKSV166FHV8_r3L8NIFypmktt8J9MGeU7AX8ZXdydRLioV9Ula7f6LcSIRhed1EYEMCYohzG-1J-4ZjdXdkzSmmaZoBYYskNPZVdjuKz4Kr8kraxBPzO_WJJkLjvQLKBPg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeDt6LMfJhYMh8a30MQ1Tjlw6gFwNVOIgyQKv98W7SW9Bg1Qk8SUPjForVQvHlqr4xedPLRVGU7agzA5UTZMg79nYWyMpHmxdSzrs7S8ghSbPHh5SCTo-vPU0Aq96i0haFgeLYF0Xc8a1FiF7qnUobgNg38h9s",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnqHw4mTnR8N2p2Ivm5sRsHDr-nFskQzlbsTNXCqIKdG4NBzUsYAPChTVyQSO_1w00U52vP1GHqOfs23hsEX87A3PclRRvgUITOHXj45chGBTmiam0lMJsbJ4_zz3FXTXMOu2_8-qCzqjpcRRQILtvXU7IKoesoTF9pvBu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4rlnDagEdOZef8ejm-ZyitOmlfPURtNv65QHqUNh1kgHbdYBrfoRrpcxxQ9XEDiQq2glqjB6-MRoVI3BRHlYJmKb73VsvWhcsGzz3utPHvOKx29awfOOunh8HykbwmbrW7cdNxJteswVHyPeRewr9dxQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW3jSOuUJCcO_4QBq99EmuCWGhKGij5C5WEaM_Yxi1XkXhUTSsMX7djXwGuwuSO4iWH9E3rCjNhjVqGaBOiBGsxuZ-rSZE0zErQWum9k35KU6grGoIQIayfcy7omAeLgXyWKOLW8rYUadscIngt1bo9THecV7z3e3grrBSafRdd2zeQoyFX1yqAdGG"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T08:54:46.290233+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 45,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": 1789,
+      "wickets": 83,
+      "economy": 8.37,
+      "bowlingAverage": 29.95
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "bishnoi",
+    "cricket",
+    "india",
+    "ravi",
+    "ravi bishnoi"
+  ]
+}

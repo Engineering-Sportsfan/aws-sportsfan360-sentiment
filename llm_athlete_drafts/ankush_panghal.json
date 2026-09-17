@@ -1,0 +1,215 @@
+{
+  "athlete_id": "ankush_panghal",
+  "sportId": "boxing",
+  "coreInfo": {
+    "name": "Ankush Panghal",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2005-08-13",
+    "heightCm": null,
+    "weightKg": 80.0,
+    "profileImage": "https://boxrec.com/images/thumb/7/73/AnkushPanghal.jpg/200px-AnkushPanghal.jpg",
+    "welcomeVideoUrl": "https://youtu.be/TObmH_QUuJg?si=HQ5nZGorhLtkfM4Z",
+    "bio": "Ankush Panghal is an Indian boxer born on August 13, 2005, in Haryana, India. He competes in the men's 80 kg light heavyweight category. Panghal won a gold medal at the 2026 Commonwealth Games in Glasgow and secured a silver medal at the 2025 World Boxing Cup finals in New Delhi. He is known for his aggressive attacking style and sharp counter-attacking techniques.",
+    "birthplace": "Hisar, Haryana, India",
+    "coachName": "Pradeep Sawant",
+    "yearsActiveSince": "2016"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2024",
+      "value": 68.2
+    },
+    {
+      "year": "2025",
+      "value": 80.0
+    },
+    {
+      "year": "2026",
+      "value": 91.7
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "Gold Medal",
+        "holder": "Ankush Panghal",
+        "date": "2025",
+        "venue": null,
+        "tournament": "Elite National Boxing Championships"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "Silver Medal",
+        "holder": "Ankush Panghal",
+        "date": "2025",
+        "venue": "New Delhi",
+        "tournament": "World Boxing Cup"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Power",
+        "Defense",
+        "Footwork",
+        "Ring IQ"
+      ],
+      "values": [
+        90,
+        85,
+        80,
+        90
+      ]
+    },
+    "coachImpactData": {
+      "note": "Coach Pradeep Sawant has guided Ankush Panghal since he was 11, playing a crucial role in his development and tactical preparation for major tournaments, including his Commonwealth Games gold."
+    },
+    "consistencyData": {
+      "note": "Has consistently progressed through national and international ranks, culminating in Commonwealth Games gold."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 5,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Commonwealth Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "World Boxing Cup",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy2ngB70uG1jVaz7DIPViVcshmTi0ufIiYfVG3diSIPALAzhW_Z6cqp4E6H81_I-2r5_aikdO3HXUNsiS_RJwVuvguuGtybYESNtf44idwu1QWNf7MTD0eLjz6qD8Es-vtJsTptdA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG906_kKpZhqij7PhzJxK0gLy6QN6UMeP3V8-Z6LO72xyBJg9sDQkHpM2JSMJuOJlyoe8-XMmvkq6wwFpROHKcqE3r6Thucms6OqbUp3_lnPn34It6JjTMGIostUl721u91ms26EGWbqeyhlwJC5tR0-rU3P5FNnt9L9aHXje55fy4GqxdflhzIiuI8QvglqpoBzC5Uqw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHilAikcxht69ykbrtZoW617NgFXMMTs1eaFLFMGNBQfH68PG4sGKpuWfM3XYJjL0K08MPEj0zyiBGVHw4TCeqJmfX7d-kgXIR5JtWSeeIAUM5SE1wAGheHy-PsPicjzMGHmKhvp3gqb5BXpT1g1cTESZsxJ83M6sRwOIEnBspKnogXRhdzhNavbzxBPYlz59ERMmHmSa9lKle4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqXyvsWmqfQdSlDAzo4ZObVVF07rAgjr1uTKoFj9Z9LsxyZzqWcmj9vDwil9ic8rFckDmBVEc8ULvRZws-PJCzIsekr3LvSSdQmKL3K_c2KwoKfFU-L6I-U078t_lCrqlP4sCy4uAbeqe2n3mlAAEME0f--FABsnGLwgr7OUs9M9ZoVkbJUj4GIf-wyOLh9ydzIt7emyMvTBIuFLj1gTvhhaVUKv2wyC0Sl98_0EQN8VJaDpo_TBAfmKRrjbxzzEa04EyKSAi6Jd3Q2Weoj7yE-elkAuCGJCaVtgjkJZAJyJ4yKg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgpMvv80JVlJgszK-SrXU9KeLS7DDXsobBzZECc6rde2YBMtgQkTQsAliwpi_BKJg_XWx7Oqx_UTJykMzIg-dU5HH9DLZFNvvq8QCGV0pjC-xbU71vKsMOV6KIi7jpANYn4Aid6sdiDM7_eRnr4mWJHzzLFzCQsUHAQyv8jhVgNdHdArjrT-7x5b1t1e82SKtaNXZi3FN0O969QD_f45_4zCUpN4a2Ad1up-fT4XOhip76MLwJ-hAFOEcigHOHQeoXuPKqjC7XjNJB4bDqs0Ut2qR_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1lcRUJHKM81L7bqfH_A62NOSlIeCSbOSjQND3nc2iGYWNci7mqehQNXXd-CLXm7v2fE-m3gVt2DSN2H8oxbFANMUvbBuEPhIQe1rAKSZ4UbQKuYKuNY5GHVZq0PIrlbxQI_u8ie6MwEClDDaYvr1cxhcKfFYOBuoWSvdfm7l6mVrH8vuUakPfYz1tdvg8U-rMDjF4bSOsXBK6eL3YFMkhHtBW8Qk_qvMSF4hBmhAF05sK94u3tRZt",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzx3bUxXOE8ki2CfwmC2Gj6CEq8emazwZk_aIaHWZMn1e-an2CEssPVzC8BhGLhWqA8S1OBmSP8c6Cias_iiizOmVjDuFP1_kvBNSdASO1jK6G--GwNyPVY34kbCcsUWlhKCFSnrNIm3DyjCMzNQVU9zfvccOd6eP9XriNVa4oYHCl-qWE0RU_htH4vJfei9khWLpZ-lc6gWV27twPT__GA2EOMQOmjcEKq_MK8PyxsaIceZcJVIYTsYUzbrNWJbl5Qw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJtIIA2Xevkwxlzzc6FDA6V9B2kiim-t5bDrW9qRZAz3ctoMcpiJR92ZOYF9dIh81UENSqglqtxaSYGJE9srNw4fsum1SbP-GpyXcnZS-W02VuffownQQEAN2S2v5pKV7HJTbSEcbkDtabU0fVMposLKbVbTFTgsOzlxd7Xqp1B-nxgaKpuA054hkQID6PR8ljJOBplcPJa8euRkJpgTbv-FP7cGOcw3LowH_gPSXfEtpKOtgzXdD2FN_kdROG60-Quw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwFzJl-unp1LeXMfAW8Xj0FfBFU0oAoB1X4wSm6NsxBV83HQkDxLrL6k5izw8CO1JpjLa9t-pfbghOvOH5xrfVsqzbfDk5D7EFCG2g7wOdwbX9HrGKDF48UBE3EBbSGGqMsvp5Vaba",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqAU8_lynaJ8F_hQO3TIf0ogmcUllQTL-qFAr7RpdLqjScrA8DDl96wzH7Uv0k2NDgXsv5Cax7SJtn0LBdPHWH55I1xWJAryHrDD2dWw-TK75qfg4q5GNRNTyWFAvEp7GgLH_5Syv6jOqimWgab8SHYYTNsTpmFM9yX4CxuOPdQkAmya25CNLapM4pk9Gf7UqmpLVhi9c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxJ1zk24EOHvtT-4L1BYKjGuIkN6QgDN6ZCRzhz3-eBbTlaVYE4LYpP2g7Mtjgpvvk0U2SBsUyU42CJQNt4NKfX-w37XmUePK20EPvyik8RSr94KD-B35IficT6lQXEKbwG3H_Y1ijhrh0R-RyT6ZAbbbyTRnY6qwuRA3eO0dx9XrktRql16-vy4y9fj4jIi1B5QCaVu9P8hWXxg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtJ149TADRQ-Jdmwa3TPY0DTmXF_uqyt3wCi4T9nGs6n2_5Zmw4psKA_yJv4Ml0fqzubCoJ4tahcNeKrmjQfBdhKszZdzW1io84OCiMupZe4n4lhbkzsXYwx9Ie2CDagHh8k2L",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7dj540Ig7buxWAY9KGBvz_FrR4ko-8eh2JDsa2PODXFmx34xU82_bcQ50lWYIzipLN9923wTJWfFgJA_SUF6u693FuMcowoV9c6bkk7MUhRQuo7lxpkne2eLWHvgTghzQa3NwwxwFym0ss84rPAbBWdGb04zIEbuWoj7taUzYlLfk5lApRbcdpbj_9HuwUKVirDi0rUBB2FMmKreD7YzLiAhLyYYoeNM0J_Xi0-U3REHoibMmd9eVEprQ0SXg1qhHdDyEJZG-Lk4Sdm_fiXk0AraL8jS9cpoJ5tTz5T2GUVayiyg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DasDZPy1SeqpNVcG4A3JdSCMnzEKjO7vyf6VSoyvEodOqwZ5HNM4yW0IGbvO0MNUjQoHTe-2IIMe0WfY7FsMQZoXEICU207QYVSZ1zVbXLauMc8WwdUBpKLlaXuoUmdwvAjurHhfj3q5v8eW54eI1aezzy_CKkC2pUTnL4lbOJf5s0npWjs_oiJYiXw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFMy2QkrJ7cIOzkYkzR7gl9-SLmVu5iAE6UAxy595nv-nRYyfbVs6GWgN7V2cRRcKGOUKVwHw9zOkcaYigfMu-dXdM2Z5YR5K8VWygUJi4vyyMdzQTA2iJBBIDDqSWUyj84T6WTXA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSOhawL_giOq0qbpuxh7Hxo4EsNy0mBsLGTYVzqaEJLvkXHl76iNvTIsdHG2l7iWqB5qMTQKyog3fp23LbTiU89yB-zdMezQZKn-EUoaVQloYEELo3-D9yxifs2pONtZj3JuzmoGDTI9RkcLe3M8TfAZTF1ReM4ewxPuebHh847yC7s-pKybvKXrvk9LjVZOhI2cy8vXNVnSsKeJjD9K0iokfR9BjpmwOgg4NNw3aDfv0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH__9j43LpsPYvQIsaAUzwAjgAdjKTqawck7vShWqZc5-XF3oFbMj7A7313QBAfElle3witqPuYXh0vq0A1QflDNfzdNgNn1MmzbfRB92wGraVIVunjzC2BR0BEymuYIPe4OILe8IGjIUF7Wd1S6FUi14Me_EC752mb4cw8m29ZpQ1LkWChpLRs-akgLLAvSotN-X3mThIs9_BU1mE23fzt-_rW1Gg3nK4auZjoNUQocL8Tnx9_sSKxIMBpsg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKVz5Wj2KhHnEs2OYZ3_jQhXnJvsBYoBT8AA1KI70xDyZHQtHCDBWYkNoNvAo2MDs-X7rRHBfXhRbH0yNH4kQE-z68Xu5dTWST4ZMg2g864vmtUu1C5aE_XOiU--1RLW7ahjaAXU9xSvl6iJ1RXp4t0FjvEaDr8xhjszxVlagal_s_9n02xcgAS8-m",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE04SxkSq8InwmnMoXuH64WiInrLi8lwJ7TWjplW6OEUvBqQXdq_EW4jKaXlwZAeyiccSPZqTeX7zTF6cEMLK-vTvfycT3afO-SeGlIsO5kWdsONBdeGweviJJgRFBuftOcEvuNjRvAfCuueTm2-ZmCuMwh6rGKZ-mGCbyM6RHLDTrP1oXcHgXpAI1f-p_FuF6ruQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvsA68SwNWEp9sjkuaOQUDYimTeUQdxGqT8vXq_8SEeT0TuLX5rmtD_fmZh5KZjwLX-TrnkNhtlrjLImKuxfzXttPFh6IY5MpI4EViNub10By_dH4kFAetkwn1TWLoxIP73kRtX52WIMTZwAhdlgBnkJOKcyR22F8S4J1cNTksKjjBU7uhU_7hts-6Fu_bR4MlQORGFC6DytGxuYLLiPUVfFEGfy4FzraS-nrzODBqlYbC-WYTc7KTxMzzcQKhyx9dBSRuRU3yOk9_3nY3Yo3DqptVZJwgQBI6_fWICoq8gMUk-6XomPlC8iORP2ey7RQmDPCLHhI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGxrr6MtieWEfHA6MP4ckCr0QJ8ocu0yoiUkIg-OUytg6wYaozagcy5p58F4VSd0WWOn6BdbtwmCJ5iEPYH-NSD-yNHPEkpbOhTaOVO0j6cBEB4-rD15pF868y6-CrKfy1gRpwffHhIgnlb_vdZurIuNTY-aMUfsRJqT90rORfDw_umdqFL3pFoZpnOqhO-mPV-zivU_ehL3KEscGWVI6R0roM4UHvvaew72ATQiD3Wprb8jKqK16jcuXmUXh6F8tT9j7AAVQogJdoZ3ELKisQ-B9tug==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZKrgUUvNwjs3J8JkdaipXKviqwyQcwK_nBtnntzehYkbGsqx3LXw3Z7Kq5Q8dtvL2f35Ens6fXKqpZhdyp5xhM4oz_JjH_OTajkuEAr9MWRUmZ60rZAwJkZQQOgHGyr3HmwlY4ID8sQYSJzSnvkzr-OxbLsgIsRkuXsqL_zVxti7tcemOgK3EpBQjkOBvBBpcNd8XjQHgPIpUzAZuF-OoJpoJ2Pu33hHv3HQrPz4l5gdGRfZg4CBDe2xCTFQH2A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaIqA9P6MLZ3a91ZmIMA7YxoWc5ZAIFSILtHnky6oTRoZ7FKIVeiXD3L5senU6ZW9BWUfeNjzLWZiURFrrCUDyN8OcCAFtdlPLoIIrZ2oS6XrSNPt9f0JL76AxDwTe3kGRNkRf1-8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBzbrahgCeImyQ6NZJtkUib8sgszcOCI4L2_g8WA2myaHDo77nRbbTSk7grqU7FIo7SIbhn4C4t5yr6yH2ejjyyCtHKc2A8CJXHAQqDaGOMFi1l5Fq6F3hVON3mlFvsu6ur_lTXPOep0gQu5ZSPEPivoxRUgGEVMnvX8fOUAFhbdrx84Hq9ehEupP1NOZlWcR5lP5_gQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHMPAPucOxJq61h8vmIVyInyGqgVMftAtPR2Ip7BzynZSfFNDd72Sbae4fqjbwC9NYXUtc_iUOHOjye5pVieq7QKej34APOgE29tVujU0kAS0owNkwBY4S4K93xlzrAQVzUS0bHEgWOL9W17gu84Mdyy9H4XwWvWNOwt8tGql7aW7aVprGMijpiW9TQCPDDuCV6h8iwN_aWald",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu7XYl2ry7UlVHa6Pf9jtWVIRdKtM3R9OiLWR5AvwqkGryGzPcliqgD8AOOFmaebi-DoFzLkXonH7bVqy-Lgz5LPi8IM0d4vc95BmBpzsPVmLdVAKrdEci5QY57bbOlop0Ouua9Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuAPq4U4WTp7JYqX9kjvBdqGzpMf6_DUHuclZlxu4s0_kvoapissZp7dzlhL5allTnHdmgKi_Ei5-uuNjrDxvZdCHcKvJFsqBHU2cBdMgye7QMqotmZvBbfbAg-DftcvLvCFF28ckUhG4Jt1MMTAhnii6O5H1NMzLz8u24YRljaBgJwEzYMMD-CklINJ-WoyZy",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAY39Vn0NBL-CneoRXk9uHPSSInmzPJhE7EohNPPCoAoHnrmwFgaJOkB9dnXCe5TIW2Y31wXEVZtCSJUuBaXUBB38brLGRP8GH6FqXmkZH0A_kLgmG88isNM1h4IL2WRlPDQc88xmZLCGImI6wz9B5x7nAOErNDyAp8oQ__S-JIAlbqqlBQDxAXqW-I3VR_oLiCivRyw6g8YPguScotn7k8cce-1HSgoWIWs6BaU1XTYvXZc7MZPc4wFMLlKLci-hiG69UhnjCvLZ6JEx_-m0l01Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTQcBXLmjO46-Wi4W1qTXP4y4YwS-e-4V7rAX6XhChkwg4fo9MXiAZzuIvwkJoeBPINZZ0L0_pqxXVhtNsgWglW7uN1uWLW0b2toqDJ_sZMXzdNoMpRZoK1C85PxzB6p_2gfoD5trHyVZD3Jh2-c-2NaMSWmhHo5UOrxTshWcVeWbLTLFPrXmq-cMnzdylifjRp6XOuv_JKyECVwP1wkV3fS8JsbGGmAmw_D0gC9DIAmhKbRoauBpd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1NR7OOU_qfZkUHeHbclXpLpIcq9ww_i4qVyL5wn0TYclhHFp7tDWSAPN0-u6nTTyMz6gcl-OprNfTQ0pahPvFwjx6908VUNMxmu7tT5lECk0rL53dPXvI61IEFKfm2uvn1wYXkT4pQAtRY_tXFU-G2Y79l6X30h2-PzGpDOXpUgk2_IlasNbdfs-GhuJXMKnfYHpNhhCmz28x58lUWfZ3eNaQDtpdC1d6wpgwlxBHa9ghMv6nVtSa7jDOJPuqDvkodoJcwmHEEZx1oZBNKeV9S8Nw",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEveo3qHMBlla7ziSEcjmhA7Ambshm1sWi5KWL9Zt3RPxCusqBoYxmB64iQbE9IlID3wp-Rr6H-xQ7Zc-9hoAgfUSPMxK_ZdXEtpZSz5g5F0U9sapotAVBmq_aIL2grGbeyMw71aC_3GN0Qahe1Vo9OFg0YU-B7E0iCTbVJ4URv7lYCB0EUPnpcnsvUtXfPAFblTcZZ46eqwNGNzkByZvXBZyyZ3wXhADqHdKXwxTLFZ20KZKBiWDmdFOwTkKpj"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-10T07:38:20.819967+00:00"
+  },
+  "performance": {
+    "weightClass": "80kg (Light Heavyweight)",
+    "stance": "Southpaw",
+    "reachCm": null,
+    "heightAdvantageNote": null,
+    "tournament": "amateur",
+    "titles": [
+      "2026 Commonwealth Games Gold (80kg)",
+      "2026 Grand Prix Usti nad Labem Gold (80kg)",
+      "2025 World Boxing Cup Silver (80kg)",
+      "Elite National Boxing Championships Gold"
+    ],
+    "recordStats": {
+      "wins": 17,
+      "losses": 8,
+      "draws": 0,
+      "knockouts": 0,
+      "noContests": null
+    },
+    "chartConfig": {
+      "primaryUnit": "wins",
+      "secondaryUnit": "knockouts"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.seasonalData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.seasonalData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

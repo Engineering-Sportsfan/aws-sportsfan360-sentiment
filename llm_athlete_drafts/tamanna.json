@@ -1,0 +1,225 @@
+{
+  "athlete_id": "tamanna",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Tamanna",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2004-09-29",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/f62eLOdacoU?si=7QySLaiZGagIhUnr",
+    "bio": "Tamanna is an Indian athlete specializing in relays and sprints. She was part of the Indian women's 4x100m relay team that won gold at the Asian Relays Championship in 2026, setting a season-best time of 43.85 seconds. She also contributed to a gold medal win at the New Taipei City Athletics Open 2026 in the 4x100m relay, matching their own championship record of 44.07 seconds. Tamanna has also competed in individual sprint events like the 100m and 200m.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "4x100m Relay",
+    "result": "43.85s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Final",
+    "date": "2026-06-24",
+    "city": "Shaoxing",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Tamanna's personal best of 43.85s in the 4x100m relay was achieved at the Asian Relays Championship in 2026, where her team secured a gold medal. This performance demonstrates her significant contribution to the team's success on an international stage.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 43.85
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "10.23s",
+        "holder": "Manikanta Hoblidhar",
+        "date": "2023-10-15",
+        "venue": "Bengaluru",
+        "tournament": "National Open"
+      },
+      {
+        "label": "Olympic",
+        "value": "40.82s",
+        "holder": "United States",
+        "date": "2012-08-10",
+        "venue": "London Olympic Stadium",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "40.82s",
+        "holder": "United States",
+        "date": "2012-08-10",
+        "venue": "London Olympic Stadium",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "43.85s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "4x100m Relay",
+    "achievementLabel": "Asian Relays Champion",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "43.85s",
+      "bestYear": "2026",
+      "totalGold": 2,
+      "totalSilver": 1,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "event": "4x100m Relay",
+        "value": 43.85,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 43.85,
+        "seasonAverage": 44.24,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 88.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 75.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "43.8s-44.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      },
+      {
+        "range": "44.0s-44.2s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": false
+      },
+      {
+        "range": "44.7s-44.9s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Tamanna has demonstrated strong performances in the 4x100m relay, contributing to gold and silver medals in 2026.",
+    "peakZoneLabel": "43.8s-44.0s \u00b7 33% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv3GT3ffBotNnayHxY-wc9pyk3fnn2wME2lCKLpJsOvO8SrE8dnsSYQoQTZhsPvPrf5qhGcRpvPfDIAhAc5pig1_80bJs_0RKF-ha00DT-OvPPd_SpZJOtG4LP-B_PiTyzbzRWC_7pVVcngcD9EXRILT2di-gt7g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuQykPIXDKMk6M1UXlGkRBr4jY1FY3tJV7Xk2JWJC96Vz2Oa2Ml11n4x00Ahdfm-FO0DE4Ye4Ab3RIcsne5npQps4VvsskmaZr08t3vp2Rr1eQCW1ulkYTxjTiuFqrUGMe9nijIDoy3raMeTeuVDjPeDd94UlDVT7y-wwtiikK927tThAPDgfPCpSftHfYFQQDNnfLsaogapi_UC42PIdcGmhIukQN3b1lzCtSMz1BN3fQSpLvNd8BBkTqL7NGBPRCV2e7rR30V1v0eco=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRok35bO0iKQPkfZnQwH4iyEr_ifA81B2FTl7PIsZt_N_VQ85jpv4xBozgqGSMjmL4_osQKyXbGM1FFdc-udZo-1F7MPCbRELR34xS6xqdqEGyahAzK9gJ7T8E4Xja5LNyJT_lDkAh4puzBeh5ql-PsnXoUtMoklXIDhonOKKyMR6Jd4QA1gHJtOnm_wD-82pnqb-BcgFJipJlCC4lqaN5X8Q9PrJSBNn1YtZCnwxe-ND0qS0jXFODfMqJXeQCLMRlXkyEE4cIeMvZWNeBz-FOClGSuWs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlG41fAisE2hFpMYIJbSfb9sWmAYlN8GKKAMYa7xLoRncHkXnECVbHxsqQ4hO8UARRnuBnoXY2KXdMdb9dm2YPhs-7XPrf6Pe4C36qWZzsrkRANpacazFedeseOiTq9W2BnD37L2defeQLXeyqKjWp57k5dgoKEoBPf5ge4y2Nn2hXo7L55QDmHJrK2NmnaObmZAd5ReOsi5tR2BC2XveeVDRxZLL8bEMqMJvwMD7tiWMkgbacaLKeRMSvB0YNLvKJeJECBZ-V"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:05:52.734457+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x100m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x100m Relay",
+        "medal": "GOLD",
+        "category": "Asian Relays Championship 2026"
+      },
+      {
+        "event": "4x100m Relay",
+        "medal": "GOLD",
+        "category": "New Taipei City Athletics Open 2026"
+      },
+      {
+        "event": "4x100m Relay",
+        "medal": "SILVER",
+        "category": "South Asian Athletics (2026)"
+      }
+    ],
+    "stats": {
+      "personalBest": "43.85s",
+      "seasonBest": "43.85s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        43.0,
+        45.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,140 @@
+{
+  "athlete_id": "ishan_kishan",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Ishan Kishan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1998-07-18",
+    "heightCm": 168,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ishan_Kishan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=LxaZk99o47Q",
+    "bio": "Ishan Kishan is an Indian international cricketer who plays for the Indian national cricket team as a wicket-keeper-batsman. He made his international debut in March 2021 against England. He holds the record for the fastest double century in ODI cricket, achieving it in 126 balls. Kishan also became the first Indian wicket-keeper to score a half-century in T20 World Cup history.",
+    "birthplace": "Patna, Bihar, India",
+    "coachName": null,
+    "yearsActiveSince": "2021"
+  },
+  "record_highlight": {
+    "event": "Maiden T20I Century",
+    "result": "103 runs off 43 balls",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-01-31",
+    "city": "Thiruvananthapuram",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Ishan Kishan's maiden T20I century against New Zealand in January 2026 was a significant milestone in his career, showcasing his explosive batting prowess. This innings, where he scored 103 runs off just 43 balls, helped India achieve a massive total and contributed to a historic win. It also marked his 1000 T20I runs and 2000 international runs for India.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Outright T20 World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2021",
+        "2022",
+        "2023",
+        "2026"
+      ],
+      "runs": [
+        113,
+        476,
+        207,
+        812
+      ],
+      "wickets": []
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        60,
+        85,
+        0,
+        0
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEgGFHEJfTOfQ5Zv9lOAQgRmYpchoS6OQJFJ5_bvZDDu5Im7TJM-GZNzfiu42qPKAYuaJNbFLdwkOC5rxBrGW2y4jg3cSW7woG1A2b_kgnIlWFY8gRdXDKMqyXmvbwyOznlf7k",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKE9zqPZJOQ055cLy2KICdWeaUe3S6XFiy0oPxILBRsw-NksCqBm4pcRLTEmMbA5aCLjNH4XI8S6f9GGoZLbzg_uPzJt236eaG1I50FSGA8xHRAp6ISRsM-ML28N3NowOZcXoacD_aWImsA-lWnE_vWDpq80jWh0922W00MYdaxCtGuFhhHgUpuOJQDjQlpklE1e_Dg9Dw-Dkr9-TbZ1LGVOXG9DZ7zaT2uoSPbdUU29Q_bBi3ZfJAp5E5Tw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4ZVBtxVj2ZCqBXPkf4vIg6_oQ087lgP8PH976McqBfjJPs32jeXiK308vnRQjl4h0Y_qhOem5i-4Fs_esr75yNAeTSu7KKRB9twwJtp8g7-ZDho4x78O11kJYxWeIZdzNGeCuj-xNQ0iPmfAAaG2Gy0vuVnqEoECPMGhADr-ZjC2gBV24dH5g33kuTO2zllU2wkbvzvt3vdZSJ5BX36jjc7aDJO-SYu-OTUR2lZMAjya6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcSN2jQfzTlL6pgndxZdaAGviytMTKxsofZqKQCrCMPr01dbHqFn5oYPmxlXDDIrc2evUujmv0iSPx85CfSZ5JImmsX8I5AGHqcHnMqiLwtWATRYAtHG6KQp9urbQsUZZbKFklcMsEQ7pJ-ilwjqDy_TNf8Zi39i-XkUtyGaTy9M1l2QZZv2o19MwE62jLBf3KKHWPyet5lGjGgxZQyfE77H7at7dFIwSJdA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:43:57.152850+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1608,
+      "ballsFaced": 1099,
+      "battingAverage": 29.77,
+      "strikeRate": 146.31,
+      "fours": null,
+      "sixes": 165,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "ishan",
+    "ishan kishan",
+    "kishan"
+  ]
+}

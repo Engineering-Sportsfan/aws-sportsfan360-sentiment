@@ -1,0 +1,126 @@
+{
+  "athlete_id": "renuka_singh_thakur",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Renuka Singh Thakur",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1996-01-02",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/35/Renuka_Singh_Thakur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=Zw86CF2cDfI",
+    "bio": "Renuka Singh Thakur is an Indian international cricketer known for her right-arm medium-fast swing bowling. She was the leading wicket-taker at the 2022 Commonwealth Games, where India won a silver medal. She also played a key role in India's 2025 ICC Women's Cricket World Cup victory. Thakur was named ICC Emerging Women's Cricketer of the Year in 2022.",
+    "birthplace": "Shimla, Himachal Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2021"
+  },
+  "record_highlight": {
+    "event": "Most wickets in a T20 World Cup innings",
+    "result": "5/15",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2023-02-18",
+    "city": "Gqeberha",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Renuka Singh Thakur's 5/15 against England in the 2023 Women's T20 World Cup is a significant achievement, making her the first Indian cricketer, male or female, to take a five-wicket haul in the history of the T20 World Cup. This performance highlights her ability to deliver match-winning spells on the international stage.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National IPL record for this stat category"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC-tournament/major-global-event record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Outright IPL world record for this stat category"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFOsDpQLOPjtvpBUAbujn3E-hhUgsPpX1kUjJE9HIUf1PHA7mzfUc8lq6EJhbPb3SbxjICa3ucttOAClLP-9-bKoApY-wZwPDgo06Ht6h42nVKa89wSYZJAo-WGfX_A-oGEFehnE0XlEy9n-683eD64rXssEFfwPqMwbuM5hPg7BAi7FS3Z2bLkGz5QcPtLgRWIHE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzGO4_Pt8gkY9GbVsJdbbmtvFYjT76ndH7wfs7jKBs3BEEUZSiDn2CmQB23yZARVBjZTTY_GWWF48HJ3DtydgLgJHQad184HK7bvp1HThxrjDtwy72TMdZ_Zm-I_YSdnRRW9V6oxLphXwNGOI7IvuG_AL254QCW7kj",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYsLBN9IMcz2QasJioOfj3OU_TbZOnapPj09Ze52GGBf0qxpDGr7qTaGOA4gdLSqg3JTsCefR_ZLieBNz-eEcGci6f8EtETuv4rL7IS2f815fRRmyEVNcDvRR4NoyuaKOkzhayUrOzmrSqYI25hLx78g=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:49:17.772144+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "womens_ipl",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": null,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "renuka",
+    "renuka singh thakur",
+    "singh",
+    "thakur"
+  ]
+}

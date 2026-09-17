@@ -1,0 +1,171 @@
+{
+  "playerId": "abhishek_sharma",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "SRH",
+  "coreInfo": {
+    "playerId": "abhishek_sharma",
+    "name": "Abhishek Sharma",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "dateOfBirth": "2000-09-04",
+    "birthPlace": "Amritsar, Punjab, India",
+    "heightCm": 170,
+    "jerseyNo": "04",
+    "debutDate": "2018-05-12",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Abhishek_Sharma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "bio": "Abhishek Sharma is an Indian all-rounder who plays for Sunrisers Hyderabad in the Indian Premier League. Born on September 4, 2000, in Amritsar, Punjab, he is a left-handed batter and bowls slow left-arm orthodox spin. He made his IPL debut in 2018 for Delhi Daredevils before joining SRH in 2019. Sharma was also a part of India's U-19 World Cup-winning squad in 2018 and is known for his aggressive batting style. [1, 3, 6, 11, 13, 14, 16]",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "141 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Punjab Kings",
+    "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+    "date": "2025-04-12",
+    "aiInsight": "Abhishek Sharma's monumental innings of 141 runs against Punjab Kings in IPL 2025 stands as the highest individual score by an Indian in IPL history. [5, 7, 8, 9, 15] This explosive knock, achieved while chasing a formidable total, was crucial in Sunrisers Hyderabad's successful pursuit, marking it as the second-highest chase in IPL history. [5, 7, 15, 18] It underscored his ability to perform under pressure and dominate with the bat. [18]",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": 141,
+        "holder": "Abhishek Sharma",
+        "date": "2025-04-12",
+        "venue": "Rajiv Gandhi International Stadium, Hyderabad"
+      },
+      {
+        "label": "National",
+        "value": 141,
+        "holder": "Abhishek Sharma",
+        "date": "2025-04-12",
+        "venue": "Rajiv Gandhi International Stadium, Hyderabad"
+      },
+      {
+        "label": "World",
+        "value": 141,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 92,
+      "innings": null,
+      "runs": 2379,
+      "average": 29.37,
+      "strikeRate": 171.27,
+      "hundreds": 2,
+      "fifties": 13,
+      "highScore": "141",
+      "ballsFaced": 1389,
+      "fours": 224,
+      "sixes": 144,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 92,
+      "innings": 36,
+      "wickets": 11,
+      "average": 50.0,
+      "economy": 9.04,
+      "strikeRate": 33.18,
+      "bestBowling": "2/4",
+      "oversBowled": 60.5,
+      "ballsBowled": 365,
+      "runsConceded": 550,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "matches": 15,
+        "runs": 563,
+        "wickets": 0,
+        "average": null
+      },
+      {
+        "year": "2025",
+        "matches": 14,
+        "runs": 439,
+        "wickets": 0,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": 16,
+        "runs": 484,
+        "wickets": 2,
+        "average": null
+      },
+      {
+        "year": "2023",
+        "matches": 11,
+        "runs": 226,
+        "wickets": 1,
+        "average": null
+      },
+      {
+        "year": "2022",
+        "matches": 14,
+        "runs": 426,
+        "wickets": 0,
+        "average": null
+      },
+      {
+        "year": "2021",
+        "matches": 8,
+        "runs": 98,
+        "wickets": 2,
+        "average": null
+      },
+      {
+        "year": "2020",
+        "matches": 8,
+        "runs": 71,
+        "wickets": 1,
+        "average": null
+      },
+      {
+        "year": "2019",
+        "matches": 3,
+        "runs": 9,
+        "wickets": 1,
+        "average": null
+      },
+      {
+        "year": "2018",
+        "matches": 3,
+        "runs": 63,
+        "wickets": null,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:36:06.225048+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "abhishek_sharma",
+    "abhishek",
+    "sharma",
+    "abhishek sharma",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

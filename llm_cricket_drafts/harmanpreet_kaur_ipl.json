@@ -1,0 +1,112 @@
+{
+  "athlete_id": "harmanpreet_kaur",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Harmanpreet Kaur",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1989-03-08",
+    "heightCm": 160,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/38/Harmanpreet_Kaur_with_2025_Women%27s_Cricket_World_Cup_trophy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=kV8vudJ8ad4",
+    "bio": "Harmanpreet Kaur is an Indian cricketer who captains the India women's national team and is known for her aggressive batting and off-spin bowling. She led India to victory in the 2025 Women's Cricket World Cup and the 2022 Asian Games. Kaur holds the record for the most runs scored in Women's World Cup knockout matches. She is also the first Indian woman to score a century in a WT20I match.",
+    "birthplace": "Moga, Punjab, India",
+    "coachName": null,
+    "yearsActiveSince": "2009"
+  },
+  "record_highlight": {
+    "event": "Most runs in ICC Women's ODI World Cup knockout matches",
+    "result": "331 runs",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": "330 runs",
+    "prevRecordPlace": null,
+    "prevHolder": "Belinda Clark",
+    "improvement": "1 run",
+    "improvementDate": "2025-11-03",
+    "aiInsight": "Harmanpreet Kaur's record of 331 runs in ICC Women's ODI World Cup knockout matches highlights her ability to perform under immense pressure in crucial games. This achievement surpasses the previous record held by Belinda Clark, demonstrating her significant impact on India's World Cup campaigns, including leading them to victory in 2025.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National IPL Record"
+      },
+      {
+        "label": "Olympic",
+        "value": "331 runs",
+        "holder": "Harmanpreet Kaur",
+        "date": "2025-11-03",
+        "venue": "DY Patil Stadium, Navi Mumbai",
+        "tournament": "ICC Women's ODI World Cup"
+      },
+      {
+        "label": "World",
+        "value": "331 runs",
+        "holder": "Harmanpreet Kaur",
+        "date": "2025-11-03",
+        "venue": "DY Patil Stadium, Navi Mumbai",
+        "tournament": "ICC Women's ODI World Cup"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {},
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjC19rrqiTFofCdmBfCCTWmlMPJ0RkiPhV1w8YUn-RMuCjMbGl9WFV92NOS04uSYnbapj0Uc7WyyQlAoePtenAgPCQHCx_7N1XuFjoh5OaMnxbUymF5ZZipfKEO5rfgbQ7ZpWR8_icOiY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQcFb1oLUx_KXzY998S-aGFvXe68QmFfFYnk7ws20w_AhxZn6Ag8TbEviSBj1NRICIJaICvCdWmVyzER1j5krzUGcpxYoHPqVBBaZgtu9_oWH-z9BCYrk3Sg6_537pv2x1kWHQl1XYHA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4xlyGc3V5M447q0RXGbzhkZlLtjqb1a-0Rm-LAnO6hgMJTM8aM6sUyi2f7ZoZpxxz-mbVNjG7EEhDEKvQD8TFpleEyYwp98SkAbGu1rnNwsNr5jOUB_5T8rx7jhayNeFVGXltlJIL1xv3t_ZFIxQw4bDpgTHeQCHyFPPw3xrr1Dc0QDkzCt2l87sKQRLVBVJ7-mSDXEgnYegFnSde0oDqYcecEmxRrK_3VSUSZhowTaA0GG40sT5jmgG2SqOgxM="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:50:57.307807+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "womens_ipl",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": null,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "harmanpreet",
+    "harmanpreet kaur",
+    "india",
+    "kaur"
+  ]
+}

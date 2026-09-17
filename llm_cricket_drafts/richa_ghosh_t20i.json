@@ -1,0 +1,127 @@
+{
+  "athlete_id": "richa_ghosh",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Richa Ghosh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2003-09-28",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Richa_Ghosh_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=hSShflDKTmk",
+    "bio": "Richa Ghosh is an Indian international cricketer who plays as a wicket-keeper-batter. She was part of the Indian team that won the 2025 Women's Cricket World Cup, 2022 Women's Asia Cup, and a gold medal at the 2022 Asian Games. In July 2025, she became the first player in Women's T20Is to score over 1000 runs with a strike rate above 140. She also holds the record for the joint fastest fifty in Women's T20Is.",
+    "birthplace": "Siliguri, West Bengal, India",
+    "coachName": null,
+    "yearsActiveSince": "2020"
+  },
+  "record_highlight": {
+    "event": "Fastest to 1000 T20I runs (by balls faced)",
+    "result": "Second quickest overall, quickest among full-member nations",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2025-07-01",
+    "city": "Bristol",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": "Lucy Barnett (Isle of Man)",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Richa Ghosh's achievement of being the second-quickest overall and the quickest among full-member nations to reach 1000 T20I runs by balls faced highlights her aggressive and impactful batting style. This milestone, achieved in July 2025, underscores her importance as a dynamic force in the Indian women's T20 team.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "10.23s",
+        "holder": "Manikanta Hoblidhar",
+        "date": "2023-10-15",
+        "venue": "Bengaluru",
+        "tournament": "Indian National T20 Record (Most Runs)"
+      },
+      {
+        "label": "Olympic",
+        "value": "9.63s",
+        "holder": "Usain Bolt",
+        "date": "2012-08-05",
+        "venue": "London",
+        "tournament": "ICC T20 World Cup Record (Most Runs)"
+      },
+      {
+        "label": "World",
+        "value": "9.58s",
+        "holder": "Usain Bolt",
+        "date": "2009-08-16",
+        "venue": "Berlin",
+        "tournament": "Outright T20 World Record (Most Runs)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        60,
+        90,
+        20,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwqwm2sHEDL6pNRKJOvsbPlepeB0K6dK9Tn3n7e0lQPQH22MnO0RIpwEeBpQMI1I3p3dJxx_0E4FtF3ieiswiSQhtjpoiKX7BTzC5V15yV0KvSZtz6cl5BtJTT2vqnJ2e25-zD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDPPf6g7u1DyHRkh3lO3xraPt7fSimJ962QSzjKO5dCVSYbGqwYsrMlUHyZ01Bh1COyyPgQ48GwkJodV0Ttj1crc3gUNuQE4zT4ZD2Ov39CjL5WUaeTdKrSBX-DinrJZRBxgKYDOXO6OcOUP5Xe5R05KLpsVf1iuy2JiilL7b-QA1amgPOTzr-mhK2UuDzWmnPuTfBVjorP30qBHTU3woc8VqUx8FSSTzXqUSu2upXmyKJNKU75Gfcu9kP20AX7A3djv5_2N4p2IjR9udyGL6kdD4U",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOywfJfDnPgDnn8Lvg4pLf1rx0ghaSxY60rAFmp8Yc-iWai7qRG1bzlxAgDXS6UkA0ytlitkS6eAfANCCHSt0c8uyNEURhDC5o_sf2eV3eXGliBYb0fUQxJwxGWtO8_y2n8lM6l4Mdq7CKZUsnZuGobwtZR1U8oGRXh8zyEwf9-4WH4FsyRxENA6m5sMRtLw22rtH77UGw-xQOOHbdYXmUF8EtfscwOo26Dawb1Bv9wQ87ZNHnVLdGzzBNjxtGdhVUuy-WTqXaDXk26YXjqmZ7o7B02jaDLSYwYXI6CP39",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYNVWlygeqlkffVETYYp0u9DRDABsdcNzHKrdwMTU8KTm6pqV30lPrW102F-jWPde7XGqiVpyVrvPUnHdI2aEedphRuuU2R-q3nFIDPV7R1maycoC_DRf3iwPrS2p_8lGw-D1qTYQGObGc58olviLmoTdAesbn7oq3nOsdT6tAVhrLiIrET2fR2ELqILCKuIi8860LpLJw-CYVApCY_zZwKpBQ_XHhP07TPfqCV0HTNz-hE82ja4fI-YgMcOiZ0dHO-ioPChk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8NWcvSiXO7NWagUmahiDtcu-VoK8yhkhp8SdniU6X4PM4E5imuZ20QMJr8QnmIqQsm6lH5BTF9RkRP5184v9dS81hQRxo8z56VcVSilFJbAIb6H9HTOmnfjphaYnrqvRYcLp2k5CV7pL82ZRm11t_ZtYrS6aBtLbyZkLpN9aDpRd91CU858bikbs-Nrbp8TvqmuYkCRJuOXoUKN4MZpozxc1de_J6Lbq7nnGLhdjrjYzTuMLnYZC4R7yT5SlMDmRAuadV"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:52:14.962112+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1333,
+      "ballsFaced": null,
+      "battingAverage": 27.0,
+      "strikeRate": 144.58,
+      "fours": 154,
+      "sixes": 46,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": 0.0,
+      "bowlingAverage": 0.0
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "ghosh",
+    "india",
+    "richa",
+    "richa ghosh"
+  ]
+}

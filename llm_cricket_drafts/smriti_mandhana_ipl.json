@@ -1,0 +1,117 @@
+{
+  "athlete_id": "smriti_mandhana",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Smriti Mandhana",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1996-07-18",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smriti_Mandhana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=kV8vudJ8ad4",
+    "bio": "Smriti Mandhana is an Indian international cricketer and the vice-captain of the Indian women's national team. She holds the record for the most runs in a calendar year in women's ODI cricket, scoring 982 runs in 17 innings in 2025. Mandhana is also the first Indian woman to score a century in all three international formats (Test, ODI, and T20I). She captained the Royal Challengers Bangalore to the 2024 and 2026 Women's Premier League titles.",
+    "birthplace": "Mumbai, Maharashtra, India",
+    "coachName": null,
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "Most runs in a calendar year in Women's ODIs",
+    "result": "982 runs",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2025-10-09",
+    "city": "Visakhapatnam",
+    "prevRecord": "970 runs",
+    "prevRecordPlace": null,
+    "prevHolder": "Belinda Clark",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Smriti Mandhana broke a 28-year-old record held by Belinda Clark, showcasing her exceptional form and consistency in the ODI format during 2025. This achievement highlights her ability to score prolifically and anchor the Indian batting lineup. Her performance in 2025 also put her on the verge of becoming the first woman to score 1000 ODI runs in a single calendar year.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National IPL Record (Most Runs)"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC World Cup Record (Most Runs)"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Outright IPL World Record (Most Runs)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {},
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Smriti Mandhana has demonstrated remarkable consistency, becoming the fastest Indian woman to score 4,000 runs in WODIs and holding the record for the most international centuries (shared with Meg Lanning)."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrPHYwtzi-CvJxNGxxrm1kaHOWWs2A6YT2jLdFZ7Bx6NznWQxR9yyfRjhel9SgUijHWUWH30Q3e0rG0ebW4JcP82m0XEGDJQPKD5mvYlqwx3_ObQnDwGlhvDK1IoMhLXUEGLwysleBLHhVsIzg4s-QT4GudqmqxdhyBL84WJBen5na4MpI0ve-QSDiQENLYBMWCuk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgVjy3eOv4XR_bhallv_QHOflD5TTMkAMSpmX9lHlrx1iUmy_OZMQdcX6Cp_xEUm1k1XU4xTYQ8VtOqLey4HmDAtFXzL2gmEUDyUoG9qRthHxqjoFTxqPexx3nQ71lUJAWJ7GCeESL8sGsTQALDzvmrFKac2asx-bdRyOx87G9p4j4pPCLVCmawgkojQprjUHfKWqJb-WT5fiev7iCM__sigln_70k1Gog85Yn8Oi28n4d0bQlB7EZ9hZvaB2mBOZxNw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH39oqDEsXuKEOeRG6HS_Xf_BPDr_KC7R2GaMDswM-y1c5Rn1q8haJa56Vm32PF7kF1TNFbzj9H9SA1LJzfSswmdXofP3pgNQ97BMyBjjJWeVGDg7wPduX6NHWS8dHBnx6zaZABJn4z5j0CY6IE8IkgxZzf2Qak9T0iHja6adYKNXEj0iSdrJEkdDty_UPet0VyF7LOpEa66ApCu7_ELdYDcxZlsWDCLAwPAc9U74vgvbs3dMO5CJ_YgiBJgSE9EA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-R8Gc4CXaYPYS7fyhieqJnNNTSa82vhz_t-0qbDFJnJQsGDEYSnY--VXPNH6Ft7tPQIA43vL0flixKd-2cAmu8siRCdHs2z_aEayfZlRlIDJ2KbwYWDFgs6mA5SAoDrayb9eHTbCr8h0rxvjKKiSIinmhl2Xk58W80nMKdOQiUwAjvJgNdA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTRSiQt74_beF5jUAWGn7pWdbei9AA8tmIzR43sWHqStvWQ7tM1s0MKxwTe3FLNkC_pJUHn58eImr4CtSoCEg5BhZ64qp8P7aT2mVOAAfGY8KZ1HqXlBmeqXGpND_4cfNGRRR-XCfEk78Nz0TxJPFLuk90nz9rmz3AjQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0suivuEC_FrIOQdv_sMyTr75P-t2KaVT7Al_CepNBvehJ5XmihHmVQwVe_bSI3qgVYnhXv8-gm-JKpTYFgqoxWdezAlh4EX8aIaqDjVYYJXaBcY2G82E-kFkWmwlObSeef0OPdkVE"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:53:27.963077+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "womens_ipl",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": null,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "mandhana",
+    "smriti",
+    "smriti mandhana"
+  ]
+}

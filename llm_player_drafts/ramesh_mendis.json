@@ -1,0 +1,167 @@
+{
+  "playerId": "ramesh_mendis",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "ramesh_mendis",
+    "name": "Ramesh Mendis",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm offbreak",
+    "dateOfBirth": "1995-07-07",
+    "birthPlace": "Ambalangoda, Sri Lanka",
+    "heightCm": 173.0,
+    "jerseyNo": "25",
+    "debutDate": "2021-01-22",
+    "profileImage": null,
+    "bio": "Ramesh Mendis is a professional Sri Lankan cricketer who plays as an all-rounder, known for his right-handed batting and right-arm off-break bowling. He made his Test debut for Sri Lanka against England on January 22, 2021. Mendis has also represented Sri Lanka in One Day International and Twenty20 International formats. He was part of Sri Lanka's squad for the 2014 ICC Under-19 Cricket World Cup."
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures in a Match",
+    "result": "11/136",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "West Indies",
+    "venue": "Galle",
+    "date": "2021-11-29",
+    "aiInsight": "Ramesh Mendis achieved his career-best Test bowling figures of 11/136 in a match against West Indies, showcasing his potential as a frontline spinner for Sri Lanka. This performance included a five-wicket haul in an innings.",
+    "progressData": [
+      {
+        "year": "2021",
+        "value": 6.0,
+        "event": "vs West Indies, Galle"
+      },
+      {
+        "year": "2022",
+        "value": 5.0,
+        "event": "vs Pakistan, Galle"
+      },
+      {
+        "year": "2023",
+        "value": 4.0,
+        "event": "vs Ireland, Galle"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "11/136",
+        "holder": "Ramesh Mendis",
+        "date": "2021-11-29",
+        "venue": "Galle"
+      },
+      {
+        "label": "National",
+        "value": "16/220",
+        "holder": "Muttiah Muralitharan",
+        "date": "1998-08-13",
+        "venue": "The Oval, London"
+      },
+      {
+        "label": "World",
+        "value": "19/90",
+        "holder": "Jim Laker",
+        "date": "1956-07-26",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 16,
+      "innings": 24,
+      "runs": 408,
+      "average": 17.73,
+      "strikeRate": 43.91,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "45*"
+    },
+    "bowlingStats": {
+      "matches": 16,
+      "innings": 30,
+      "wickets": 71,
+      "average": 31.15,
+      "economy": 3.18,
+      "strikeRate": 58.7,
+      "bestBowling": "6/70"
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": 4,
+        "runs": 175,
+        "wickets": 19,
+        "average": 37.3
+      },
+      {
+        "year": "2023",
+        "matches": 4,
+        "runs": 205,
+        "wickets": 17,
+        "average": 36.76
+      },
+      {
+        "year": "2024",
+        "matches": 1,
+        "runs": 15,
+        "wickets": 6,
+        "average": 30.67
+      },
+      {
+        "year": "2025",
+        "matches": 1,
+        "runs": 28,
+        "wickets": 2,
+        "average": 48.5
+      },
+      {
+        "year": "2026",
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0,
+        "average": 0.0
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjlAH4jpHQBwZzLgGi2rUvtP1laFq26Xjq6-gQ14SaCZKiWSmQcC5wl7i6MsOZyQNAEKVH9o0eppAaMYZCQC13z5_BdMSKBRWGRkUe5Gy5Sdx8SWUiCIC4aRugdP9gc09m4Q6E1WM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRV3uM4l86ohzCC4clpo8DbVr3FK_DgqwNGcSKBEUlZXoG5OiY6z7MyHXRSmRRU-NiReQjYE6X_m3QalXF7K-5SeNPnIHMB72DyVARohRFxULJYBqvxkUe6YO-pxPq9qxzil00YYbVrjIbrlMkaScL88FBJg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOTo_THCZw75MdCpMoOKqODo-CHolo_K8HdaRCJQJWVulsjqLeTtwS2GFILNR9kWFS6wQmkodwBLPL-1Z9EDIhkBh-RjEP5NU4eVyH26axc-eMds-_VHdqjWIVKxvhGP1bsyoqI3vXQ7ydJTQr6C_bgebd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC_5To7IGHlhyBz_0tMAMjZFM-fciJrTa9Jvg0L_2YLkGjGKGph5RgeAJaPm2jjpC3PaNZGdW37_SYU10CEPzod0uRTpncyln17xo0u4QHVUaxpuumr2b3ugCjGoJgylA6iVKyNyS45BU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgiv-Tc1jq01OcG9O_u7IKAgVT4H6M7hKAoX55ym9JFeLR3VGULMFXmxpl9AHR_bCn8YDsEokM4pXTaT8z3V1GEQ3wI3iYbr1sHpzQtnZnbu3_J1frhlbDciF72mVKlWBs9t2CS5cEOvSb7laS8hFjQPY7kg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQQh9fvAKoOLu4rpiEp4_FcpRujDi4l3AbSSvu8DNYKVrIFcMIBu6klY4UK-Tns0_k0dDQZYRF4tZ-GxEqAiUFIGE7j1UHjmTfROcG7B_g3cVMDCD02fBZeKi4aggEzGqOw_ZKXBn_GmjJRM3u5_TZ2E93srWabWy6O-qrqDCwpV4r9i44tuF7xPMfjpUsr84=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRAe9Ygz7Lpz3mMNrCCD2a7VcNzja7NcywTwWyLbumXSGz1ZZVlz3vVhwA5EzErLK34I3X8X7u0aEGD1DfVsJWsHfe6AUbk20uephV37brLjYyW1ox3341PaaA5vxWysvaD9BV72Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjxonrYf2_BAzhWj9pTm4dkr2l2PsxUpEPDvZBtIw3bRECrKTIwZ77wObCQR07Yaosa3qd6tqTi5pW-6iLPgBOxkbHBrI5FE8RMyM1JnyrpVjJBEeIsPDRaoLiLHLmEfvQ0yUJA2EvZ90-gQETADim7AL3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIqcnoJPk5EzNAuYR7-Nz9p1Pag84Nu3vFI9o7-cHVHI_LiVkSBKD2ahI5dL9O1FAi_8zwoM0QeEYQ1VNrrisCBOCxWkSxfpyLkcm_sO7xIMO2HYFfP7auvHOmloxg2p-B6FTQLQ0-6ionkm_6iPRW9Ard6w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf0hf3oj4cOaz8428ajcl6OeAsl0VmRvwbgcTWv-f3Mo1DXAyL8hwpihwdpCDfBS-dJMookji7Xj4JR6QIohQyvlpyTXtArwX12A4fHV4S2wXlHxBcoO9Wl5Hrymv_9dqlP0FcQIE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV1rFY7aaP9HudLfFoGiMBRFd5SZvXFaxPS5Hk-O7b8ufie43AjuSpauiM_7A73dlmHeXwol5oh96gr04flBfWz5MEZBEOjtAZ_wdbBba0C9tBiNqyjvWQkcvKVPaUvVkF20xsf1TUOWW4BCqQWqI-_8WnaA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgDzj2HSDlfDku1PDRXo7A10UwdL1vz2daju-QQchUUe4_Ok_xT9yi2I1q9IgCyCRb6KpffJhRY9t9OnepWj0FvAg1s6tjyDxAJvgz0Ya45ZFtn1UGqu1B9P06qBUV5lW01v8ZTrlk1Bw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWm3jJjZ0UhSo5Lo4BcGLuCjJugF--2qVbFVbaQsai38lFAom1-pTb7BEDWW1HCgJSs8GVm2fhrwGLIWMzAGvAsrKA80oy3d0Nof8PUdBTsfJ5wGzE1T6Q0oPGNsAn8SZCeX_R21o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4W3igZUBYmmTRXl7E43j9wpuiPW8pJEGOGcshOB6Vw5thnC-wfslgaBAuCM14fqoU7XjGEpbISNd89weDGvqwZA9EOR2uxlVyrnX1lG1ymoBIZJzhIbwkzuhxty9dnDIKZQGHAGBAUTN1ohx8PJuGbn2c",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa_PkCTVFnoiP37HV61WqAimBp5iHZgm0kuK7IQ7Y4xKGZh9jcIkQO_MDkX8_blVHnt0eGYbWGgdAIRlMmgTMEDfsXTkQPDhWub31dwXMhTptYMOsuA92QVYRRwse4gNJbIAhYo1tftHaMVx2C86ZyTOs_yWjHZfgB3ishRQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGixxVCz1m2GJ6TgAsJgBR0XLSRJ99d2_4kpyJz_OYPKLNqB972mElS3G2wi-wLyQc0OASQy5xl2irIcGISxg_2rR3dTaNJqyTCVZRx4brhqa3hgHxonjxcZ72fqw654QoIcG54aDz8JOop7IMg--j8BXOF_8OXOpgrQNDH3vscjh5pPjkJaKjkNPI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzUqRgPAyAj7TjnYZHXLTj4yPXyCDbrYow4rY4EDJde4FyF_8amD-_apM4IuqgTxZUWBTymaly9dBCJzGsg7PpsRswqOzS2YG6UItg6BDsIs7_5cuyQcil5DqlMhudch22KtXBvcu5lR1OkwIuYuTWlFQNZR14Xz4STp7Hfb8sovtGyCBukV-KM7Eko8C9qCaUlWELu-POl66iEovdrMh13aADkfe0POeoaFmwnotQtbP0Sq-fBl_0plnE3x0PI8akOkdepRBzjQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwWx58Hs0XinDHHMC_67oNY4xJhJhvBroFkOv6nKBm47I7yOg3E7Jc7t2HCG2BMyHPoBTzNoWxBKtNORngeg8XEAD6NCkoisMTUB_SgOw-cJ4xLOr1yk9PsdlKFA_JaS0XY37XN73YF-J0AUCcsVobJmyIOokKovqO4KmEkkJmF1ljqxKRxVFv1eXUvEZvFybvIpk3o4nO9eYVWie1-9E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtij72fwIZBdVYWxuLA5pFbTSrvoi7iJGM8ttCFGG2M9Q3Mn1_d4cLhCn_WHtGdDHxH-VsjzTutMg3Gnko40_hcgEqGRIVJavJuuG5TeKspTKBhjVaxklDLzDQPvpWxzLIF0Tfgzxkd-mmHUiZJIpxM_lcywsTgao="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-17T09:46:29.947344+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight.progressData"
+      ],
+      "filled": [
+        "record_highlight.progressData"
+      ]
+    }
+  ]
+}

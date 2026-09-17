@@ -1,0 +1,258 @@
+{
+  "athlete_id": "krishan_kumar",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Krishan Kumar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1997-10-12",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=Bg8Yb9zGYyA",
+    "bio": "Krishan Kumar is an Indian middle-distance runner specializing in the 800 meters. He won a silver medal in the 800m at the Asian Championships in Bangkok in 2023 with a time of 1:45.88 minutes. Kumar has also been a three-time Indian champion in the 800m event between 2021 and 2023. He represented India at the 2022 Asian Games, finishing fifth in the 800m final.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": "2021"
+  },
+  "record_highlight": {
+    "event": "800m",
+    "result": "1:45.88",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2023-07-16",
+    "city": "Bangkok",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Krishan Kumar achieved his personal best in the 800m at the Asian Championships in 2023, securing a silver medal. This performance highlights his capability at an international level and marks a significant milestone in his career. His consistent improvement in the event suggests strong potential for future achievements.",
+    "progressData": [
+      {
+        "year": "2021",
+        "value": 108.02
+      },
+      {
+        "year": "2023",
+        "value": 105.88
+      },
+      {
+        "year": "2025",
+        "value": 108.46
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "1:45.65",
+        "holder": "Jinson Johnson",
+        "date": "2018-06-27",
+        "venue": "Guwahati",
+        "tournament": "Inter-State"
+      },
+      {
+        "label": "Olympic",
+        "value": "1:40.91",
+        "holder": "David Rudisha",
+        "date": "2012-08-09",
+        "venue": "London Olympic Stadium",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "1:40.91",
+        "holder": "David Rudisha",
+        "date": "2012-08-09",
+        "venue": "London Olympic Stadium",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "1:45.88",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "800m",
+    "achievementLabel": "Asian Championships Silver Medalist",
+    "stats": {
+      "worldRank": "208",
+      "personalBest": "1:45.88",
+      "bestYear": "2023",
+      "totalGold": 1,
+      "totalSilver": 1,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "event": "800m",
+        "value": 108.02,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "800m",
+        "value": 105.88,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2025",
+        "event": "800m",
+        "value": 108.46,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 105.88,
+        "seasonAverage": 105.88,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 108.46,
+        "seasonAverage": 108.46,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Pace Judgment",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Kick Speed",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Endurance",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "1:45.00-1:46.00",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      },
+      {
+        "range": "1:47.00-1:48.00",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "1:48.00-1:49.00",
+        "count": 2,
+        "throws": null,
+        "percentage": 67.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Krishan Kumar has demonstrated strong performances, with his personal best falling within the 1:45-1:46 range, and other notable results in the 1:48-1:49 range.",
+    "peakZoneLabel": "1:48.00-1:49.00 \u00b7 67% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2021": "Gold",
+          "2022": "Gold",
+          "2023": "Gold"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Caz6BJpZQvnBF9MphFGvwDpaUkmWHqe76KfoES2Xqq33yDP1UbnX3Qxj5ENZg0UqvwMENkhBfavZ6BBtyuTRRvP0OwWxB0aqR2lfzbf8IMhUunKMIIT-Gp2Mb-q-ReUWTSMSaoVR60Nvon_3ymUX-tw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJTkrvfX7KaXtnDH8HHxYKRw8JrQ6JRzw4krKvyqX8gDaSIVzdzCatfUkqkqJGECQ_gWsFUcXAiSBqvPKVYCqK0-xJG7lAlz1s2DADp5dGUx0_Y14FBbHanGv4jadl5U0_epy708pNlErvCXLkjciL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiHFSPw7dgO9z1ZtEHOL3U3JnJnRqdMbE4yhyqvP908Bw16TuVbYBfRR4vPUZd51pTF23AJT-wrZ4LM8G52JcDj0pBP45Dz9XmqHCt35wRZx5bcuKcnbNbLWh3VaeUCUag4B-ktLyp6q5RyHnu3FNf0JlxHohmADhyNxyiENOZjL5mhfxCQ1Ar6mKqcAfT2O66uyTivCVm6BJ7XNiYJZ6kcVvBnQ-zO4X3krePDg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmWm8HfrXstZorVw5lBlTFn3oofQ7j2tp7Gf3ne71euQlN5e5A4vJS1RgFvbf6ZKtrVjtFWj7ckWfZ97pUZf-wNXmyUCoKMSVGJdfW9PpikFP6xCfLOyu6Lek_Oh9ZIxc-GstrLN4eNCmGXil4LcabVSFk7pIEW8SFFzEApV18A-d7C7y43mlw6rMKB_gGD59AcQpzdku8I7v_3_dYkCMmQaKGgA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:56:13.076771+00:00"
+  },
+  "performance": {
+    "primaryEvent": "800m",
+    "category": "Middle Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "800m",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "800m",
+        "medal": "GOLD",
+        "category": "Taiwan Athletics Open"
+      }
+    ],
+    "stats": {
+      "personalBest": "1:45.88",
+      "seasonBest": null
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        105.0,
+        110.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

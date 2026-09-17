@@ -1,0 +1,323 @@
+{
+  "athlete_id": "arundhati_choudhary",
+  "sportId": "boxing",
+  "coreInfo": {
+    "name": "Arundhati Choudhary",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2002-09-05",
+    "heightCm": 169,
+    "weightKg": 70.0,
+    "profileImage": "https://boxrec.com/images/thumb/7/72/1001489.jpg/200px-1001489.jpg",
+    "welcomeVideoUrl": "https://youtu.be/qZilcXR7fVQ?si=BYz5WRiFeIO2ElOH",
+    "bio": "Arundhati Choudhary is an Indian boxer from Kota, Rajasthan, known for her powerful boxing style. She began boxing at age 15 after playing state-level basketball. She became the first female boxer from Rajasthan to win gold at the AIBA Youth World Boxing Championships in 2021. She has consistently won medals at national and international events, including the World Boxing Cup Finals and Commonwealth Games.",
+    "birthplace": "Kota, Rajasthan, India",
+    "coachName": "Ashok Gautam",
+    "yearsActiveSince": "2016"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2021",
+      "value": 100.0
+    },
+    {
+      "year": "2023",
+      "value": 50.0
+    },
+    {
+      "year": "2024",
+      "value": 71.4
+    },
+    {
+      "year": "2025",
+      "value": 100.0
+    },
+    {
+      "year": "2026",
+      "value": 100.0
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "3 consecutive Gold medals",
+        "holder": "Arundhati Choudhary",
+        "date": "2018-2020",
+        "venue": "Various",
+        "tournament": "Khelo India Games"
+      },
+      {
+        "label": "Olympic",
+        "value": "2 Gold medals",
+        "holder": "Claressa Shields (USA), Nicola Adams (GBR)",
+        "date": "2012, 2016",
+        "venue": "London, Rio",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "First four-belt undisputed world champion at two weights",
+        "holder": "Claressa Shields (USA)",
+        "date": null,
+        "venue": null,
+        "tournament": "Professional Boxing"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2018",
+        "2019",
+        "2021",
+        "2025",
+        "2026"
+      ],
+      "wins": [
+        1,
+        1,
+        1,
+        2,
+        15
+      ],
+      "losses": [
+        0,
+        1,
+        0,
+        0,
+        3
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Power",
+        "Defense",
+        "Footwork",
+        "Ring IQ"
+      ],
+      "values": [
+        80,
+        75,
+        75,
+        80
+      ]
+    },
+    "coachImpactData": {
+      "note": "Her coach, Ashok Gautam, learned boxing by watching YouTube videos to train her, as there were no dedicated boxing coaches in her hometown of Kota."
+    },
+    "consistencyData": {
+      "note": "Won five consecutive gold medals from October 2025 to April 2026, including World Boxing Cup, National Championships, Boxam Elite International, Asian Championships, and Commonwealth Games."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2017",
+        "events": 4,
+        "gold": 4,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Valeria Demyanova Memorial Tournament",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 5,
+        "gold": 3,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "7th Nations Cup",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 4,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1,
+        "tournament": "ASBC Youth Asian Men & Women Championship",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2020",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Khelo India School Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "AIBA Youth World Boxing Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Indian Women's Elite National Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Strandja Cup",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "World Boxing Cup Finals",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Commonwealth Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCHkg0HS083hCEvKttiLY3NARWYxS7BTLeKrgkUVSz4vsQ4kGnPCzw1RTBRUZnBLEBdpPjI976bi8STWoSA7V8tW4EwfIgN-BZhk7IgfncP8W3zCVYiSH6BYfSOojhpxLrdwiDRq1dnRZykgZEMy-mcvMaemnZWSDjbfYzHixU_lIWgSU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHH7Es5umMfPubAelsqQwhVBodoQAYqzMUhXoPTR9PShhaHMAzxUgDmSTALT2wOtMDWuyx9pssO5-DRyFobNnZwXFWpatCpscoqgVTxzsxPtv6d1ATMU98CIt8Sp2C0hzTJolZzlXghmujpRVI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU8AH1egUqCnZSyiMafCIdyw4f5QpriZ8kLCFqcwSWwMK6vkgKFGLsLsa1W6hjZIbyihSKe7mKh7B6p6BzTBEh18KVtQVPuFaAUHylTcWwOFzENf5A_snyeoGlrPldPNickWdNyqFokEBmDbXIDusCf94_NX39KW3YOdYOP_X_jKor0MO9aS2Vj-6kYo8Bv8mjzQhi2Wbfiec14HrXf7O3J4bcmr3C5lEiBm8t9ULcoagfZOQu-dsBiQl6mtOecFMfc6_9h1GA1EfNdMsudIGCesqNrDSw5-1ytzaI_WmjA9rs-m6iSu8Mw06z1WZf7pm-rXkngwlpOCviYdFtec9HSK_1X5mpX0HQ5lFi",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgfE7we1iQrGSZyugQE0ZhB4WkN9xA5Zp-SaXS1oQqVELVxkZ9wo_MJ7o82S73Rbqd85PZP1DKbSn5J4FQ5AjofUOAe86wqupH_m77_Z4CRZy0vECcc6jw6lgJIMNsAEHfHkpLuA2rtZWn5e9qHn8MnkijePawU4SrUEoR7WXP7uENLj59Ze8NzamKebDoJQwWYc0_zIiSb34QrVENuO3Bcc9EbC_LbnPlHM9cbgrGyuPazsmyTxte6rAV1glQ8d2gcbkZtYo92jy6fY-rP1Yc4w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV9-b7KuNsgunWIyzvOOTsk8L4IGTB8Apqo1rznYnd6pAVD4_pxp6466HoBaWARzpnxuV3Yy2OkwEyw2P4Fq9swwMrfw2LPvm9RWXgycaBllT_kMvxz1WKu7kTHYJoZYTwhbCQti1Nsk9dWqNHiliR9Kv6MqfYLeG2OofgOR5b_ZM64dw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBkVdht-3COkULrIPkbGCFSqeLUlMzd1OsR_FXjFaRRlUg0FRXdfrLEOCuugCwwAGKmqrCIsX7cxtRXotHYT6wSmxb2KPOlSW1bDRIqHC2q5qYuQtV8fA3dgPXQR6VFBjfeMJYN589pGf1K1g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuKjBfkupYOLpVeHVUfaEmlw34QWxtsMB1-upRHJ5fBSY1B5AGWQrPyAzP9ftCGxDX4dL-4N8nBDEvVgN09Mxi3dBrpsnMxJx8h9cHzQ2RPQrEBcfOH9Cy9fGftLpi5zeukWmXkWDhQ_mOYQQx1ngbR_gqDwbZKYXyvi8-JPrbyFPqLvxGH_QeEO6TIm-8sFK3GafUfx4mAPZGkQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQpdCw_vcD-ZtNxgw7Q0TyjlAqJ22b1PbLFa_vaQMpCtw-eX4qlk-GR7mL1eU7wTb4QVfOB1FF_Ko_SKFzIwpmZWUHwT-3E_pA8f-gQY_WZpqkXmIL_JVBDb_CoiXrHaYNk2xTRYehaUMwP_SJGM-P9ODybc8GSaV1Sw1DpqhG1Kdlng==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4iuR9wxELP0QXuEQtqE8umhSM3zNGq2p1s_KEes2yGUmhTNvgxYgAx8ZFN3ySK0Ku3CrUM_aS1eAxuXtSCbXSg10w5xxzt9yBwLCkFqNHEzt5uu-RvorroXzatp7htJ6WInBCYApxiiCcbxDqC5n7US_Eg-cbTPR8YhaamYOcNJPYkL0wc44BZOvvNW6os032L9CDgoaTTdzg-93G09njRMjkPUCf5iPrcM1v2DSoWCQHirnIdQ9GOgs48wRFoZaeM8CtuissidT7g7mmUpH1XYyCmiPmq5w9UTgDzgL1wOYTZWCVkJMiFtBWhWQG_OVkyUhhOtiaY4U-HnzhYcegRKHYNPI-MhaLMfUT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu2i2NKHgNBYfJ5hG0kGvhNGhQS2V2AiR6hr_NKRLBeM8mTv8bXN4nm4lsE0ngsXsbTvhEKj-Zqf8U86JXClsH_VLhBOMb2g-kbLxiSzCL06gBtpw-bvYgg49J6_GOLNb-coT-KQTJEb0VCk6JaFD4xOnTFfOY9JQcvAPNATtVylQEicqxP4R2GaGy_S7ccR5dhbwQkLWD5Ra6yUwEIyP5ZDpChhqK8nN3ZcJboGWphNZn6_YHYArCzEuJoujY1iPJALK1GEIhJI2PDMXkLwn6sTY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH18080pmXw0XSQxZzsbW072TvzKuUUeF9srA4nH5U-vA0dyb6AZW1GUHKLWD_aZK155zrGdTKbp_MXABUzRSZWuap58VsJ3HEH0VhsnJNXznFz5o35ifWY84FMTADQw3-frC9p9N3XpRhSVvDqSjIv768h4rD1XdG41J7fYYhxj9b3BqtGZ5tL2KT05ottb6EJjYYB0Ue8PO3dm4Vy5e9QjBR4JF3lu0jsuwk0k3X2JdYhRQeqqPS6XHlgZ5tNPHuM3zKEBbq2Cwu7EW8z21qJ4RcILcb0s1jFdrngwBZa26uxKwhstNB5O3sl4WKiGF9dQ28i6AP91HRfacMg02pij22a4wxHRlNr_0nyNgDn3tvPG82vn7P3mWSj-UBMfOOohNetFwsQJ8AKwzvMufW_-R9MOtHM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCEFcRR-oF1z23ZEDDyjqAS8SZbTfaXdWC6HkGaTVZ525C5XnTUpI9S7pwcZ5_4WrSwwcYI-0XzkHMU-9sREZjA0IK5aWeT5Gf0Iotb0Sp--KLfNJ-4BTQMXTNKcDliCX4WKlCJwARVYkAXX11_x4L85QHHX2qtC6vE0IEnaNu0Sf3kwuXjmmKjE8aty2_Tks5_bntEDFz0ZWd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2RhipKozGEE8VGF3IWbTIXApx1y8BAEgBQNWmzaAnpv8PObCvG_Khaqr9rZL7BtCOo4PeAIki7TkCAoiPXELKDf7j32UG9YVetgnlfOKnm3_gY15fc7l8juZ6O0E_mtTAHWL6ixNAeNszqQMX728v7kMilUcnivkG3N9Ed5ZsXKTVwE0j9c3jwIf8vKSLHA0p8AHU2WZL9sUkKG03S3zy35_u7rDEJ6Ac00uM_SKJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKGc-8Osq4wTqB1RhbhIO2R-NIhIGTwdRsrQMmfAlfQvJKSF-z-5rfWNkmf-YiVV2mK1ipg5LzTRxz2_LX_r0OxwXdsEQHk7CY9ujwZVuBXKpzJe5IlRmJ0la2fMx1udAhqJ6JZ9q14_3ilJ03s5A7wWfpgxNfW5S659uF1AKoNpVGwm0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW8otL3k8yIt_o41HzvmFG4iECFV66ONi2DwddI1KwO1aIn--wcCIEta33W3oewYR_fDWiI-L4C5bvvGAepTPxS4_5pnOtYEu-iVRS7H_j_x63IcylgO-Z__0yXMemdUA3UcUzDY3f8WVEa0k=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG4pco5tCjHYg8RwtKU2nwqQNJz7tp18HF8_zlr6fIBLz3MWXtPAHaO6PJgU2GM3G-b5CFinEyocUxGG2c3mlBGnGJg9P37-ZArP4DLfDoW2PWAEe6KUg9RUQRJ_OiZ9dpLukBVzy0mdGcfJUaY4QADBQHcQqK1ItkrdebS8YR42K-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCzKB0fOMzLnc6t_cB9GTgaRN6FkgPRo6eDVxtjDAr7pfakc0lRBEJXFFnXTVd2HLznlfyJZ5rrRrkpzD_kACUWuqiHR5x6YNzB4Hh7yU6ftKVUEKB4H6k3QaAu3mQ7Q5Zm6hSklTpP-oOuCRlp-aKxhMn6npFvY6VFTq40hGTYkS6pA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHriuy7XsUjjBt_qoyurERgwR12YLbxDMy3fZlN5jxznVU7mck2UjsCamzsJO6D_vbfWKVW0-5bAQdJGA09tqGB_HsxV5SsdSQE745hkY0DM2mhIvgHC2ZgIxe9h6glyEiMHI_RnmQ_NrQWXCfDV4k2mwK3Jqj4DzHJVTQiNZVvUqx09zQfgYirI-QTuaBpatgwBAuIqmvneLskt55BvH6zZq66TAJ_ajD4rqDKCoR5sOv902L-ANiR3jLphzBeHylHL5_Ya1_9eqO6T4fDf8CXHVoiHk-PHhZYHf47Zq3erj8eMdWweBMtTL1DJL36HANKo7nUnbJe1Pon1Dps4Z-D23lT6hViUUUyZU4q",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkfhnpLnDiR8oh8qY6WnB7RnQ5nJ7ud4_-0ytL_LiTMVkL6f4neJdtXN5Xv--bmPagjoeVRK8_7J1wMkAd8Nk8E-uc5H1UmBiNjT8gNqpCFPve0dW4tHwlkCJhL2e2VocVomRQWSoVaB36Hz23QcybhY6fRVehvggAcGqdAFl6gzfeYETNIdKHHWgj2WsgajQfCpD4IbL8iVADlWxoir64A8kXEpzBt9KO0Hs0yGEB",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKLWcTXtCMxigOStB3TQHj_R7TRwFq3mZQhWXg9rq_fEdoNu71A6qud1ybIsOwerRY54N01pn9Cbxkys8Z4t30UtRMrRHeBjw1SPV_LrnB4sX8ZgAP1uQvaaJ3d1IHCToSs9zzSGt9T5Q6QVHqUPXE7-XogWD-v3c1_mEQY2oGfmak4FSpjzcIcTqeiZ3-z7-PdyPVwoz57ECs7vsZZqfNVpM2NA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5P_1FHJaHH-e0nIei8QINBBvVjT7m3MU8axw9V-yO_aZj5faW8rS4PRbnJoI3XY_phFUoeqgFQ9IhU0OpiJiRe2J_E1AM2pDGF_dTTxdMkSnh3slmi7axs2GO8Wk4MXuptgiDabKvXAzDl8QZPoUNg9uA1PGbe334u7PJXO6Y3jgsJt210O5Ox75MgotmGdAN-07itHsbTsA40FokTPVTX17bW6tsucLYfTcoYQvcAvSA8YV0P-EMKeoMHknB38TNM1wJR8o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENek_piFop3HcdEWLkggXRklcV7XlW46gzBVqH0UXkG0JF_dEAgCnH8vGrqTKH29hpql01KXlEWCMB6ykFkQw6wtLvTLELeHTpM9OQjUb2uMpsVnFazi-E-ZzcFmDRcfXWg_25IhPbKlGbzFVfJppBCl_6f-j6Lzeb23ZptmU6kKEcv2_TUk6ARtcaw31p8A3YC8-EAdNbB5fhQuioaJejfGqgZiGSQWxLJ7qKhdnv1v5iSPx4-JpsgeY_o6bc0QwJ8SDPKSjkT8WlHxaQrWI4Yg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEttJpGt0YHVn5FFClj1Suso6y2ccnv9yzoqDk-dN67VBW5yroBeip2m_jMVmoJUc3no1S3nI0o-X26CuSFXgGoMaqgU3xT1CIwiIDohmRliIjPs5rAoWLOxynCESjXgLz2PulqUhnWB7fvmN_-2m9h"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-10T07:14:33.851778+00:00"
+  },
+  "performance": {
+    "weightClass": "70kg",
+    "stance": "Southpaw",
+    "reachCm": null,
+    "heightAdvantageNote": null,
+    "tournament": "amateur",
+    "titles": [
+      "2026 Commonwealth Games Gold (70 kg)",
+      "2026 Asian Elite Championships Gold (70 kg)",
+      "2026 Boxam Tournament Elite Women Gold (70 kg)",
+      "2026 National Championships Gold",
+      "2025 World Boxing Cup Finals Gold (70 kg)",
+      "2025 BFI Cup Gold (70 kg)",
+      "2021 AIBA Youth World Boxing Championships Gold (69 kg)",
+      "2019 ASBC Youth Asian Boxing Championships Bronze (69kg)",
+      "2019 Boxem International Youth Tournament Silver (Spain)",
+      "2018 Junior Nations Cup Gold (Vrbas, Serbia)",
+      "2018 7th Nations Cup Gold (Serbia)",
+      "2018 2nd Junior National Men & Women Boxing Championship Silver (70kg)",
+      "2017 Valeria Demyanova Memorial Tournament Gold (Ukraine)",
+      "2017 Junior National Boxing Championship Gold (60kg)",
+      "3-time Khelo India Games Gold Medallist (2018, 2019, 2020)",
+      "2016 Rajasthan State Sub-Junior Championship Gold"
+    ],
+    "recordStats": {
+      "wins": 20,
+      "losses": 4,
+      "draws": 0,
+      "knockouts": 1,
+      "noContests": 0
+    },
+    "chartConfig": {
+      "primaryUnit": "wins",
+      "secondaryUnit": "knockouts"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "performance.stance",
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.seasonalData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "performance.stance",
+        "analytics.seasonalData",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

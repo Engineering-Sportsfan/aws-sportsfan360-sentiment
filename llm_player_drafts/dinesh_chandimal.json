@@ -1,0 +1,160 @@
+{
+  "playerId": "dinesh_chandimal",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "dinesh_chandimal",
+    "name": "Dinesh Chandimal",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "dateOfBirth": "1989-11-18",
+    "birthPlace": "Balapitiya, Sri Lanka",
+    "heightCm": 175.0,
+    "jerseyNo": "36",
+    "debutDate": "2011-12-26",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dinesh_Chandimal_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Dinesh Chandimal is a Sri Lankan wicketkeeper-batter who made his Test debut in December 2011 against South Africa, notably scoring twin half-centuries in his maiden match. He became the first Sri Lankan to score a Test double century against Australia with an unbeaten 206 in July 2022. Chandimal has also captained the Sri Lankan Test team."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "206*",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Australia",
+    "venue": "Galle",
+    "date": "2022-07-09",
+    "aiInsight": "Dinesh Chandimal's unbeaten 206 against Australia in July 2022 was a landmark innings, making him the first Sri Lankan to score a Test double century against Australia and contributing to Sri Lanka's first-ever innings victory against them. [1, 8]",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 71.0,
+        "event": "vs West Indies"
+      },
+      {
+        "year": "2025",
+        "value": 93.0,
+        "event": "vs Bangladesh"
+      },
+      {
+        "year": "2024",
+        "value": 116.0,
+        "event": "vs New Zealand"
+      },
+      {
+        "year": "2023",
+        "value": 102.0,
+        "event": "vs Pakistan"
+      },
+      {
+        "year": "2022",
+        "value": 206.0,
+        "event": "vs Australia, Galle"
+      },
+      {
+        "year": "2021",
+        "value": 52.0,
+        "event": "vs West Indies"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "206*",
+        "holder": "Dinesh Chandimal",
+        "date": "2022-07-09",
+        "venue": "Galle"
+      },
+      {
+        "label": "National",
+        "value": "374",
+        "holder": "Mahela Jayawardene",
+        "date": "2006",
+        "venue": "Colombo (SSC)"
+      },
+      {
+        "label": "World",
+        "value": "400*",
+        "holder": "Brian Lara",
+        "date": "2004",
+        "venue": "St. John's, Antigua"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 92,
+      "innings": 165,
+      "runs": 6530,
+      "average": 43.53,
+      "strikeRate": 50.42,
+      "hundreds": 16,
+      "fifties": 36,
+      "highScore": "206*"
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": 5,
+        "runs": 719,
+        "wickets": 0,
+        "average": 102.7
+      },
+      {
+        "year": "2023",
+        "matches": 5,
+        "runs": 359,
+        "wickets": 0,
+        "average": 39.9
+      },
+      {
+        "year": "2024",
+        "matches": 9,
+        "runs": 724,
+        "wickets": 0,
+        "average": 42.6
+      },
+      {
+        "year": "2025",
+        "matches": 4,
+        "runs": 342,
+        "wickets": 0,
+        "average": 48.9
+      },
+      {
+        "year": "2026",
+        "matches": 2,
+        "runs": 169,
+        "wickets": 0,
+        "average": 42.3
+      }
+    ]
+  },
+  "grounding_sources": [],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T18:15:48.063490+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "analytics.bowlingStats"
+      ],
+      "filled": []
+    }
+  ]
+}

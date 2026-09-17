@@ -1,0 +1,98 @@
+{
+  "playerId": "axar_patel",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "axar_patel",
+    "name": "Axar Patel",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Left-arm orthodox spin",
+    "dateOfBirth": "1994-01-20",
+    "birthPlace": "Nadiad, Gujarat, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2015-07-17",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Axar_Patel_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Axar Patel is an Indian all-rounder known for his left-arm orthodox spin bowling and handy lower-order batting. Born on January 20, 1994, in Nadiad, Gujarat, he made his T20I debut for India against Zimbabwe on July 17, 2015. Patel has been a consistent performer in the shortest format, contributing with both bat and ball. He played a crucial role in India's triumph at the 2024 T20 World Cup and achieved the milestone of 100 T20I wickets and 100 T20I matches.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "65 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Sri Lanka",
+    "venue": null,
+    "date": "2023-01-05",
+    "aiInsight": "Axar Patel's knock of 65 runs batting at number seven against Sri Lanka in January 2023 stands as his highest T20I score and a record for an Indian in that batting position. This innings highlighted his growing prowess with the bat and his ability to contribute crucial runs in the lower order, often under pressure. It demonstrated his evolution into a valuable all-rounder for the Indian T20I team.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 101,
+      "innings": 64,
+      "runs": 750,
+      "average": 16.67,
+      "strikeRate": 130.43,
+      "hundreds": 0,
+      "fifties": 1,
+      "highScore": "65",
+      "ballsFaced": 575,
+      "fours": 52,
+      "sixes": 29,
+      "dismissals": 45,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 101,
+      "innings": 94,
+      "wickets": 101,
+      "average": 22.72,
+      "economy": 7.58,
+      "strikeRate": 17.98,
+      "bestBowling": "3/9",
+      "oversBowled": 302.4,
+      "ballsBowled": 1814,
+      "runsConceded": 2295,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": 0,
+      "maidens": 4
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFVQrNoa5LOwkeIn9lhmpWh-8vb-6FcBuKV1f-JfONHVVkzsHK2yrYTyokXMLYVmTnBECKroDhPD9XqKhu-PqHAD_Th7mjNjAJ3SCscECO_M8v5ywBXJE1ep2GEBrDDE2-fHo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8I6DFiyb9HlV5Xa9cslNl5mLUDQgz19zkmgeXfcHXTn_L3b6LEqTGOuwfpF2Sfm2WQjkwBSiNDLP2-qLAqspV4BVkLJyQ0vLLJhvkzxHBq83VqAsAmKFNsRL6QTgk-LYWg5nK88XrV6-hWaFOZaXzQg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAXivFF5hDf7_fhL221-i58Nb8JJVF8mNCu3QqYwi3r8s1bwVZnoTzyI7yXd0Ev1L1uNwgjI8VYPtKE_4wtb-XcAaGybz9_W8Q8PcVeFBstyVJhMg8KE0-54RM-k_HzyWQyD_hSp8yCRsPq-jUafJ7oEQ8UnWbF_I0uCKki-jl-z_4topVIDG496BhusCoffc4EyJ5lvj7CizcnlsFQ4Lkp4JADDm6yZuFyAKMC8G0kFxVKFD0oiqOtcB5h61k_CJEkDgfx2aBdvk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeRw5x7Lsv5QJiSulVSC2G3vxSuE9aI_Ze0EpZb0Rj1W-ajFmualFfd5yz3-kXfdGC1mNJLMJL0DTsUX67HXBerqjzUlWJUhtfMs6xiSS5zOYxXpz70RxMXEL4GB5B6RTI_Bk4chVBk8zJMKfpEqMHko0G5auZyHs1SO1woTxONhY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl7KQa_ri6UYZ-p2xZbyCRLdLQdjr3D9XCF77iVRMilXwjXFGjFYHWthIc8fDsZ22DpMp_eso3GZ2E4c0G3OuYpjquwYoeCL9IDe5IaVzI9LXy2H2WmdN9mB1rN5bqB_BgyQHJtYrYJT-UCaqiHOJE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPEnulmbTqTmRM4WwFcZHaA8TDXmG2zXVjz_Q_XczhLEM-jdXRxd0UPPViKv_-Z5WQwdXeHI47L9zuE2xRFocTn6sX32mnoiAEyNf-Bk97XfU-zVE8wWJ_Aj2_8pypkDn2VpXUxsud_Dy4OsY2ZT9QPUksUm6sN11TNnspRbrW-CtG1wUTGg8m_kHswdd8Tjge2f0uWacCL9u8I133BQlhIEhqjSfk4Ne8HxZgKt0Q-Y7VFTQDV8Xey522WS6OfxmfNCJH_MZygUENO6uK97YY8qyneRNxjOFPrR_87-iWx4UznJ_Df3aF8dyT0g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwnptoN9wiPzEZVUehwAMwQ749SzEcZoFnyJuLmkf_aPl9J1s-P0qAstT6QzwVe1CFV30qpQy9wlYYLEbjoSz9E_b372j3q0DsdLwKRdF_Zl-1na1UnayH0qC5-yaVAaAsvWYI03DF3OChYKb-uFBV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNGN5hVYQQnvisK7jSrTViuO-WGixiWF0FbZZ8zm4dgMN85isvj8laS3QZgnbHL1_qiRxdxG1qxuukXnA58XT80obmgC6_tIqVI7jxYQX1Mk99EwV-Z7SSRt8Lmg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIBYfT6GAgkV0iRj0clu22E-qW4o932oIZxy-3djvd4paHGD5_LY4RLcRMV4HvIfiNM0l0SCK6EJR10x2nmrl5Sg7zl3lZsDGaSXXPSAxi6_V5vAayclVgT8Aw9u2YrnpeP09TcJcBF-KrDHumAHqCFsY9yBRntvksrW09xQs3sWZ0B4zSaF6Pu5ibbjM-ly0BdSSb1mPkVzhiLrAytb2TEs0EVV8F3rOEr69b",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkcWzTtLCKTvZwQL-eoj8OI_6nb3tLIFSRl27ZDDxY71-P5HgXQTIOLKwecqBQgfZsAeqAtiR8wdqLA6iQ4DnXIZFlF-T0TCPBviUSwkcslVoVk8SNEYB1aKJQ_l0npdL06PpgM6OpTUwaJTErvs_cvOEopCF0hxekoMhC9VuATHgonf4vjLgVpdkmxBA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESy8jJuNzKnS3uVhZX0ORzDfuJVuGoQm9Amwx5jMn2bXGAcbN7NFNgf88cdYv-vM5VoJCo_jNfC_hCYqrYHWV0e4AR6VRKX1zDqwzKpvlKSV0s6yKWyiBB4LG-ohgjqdtZ-_4AH26yS3pOQNZs4ZahpTetTDrbQQ5zeOegGDWkXDxYlXXjLqO6KRHUQUyRlmtIKjF4Q17_0b-NUXFH_fb2t6Ba",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1sD3R85jZW7aBphVFjtCekV2U31F8FKjVGvx7fAZY5SR3pTfMLmeDCrLnvFUH2EW9JT-T7k0xlSSThMOkX0DF0EtDymos6FwuNynfpyQAmmQAkQ9qA2QA9AB1Y_9-sZDSOpZBuIc5nAUmA1hpDEUiHlDIYf2tpvRMs6-v7hmCWfWbylfr3LZ16-OCMa2G5h7-wydbi8Q="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:32:03.232445+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "axar_patel",
+    "axar",
+    "patel",
+    "axar patel",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

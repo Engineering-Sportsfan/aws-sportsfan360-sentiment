@@ -1,0 +1,124 @@
+{
+  "athlete_id": "washington_sundar",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Washington Sundar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1999-10-05",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/2/23/Washington_Sundar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=jiZUxNMT9sM",
+    "bio": "Washington Sundar is an Indian international cricketer who plays as an all-rounder, batting left-handed and bowling right-arm off-spin. He represents Tamil Nadu in domestic cricket and Gujarat Titans in the Indian Premier League. He became the youngest player to debut for India in T20Is at 18 years and 80 days. Sundar was part of the Indian squad that won the 2023 Asia Cup, 2025 Champions Trophy, and the 2026 T20 World Cup.",
+    "birthplace": "Chennai, Tamil Nadu",
+    "coachName": null,
+    "yearsActiveSince": "2017"
+  },
+  "record_highlight": {
+    "event": "Youngest debutant for India in T20Is",
+    "result": "18 years, 80 days",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2017-12-24",
+    "city": "Mumbai",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Washington Sundar's debut at such a young age highlights his early promise and talent in the T20 format. This record signifies his rapid rise through the ranks of Indian cricket and his potential to be a long-term asset for the national team.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "172 runs",
+        "holder": "Aaron Finch (Australia)",
+        "date": "2018-07-03",
+        "venue": "Harare Sports Club, Zimbabwe",
+        "tournament": "T20 International (Highest Individual Score)"
+      },
+      {
+        "label": "Olympic",
+        "value": "1292 runs",
+        "holder": "Virat Kohli (India)",
+        "date": "2012-2024",
+        "venue": "Various",
+        "tournament": "ICC Men's T20 World Cup (Most Runs)"
+      },
+      {
+        "label": "World",
+        "value": "14,921 runs",
+        "holder": "Kieron Pollard",
+        "date": "2026-08-27",
+        "venue": "Brian Lara Stadium, Tarouba",
+        "tournament": "Overall T20 Cricket (Most Runs)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        50,
+        65,
+        70,
+        60
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq-PRyC9j7_8c2JM6s8Y2Ue1cn4Snpv2cf6Q7SqduY9QgMFmuqTIXSm-dwLhR5yp1dAQcXjEteZHas_2Eto_NeYhMmaHWVJtzWH_nHH0oJQPuTWNJEic4xANQ9lyk6cSNyTKOfEH2rqyXh",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJJ56UWC2qyQw9HrhN0-vyMoO2yhFr7XNv3P65vnmtj2xeUxLeM9CuHddeTz8M0yp0X4IBhh76bRLBUSiY-Fqq9M0TsANPeg0HGsA6q0hxkRwXyviYv4YD1IfSjexejW7BSDlALLS8"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:44:29.351554+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20 International",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1891,
+      "ballsFaced": 1486,
+      "battingAverage": 21.73,
+      "strikeRate": 127.25,
+      "fours": 159,
+      "sixes": 64,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 493.3,
+      "ballsBowled": null,
+      "runsConceded": 3532,
+      "wickets": 119,
+      "economy": 7.15,
+      "bowlingAverage": 29.68
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "sundar",
+    "washington",
+    "washington sundar"
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "athlete_id": "nidhi_rani",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Nidhi Rani",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1997-01-03",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": null,
+    "bio": "Nidhi Rani is an Indian discus thrower, born on January 3, 1997. She competes in the women's discus throw event. In 2026, she achieved a personal best of 58.82m and was ranked 92nd globally in the women's discus throw. She notably finished fourth at the Commonwealth Games in 2026.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2022",
+      "value": 52.18
+    },
+    {
+      "year": "2024",
+      "value": 52.55
+    },
+    {
+      "year": "2026",
+      "value": 58.82
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "66.59m",
+        "holder": "Kamalpreet Kaur",
+        "date": null,
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "72.30m",
+        "holder": "Martina Hellmann",
+        "date": "1988",
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "76.80m",
+        "holder": "Gabriele Reinsch",
+        "date": "July 1988",
+        "venue": null,
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "58.82m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Discus Throw",
+    "achievementLabel": "4th Place Commonwealth Games 2026",
+    "stats": {
+      "worldRank": "92",
+      "personalBest": "58.82",
+      "bestYear": "2026",
+      "totalGold": 0,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "event": "Discus Throw",
+        "value": 58.82,
+        "rank": 92,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 58.82,
+        "seasonAverage": 56.0,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 70.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "53.0\u201355.0m",
+        "count": 2,
+        "throws": 7,
+        "percentage": 28.5,
+        "peak": false
+      },
+      {
+        "range": "55.0\u201357.0m",
+        "count": 3,
+        "throws": 7,
+        "percentage": 42.8,
+        "peak": true
+      },
+      {
+        "range": "57.0\u201359.0m",
+        "count": 2,
+        "throws": 7,
+        "percentage": 28.5,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Nidhi Rani consistently throws in the mid-50s meters, with a personal best nearing 59 meters.",
+    "peakZoneLabel": "55.0\u201357.0m \u00b7 43% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "57.10m",
+            "holder": "Nidhi Rani",
+            "date": "July 30, 2026",
+            "venue": "Glasgow",
+            "tournament/meet": "Commonwealth Games"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5j0z263cVw0MfsI63dzYU99d-FofvTZcTqIuEQsSL9TVMXyAhoO1gjxjDmWvHkP7aM40pUu6wiBH9ePTFSxQv-sY1gHGtmO86gMRuA9fob7Jmac_MTdfBaSVtv7Du5dtT2q6bxkA7zP0yC4IkFmpm5-FfhHv3iPU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsFs_fER8jTKuQf2rubAjsTeu0nHHO0SsGzWnSqlxgW120_hPz7ZASHc8ijGs8Z2IGR-0a5yOJUSj2wRS7tr5x2dkZQvDYmmStkF8lu_93CgAPwVVihlyHbljgcUMao-n3fWaBrKj6cUCCCbcg_UuYVWo-IwQ1IKO_pHFTt1qzbZSdHN-SUqqVBN7SDupbHlg4vO9o8f0yoNSpghDFVZh0HcaY7Sc4NAWOrZPV-9jDD-MFNBEhj-D8FRPOHeJy09SYyzcBt_YF-xBn6Si7H6QuuVzKIkFCxuEL5-YjZpj2OTcHitjoKGc73yBnTfs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX0pKR8DIVN6wGjQvwBUT0pPC840tXlNRgOpH_0trVRlc1jEjjPRnrlLaYgqY0SbnazuiPF_d-oV2rh8ohQe3d3RwiK9YSNrLcQO3Ktoz0gLQDusgL1xLEWcsfMiqPkRqqXfRjz7afq856RuoRaHlK1OEywj0xwh8VG1MCr9sO7tmzhOWBdBvCPwkeVcq-yPnhLj7ewTODU_aRdyvqVCpZA25L6FK1U-WNCRtJrOowxTf2DUv9fI3XyRRViyOSrV5Nr6vBCVk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZUnE1oixLdx8BseSbvYNNqKFnspHs6xmWyY1FlSIkvVVdXaGc_Ri6cvfnUttu_sRzVUD6HmOe8uBDTz-bMPXftYh4KzITmaw7RacSFPqdoMGqnpMgA315c33Eb5x_UH4XAZuFWcMNRczq9eRFYLcWqhn72LRZhwX4FXAHgKagXJ5HWmn5Dg1NO7yuJXu0IAk6ihmK1C_2Welfus0owenxDEerckSMXXZ5xz-cWQ9kII4F5Ig7GHkKNpafM0FAsiQXpDJlmZYvadpl1R2P9cRYnVnN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGtGGQajyj0RqufmoIASmd34T1vt_qq7_s6t88A--lg8yZvE_rWkEsX1zPajgdf64NH8oG2tBaRx1atvBGpokPID4jP6BBgBm2_pncBfQQ4HspDfvw0LxXjDggGQRBNTN9rh4sLxRh3B5me48y-uQRsmeJY_Oi6Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlFJ958mT-qMSlxH2Yqc2n6AoArLFjlurfdpNIV7npd_x7ItckP2kjmxIvpFRPTbfHAV6XgKTaKOP-ZsGmq1O6CyfJxhaIOT3HBOEO1ThGVbp52XMH5DNrdRCxOT5n9w2EIWgIw5IgVAzo6KGdwqvMjIPII3L2e48jgTR3t1qSJuIAb8cX5bZnrtOhq73ZgmLAIllCK1kc1i7jPoyAJr6n_KHAU1M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXBNnkW8xtp6TXDDx10U7FmaBO6AFLcrmQYg7tWhhk0xFqhsSBSARHqYHchOMQle7TONidvqT16RPS7Ry7HdFTegNiOEGsYl9j0ThPnU5sbqojSfAocpApPqMVxWPn5ptcB0l0_r5jHPq6gsQH2JIWnTj4MZaAH9KVz9-t7G4My_oOfByvOydDpI_Yc17tHVlsExW_EPOIkG3cmZOdcjXlj_a3YM4R62Vlq-xrqnHwwUzGng==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmXogkNZpF5VKUAcqfJVNM_um1oqq6390HCfohYTePMJukiH3PNY7qCsVqqTWIA4hH8CASYNNOBTtr_ss9W7yfFRfJaYL_cV70bJJmOM2iHXuy-h3L02q-YtTvZQmZ-3h9Iz_oaYefivn7TTWnAJakYctE-IXUvk_nYQUIJQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTOXoK_Yvzh1qvCUIAr72XVt0NFHqtE1XUqhSpr44iV4PWCAvVcP0Tuc5OoUUhYDYHdNfhPdOJTd7r4JMcu1kEhvXKvR_qrfPL8atYd7v4jFKRWGIREX3mGYlUMGxfW7_0mkVHViXWH6OiovCsqwEpi26de2NNAyYBmW06jQZmmFTZ9UrnqMS7KG-SsUDtqlGwhX9RhWdfvSlDuV5FN288vOab5j-1EQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T17:20:22.567857+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Discus Throw",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "58.82m",
+      "seasonBest": "58.82m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        50.0,
+        60.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "performance.medalCabinet",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData",
+        "analytics.heatmapData"
+      ],
+      "filled": [
+        "analytics.heatmapData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "performance.medalCabinet",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": []
+    }
+  ]
+}

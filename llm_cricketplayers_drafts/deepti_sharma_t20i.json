@@ -1,0 +1,85 @@
+{
+  "playerId": "deepti_sharma",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "deepti_sharma",
+    "name": "Deepti Sharma",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "1997-08-24",
+    "birthPlace": "Agra, Uttar Pradesh, India",
+    "heightCm": 165,
+    "jerseyNo": "6",
+    "debutDate": "2016-01-31",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Deepti_Sharma_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Deepti Sharma is an Indian international cricketer and a prominent all-rounder, renowned for her left-handed batting and right-arm off-break bowling. Born on August 24, 1997, in Agra, Uttar Pradesh, she made her T20I debut for India in January 2016. Sharma has consistently been a key player for the Indian women's team, contributing significantly with both bat and ball. She holds the record for being the leading wicket-taker in Women's T20 Internationals. [1, 5, 6, 8, 9, 11, 14, 15, 17, 18, 21, 22]",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Most Wickets in Women's T20Is",
+    "result": "171 wickets",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Thailand Women",
+    "venue": "Dubai",
+    "date": "2026-08-30",
+    "aiInsight": "Deepti Sharma achieved a significant milestone by becoming the leading wicket-taker in Women's T20 Internationals, showcasing her consistent performance and impact as a world-class off-spinner. This record highlights her crucial role in the Indian team's success in the shortest format of the game. [9, 14]",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 150,
+      "innings": 115,
+      "runs": 1275,
+      "average": 22.21,
+      "strikeRate": 116.0,
+      "hundreds": 0,
+      "fifties": 2,
+      "highScore": "64",
+      "ballsFaced": 1191,
+      "fours": 115,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 150,
+      "innings": 147,
+      "wickets": 171,
+      "average": 19.58,
+      "economy": 6.34,
+      "strikeRate": 18.53,
+      "bestBowling": "5/10",
+      "oversBowled": 528.1,
+      "ballsBowled": 3349,
+      "runsConceded": 3349,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": 2,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:48:44.537331+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "deepti_sharma",
+    "deepti",
+    "sharma",
+    "deepti sharma",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

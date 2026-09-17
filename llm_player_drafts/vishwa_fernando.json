@@ -1,0 +1,170 @@
+{
+  "playerId": "vishwa_fernando",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "vishwa_fernando",
+    "name": "Vishwa Fernando",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Left-arm medium-fast",
+    "dateOfBirth": "1991-09-18",
+    "birthPlace": "Colombo, Sri Lanka",
+    "heightCm": 178.0,
+    "jerseyNo": null,
+    "debutDate": "2016-08-04",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/5/59/2_19_Vishwa_Fernando.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Muthuthanthrige Vishwa Thilina Fernando, born on September 18, 1991, in Colombo, Sri Lanka, is a professional left-arm medium-fast bowler who represents the national side in all three formats. He made his Test debut for Sri Lanka on August 4, 2016, against Australia in Galle, taking a wicket in his first over. A significant highlight of his career includes a crucial 78-run last-wicket partnership with Kusal Perera in 2019, leading Sri Lanka to a historic one-wicket victory against South Africa. He also emerged as the highest wicket-taker in that series with 12 wickets at an average of 18.91."
+  },
+  "record_highlight": {
+    "category": "Best Test Match Bowling Figures",
+    "result": "8/133",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "South Africa",
+    "venue": "Kingsmead, Durban",
+    "date": "2019-02-13",
+    "aiInsight": "Vishwa Fernando's career-best match bowling figures of 8/133 were instrumental in Sri Lanka's historic one-wicket victory against South Africa in Durban, a match also notable for his record-breaking last-wicket partnership with Kusal Perera.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 2.0,
+        "event": "vs Bangladesh"
+      },
+      {
+        "year": "2024",
+        "value": 4.0,
+        "event": "vs Bangladesh"
+      },
+      {
+        "year": "2023",
+        "value": 2.0,
+        "event": "vs Ireland"
+      },
+      {
+        "year": "2022",
+        "value": 2.0,
+        "event": "vs India"
+      },
+      {
+        "year": "2021",
+        "value": 5.0,
+        "event": "vs South Africa"
+      },
+      {
+        "year": "2020",
+        "value": 3.0,
+        "event": "vs South Africa"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "8/133",
+        "holder": "Vishwa Fernando",
+        "date": "2019-02-13",
+        "venue": "Kingsmead, Durban"
+      },
+      {
+        "label": "National",
+        "value": "16/220",
+        "holder": "Muttiah Muralitharan",
+        "date": "1998-08-27",
+        "venue": "The Oval, London"
+      },
+      {
+        "label": "World",
+        "value": "19/90",
+        "holder": "Jim Laker",
+        "date": "1956-07-27",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 28,
+      "innings": 40,
+      "runs": 161,
+      "average": 7.0,
+      "strikeRate": 26.05,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "38"
+    },
+    "bowlingStats": {
+      "matches": 28,
+      "innings": 49,
+      "wickets": 81,
+      "average": 32.03,
+      "economy": 3.52,
+      "strikeRate": 54.5,
+      "bestBowling": "8/133"
+    },
+    "seasonalData": [
+      {
+        "year": "2020",
+        "matches": 1,
+        "runs": 38,
+        "wickets": 5,
+        "average": 43.4
+      },
+      {
+        "year": "2021",
+        "matches": 1,
+        "runs": 4,
+        "wickets": 14,
+        "average": 35.9
+      },
+      {
+        "year": "2022",
+        "matches": 1,
+        "runs": 27,
+        "wickets": 3,
+        "average": 81.0
+      },
+      {
+        "year": "2023",
+        "matches": 2,
+        "runs": 21,
+        "wickets": 7,
+        "average": 31.9
+      },
+      {
+        "year": "2024",
+        "matches": 7,
+        "runs": 53,
+        "wickets": 29,
+        "average": 22.9
+      },
+      {
+        "year": "2025",
+        "matches": 1,
+        "runs": 2,
+        "wickets": 2,
+        "average": 30.5
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlzlbhA6AVZUaCXs4ppzBhRvIskZErlvF4YuaWKkWP8JqzxuYyeGGlyU8RLUXA_GwrQrchdJGqHpERCFgF0MMXt3GZMnYLe_gb8kvss9BzWv7n4Uj9GGvSrJIy5smeWvJLVFMPf2hVd7iQwlAkZiM9d99LJg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA1XLmstu8u1q6oYSW8EuGfg1TXDZ5JyXpz8sC31-XDsDRqXXWNeUU4IeIQN9m2XI0vKDPf888LTNO8P9YLwHWfzMN_t-CvG4WJsbe1ZI9VyVY-jczQkk0cs5Dlq_ME9iE6i9D55kz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4s6CP99J_87GbuyQVpAIEFlzzjUg2CpQjDeF9beskoNl6VFEJc_PfTZKwDuksoa9k37VPu0UBdbn1ioG16dOjuyF9j51xj0JKWiPxr3TlJkxf7eYJ6kkyPKiXgnDDY9FNl-hzsqGKJgVZiYc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbP8SHA5VSL4vj5_iK2bjjYevUP2uL85YzB1Vn2yTpxpkboOS9h9CO4IGMuFqkm3VMOb3Qqe1if8p9L1fyNuES8DQuesYHyYA9OYJIehRTKI6KmphFF3GxL5j-sXLHj4qXmW4C",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElisSUxiIc7v0-JT6vuv_--hzAZF0tfFKf7eAxFQBVYZhB-e2xA_0QGxAC6Y-ckONdfCYoLxYX-bZjBOa_kus_fgNwpWEhefVIPSmDLZA4xQldIjKFYFC7LuebUhzuAD9RvJ0Luj0BKlAYlOrN1m0QzE5lAi6T8fokEkayA2Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaMXvfi2iewFKZAQJqJyYPhJfmLBkhq_ROMCCKmF85XRiPAt_p7tSDUNCQGMtre7aGDgWL9gddNPggpFsCqwH_ysWiRaCCDmIx4pyhlmBP45-3cdVHYnoLJ1pmufMPykZdjcijxN3e0f1rCFtZ0uuHjdtl9Wvw-xyPsReU4aMRPGY9Ehb2W-lMa_TdKENS0vbnMvpcgtwd9NKNjLHl",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3VSFPjD6IF6LjYB5yqMbscGC6WPih71TTa1-6RdzXm1XpCYXUNQ2xZON2hcoc1uUoCyuVudlZ7622E0DXEBuhf4Ib6TYbN0QmxfxcAGmTLy9ycpFU6Mdvon43DAdfFaEV80kmOmTCpS7ihRgAQDMgkYnYS_csIAC3wYU24dDHexR4uwqTJCm5lHkbwQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB48UOS74cF5H889vMVW0WLvNtwrpQMeWtqXtnyoXo7950aDVQdGeu-ZgzoWVR61H30sQUm8vrTnLmQn43bZ_MKjwr_jZLbtkHCCUSuEs6ShvF3-eUaUBry1eWYXCkI2frF1nB5KTAaqTQ1ZqWn19nekTj6lAWFLCcirUWgkeJ_iKAIr-7WDVTiXXtDmtNMkXud_yScgkKalqULUv5-rMFhEvz4gGNjrReM_hoOlmGxuhcNfs8CHEym9ug34dLwkVUrA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe7DJ_D0W0XfoGnB9Su6c9DVU3lO3cRRNXWZnh7mcVoAMjHOKaa0dl35ZC7J7tVXm_YAgP50B_3k4vb7X-BagkFuwlcdfZ772DMui_ULae8TEq-yvYp-9wNl9Zuz7raCBESVkoRpJy3FZNgmHhmi20LLs52PM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK026IwuK68E2I-HyT4iXB1ZFZ_g9seBN6ygurlWg1mFML6sF3FvhZHnq3PQJ_WMA7KQ96-csrAucJaa6fh8EG5p20cIFVo0H2IdChL9cqfMap7QVf1h4FNDSnVPrqNjsVGtqOoQjB3lm3VTSfOoN1SZji2MuBkczHRmzfV6jkpOCEv06x4ikH5O7v3P8b-7ZrrSUXDzCks5IwciQahJ08ojPIxxuHPQRwTvdEYI7zAjD6zOIt2s9r84TJHixNcjigzp0mxg6ih5UO8wL4JmjN"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-17T09:38:59.670319+00:00"
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,114 @@
+{
+  "playerId": "sarfaraz_khan",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "sarfaraz_khan",
+    "name": "Sarfaraz Khan",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Legbreak",
+    "dateOfBirth": "1997-10-22",
+    "birthPlace": "Mumbai, Maharashtra, India",
+    "heightCm": 165.0,
+    "jerseyNo": "97",
+    "debutDate": "2024-02-15",
+    "profileImage": null,
+    "bio": "Sarfaraz Naushad Khan is an Indian international cricketer who plays for the national team in Test cricket. He is a right-handed middle-order batter known for his aggressive style. He made his Test debut for India on February 15, 2024, against England in Rajkot. Before his international debut, he was a prolific run-scorer in Indian domestic cricket, particularly in the Ranji Trophy."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "150",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "New Zealand",
+    "venue": "Bengaluru",
+    "date": "2024-10-20",
+    "aiInsight": "Sarfaraz Khan's maiden Test century of 150 runs against New Zealand in Bengaluru highlights his ability to perform at the highest level, following his strong domestic performances.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 150.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "150",
+        "holder": "Sarfaraz Khan",
+        "date": "2024-10-20",
+        "venue": "Bengaluru"
+      },
+      {
+        "label": "National",
+        "value": "319",
+        "holder": "Virender Sehwag",
+        "date": "2008-03-28",
+        "venue": "Chennai"
+      },
+      {
+        "label": "World",
+        "value": "400",
+        "holder": "Brian Lara",
+        "date": "2004",
+        "venue": "St. John's, Antigua"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 6,
+      "innings": 11,
+      "runs": 371,
+      "average": 37.1,
+      "strikeRate": null,
+      "hundreds": 1,
+      "fifties": 3,
+      "highScore": "150"
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": [
+      {
+        "year": "2024",
+        "matches": 6,
+        "runs": 371,
+        "wickets": 0,
+        "average": 37.1
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEINDL60Y4EKPxtpxBJiHF7v4ZKBp8jkllW_8PJK3Ua9hP8kJQqD2n1ffJFZDYWK_1GCfKZDSS57ZUEqSAtgc9_JJxiXinOdFP9F1TUTLtRun2pkNC2IwWhSCQQJJjk_pVFjrChD8xrUDPS17dfCjqvvns=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVcdp703h82Uvqj1uMVFdquRk1VJ7slRSfcDGA08NWe_rCL5GTe5--b2oxTRkIj2KOh9bGXHa7AfjSzy4WjpiBijwbR7LpsJIO9TvUMiKBmynfTblOOc8YZCatNuwRF6RdTwrXUDSDBL5rFCO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm_E9Ft3Ju95lpSxRqhzZM9hjGv7l9NNjImLyRyFK0JnF4aiYbBZ9Bdf4Yk0ACkp3j7qIUEVqCGAXrNeCSjmtnMWfbI6BPr7TpyHC7060fxycJQuGiRlZ_WUn-nKQPvIFy0Prs-WlkKVKNEGfhww==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9zxaQV9jQ4NA5Sm8F_wgN5Si9RiLQUxertnGNr-VkOB4yn3AdGGMBikQuqWjN0K4KiCx0iQdnMlcojqZAaisLLbbH1SQcG1jK2G4WzQLqV-rmL2O_skUIbkq1PYcygViVJz70Ejqo9T4vpgf_iVpFcx2WoQcedsdxyn9UC2iNoQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfzCeN83eYgtFE1auuMZ3Yq2EAmS6RSlaaxUm8lb9QX4i8GzxX3gTkkGYFVlgz69cvoj0GY9vv8y1bidcUtYDsZuIjViWU7gygTqoFfFbb0FOexVkZQjrkbWuOikO8jfIH1btwAeMsKVr4NBXPlNZdy8O0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0mtERKKF6801ydjFTaomZKPFa1xoqGVRn-VAOaUOg54ndJWaV1dwrZ77IXrti_tNYwaS70kV-OtLrGJSRBhBeXqh5ii9r8U6r4ssNaDX3W2ieJM6di80TeadmIAM9uszds2-6ES4-NEigtPNx69cz26WzzyZJH7SZKUmEPow=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqub1tG-QfJXFRr0A_UHQEInn0eoKSEg-4ERmLrXpVelUSyZIkNTVbgryQz7WC76VAcyaTb-MgrQozh5gYShtOA7xSGSDp_JK3zpDdod6D8-hfHslH4tPrMBwyIlqG9-Bs-s6CQY-sShMnNYIinWWXO2zlOk0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T11:27:43.544130+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "analytics.bowlingStats"
+      ],
+      "filled": []
+    }
+  ]
+}

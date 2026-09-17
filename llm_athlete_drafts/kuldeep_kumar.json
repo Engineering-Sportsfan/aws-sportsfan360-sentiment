@@ -1,0 +1,325 @@
+{
+  "athlete_id": "kuldeep_kumar",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Kuldeep Kumar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2005-03-12",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/OX1f9cxrreo?si=aOhEFiPrlxEU7EaZ",
+    "bio": "Kuldeep Kumar is an Indian pole vaulter, born on March 12, 2005. Representing Madhya Pradesh, he has rapidly emerged as a leading athlete in his discipline. In 2022, he secured a bronze medal at the Asian Youth Athletics Championships. His breakthrough year was 2026, where he repeatedly broke the men's national pole vault record, achieving a personal best of 5.45m. He has been selected to represent India at the 2026 Commonwealth Games.",
+    "birthplace": "Madhya Pradesh",
+    "coachName": null,
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "Pole Vault",
+    "result": "5.45m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-05-24",
+    "city": "Ranchi",
+    "prevRecord": "5.41m",
+    "prevRecordPlace": "Bhubaneswar",
+    "prevHolder": "Kuldeep Kumar",
+    "improvement": "+0.04m",
+    "improvementDate": "2026-05-24",
+    "aiInsight": "Kuldeep Kumar set a new national record of 5.45m in May 2026 at the National Senior Athletics Federation Competition in Ranchi, surpassing his own previous record of 5.41m. This marked a significant personal achievement, though the national record was subsequently broken by Dev Meena in June 2026 with a jump of 5.46m.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 4.8
+      },
+      {
+        "year": "2026",
+        "value": 5.25
+      },
+      {
+        "year": "2026",
+        "value": 5.41
+      },
+      {
+        "year": "2026",
+        "value": 5.45
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "5.46m",
+        "holder": "Dev Meena",
+        "date": "2026-06-24",
+        "venue": "Bhubaneshwar",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "6.25m",
+        "holder": "Armand Duplantis",
+        "date": "2024-08-05",
+        "venue": "Paris",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "6.31m",
+        "holder": "Armand Duplantis",
+        "date": "2026-03-12",
+        "venue": "Uppsala",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "5.45m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Pole Vault",
+    "achievementLabel": "Former National Record Holder",
+    "stats": {
+      "worldRank": "179",
+      "personalBest": "5.45m",
+      "bestYear": "2026",
+      "totalGold": 2,
+      "totalSilver": 0,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "Pole Vault",
+        "value": 4.8,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Pole Vault",
+        "value": 5.45,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 5.00,
+        "seasonAverage": 5.00,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 5.15,
+        "seasonAverage": 5.15,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 5,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 5.45,
+        "seasonAverage": 5.292,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "4.70m\u20134.90m",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "4.91m\u20135.10m",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "5.11m\u20135.30m",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "5.31m\u20135.50m",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "A rapidly improving athlete, Kuldeep Kumar has consistently pushed his personal best, culminating in a national record of 5.45m in 2026.",
+    "peakZoneLabel": "5.31m\u20135.50m \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": "5.45m"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuW_krJWR77us-Jla3KPFM6mrcEpNkK7PwvfZRCGkTXgI5qaGMtrfDPARiPsyLXofskmavplKWJSIq405BjzVsnjaTKeeNrERR_g6bpjgMerMXDNvwhiVTfTeNl062416ChGWdrjVGq4aETyrgbhMUQYBNuncZSaEXbYVuAU-P",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvmyzkHNxpApoTcNWED3j72BbXMOE4i08Y9wYH0v2TvP8cTSRqbEH-9yTljHKK9LY9cKJkPj61hn6gk-7xFNAmWbIM1u3nvdAug92EeqRdO5WXNnvIhHT_C2TyeQ8C1A6Jap0r_CqeOM_F62K7gofqcYAmN5sLwwd09ls=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiqlmpoENexjA-xqFr8jQaHJ8BBaTfWm9eHxrHCWs2VYt2aNllghJnfHlQ_G6DSwjtA3hoHZatmaT37ef3HyQ_fz0hl-LRKE_W6y3Ppxa80cXZzQuO_10wuRV9B8qdiYnkO0w7p9X_ExV7Q3AHkJxyfwqq6Vc210py9xQ4k4CSb0yHXHdRr7TIGvpJo3BztYAc5fhKK-ksH-GYreSSzYFeB9T5S0rIL9C4Vi0Ftj31KzfDUOV1qKV936keAT_mKOkz1wKz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEogis5PunZy8Yp4RNSSM9QI7jq5qmGXvpWZIiq_FauJOD1bIfbB_VmJfOvG8IB3y-gxCUA_0WVi07kE_QD5aYCbOVJBRctK7yy80Wg1s5jJ3gCMSvO7g7tqAGlY2J2di_3Qon4eQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIzgNOckZBoa4Ry6Q9v5pEKprjU_9zlWKmWUB5yG4TI3A-RZSlTveR8CZCurIc71OJMpuM4CUkPF-YewCSadOQqmWBhtZ_Ec8wmZToYzgzgwJExyThfNfdC6z_HlvFox7mLpEqXoepET3au07nySNpO3WT-bJYRgNb2v4FzKSKtAkQTy332tpXODeSRDEbCPqjmjZtiNVBjAFDEnaz9CE3og==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmyfFJ7wibHKxg871_VCJ8ZcTwmaOKTPBs0FL-OBdvaM9-8oZLHKKrlCg8Jnj1AjpJoQOYDqruFpGtpVUsz12JsZ1JBPomP1_c6yThST9xodL9pwXVDbn4UVxX2U1JWNuEIzrw2PB4Up5LSWOYJU0tz2mPAyKXgTmSxJRBCNwV5Zs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP5VMMRix5U9nJDsYkOUdCec9KnJ8D-4F1M6E58LIcKdXuzDUji-_WE4m8MHZkVCi0fIuyFPNTTMb7J5Ae-lp16d1t6sWjQfRjY0SYIIGZB_xxoqejlBT-Fj0JOC5c4gwQx8rsgMyEoZ9l4m6wGNLCREWZHpJ8YTxjH7G69F41rfhSdnQ-kL4BWSljcg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsyzaAOTtOhjo_WqFbHcnB_BMYlIwEAmQFhpapwp7Ba5hnOAUDv8T0KlY1UVChxB34N7TJ_TZvF6hhpSfnVeTBjcsdMimR437mbdjY329dWWFuHFd88f4aytyy40Wii_kGL5Z2ZydtENHKVdW1uxfP39RdM-W1813oCT3SbOyI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpHsDlu75_VgFxB097LiMME0XYq2g0Ck2V2nZCrLIzNSHJI3iSQS14QRfLhOejtUrKjPcbw-UHLeN82mmyNO160Si6t91VI-b1XHPpj6n4BMn8A5peRjLyVHZMNqEAP5qDD2KTlA4PIUOTi8MA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGoJvR-iiDmDMaJR8_XXVbmrJCb1YFUw9Yp4ifTDqe46SlEkR5tR06qBaKvXG9Vn3MB9bLEE3MYqJWYUtb4heFviXiYQkl8DA54G0NGRmlDZSwDTx3yw7nWpgcM2Z0KbUxNUEaYzjaSoOeHa2W6BeDmn7cigbO1qCdCWS1KKKlJa5wGgmyKaIYBBxOiZdZjxtwtvP8GwMh9D95_LUlIxn0AFIQZzgsZM3OtRPd7NnDIkukB4AZ1YjRUBwoCJ6EKvxpNQjDznZU_hP7Cp1jS5Q8ew==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGExaHniYGWktUnvAZZ10cSK7M-lR8IRPI4UDjVVuB5W5OBKDGW6ccfOTng9a_EvvURwnaCat0z5zKJYcJgWipy1HPN4EzL4yDEdKW65pblnMMrThyEaX_wNUZlkfQP6ca7b8ymDuA7JpMiZkB7FCAkuDmS2_A_tgrBXjIfyl1xkg7fNvJe",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEjb1Gg7TsY1Q3a7ZXML3a_Z2N7kK-U4dnZhW33tE3wDpsC3YFpgRE_uKYXs0HnaEeLflDS9b1Euvg-1rKbUVGL7iSOgy8Ug-WI_4vt41mTtUS_hxKvKFUY4lMkBoTcW04i88H2RKDAwVi0CMu_2k8VUMcJrvvwV5maNgm5-4BEm5hyXjvrcwmuCteIA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqzmH_UoDfmJvC1f-8Ds0q4rruBrhDOULYxo9RrhZl47IPELHSO4PDktnkcD6ekIAdvB3D5GT5cS3gJ8omG6cFdGwyB3RwcNkGehQSYuQKybBiA09ij74uaIpO_Pnt9QQdet4vr6Pb-n5P5uJ-dB2mPDhuUA8WqqxSk-zafYFstdgaZpiKbKyHUqIZz0GmnAOdMUXaONj6U8SctQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoPMqz3GkpOV6bJiKI3b2e4jd3H0z4xcb-nMsT4OCqluRO5X7-11bGXSbIHTRY7h1KbyPNwFS_sloAjGWwhssA7pfoCubS8UVrtN5yoXhxTspabL_yNyo4KV21oVoY4ktX3LO-Mg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiE810x6QLTlGROMfbBs4PWHsjSe5EyrBgOo8oFSlpxYyBIAYdHxxFOstZNKCfldPBvoTUnnbxyska_wsombRmahV7jCufxWkik_njy3Wmjx60sxAk8mgpBzfdVt_oE201L0K6OvNhveb4ecKQqBjkeD-bGOh41Ez8WyP1Ggmr5X62kZVGIEQdOHOlq5Xx-bkkf556ojq-lEYiEM5kDT7exL1GtP9l-Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL2WYRQOya7d_PEmbz1bT4pDWL9xGzJNT1bhPb-E_IwqrWITzyKgFOSLgZrVfsCu5t9ZrTP0TEm0Qoxi6O-62uGxLOEaPmY7rz2-T0loMVFn-Dbjm7xvXfnJnOzL9wOOAZ6NRCKAeshEarO-LxMv_Cp6O6DL0T5s-3H7-igPhCGCARbHQctToo16jkoTAJ6_PxCN4E",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCux35vWPy64xiup2O4BCHUWn0ie_3j6p5e2s1QMi9T3ErnIHyQuxgewCTm6ed1B1NUq93S1mLZpSE7vEzLOZsTyVGPgYOzEAqUKHcW0ZQd75hEJtJAX0TSUYYaIvVwo4scuMkBJwVCOQjCBj4X61UkOgjjbP_Wu4UZ--eSpLjyUcPBqzJn42DZtI66sqIxDO8Q-kA3lqrdZAl4E1DHHnfHnhIjA1WR1w0yeQCpcj02UtXOFeS-mSG5GMFCDNY3wxHfrDduezYuu3a",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMaOTMbA3F8IF6ZJBEbcLVGdUDUuoFl2cy8bZyaCRptIOlIlo7FXzzkLk9S_JQOE2_8BmrduEJUP8eyePlqNxwiKiFWnwXhK_5ZsuLVMEkskJFJU84nqJbl2lDEXvwZ5r05SRzRwOO2mdpj-iW0HboakS-KgcZKrmlXXzX8vZkmf7zN2mZzoYCD81fP5gBZ8vFlFt1q-YcoAlyqCLidTcWPEoUd1WdlxjCfq4__ky7qxM_NGiwq8TRMEzFBEKzgVdcbhLqcJCH4OILyKLgmQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe3Yl0oCV2kUHV2CfB_EbGD_L4kuhiJz443Fn_FTEZGy24uEixqxRZdKblfGKIuAj6Xg1Vg7-A_aKdDtQ8qAiNejKmmK1mUk6yHTufLYo2G9XGGcFkV819LYYamegA43xnKSluxjiT7mwsIzYnXQjNXscf0W5X0ZZTWMGy0aPe",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWD1WkUHbTzuetxmlmdhxUr9x6VVB1KmRo-y3Lr_sQZgA1rVRtnxl21K08mtNf9SAU5LrP1ixktMy5wrwOuUSEkoCeOp49LbeuMr4GOkCYQVsJ7nzoC9JqUrC1t4Y5ID6Qqb9G2IU6bmbYOtbq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9SBAJswQyyqhdfScqwyK-c2vczxwa7aRn-VSOhWtRAtHYhJ6TiH1JLpUxkHrxnVsZRWuGWtpNOZTawNczySrKkjAnngZTkd7jA10z9LDRxmDth0etCxl0JMGE3G3en7WdBh2FOGN-EyyALwocpGOQJ0pawCyWVGxvky4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9e9jzhCOrXs-eyyPmotUqhsR0vHesIcn7fvN15cwvYandPTp00n0MZqSJ2a-1REhbdzOCju8e7y-GEmeKCy39fvSuDDOUkTWvQiBoh9Pp9Ekx3uHqy1Rk4VFSzh_ittLcaUVdsz9ZnpCmuRZqc335iarNlnxTezGJvR4mGIZpeIK7P34zyHSRDKKP5I3hFeQkYbWss69kG2XzvYl1ZLJcJlU7SAKTKQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA350dOB2Panf0YOyGgy6EC13s8tCf5kxcou2Zu158__GlQZphM0vhbFuOcbvj3lawFRnTi4GaHguKgdJ8kGSNIo23aCM1yvvjcfDocdUCcvMUHN50BodIH0r1boH98W-y4FSoE6LD-xWWBl_Pikqw9V-zwgjwW0T71XMYK19xpYJMB4ZYHnh7wYPmxggVKhgF2LLqgA3_vZPwOJG8a4DorzYhDioxxA_w4F_Qgg4Muri8AfIu9oF2HJWRHE_xTUZkRQ3J1zov4BhhRdpT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2G8t19cwh3qy61MJ83mGdCdAo2rGEJBzA87ntRNcZ3Jpsky99X5ShmX-R7qQn4AZsENrnaGKh-1HQyF7scULg8HP3GAAz-0faaOmIolqGy2U972uVcF8FSOmNXMl4FJT5VHVcEvI7d_64PuyaNnNo_QRqkiwD895ACCgmsmcm5A9wmBsQJL57exunaGIV9aBrEv1H0R6UeydkyhTSrL6sVp_pRQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw88Zx84Q9fLCOCADStgYwhT_vE5Utn9QGcblhDO6AZNlb_iluWmYpsyYhIfjqGx1gNJsNNkNKdFwO47fWxi7903VQQ7-ouGOK_Gq6UQqhQmsm41xROiBD8ukXUIWACN5GxXkyqNV64DN9hr5_8cb-_SGHwudneGOI_3cDUNEzE7eAxqSbgnqjtgmcKTAFnEmyVwMnWZuqyXRBI493nHQdYQvZjhtf9lFQYDm2okb9zzjcO6PbZCwkOAtCoPkmIVLo6VPY9km3zp1d8GZD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-Okww-IRk1qjQjoHsW7c7VhmtnqmR8EBdoz2t1dyN5b66BmGBk_Suty4A9Seuf4zAIMjMY8XPnLG9w7RiLfDfNeApL5Z6LEasGFF_4FLjfzrQKWmOhzNylKYp7kq5HR74EPbtg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZzi0lyCipybV6bO7Dpmv4scMs8S17IQGrL9kn3iYOp74dTdmMNyOx4Y6lZFZxTtjr4pGQq2ijvRLyUabAhc3h6yDq-AICAxIVaW7cmz0yw5CCgKG7n865Y-vP08lImJ5e2tF3OzWId-ChfwhPMxDWKpaGuQRZDTUY2M_M2bLV08YrDEcR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI6euOldpErFKeWYWSpEnlHQyDn7q7NDoQHxo07W4kH5iNtmPK3pyvy6EPsYseBdEsLuf9rVoNKGmAtjis27WruqTO1oAcdXoo4Kz30iD-mTcZvWxSfKzrbvmpSJziXXqQgjwkGaVOrJJhAumQk7SBzaLjvnUfXBQDqNIF7BJVqlCVoTeSjupCr6b1lSU1VL_fVzS8"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T10:53:48.091838+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Pole Vault",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Pole Vault",
+        "medal": "BRONZE",
+        "category": "Asian Youth Athletics Championships"
+      },
+      {
+        "event": "Pole Vault",
+        "medal": "GOLD",
+        "category": "Indian Indoor Open Combined Events and Pole Vault Competition"
+      },
+      {
+        "event": "Pole Vault",
+        "medal": "GOLD",
+        "category": "National Senior Athletics Federation Competition"
+      }
+    ],
+    "stats": {
+      "personalBest": "5.45m",
+      "seasonBest": "5.45m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        4.5,
+        5.5
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "analytics.medalData",
+        "analytics.heatmapData"
+      ],
+      "filled": [
+        "analytics.medalData",
+        "analytics.heatmapData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

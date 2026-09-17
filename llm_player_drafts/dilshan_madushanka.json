@@ -1,0 +1,107 @@
+{
+  "playerId": "dilshan_madushanka",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": "colts_cricket_club",
+  "coreInfo": {
+    "playerId": "dilshan_madushanka",
+    "name": "Dilshan Madushanka",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "Bowler",
+    "battingStyle": "Right-handed Bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "dateOfBirth": "2000-09-18",
+    "birthPlace": "Hambantota, Sri Lanka",
+    "heightCm": 175.0,
+    "jerseyNo": "98",
+    "debutDate": "2023-07-24",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/2/29/Dilshan_madushanka_crick.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "bio": "Dilshan Madushanka is a professional Sri Lankan left-arm fast bowler born on September 18, 2000, in Hambantota. He made his Test debut for Sri Lanka against Pakistan on July 24, 2023 at the Sinhalese Sports Club Ground, Colombo."
+  },
+  "record_highlight": {
+    "category": "Bowling",
+    "result": "6/33",
+    "type": "Best Bowling in First-Class Innings",
+    "typeFull": "Career Best First-Class Figures",
+    "opponent": "Sri Lanka Army Sports Club",
+    "venue": "Colombo (Colts)",
+    "date": "2020-03-13",
+    "aiInsight": "Though yet to pick up a wicket in Test cricket, Madushanka's raw left-arm swing ability is highlighted by his career-best 6/33 in first-class red-ball cricket.",
+    "progressData": [
+      {
+        "year": "2020",
+        "value": 6,
+        "event": "First-Class Debut Wickets"
+      },
+      {
+        "year": "2023",
+        "value": 0,
+        "event": "Test Debut vs Pakistan"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "0/77",
+        "holder": "Dilshan Madushanka",
+        "date": "2023-07-24",
+        "venue": "Colombo (SSC)"
+      },
+      {
+        "label": "National",
+        "value": "9/127",
+        "holder": "Muttiah Muralitharan",
+        "date": "1998-08-27",
+        "venue": "The Oval, London"
+      },
+      {
+        "label": "World",
+        "value": "10/74",
+        "holder": "Jim Laker",
+        "date": "1956-07-26",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 1,
+      "innings": 2,
+      "runs": 0,
+      "average": 0.0,
+      "strikeRate": 0.0,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "0*"
+    },
+    "bowlingStats": {
+      "matches": 1,
+      "innings": 1,
+      "wickets": 0,
+      "average": null,
+      "economy": 4.53,
+      "strikeRate": null,
+      "bestBowling": "0/77"
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "matches": 1,
+        "runs": 0,
+        "wickets": 0,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://en.wikipedia.org/wiki/Dilshan_Madushanka",
+    "https://www.espncricinfo.com/cricketers/dilshan-madushanka-1152527"
+  ],
+  "source": {
+    "source_name": "SportsFan360 Verified Database",
+    "source_url": "https://sportsfan360.internal/verified-profiles/dilshan_madushanka",
+    "fetched_at": "2026-08-17T15:13:30.000000+00:00"
+  },
+  "_retry_log": []
+}

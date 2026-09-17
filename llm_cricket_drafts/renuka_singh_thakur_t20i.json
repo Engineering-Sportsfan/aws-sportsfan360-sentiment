@@ -1,0 +1,148 @@
+{
+  "athlete_id": "renuka_singh_thakur",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Renuka Singh Thakur",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1996-01-02",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/35/Renuka_Singh_Thakur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=Zw86CF2cDfI",
+    "bio": "Renuka Singh Thakur is an Indian international cricketer known for her right-arm medium-fast bowling. She was a key player in India's silver medal win at the 2022 Commonwealth Games, where she was the leading wicket-taker. She also played a crucial role in India's 2022 Women's Asia Cup victory and the 2025 Women's Cricket World Cup win.",
+    "birthplace": "Shimla, Himachal Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2021"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures in T20I",
+    "result": "5/15",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2023-02-18",
+    "city": "Gqeberha",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Renuka Singh Thakur's 5/15 against England in the 2023 Women's T20 World Cup is her personal best in T20 Internationals. This performance also marked her as the first Indian, male or female, to achieve a five-wicket haul in the history of the T20 World Cup.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "5/15",
+        "holder": "Renuka Singh Thakur",
+        "date": "2023-02-18",
+        "venue": "Gqeberha",
+        "tournament": "ICC Women's T20 World Cup"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Cricket is not an Olympic sport in the traditional sense, but Renuka Singh was the leading wicket-taker at the 2022 Commonwealth Games (11 wickets) where India won silver."
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "The outright T20 World Record for best bowling figures is 6/7 by D. van Niekerk (South Africa) against West Indies in 2016."
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [],
+      "wickets": [
+        1,
+        22,
+        14,
+        20,
+        10,
+        3
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        null,
+        70,
+        90
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Renuka Singh Thakur was the leading wicket-taker at the 2022 Commonwealth Games with 11 scalps in five games."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9Qflp54GcPnnSSvAhE9by8jOIpGJQokc0o0XGi4VY5XV-ZYRYdyAzGmDF_r7LnBBVlNil95TeL0SBiC8D7H1mZHtG5HRT8CVZ_2b5DpR7cVeMr0wKCdaV37r78tr5X9rTsj535jiMwVtDS9ZJuxfqCGf-Q0_Iix75WkMt1T2Fr3dSyAWUng7_BcuEP3W0EohDXUI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP7GPhJY_ACfQvr3aKtGsMN4wp6Eu44GSNts73uutqJAW2m8AwsQuyUxBC9sOp2ej3pJSL8TojvZD17G6JEFUMJFkJwVyDiM8a12e0VS0dqvvaZoTzj8pB1B-8XWzxOQzWl-Hn-bRZbieA7LAy9-_rhw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGflA4pJVdi2g0jzOFmhtFxQ0huGkj2cVffELng_6na5rOI-TmsuqCsfKfUPvA3UvrDyPCTRNeYFoDBzY3b5zjLa-cop4KdrHRvqIZFO1ziNM1OkLULeJE1wyy7uQB3vA3Ber9Tf93JY_UIKHhdj2gSynV4r2pNdxn",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN1IBTSn2JbbrUlv2p8P33TYxZDKAro-CpUiWlaFB9qMzntNDta3DEBshFZN5d2gx_jm3J44bYfzK3RLq1egCGwuzhpw9rxWwd824eXsk_DH7czWbD_cgajg3A-tFzL-rzwUiaeFwakJj5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0kXwS_EDny9s3EpVpZ0uG66Sg7Xi9KMf9XnR7Apf0YBkuR9dBX8KX2i1B-NIUtfZK5XBcEm8gFgjQwKqCY8kolhUqUDli-bpTa14FXyGiWwPzKgyIiOhRWH7Pvm5H9omBPTr91gvcV0rNQPgdw5djDrc6pchqYaZWX63iy9wDCEi3NWaTzUWgRTP41mHXQlchcBucJNAEY0jIkwMi1J3dtygjK3_Dv_rml07kZsd5ojBKww=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:49:03.029465+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 12,
+      "ballsFaced": null,
+      "battingAverage": 4.0,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 237.0,
+      "ballsBowled": 1422,
+      "runsConceded": 1575,
+      "wickets": 70,
+      "economy": 6.65,
+      "bowlingAverage": 22.5
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "renuka",
+    "renuka singh thakur",
+    "singh",
+    "thakur"
+  ]
+}

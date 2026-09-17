@@ -1,0 +1,127 @@
+{
+  "athlete_id": "bharti_fulmali",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Bharti Fulmali",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1994-10-11",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=v8fmm1ILwpo",
+    "bio": "Bharti Fulmali is an Indian cricketer who plays for the Vidarbha women's cricket team and has represented India Women. She is known for her aggressive strokeplay and has reinvented herself as a specialist finisher in T20 cricket. Fulmali made her T20I debut in 2019 and earned a recall to the national side in 2026 after strong domestic performances and an impactful Women's Premier League season.",
+    "birthplace": "Amravati, Maharashtra, India",
+    "coachName": null,
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Highest Score in T20I",
+    "result": "40",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-00-00",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Bharti Fulmali's personal best T20I score of 40 against South Africa Women in 2026 highlights her capability as a batter in the shortest format of the game. This performance contributed to her recall to the national team after a significant period.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record (Women)"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC Women's T20 World Cup Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "World Record (Women's T20I)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        30,
+        60,
+        0,
+        0
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGQHr_3dJQE50HrCiNIwG7Trx2m6TIZCKNNfFDYkdYJfS9_GVFcTNSM2vRrlBgE5NBYQcTRpSaIRXsL7y_XQ-WL22DB7mKr3onhaz6FsUwRstp-hxuCTcxUIpcnoCYKUN35Hs35yZ2bNFPf7EbeSuG9QkkDoLJqEGV2b76o7NwpgjHrKU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqAyiPwZS1RwhWfhdE014tudDu2nygFrZMhIj0zSwbUbx6oPSC34ea3ldMZ0Nd5p0CDkkzK1QQMgpW3-t3RI54iF1XwYfMKEVp2f319TEnrQakLNuEcMJ5kLRzGYoTRcUIXQEZy7Y6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkxJZhn9BolRFU5pFBYXWtdN9j3FUaiaZ0PEBYdjtl7HiLhaxn4t8pKRoeLCiYTr_wbMFteVJDfffa2PSRqOvX_R4-kthG6m0EHpQWqfzIGYNHFfiE-RNuA_ze5XitD0-8_CUFX5pXkBpp79ntH2fcfHM572o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFe84tWRyWdRQSky4-215PRnZb9MCnuU-Q6MdC5-zootR_tnfRD1nVmmtOq-B0FC_Cdtl0tmQB_wX0ma4jfeDPJcGY5XL0bLhJWbzbCmCud-t8VDY8vpI8pgW4PJDqyfHY1troh9HERk9h6UFMaEKTmfAuOeugO_A79h9u4oYX2GP2t4OzaBgjqMKnXu7-dMZiZJm5dLfbhKUHCKbt0036U0U3-iIIbL4PTWGW9yqT1LEozIpqagS1nqfts5UK",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3xWPzCCAJ8uWsgHL71FZBHVN9L472e8Kl48LNLUOi1UXbnueRf7t2_BedqmkQLhPCZhvbA_RF2PW-mabVevQTyAgz27aIlnpzByn5lSGE1F-OR-dD9gp9qVMFate_kSV2AaR_DZmnFdOibV9tXMxpl-WNisvBXpvtsAzWTIPnsoqzG449W9quFYVnKD37Fhbe"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:20:26.060810+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 73,
+      "ballsFaced": null,
+      "battingAverage": 12.0,
+      "strikeRate": 92.31,
+      "fours": 7,
+      "sixes": 2,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 0.0,
+      "ballsBowled": null,
+      "runsConceded": 0,
+      "wickets": 0,
+      "economy": 0.0,
+      "bowlingAverage": 0.0
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "bharti",
+    "bharti fulmali",
+    "cricket",
+    "fulmali",
+    "india"
+  ]
+}

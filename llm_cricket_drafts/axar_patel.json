@@ -1,0 +1,130 @@
+{
+  "athlete_id": "axar_patel",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Axar Patel",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1994-01-20",
+    "heightCm": 185,
+    "weightKg": 70.0,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Axar_Patel_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": null,
+    "bio": "Axar Patel is an Indian international cricketer who plays as an all-rounder. He is a left-handed batter and slow left-arm orthodox bowler. Patel was part of the Indian teams that won the 2024 and 2026 T20 World Cups and the 2025 Champions Trophy. In July 2025, he became the first Indian spinner to achieve 100 T20I wickets.",
+    "birthplace": "Anand, India",
+    "coachName": null,
+    "yearsActiveSince": "2014"
+  },
+  "record_highlight": {
+    "event": "Most T20I Wickets by an Indian Spinner",
+    "result": "101 wickets",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2025-07-05",
+    "city": "Manchester",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Axar Patel became the first Indian spinner to reach 100 T20I wickets, a significant milestone in his career. This achievement highlights his consistent performance and impact as a left-arm orthodox bowler in the shortest format of the game for India.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "101 wickets",
+        "holder": "Axar Patel",
+        "date": "2025-07-05",
+        "venue": "Old Trafford, Manchester",
+        "tournament": "T20 International"
+      },
+      {
+        "label": "Olympic",
+        "value": "50 wickets",
+        "holder": "Shakib Al Hasan",
+        "date": "2007-2024",
+        "venue": "Various",
+        "tournament": "ICC Men's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "633 wickets",
+        "holder": "Rashid Khan",
+        "date": "2025-02-05",
+        "venue": "Various",
+        "tournament": "Overall T20 Cricket"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        50,
+        70,
+        75,
+        80
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Axar Patel has consistently delivered economical spells and picked up crucial wickets, contributing to India's success in T20Is."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGShl6JORV11h1cm6OEKWrIZNuvSGtr4EJo2HmKk_AUYT4jhL3L2DGQ-2OAVrOk5U3anzacWegPsgJ1VB8VHowALzpIb4Dp-K7N7GYBlo0ZPvLCpDijnF7--YbhmrTRslCiUg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEA7oCDVMlS4O_ZYMiFK8fPu_PfDYoPRQenENgQQBzi8zjC6BfHl3wMxlud1Mo4hn1otxZV8vHgJQoTXpa5FbIIC5PHMHKlD7Uqm0GyeZNEyGAxtC6aMGi7QBLsJrOc3cDgvO585WWffWpwNe4Fr2TiLqd4OXk9VSCuwRdL36rjiNgSVMlLGlFTAJAhMRj0Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmKNia_pB60lQ3ajoe71FUunieeW2NlDDBqC4XdXxBdKWvykLanhVBmp6O7A6rXAQPxTlVw6anUSHEH174oxrtkEXnaG5HOqOkRZcjm6SxaGsUKnL0ut7qd7O5NGfYuhYz9N5MPLhasqmDrttTOq0eP3uG_cMcFcp5sN-H2nSrcse6tnx73-p8wT_go61fBEDDHUiGaXwkW22RhJRjMdoSreWEDT8yVbxPkkQjcqG0S_W14LwhC89PWmHLooa-Y8pC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-mMowrqQJMNSL8gAX2hd6SFOZ3e15jpE5XhC3ubhpmjTjrpHJdcPQO3Wmulj9GOpDyRZYMEcd6zywe4b-NzBMBWD_Cgwh53wC6pP2XFbJRNIGz5wrGLj4FxZMoHYAr4U1mS1cBL2lB_vP5i_5d157J6hXNdP1ffYJ-5h1wNO5bc0Vml0XcCw65UWA30R3wC-PshsVZr9FOatIHuJZqNa2ZgRrBzsM9wVsxV9r",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHU4T56Uoa06PV59yS9u-qeIxWClgkVbl5J_trzs5tVzAIrF33vGKmJ8bVdExpxVkOG-feS5ZAyay0lv2iO2WB1WiN0pIUSJLoBSHPAaZryi17uXxpRWcJLozDxX0Inm-wz1lImbbIqGqALH7tg-LfztMAHbY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr7SUsJEUqeP-asJQSTOA169n1X-0CT8UJWlh1M0d-cMct2UAFCvfdBilreV_SufMbs1hWJNBzD-yDRo7Mx7Gf5rCbVernYIjKI5O90SRvvQykI3xW-MY-wu1mkM6qsK3Q0VvtvG43XoKBujdxw_F1wWDXYuvCAvEC6_ckm2YOunxE0tazOa2KJ8yyryg_difddvIGhnapPnJSKjdfkzwJNqKquaJn6q-bu6OR4TcKvcegS7z9EgFQDFbKPwbiM6iCOLwv_0c5hMmwanQV8A=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:17:51.011214+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20 International",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 750,
+      "ballsFaced": 575,
+      "battingAverage": 16.67,
+      "strikeRate": 130.43,
+      "fours": 52,
+      "sixes": 29,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 302.4,
+      "ballsBowled": null,
+      "runsConceded": 2295,
+      "wickets": 101,
+      "economy": 7.58,
+      "bowlingAverage": 22.72
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "axar",
+    "axar patel",
+    "cricket",
+    "india",
+    "patel"
+  ]
+}

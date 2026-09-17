@@ -1,0 +1,213 @@
+{
+  "athlete_id": "baranica_elangovan",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Baranica Elangovan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": null,
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=W9-hax0_i7A",
+    "bio": "Baranica Elangovan is an Indian pole vaulter who holds the national record in the women's pole vault. She first broke the national record in March 2026 by clearing 4.22m, and then bettered her own record in May 2026 with a jump of 4.23m. Her achievements mark a significant comeback after undergoing ACL reconstructive surgery six years prior.",
+    "birthplace": null,
+    "coachName": "Milber Russell",
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Pole Vault",
+    "result": "4.23m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-05-03",
+    "city": "Bhubaneswar",
+    "prevRecord": "4.22m",
+    "prevRecordPlace": "Bhubaneswar",
+    "prevHolder": "Baranica Elangovan",
+    "improvement": "+0.01m",
+    "improvementDate": "2026-05-03",
+    "aiInsight": "Baranica Elangovan's national record of 4.23m in pole vault is a testament to her resilience and dedication, especially after recovering from a major ACL surgery. This achievement, set in May 2026, improved upon her own record from March 2026, showcasing consistent progress. The Kalinga Stadium in Bhubaneswar has proven to be a fortunate venue for her record-breaking performances.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 4.21
+      },
+      {
+        "year": "2026",
+        "value": 4.23
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "4.23m",
+        "holder": "Baranica Elangovan",
+        "date": "2026-05-03",
+        "venue": "Kalinga Stadium",
+        "tournament": "Indian Indoor Open Combined Events and Pole Vault"
+      },
+      {
+        "label": "Olympic",
+        "value": "5.05m",
+        "holder": "Yelena Isinbayeva",
+        "date": "2008-08-18",
+        "venue": "National Stadium, Beijing",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "5.06m",
+        "holder": "Yelena Isinbayeva",
+        "date": "2009-08-28",
+        "venue": "Letzigrund, Zurich",
+        "tournament": "Weltklasse Z\u00fcrich"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "4.23m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Pole Vault",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "4.23m",
+      "bestYear": "2026",
+      "totalGold": null,
+      "totalSilver": null,
+      "totalBronze": null,
+      "olympicGold": null
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "event": "Pole Vault",
+        "value": 4.23,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "4.2\u20136.2m",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "6.2\u20138.2m",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "8.2\u201310.2m",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Baranica Elangovan has shown remarkable consistency in 2026, breaking her own national record twice within a few months.",
+    "peakZoneLabel": "4.2\u20136.2m \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "4.23m",
+            "holder": "Baranica Elangovan",
+            "date": "2026-05-03",
+            "venue": "Kalinga Stadium",
+            "tournament": "Indian Indoor Open Combined Events and Pole Vault"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfhjz8rw9KvHxb4YOZtnaWnE1G1RPsWPWDnreQGmgN58LJBdmLMp5EaURwtKnFUngLZIrX6DvTdhlcLH0ryneNc9N2i4LmkxIiQ7kGQdF-6yntVnzc1mv_VecFlU93qxiGrhxn-oeRq_jgkBgY_QM4J4153hX5toB5z2UbiqYoymB6Rkf6xmtId8VgjNOG4nR8vXWh6A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3KOOv4x7iQfKBIykBRrkOhXLayMXxytOROWJN87UHGjJ3ILC4sKBF_futEDepsnaMPNHz7YzczDj8nfNnG8AekOj1FgGizulNF_9V_AFL3H26C2HEF_Zpw5B8ogW89f0v2dNutXtK6w6lllxAVunWUn2DrSx2mFOqnS5ZpfcgSX_raKB6VFHyWnBSupnSHP5wHIZI65ccc5Z8mg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfpbfxY--ZWY7SfZA2iuTVvIEjqYrIPSvQJ5tmhSqprLm-q7y6dWagLaTKs_3tl-L16yzP1xDr7yDS-foMKWMYJHgNfcIBVIlgDci8d8-JGo9_28DIFAU-JWoVLeuMYvwmewkirK3ubxZCqM_hYnhzHKuA-nU9F9qkJkL8HLSrgoq-1xao4W6GV2YdV1pj434z6XK5T3F4ZZ31sNyXBcWJEs1PmBsBx8z8VcrG2Ni6Ucxm0VqVnuvBotg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_kZsKaskDEmboG-vPCLE8_sI3mXYKIK0uptb_0GMiFB-OFdEvTOMptB-6lPQv-XY8t4ugu0oLNhLG8y_-SmOL8Har2bwuDGs63VM7o15Jq7Y4cD2SC6b-pXSVu4XaOX0w59crLDs5JZqLCa8KIDWAiEArGliV2RaGx_uU59CNw1i0FU0RHEz0hU_zwHoux44EUhRzqDQ7Nfqmmv4giruP_JK7cBUrzNUdYPABiS3r-Fcz5lHR7PYkEeUPyxVjr-lPsnUzj3bB5y7FXTGLJOXiDDlSn9nw0wh8-akzRR7E",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZbLVn7rgRU_-DyRKhrBYbCT69ZXsxJTIoqdNIlrx1QK6NIhJTFrXIVghjRU-KIm9m_kCtCS3Ol0n9NXQL-4wxhvj_YETUh5z793Jn-9nFM5wajtxY9fVSbrbFiApuA_om5lc7voyxn0gebbHtfkODL05IL3ZXUhGyKqfQS90JyxIlnJfdgHNKuAztAqyON8fgxPTNFhoZ8ejYzr-IqgR4DwOdPYMcXePMYMXf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnvjb1SMkaIDQuG2cYUKZXOc-9UQFg37wce2QeQCka1cYxvsFNlgH6Uj6KpqIDECFvXTkxMHyhCtWVcK7Z0CJ4lFoKyJ8u7kJabNlAFQO8kLKjFtmyBdvYFrMXBBskZysXuRorrXTaYRwFsXt_KsClmNvVFY08lYzsr78YX9Erxc7AlT17JstHsBwbk690nTdn2q6z3f0uyS2wEqXqhngM3nIGq6GCStAOxdjsRP_WBZ3Ri_uF-o_NI4f5dV8xrVaK6A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6K1pq7Lq9Fdgvn5P606YXNEICAaVhwE8V7yzbsVNUL-XyryV0AkiqDD_88TWUEPR9atcH48r-1zhwCgNTA9PE5ycL_Nj8IvrGDRY92RKws4-ctzU8zIvKIhCGRg5UJRtWgNIgk1ObeyehehxPBGpNJQbutMAYJWbu7eQ92tBv7EAOV3oRp9LvaLcdRpPF-uFoAgI5Pri1nXh-REpXfAjMMQLt-F4Zq6ez3pEU5IttyIzkmv2MQy4BIuSj--ck1LSu108tZoQ="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:02:04.679120+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Pole Vault",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "4.23m",
+      "seasonBest": "4.23m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        3.8,
+        4.5
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

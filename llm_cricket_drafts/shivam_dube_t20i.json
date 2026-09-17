@@ -1,0 +1,150 @@
+{
+  "athlete_id": "shivam_dube",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Shivam Dube",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1993-06-26",
+    "heightCm": 193,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/6/63/Shivam_Dube_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=sH3Y-jh5lGY",
+    "bio": "Shivam Dube is an Indian international cricketer who plays as an all-rounder. He was a member of the Indian team that won the 2024 and 2026 Men's T20 World Cup. He is known for his powerful hitting and ability to take crucial wickets in the T20 format. Dube holds the record for the longest unbeaten streak in T20 Internationals by a male cricketer, spanning 37 matches from 2019 to 2025.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": "2015"
+  },
+  "record_highlight": {
+    "event": "Longest unbeaten streak in T20Is",
+    "result": "37 matches",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2019-12-11",
+    "city": "Mumbai",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Shivam Dube holds a unique world record for the longest unbeaten streak in T20 Internationals, playing 37 matches without a loss for India between December 2019 and October 2025. This remarkable achievement highlights his consistent contribution to the team's success during this period. The streak ended in October 2025 against Australia.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "37 matches",
+        "holder": "Shivam Dube",
+        "date": "2019-12-11",
+        "venue": "Mumbai",
+        "tournament": "T20I"
+      },
+      {
+        "label": "Olympic",
+        "value": "37 matches",
+        "holder": "Shivam Dube",
+        "date": "2019-12-11",
+        "venue": "Mumbai",
+        "tournament": "ICC T20 World Cup / Major Global Event"
+      },
+      {
+        "label": "World",
+        "value": "37 matches",
+        "holder": "Shivam Dube",
+        "date": "2019-12-11",
+        "venue": "Mumbai",
+        "tournament": "T20I"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2019",
+        "2020",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        54,
+        13,
+        25,
+        296,
+        191,
+        488
+      ],
+      "wickets": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        60,
+        85,
+        40,
+        65
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCZMFfhPlU-bnJYZ9RJwn4N6bBip6vhHXjrS3uNRBHdyfbMuF19z3x40r4-6m_rg9PXgNDw6ZQa8SsKqcPwAue9bbhVCoukcxBCsKZSad00tuasi-nB15zo8W-mwvldoPdd8Kg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg87jquuC9MBIhq5ek7E8uQuhkW-wnPxgaz32Srqiv9OU6y-rUQYRim6pP1s5J3IqvsElHa-F_fbZKl34jc5m3US_kbGJA6lfsJoP35fO4OTxTIV1tdlPVWjp73QCeHv9wR54s-2FhhoJevPyqd_KiL4Vc5V2JiiIJwWQHkoUnbtyvv8q2X2BJOX99iHPgtbhjKCEKlqHkRM5wu1zm2PqEn_SjH6Ef0XNdVyrlxdUzhiIrLKdeT_haCvYu7-5tU9e-Vw9nkrvJY9KRyFb9n2CnyoKkHVWdCMNepvS2LeHQXly83kl4ixKj7w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErBLIR3j3Z_1XCJXDUP21qGGtJ3Luk2L3gR675rd1qhvHhSrDJTs2SvUn01U8eTMcEhjU-9exTFyGSgf6NhEM7N9GgVkdPisMYpxA255xALUSSqITHk6gRHkyDensyWJMlg5HASqLJDEyCDMVlWjGR885H29lIkh4jGroSZ4YIrmrnHPEqbXIPoMuMIOe13mQoqNXsAUjUAAEvGLt0JH2ftxEzaJDPNw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T08:37:23.044496+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1127,
+      "ballsFaced": 741,
+      "battingAverage": 29.07,
+      "strikeRate": 153.26,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 100.2,
+      "ballsBowled": 560,
+      "runsConceded": 976,
+      "wickets": 38,
+      "economy": 9.72,
+      "bowlingAverage": 26.37
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "dube",
+    "india",
+    "shivam",
+    "shivam dube"
+  ]
+}

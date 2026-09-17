@@ -1,0 +1,331 @@
+{
+  "athlete_id": "arjun_babuta",
+  "sportId": "shooting",
+  "coreInfo": {
+    "name": "Arjun Babuta",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1999-01-24",
+    "heightCm": 168,
+    "weightKg": 63.0,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=Km4YP8hDMLo",
+    "bio": "Arjun Babuta is an Indian sport shooter specializing in the 10m air rifle event. Born in Jalalabad, Punjab, he later moved to Chandigarh where he began his shooting career. He has represented India in numerous international competitions, including the Olympic Games, where he notably finished fourth in the men's 10m air rifle event at the Paris 2024 Olympics.",
+    "birthplace": "Jalalabad, Punjab, India",
+    "coachName": "Deepali Deshpande",
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "10m Air Rifle Men Final",
+    "result": "254.0",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": "Final",
+    "date": "2024-04-25",
+    "city": "Bhopal",
+    "prevRecord": "253.7",
+    "prevRecordPlace": "Cairo",
+    "prevHolder": "Divyansh Singh Panwar",
+    "improvement": "+0.3",
+    "improvementDate": "2024-04-25",
+    "aiInsight": "Arjun Babuta set a new world record in the 10m Air Rifle Men's Final during the Olympic Selection Trials, surpassing the previous mark by 0.3 points. This performance highlighted his exceptional skill and readiness for top-tier competition.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 632.8
+      },
+      {
+        "year": "2025",
+        "value": 631.9
+      },
+      {
+        "year": "2024",
+        "value": 630.1
+      },
+      {
+        "year": "2023",
+        "value": 633.4
+      },
+      {
+        "year": "2022",
+        "value": 631.9
+      },
+      {
+        "year": "2018",
+        "value": 623.9
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "254.0",
+        "holder": "Arjun Babuta",
+        "date": "2024-04-25",
+        "venue": "MP State Shooting Academy ranges",
+        "tournament": "Olympic Selection Trials"
+      },
+      {
+        "label": "Olympic",
+        "value": "252.2",
+        "holder": "Sheng Lihao",
+        "date": "2024-07-29",
+        "venue": "Chateauroux",
+        "tournament": "Paris 2024 Olympics"
+      },
+      {
+        "label": "World",
+        "value": "255.0",
+        "holder": "Danilo Sollazzo",
+        "date": "2025-09-11",
+        "venue": "Ningbo",
+        "tournament": "ISSF World Cup"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2016",
+        "2017",
+        "2018",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "scores": [
+        620.3,
+        624.4,
+        623.9,
+        630.7,
+        631.9,
+        633.4,
+        630.1,
+        631.9,
+        632.8
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Precision",
+        "Consistency",
+        "Finals Nerve",
+        "Big-Meet Performance"
+      ],
+      "values": [
+        80,
+        75,
+        70,
+        75
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Arjun Babuta consistently scores above 620 points in qualification rounds, with a career-best of 632.4."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2016",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "ISSF Junior World Cup Gabala",
+        "seasonBest": "620.3",
+        "seasonAverage": "620.3",
+        "currentStreak": null
+      },
+      {
+        "year": "2017",
+        "events": 2,
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0,
+        "tournament": "Asian Airgun Championship / Meeting of Shooting Hopes",
+        "seasonBest": "624.4",
+        "seasonAverage": "624.4",
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "ISSF Junior World Cup Sydney",
+        "seasonBest": "623.9",
+        "seasonAverage": "623.9",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 2,
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "ISSF World Cup Changwon / World Championships Cairo",
+        "seasonBest": "630.5",
+        "seasonAverage": "630.5",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Asian Shooting Championships Changwon",
+        "seasonBest": "635.1",
+        "seasonAverage": "635.1",
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "ISSF World Cup Cairo",
+        "seasonBest": "630.1",
+        "seasonAverage": "630.1",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "ISSF World Cup Lima",
+        "seasonBest": "631.9",
+        "seasonAverage": "631.9",
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Asian Rifle/Pistol Championship New Delhi",
+        "seasonBest": "632.8",
+        "seasonAverage": "632.8",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzI8stt5UuvwMMmenduaMYxOZGW9gCWFBe9KO7zRlz9EpcFuTPbZdfK1UR1ypprUF-xHEXqRhh-s_6uBCZCMFQXBZEtKFjgDC0FpL54RokAoKdAOxrPgnR0h-LYbcsAYMFsW-d8w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlq7pZg6tovNfplIj271GtZRa0c6Pb2fDaZJrRCDzFRCjOHfYeKOs7HVDx5fLzJVrJWSoaR3e6YGRkW1CsXRlqAnszDB1iRwWM_zaa9uJLSBIFo9HdoHumM4xCzUde5TeTLaaj1At0jms=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkd0-4XHOZjntwqel8kwgdMTNeTPCzbdBuLmS3nc0a_-Ejuw3i_A2X6151S4JlcJBUBuikYEz8EO0BA4u4ujh4W_PjjmEBQ31U3vih9n4ydcgFR6Szr6O6mTHpm5B3HgptESAM3kGpw2qrEZLhmw-6yA5r8OQ9ATEBS95_NDvjCnGalSzJwom3hD1WXaFZvHpLf6OvINwgL2ShNWuO8p39PDQMYDP26Y46o7n3dELS3UUVpfakwRyMkMV97XG_1xLOuohJIihoXgUZX9T1U2VcpPUhvPV4zSQ7vsst5fGWZhg-4JL3MEhFMH84hGj6ceTZ9WEmkhT2JxhtBmERLhoT1W1_zlarr0ycvQEExx24pi4e_QV5sfwIjw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED0r6Vs_JvfU3ckB--KHeiUMW4dVWnFCH_JXyYv5--l7aZd16ePShcl6-WFJIuoABMl3UaAjOFRwtapP5cLHz9YgA6ygGAQpssApqQFh0uAWO5jWPsI4ruojHGkcOjVfLcoOgsItacw3tWRtE2OY3Wc5gi3Va4UMfkbd2ol_lLsoqQh8pTI0IMN9IiREJnEOhMyE2nWPsPwmBSkTy7WfR1ojBPW62gZtRm4OHKogqgDzW6_yTzUcCsaBCpEG0elVpyhhcwJhm4BzG3vE5M9xlRHBK7_ySnau_VFOtSvLNTpA_Gq6wHEpCYLdSVb0AQZunQNNWkv5jVuEBAERsANDhQZplhqkVea9lXDA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5-H-TShI_6Qiug2QtsGSjAVvyu6K6WqK0on1jACQRzqrPbpykzk6tsLd_WxD7DqpAMsDgKQBxJ4o5knxnlEtrT6ErADIqIa77jN63RmhX66uH3iVy6wSHFlFn0ZnSTZGsRg5c-dlzo5W3AbdrP5nmwgl-06pkyCkRrKK29my2Q3scrOrUpLsQ6ho8bLjYl8cz6j_vYMXjLx8pnBwpfjoypZG3_5I3kGJ9FQ4lSFNeIpo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2kUc9pT_taFYqoFIxSyR8gvLy4OuWop9cQUypkl6O3N_zY6YU1_kb7iP5x5Ln5xleqWQ8OBxEXcvEggYaubyIFxwztx33tVnrmL44cezyl3h2NiEc9IZlO5UG9RqucqyHGHmL5DZd9n-ceUqWONGZzfUlXbMdUQ8VmLVlFVlcGq7firJmeSG-0dX5fvx7WiLX-8KJg8jECDnM8nHxOAbci5nwa5OR0_DdrcJkYIQWbg9iBalhhXfJSnr-dAnMnlUgMVTqD0t8EuTRLBgPsMTRA30FHWQ8XR5vfZQqARWul-mVHjeAyvbKfSEJBcqr7w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWMoT1ocJHBkn_IobFgUuGZ-zcGGt7TQSWFqUwwuoq0jVqT2WossPggcqukcNXhwb5zYhklQnljXxnVTrYKwa5zy7Gy6MmOk0dF_89TjkuDrOQ-ZTtXhiDwuwByMxEm-HXcCg3FRBrovEJJ8FbFFyxSSKBYUfI61DVUOadWw3LXP20HNG0GjvbCuQgWCUh1gBQO_MP",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcsmpqPTolmDZPVBYtY4gol0RSuyniWv6hSDih13Q-hPKkzU4i5WHWfnj9Upy76TpWV-jjIWAgSxW86K-Waa7JMPOC7AVwSsGNKMOfSSfVxLMWDwB8dmsAgdd1tjPhQmq4WTELSL31VRpbYWdxyelH9sTeRiKwCI9oEnKlCI0jgNo4z-id8Pi3soLiTGZUz5k5SYBuO6XvXMC0rsxzbT_-NaqYIykLyq5cpADLrvticX0K3FPQAgS2iKgO277R32lh-yeo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG324eeX5FZsvQKdORUYtf88tN8T9oQBapbZVAxY3xA_VR6L7X6_37MmItQSyesCbbw69l2UhW2vJ3Q99hpF8oXFq5uNqLB0AmeX2iHUhT8NYiwWWNZ9JolpvRlBA82gW1RlG6OJ4SI1QjMYbSFTEI1q70hEzqjQXFqHNF82kYPhqI-mgfw_05LLWt_NWrt5JUa0mW_srmJLkc2AtwdXPU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBEado1rVW8mVd-az51yc2zrHzBvt-zYzuAjPLJK6QAEpPQTjWkM5zkRShe7MPWQda_m4WjJ8QkgeyuXBxzhjs1280JtRNho3koLUHn35f8v9Q4C7TlGJEwwsYopJoDX6uMX9Ynw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFET4kFZ4-SDFp2FrdVDMY3x3BZOhzTcl-ZNg31cZ-cbQaYEPbuVAbysZlN2Do4IQJXxZgPJnJBfYVODAmAHJn2mOK05MxeZqQYrT3UEhijkPnieysKLtCCzY5DdBRZzchjR760PY6SZ9nFvuH7ANyz8K_l5BZIF4w-c09uurnu5ejAV1_kR9304fHneYgT-ga4lBQAYSRieejUiA_IfNCjgo3jqzWfrKXc301mkjUM6US4KVw6bFZ7OIhC0PUIz3Oi6SbZsIi2afZAVbFZ_GXdFj8qYNfMSDZXMCXfg1y5zr-5LUvRDDjpJoPBWppq8w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXscyivi2krl1mxPFckiOaRB7SJg8e56_2m6T-3YsxyRSVLX_MBzxE9OyYJcgofFZ-_SC9rjLiodEK0Zlw58XMQRrRdI1UR276U4OIpjX6NF9CWibmPQ70v2rgBZ605DKrGbT-X301cao=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHfMgpSYz58Ois2aIPck_vlSqLDn4d8L0ZGmAO97jtNJY3r1cO_LWVVIs6Gps8mh5R11WeCbsQgv5AI3SK7VBrbPCZu51BvU3i_VS6eQhb_xVGwEonUSoJ_JjM-XV2_CGt8Q73pTtTYZj5dGNzLzBBE3mxp1KzYATcuN-WKvshMtMnbVC-mG5b4H7bfg98lkvfgV5ExlEbCEGGpSUT012CbGyBw3bHgSCBsNKXbTyl-otUuy0LgRv1dxXKnjyK-AQ2WBhL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuUOnUMYmb8XFo6IZvOu3N1PGeV8AFF83gcPPcVLlqe-8De269y8mLnwpq-j_fZQGFMMphuyri47Ml5wElf4qvVVmil9JfLg7DThxBtGWXHXrR3s1k2xtTk6xGygdO3yYtZ2Yk7nmjRsXg5SxYuogwVjFkV9q17fmMlX7Rj-CvlDrPYsLxCQYVNGwLM07tnrjNHz9nU7LnawRPIR_Phpc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa0mhq_MDf7PB4qm-jp5HHLIVz_2IOj8zDVKvtvg77-Vibc2HgpTYwAXzr0QsADYtX1VGOMjdrr1TQTolKhn0qq4YIfEkKdKglTQNe2JgjQWBJZ8eUlOvs3EOpe3xh9PQh3v7F",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8m8rhz7pLzEiAXJ99rqmTjziVoKfd2XrlTCUCdLKNiyriabaXxUcjPNloFPyke31AfXSSk1BZT9Hmk83H8n9dOTnPkV0wLiyBX2hGjUcWmFu-B5jVFQ_qDn-R27JcdTGJ4R5_mxpC-w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoaX1P0ck3flw5BdfHoT5GidXlMImuwg1zcOAV_a3lbxmFYuemygU6hmYXV5uokaPyatRE9Go-8XDcgzdsXOViH2VuPlMTkkpXgRytwwhs-uYcb_NbbSf2bHocrrvxSdmhbpQVKz_IzifZqiODw66UFcgcdpfJPQR1OmBNfkLVFPYrNyHcWGMPC1FMIw1ZZ8uXPMn39CMDY3YS56t8zDrPevNE2HPj8hzqbc_PtRNGMuJL85rVOdNx6NXqfTig0SylyLJnA7UPOjJEBJtDXDeDiD2QJQjDwXIRM9JFGA2Ys91gCsPVoE8sbBp-CejtT4n5s2N3mzT-5ANn2R4UZ-H6BJlDk7aYTD55CzQoheqcOcI4uSkn10FU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcACDvYQ8noMG-M8IVumhL2X0a65HKuIU6l7gdNZwvSRTWuc4nTzis6zA3UKgrfanECw5sx8Cld1EJnzDGoTLSz8Sn5529xTCWMDGr3W4A4Yt6O2lfFrNk3XACRxVT95gycc8D_9KbZ3o0zVP1w4OyQ5mh0qpAX5XvY0ky2gRtRl2FAcuGIUOu5dwN7TdfmelK1EhvQ4jwD97uvN9jSeO2MRCpKA4yGvkcnWuaVu4CDg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNCeVHfkfBM3O0Agd6pPUpmaz7EmfgD_eEePH0e-whjg9Cx3y3mnECm228r50NXdP5cn7qoEELWhCX5RAPo9_gKVOJoCAQEA3pFL051-I0H3b8ewKEvWD66Ba6Dg84iLqvO8dXvLAqFheg1__poNDwqBR361qPjiVDSrwGKhokqD7ReZUGkZSNwvR8wAggFiWjyjGx9Y-h9hVTR0L91nUrfTVG4_c9q_65UlJmejQotjVEsGenkanYswQWgyVLTUYd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL26sZvN9TiI8EQpEkeAmcSVP01S5t9h2qfw_lFKhaGLR_Mvs8_zFp8v87sHITg0_v84zcMi7gXtyqj_rBNnfi8X8yM0lEp9qIA2P0audIE2pjN7oysm4cwua89deftF4UzUVL8Q=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-12T07:21:11.230945+00:00"
+  },
+  "performance": {
+    "discipline": "10m Air Rifle",
+    "category": "Rifle",
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "10m Air Rifle Individual",
+        "medal": "GOLD",
+        "category": "ISSF World Cup Changwon 2022"
+      },
+      {
+        "event": "10m Air Rifle Team",
+        "medal": "GOLD",
+        "category": "ISSF World Cup Changwon 2022"
+      },
+      {
+        "event": "10m Air Rifle Team",
+        "medal": "GOLD",
+        "category": "ISSF World Championships Cairo 2022"
+      },
+      {
+        "event": "10m Air Rifle Team",
+        "medal": "GOLD",
+        "category": "Asian Shooting Championships Changwon 2023"
+      },
+      {
+        "event": "10m Air Rifle Mixed Team",
+        "medal": "GOLD",
+        "category": "Asian Rifle/Pistol Championship New Delhi 2026"
+      },
+      {
+        "event": "10m Air Rifle Individual",
+        "medal": "SILVER",
+        "category": "Asian Shooting Championships Changwon 2023"
+      },
+      {
+        "event": "10m Air Rifle Individual",
+        "medal": "SILVER",
+        "category": "ISSF World Cup Lima 2025"
+      },
+      {
+        "event": "10m Air Rifle Mixed Team",
+        "medal": "SILVER",
+        "category": "ISSF World Cup Cairo 2024"
+      }
+    ],
+    "stats": {
+      "personalBest": "254.0",
+      "seasonBest": "631.9"
+    },
+    "recordStats": {
+      "olympicMedals": 0,
+      "worldChampionshipMedals": 1,
+      "worldRecords": 2,
+      "finalsAppearances": 8
+    },
+    "chartConfig": {
+      "primaryUnit": "score",
+      "secondaryUnit": "hits"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "performance.stats.seasonBest",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "performance.stats.seasonBest",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "athlete_id": "sawan_barwal",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Sawan Barwal",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1998-02-18",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14734651.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=dg71Lz6Qw60",
+    "bio": "Sawan Barwal is an Indian long-distance runner who made history by breaking India's oldest marathon record at the Rotterdam Marathon 2026, clocking an impressive time of 2:11:58. This achievement surpassed Shivnath Singh's 1978 national record, which had stood for 47 years. Barwal, an Army havildar, achieved this feat on his marathon debut, showcasing exceptional determination despite challenging conditions. He has also won national titles in 5000m and 10000m events.",
+    "birthplace": "Joginder Nagar, Himachal Pradesh",
+    "coachName": "Gopal Thakur",
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "Marathon",
+    "result": "2:11:58",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-04-12",
+    "city": "Rotterdam",
+    "prevRecord": "2:12:00",
+    "prevRecordPlace": "Jalandhar",
+    "prevHolder": "Shivnath Singh",
+    "improvement": "-0:00:02",
+    "improvementDate": "1978-05-28",
+    "aiInsight": "Sawan Barwal's marathon debut at Rotterdam in 2026 was historic, as he shattered a 48-year-old national record. His time of 2:11:58 not only established a new benchmark for Indian marathon running but also demonstrated his potential on the international stage. This performance is a significant breakthrough for Indian athletics in long-distance running.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 13.51
+      },
+      {
+        "year": "2025",
+        "value": 7.56
+      },
+      {
+        "year": "2026",
+        "value": 2.11
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "2:11:58",
+        "holder": "Sawan Barwal",
+        "date": "2026-04-12",
+        "venue": "Rotterdam",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "2:06:32",
+        "holder": "Samuel Wanjiru",
+        "date": "2008-08-24",
+        "venue": "Beijing",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "2:01:09",
+        "holder": "Eliud Kipchoge",
+        "date": "2022-09-25",
+        "venue": "Berlin",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "2:11:58",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "Marathon",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "2:11:58",
+      "bestYear": "2026",
+      "totalGold": 3,
+      "totalSilver": 1,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2024",
+        "event": "5000m",
+        "value": 13.51,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "3000m",
+        "value": 7.56,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Marathon",
+        "value": 2.11,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 13.51,
+        "seasonAverage": 13.51,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 7.56,
+        "seasonAverage": 7.56,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Endurance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Pace Judgment",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Race Tactics",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "2:11:00 - 2:12:00",
+        "count": 1,
+        "throws": 1,
+        "percentage": 100.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Sawan Barwal achieved a national record of 2:11:58 in his marathon debut, demonstrating immediate high-level performance.",
+    "peakZoneLabel": "2:11:00 - 2:12:00 \u00b7 100% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "2:11:58",
+          "holder": "Sawan Barwal",
+          "date": "2026-04-12",
+          "venue": "Rotterdam",
+          "tournament/meet name": "Rotterdam Marathon"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuVSoAbfKwBYZOrTerfa2VSUpthYOfDwp7HOYZHM0AfEy9qkM8C66vXYdDMp1RoUYQCGfPUSfTn-QJe3jEDklIBsMsk_DzCRaMCNOpw1fcZUdBYYN-vZCCJmL0NBcvtM-7pHffgcQ2kRzVLiM2AtXZ3WXMrEZN57c0GXFPkfYvU6Jp77uJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNjI10-jmHfAAsF95DDgKeooRRj9v4Le6aGBgz0cnF8YmWhWUFdt52nRfmNXl-WsdudVvxAC2TPpJnw3xfRSWOVG8bdlfl5s7AnZADHOiRsuFsQLNBeoM6MlEwwBpEuaSMNOuXYxxjQ_f-RoueWglEDkUMuBTlmczGox-yD_NK_f1eyEZMisxXQRirCKBeLIT66zFp6BvkywLyPhMxwDg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUtGFaptHXhRU3gl3ar28CXTSpqPE4-XNsUNrMmX9YjcmeTD-RCXpy2Rvg2xjAdApZo5Q9TbbMpjQTVwXdun7Ib2d66XT8uBZ0DPZ7CQmedymqY6n4ojPvcYf6ZkMlqFjeDaahC2cKx6K68yL2EEpPr8rY8MPVn2ikODY9AvJj23j3hpQMVFeGcShEdZeP13TFrd3UXqViwIWSDCPAMy-wahCvsi3gBeVGibjDuOLNmbiX5zhcgy368xqc2ModWMMZ5mFOMXzH2BLaZbGLBexV80XO4rQ-BL78thd_TvA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElsJEPq9EnM6pkBh2_5O7CXkg1OHVTZrh1kZQil8VP7tN6jK1JNdEJ1Mfkia-uwTEGeabVCPToffPpQ47PAJBL0W76sa2i1aCuzsbA8DwunrOq5Uqssoou1WtHVVwckO8fU5XefVXnEJ4P-F97z3cP-u3791K4fjPu7leAzpL3gnfWgaT8qb8LtFN6UIz02qQzsqkV_Y_wMt4YGg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T13:14:11.923891+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Marathon",
+    "category": "Long Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "2:11:58",
+      "seasonBest": "2:11:58"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        7800.0,
+        8000.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

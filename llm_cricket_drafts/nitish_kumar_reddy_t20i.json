@@ -1,0 +1,126 @@
+{
+  "athlete_id": "nitish_kumar_reddy",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Nitish Kumar Reddy",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2003-05-26",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nitish_Kumar_Reddy_BGT_2024_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=aVJNHjJVC-o",
+    "bio": "Nitish Kumar Reddy is an Indian international cricketer who plays as an all-rounder. He represents India in all three formats and plays for Andhra in domestic cricket and Sunrisers Hyderabad in the Indian Premier League. He made his T20I debut in October 2024 and in his second match, scored 74 runs off 35 balls and took 2 wickets for 23 runs, earning him the Player of the Match award.",
+    "birthplace": "Visakhapatnam, Andhra Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2020"
+  },
+  "record_highlight": {
+    "event": "T20I All-Round Performance",
+    "result": "74 runs & 2/23",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "2nd T20I",
+    "date": "2024-10-09",
+    "city": "Delhi",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "In only his second T20I match, Nitish Kumar Reddy delivered a standout all-round performance, scoring 74 runs off 35 balls and taking 2 wickets for 23 runs. This made him the first Indian T20I player to score 70+ runs and take two wickets in a single game, earning him the Player of the Match award and highlighting his potential as a key all-rounder for India.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record (Most Runs/Wickets)"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC Tournament/Major Global Event Record (Most Runs/Wickets)"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Outright T20 World Record (Most Runs/Wickets)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        80,
+        90,
+        65,
+        60
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8F1ec0v41O7Q6ZO7KI28bB2T46sH2wpRNzvrJGPNVXNSFZnYkyOwiheGDNo25Q9cmJXFb7UvjGtL69UqekKji_1g4Z2B3cafNKXF7cnNIsgIra4qsFYSTXuzFfnlrWX7yT0zbAsUYxFOJfg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFwOON7pbNkJg9_9rjLXw93qyQiaAjvC2E6irnwCXB_sIy6y47YQtK9DTEYXWSjT_bLLC9m26GWTZKs2wj6bzf-gw13oL8_I1CIzgxPNbQGdDAS8GKzPNlLWBaYVWTlwmqaggoGkj0O17SPrPMOISqSy7uk5U9ZZmYVAYNTYuBSadV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVJ1lOrAj2XjJFVa-aFkf3StizGlENDRb486ioNJ8_Ao3x5F_DGPkJLmqgpOv32tAleeBTTXsXFGRl-vB3buXDD20JnSJuEXTHIQLLmnrqwAaV6fRWP8D2FeBcTPihUT_TeevM0pmTccLXHXTCSwI3jZTfdIKaMmyuG5c2lDOsPZEYw16qetVzpvaowOCD-bO7F8dlUp16nOylk_D54mZdIsab42mRIHKVeAOM5oxToY9dOnGKpJuyTsvEDihJHF30LueKjSXBitNQpPKJ8VBHacQ3KiGgiLFfaR1v6cU="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:43:26.825881+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20 Internationals",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 90,
+      "ballsFaced": 50,
+      "battingAverage": 45.0,
+      "strikeRate": 180.0,
+      "fours": 4,
+      "sixes": 8,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 9.0,
+      "ballsBowled": null,
+      "runsConceded": 71,
+      "wickets": 3,
+      "economy": 7.88,
+      "bowlingAverage": 23.66
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "kumar",
+    "nitish",
+    "nitish kumar reddy",
+    "reddy"
+  ]
+}

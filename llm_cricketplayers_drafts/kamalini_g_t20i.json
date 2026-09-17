@@ -1,0 +1,114 @@
+{
+  "playerId": "kamalini_g",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "kamalini_g",
+    "name": "Kamalini G",
+    "country": "India",
+    "flag": "IN",
+    "role": "Wicketkeeper-Batter",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Leg break",
+    "dateOfBirth": "2008-07-20",
+    "birthPlace": "Madurai, Tamil Nadu, India",
+    "heightCm": null,
+    "jerseyNo": "16",
+    "debutDate": "2025-12-30",
+    "profileImage": null,
+    "bio": "Kamalini G, whose full name is Gunalan Kamalini, is an emerging Indian cricketer known for her versatility as a left-handed batter, wicketkeeper, and leg-spin bowler. Born on July 20, 2008, in Madurai, Tamil Nadu, she gained early recognition for her performances in the 2023 Under-19 Twenty20 National Championship. Her impressive form led to her international debut for the India Under-19 team in December 2024, and she subsequently made her senior Women's T20 International debut for India on December 30, 2025, against Sri Lanka. Kamalini was also signed by the Mumbai Indians in the Women's T20 League.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "T20I Debut",
+    "result": "12 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Sri Lanka",
+    "venue": "Greenfield International Stadium",
+    "date": "2025-12-30",
+    "aiInsight": "Kamalini G's T20I debut marked her entry into senior international cricket, where she scored 12 runs against Sri Lanka. This was a significant moment as she became the 90th woman to represent India in T20 Internationals, stepping in for a prominent player like Smriti Mandhana.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 1,
+      "innings": 1,
+      "runs": 12,
+      "average": 12.0,
+      "strikeRate": 100.0,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "12",
+      "ballsFaced": 12,
+      "fours": 2,
+      "sixes": 0,
+      "dismissals": 1,
+      "ducks": 0
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwSxA_tVeBesAcA8hst85zMoxhHoC4lljJhfeGGwnZl0xpk3P-BDHHYJTTmdAYO0tcoLOH669At0720dcUvxGW7bvo3p5MUulU1dm97tOqWz0oKHvVfyN-zMenai01W1Pz9-Qc9qEdh2kv-epYK00XzA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwIs0hVFdu1pfyOp02puU8n-R6E3kTicU5_O5vwl-LIGyoi8ZaJwqWZxwqNrw9FS9c71DTjol5STRLHa2wrFJjPUvCkfCTJRd489rA6kyTMvtEoGDE-Pg0B_wKKrzeLLx5EpjRbOSRbx6bh35dFVmQM0d8-_0-8EWr9_Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyQmMf8pFAD-NKf7upJZKwKR7E2RLuCP9tDc9LnuZ0KQnk1p8rwayoxQY0C5kImaI_0LddnCPr7mx4e0nWnsshQDwHpSUjzmQ6XSPo_4vZ-rzAUFRT8ZP_Z3E_nkZ_dR-kRDkmhTpIvgC_pIPq5-1b7ghqvdhCuTEiGp516mcsIzQieBj3KWuAK_0SJZjtxGo-djMoNKdDZeYvegM6I3-sbtTXbeTs5Zlex9OZVx8-0kdobRTM_7Ed-48FylkNo9VNT4hQqCrzlnXyyknjSTFi2Tlo1vJy_5op",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRmDl716nn34TKa0mT3eCtHhwkavLkkgbQlBeoIzDCjVlZX0fNnHfBVSqChjhB0kL3KGH_AhXB-H1vUVcFJKNkqws20Z5eDkB7G-LnDX6JDG9K6BH61mJRej_E8RGA7SG8N7_qqY2zkbg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Cg6CuhuMB8KO-W_3IHT5509lpaIuOEcupl4StA5EQ_-rG6ozRxxXdxX6POWUxe2Oy1bm-4rhHw-AxwGW8Tg1CCQzRWejxGwO5hPW-_YWyL6JKOYIIq1g9N5GVU2XPd2FHQwYgfFQmFSj27e2JnIRnKBpxVl1xXSTOJZIH2YVzOOCvQ_vAOMqdtakYwON2zPUbI-5RzFnn_2EiIesZAr-23ln43gKgPbS3duRkW2WpsSFMEgsIZo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6NuzdrNkrpr3bUBc70lns1RRC0oAv1Ng_5L_7kdHdA6dCRW6xhV-V3KYWv6BXrTgcRtQwCPvHAHxbt4-GuEKiA8XG_wDREqopw88BT-dhzBRTMdi5zf2ARnm49Ypw42wF2rrgC0qr5HqR7hDUdB7gy41S_m4I8RPZnQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:40:53.253413+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "kamalini_g",
+    "kamalini",
+    "g",
+    "kamalini g",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

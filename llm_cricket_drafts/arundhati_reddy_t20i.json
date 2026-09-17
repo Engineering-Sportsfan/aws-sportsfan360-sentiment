@@ -1,0 +1,159 @@
+{
+  "athlete_id": "arundhati_reddy",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Arundhati Reddy",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1997-04-10",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/8/84/Arundhati_Reddy_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=_Z7g8Nd1piw",
+    "bio": "Arundhati Reddy is an Indian international cricketer known for her disciplined, hard-length bowling as a right-arm medium-fast bowler. She made her T20I debut in 2018 and has been a consistent performer in both international and franchise cricket, representing teams like Delhi Capitals and Royal Challengers Bengaluru in the Women's Premier League. Reddy was named the ICC Women's Player of the Month for February 2026 after her instrumental role in India's T20I series win against Australia.",
+    "birthplace": "Hyderabad, Telangana, India",
+    "coachName": null,
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures in T20I",
+    "result": "4/22",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-02-01",
+    "city": "Sydney",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Arundhati Reddy's career-best bowling figures of 4 wickets for 22 runs against Australia in February 2026 were crucial in securing a historic T20I series win for India. This performance earned her the ICC Women's Player of the Month award and highlighted her ability to deliver under pressure against a top-ranked team.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Overall T20 World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        6,
+        22,
+        7,
+        1,
+        1,
+        27,
+        14
+      ],
+      "wickets": [
+        18,
+        33.2,
+        26.5,
+        36.33,
+        15.6,
+        19.33,
+        23.45
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        30,
+        50,
+        65,
+        70
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Reddy has shown consistent wicket-taking ability, particularly in the 2026 T20I series against Australia where she was the leading wicket-taker with 8 scalps."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh-xqMnqOQnCs3_4gZjOVmdD_V6jDgJsN47nLhgzuR2P4SQe6zTzXJLF9hqQoxZR3q5kTgFH7d1-QgHtza_MxM4ZF9Hw49_g_McNcVT0OEBsZX23nESTWzrWqU4tw0VwHRMn9h0pNea_V7DkAMod97tYwQofxrM6Rl",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENMuKnZ9M0kQZcuy4-W3tDfiBKOrzBvUQNL9JFqih0oi-5Vt6KX1h8r7wkUfTgeQvOPHUrwNKOiUxSQpfUdQa24lIl7i7TqCZaNGAeMUSBmrsSuofMveOYq5UgixivJT85xG9DKcuG8TjFBaEjy_AAZ500X6aShbo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFymPfblypYkWjUsKRZwzavoHdTv5uQ6vIVKJZrzxufDMETA9r78m2M6w3EvpIPOWNHt67VeVhzhZtSbS0iV5bzaE9KEx9-SU1yha1BqPyHL8Bs12ArEv1wqu17P8jk5MCz-VFp6XM0hLeKboDouzM_jqVXhQFjfXXwiSfWwxH6klKzd4XACqHNDgkyJxPwTeo4tLXX3hh8FQged8PUMIc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiZCwMfj0lgeT8B-opkoXfrMUqfDXxg2ogTcPtmtuz3R5TI_JNMQWtIyjxtdue6frRXfZFfTHjR5C7k_O8rHOEHWd4jdA5YIukz5KnxdXHOWggaE6J8XxTP8hv0vcUfxyyc33990nysTRn3KH7pXKhiKKWvzRWWTQNqcCurAsXR8SzqDpAgfpM0mj6qnEMKFYcM1O0RCcy-2gjMPi37Twcu1CmxWXzZtsH45r67YCW1Py2fLgY7KvwlfOWFDdrZWWsmYE9xFhwbVySyvDe9wAofR4v70q7VBtjfO6QrC6ucPXI7nHdLv-UUCbpvsg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGtQTkKxq3GVTbgADt6y4i3s4wGfq9NtUF4xgqikP05TzTdVeTwCcLNHV1YZoWi2_UIAFiM9aR58oGYgTe7PdMcZbuXPxKpjZNUPvGmQFQVwbCBQT1BWqY2qeIclsoXZB4_wGq3Db7Ug==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4OcrPjMFFi7NxImEDof_UTOzRYcKGwSXe5et6sNQvRQSRlOyDVdc5qEcgfQjXNrvd3sAMDAukfPhVOnieyyuFtE1Z5QAW_d3uqoF581xaq-mW78l82AJdUayYrmjRr87AW_EQIgSgfD1Ahyw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOcSoX-JggeW9xO50_bS6hpe-2st9L0hjz6GToVu4Kzp3yH35lxvsm2kfdIjqU_0Mgcs9UhxufLSs08lyAL9raafp_bS_H0C41s3bBCkQeDyOd58_0Scw-DH136tZ8W3hIbcPcuPy4ptkMZUrACW74tiAD9ow_do8-fuFpo9mgKhElk35zNREWwDlp90LT-cRudZZEb9EINFt5uQsMNNNv8b8qw64enOvxHzS_pz9QWc23eIrC2zbyYHM5YQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:49:37.263947+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 149,
+      "ballsFaced": 158,
+      "battingAverage": 9.0,
+      "strikeRate": 94.3,
+      "fours": 15,
+      "sixes": 1,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 178.5,
+      "ballsBowled": 1073,
+      "runsConceded": 1402,
+      "wickets": 48,
+      "economy": 7.84,
+      "bowlingAverage": 29.21
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "arundhati",
+    "arundhati reddy",
+    "cricket",
+    "india",
+    "reddy"
+  ]
+}

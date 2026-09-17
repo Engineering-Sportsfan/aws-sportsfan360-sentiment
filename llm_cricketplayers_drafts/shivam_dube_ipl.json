@@ -1,0 +1,158 @@
+{
+  "playerId": "shivam_dube",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "CSK",
+  "coreInfo": {
+    "playerId": "shivam_dube",
+    "name": "Shivam Dube",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm medium",
+    "dateOfBirth": "1993-06-26",
+    "birthPlace": "Mumbai, Maharashtra, India",
+    "heightCm": 193,
+    "jerseyNo": "25",
+    "debutDate": "2019-03-23",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/6/63/Shivam_Dube_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Shivam Dube is an Indian all-rounder known for his explosive left-handed batting and right-arm medium-pace bowling. Born on June 26, 1993, in Mumbai, he made his IPL debut in 2019 with Royal Challengers Bangalore. After stints with Rajasthan Royals, he found significant success with Chennai Super Kings, becoming a key middle-order power-hitter. He has also represented India in T20Is and ODIs, and was part of India's 2026 T20 World Cup winning squad.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "95*",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Royal Challengers Bangalore",
+    "venue": "Dr. DY Patil Sports Academy, Mumbai",
+    "date": "2022-04-12",
+    "aiInsight": "Dube's unbeaten 95 against his former team Royal Challengers Bangalore in IPL 2022 showcased his power-hitting ability and was a significant performance in his IPL career, especially after joining Chennai Super Kings. This innings highlighted his potential to be a match-winner in the middle order.",
+    "progressData": null,
+    "benchmarks": null
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 92,
+      "innings": 87,
+      "runs": 2129,
+      "average": 31.31,
+      "strikeRate": 145.42,
+      "hundreds": 0,
+      "fifties": 10,
+      "highScore": "95*",
+      "ballsFaced": 1464,
+      "fours": 132,
+      "sixes": 137,
+      "dismissals": 68,
+      "ducks": 3
+    },
+    "bowlingStats": {
+      "matches": 92,
+      "innings": 19,
+      "wickets": 6,
+      "average": 46.17,
+      "economy": 10.79,
+      "strikeRate": 25.67,
+      "bestBowling": "2/15",
+      "oversBowled": 25.4,
+      "ballsBowled": 154,
+      "runsConceded": 277,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "matches": 13,
+        "runs": 270,
+        "wickets": 1,
+        "average": 38.57
+      },
+      {
+        "year": "2025",
+        "matches": 14,
+        "runs": 357,
+        "wickets": 0,
+        "average": 32.45
+      },
+      {
+        "year": "2024",
+        "matches": 14,
+        "runs": 396,
+        "wickets": 1,
+        "average": 36.0
+      },
+      {
+        "year": "2023",
+        "matches": 16,
+        "runs": 418,
+        "wickets": null,
+        "average": 38.0
+      },
+      {
+        "year": "2022",
+        "matches": 11,
+        "runs": 289,
+        "wickets": 0,
+        "average": 28.9
+      },
+      {
+        "year": "2021",
+        "matches": 9,
+        "runs": 230,
+        "wickets": 0,
+        "average": 28.75
+      },
+      {
+        "year": "2020",
+        "matches": 11,
+        "runs": 129,
+        "wickets": 2,
+        "average": 18.43
+      },
+      {
+        "year": "2019",
+        "matches": 4,
+        "runs": 40,
+        "wickets": 0,
+        "average": 13.33
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3tKl4rIEGYB9a0fv4R4Szob1NIpvoW0AUd8dKVhmdJdzYvgjJSfylBhWj6e99ytjFBIbWHNFB563leuuMH1QXZiaxoZs9QemUHri23dYHyYHXcbVpDg9uMYvFLNzib23-bQdB",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF0yINk7_JAvDyW3MS3X-MgF3Yfc6JMpBgvU6Ej5snnKTbE5WfutG3MuRQUeHHyWrFQn5NNPMNXgerzFEy7oPE64gL0OpDWpFQV_-tfArvwKKwwlAzVE8BCV-EenXJfiVUWv8UpI_uYq4mErRA87N0B1Fa3ize4TwZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEity1VoE7xBU02xe1nEJ-sjtyIdrWKRB2pwiXhoC71V8nf5mjrSsAgEVXToBIcEmRqVf-K8vkKJ52d2eQSFwlk3-TmgOj9QQ5llsXlSt9dXsVVs06MVd6BXexZfG2jlZ4d5al2BHhWyhazYMdUKKu49XQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1zqeATCF_dNs_Ig-MPsiNv8zObp07Lmjwkng9Yf7KkqJc8sS2Vl4m9pbmA4-D1q_GePuoEITniT3pZlAeuO4HV7UCQd0n6aALb18RaUwr_ehldsBvjh129D_49-2maqrRqUuT1zQM0v4RkM8Vl8N_fg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvrUln3J7FFdBroZksVgjsIORtXnvjDSC4RdScDITJOx7BkNDQv5d_XI1D6mnDXTuDoLBfOTJQ2Js3OFxfWC01GDSPX3qIW4HISXPGYU-w-Z6VyR-l4pHACDfxN30gHkt9_933_s-EaqwUleGBn_8917RVYhLDbalwsO25zNJO6AUYD_1Zsdv_19q7laOeMZk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLgrIH8oTNdZn_uCusRni7nvfC6HaoahVn8DXGM8Isy1k7GkcYrTi5mu5Dcfe0_FP7C6NGHjf3IigMepYK--qTbXVHyz9fPa9dur7C9st2C2lThRtJr7zF9iP2MNeympdmxJWrr5STAdoeWQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMDea45PmUh9y5jrzIUEq6QrgSo13Mf0M0sUJ3N6t-05nqVlA4uWSNBEJFkSsLIW62ujuOrqrd5RxJ199t7J3yqf_AyOJx4zCgeaaoJp8Qi0gLTo92QLPMz92eTomcipfp_z4uwoZOaiWatqWDzmqedlyxN8d5BzSKTU__bdyX8BAq2yFLaCkYJPa_SIUWEa-YskOvbXJpsPmAknoE9WQ6V1Ucfdn9uUCmNCE4nDgdqNq7KxAKkYpWAc6UjiqKMYOV6lX0Q5nmCQaS5FE0GdNkeA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnC-QZifghGxuezu8wGYHPOJTHhpRMWnYMnYpNOIRxuLaDW0Wus2TY2RQ_hAjmt21hEWXAMA19etxo9zAJXDu_wkBd9xfRplT7COcDnsaX4RWjtUq1790-5YKG-1a90jqIYZkk5UPU4Vj56wOF69zYHA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0jhhvAq2U9yBjEWyR4Y7-T-0dmO7UFU1qGEk3q6ru42-Yk-41TImNtLoJktlz917VljEg8aLtI1o4tR9pZZ50kfoP6rBl414Zq9g_frcj72i27OBGkpZahQYi8ixfsYboanhNW8rZzvj-YkdFKeWVk06NA0Fb2ri4vSIe7wg_BwgA93t4m2aH_FfmM270COI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgG_LFhxq_6gxXkbyVKLxEhO7_dhX-_Z4I2erNf4kY8HuNkWX7ICXNzvo534-2OmtqISyBOHNg9vG6iKhOVuPFyt9E-jD9p1CI8PzMkc9RH09dGPLTKOoPdhJRprQnTVERyG0Uau2hIUF7HXhO5w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwbxbRqvy6DJ5xpw7lnzJTNuapxxBTovi1rNY888gvw1cr3FIyewb0a3kG7YZUQDFqMhDZEXL8uErhsHNdIuEVLa9QS5HbUxb41kB3Q1qBTNGH1TP1o3rXokw24926YuRQXTmJTw4c7eF0XI-ye_BqM7BDbDc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgh0pkwQh307p3pZEOKWLID3f1OEqbI6hk-xSaTtUWVM3KXQhCUXISeIztc8auMCQiFvKlfwld_9uC27-qPTN7rGZ3puAE5QUB5voy_iDKnXUDY0YVOgXgxuSZLoqlU26odXL3vVGhtnZ18U8fEBxMUT5kSpx_wk73NR_oob5L917AihF1GebvHm0rF8oLAjspwJE4wjZFaIEYSb7iuJZhRfyD9cXE-wgLQCRumxSxibfzn4MYoGgCdtaan8Lhbvzdlg7ncRwC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoH18KwjfOJYDNxyR6EfJfwA-qPPDzPmpKGJRnHKOdGkzbU7kl9K7UF6xr_EtRLXLow8dees76k3pq1wTKD1gBh4WD2x47DwJNKC8RfrU-m89wH5I02yJgIc5QRODgDHQafwd_P2pkWZtnaifYne3nM8v8RhSXXEVLM08gt5kbTGQQcnXJ1oM_z4vNli1a_3n-gDwfQrKvWH8VuisfBMBDiWUXs9zcy_XdE0zG3pREQRWkC6yKo-zq7Ijyb4uLe9wQdDawBer2kuGiJx-sEFBFedCwDbwgCHfgk_jAKC1y0OeHTL41nPiYuvm4S1E8DrkcTg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnRaBG775H5LFx3xjXnUi07O1O--qo-91DetYPrZgvZySSKq-Ob_Ai1NphEHSn8-OmqUAsJNwjxJrAZFPfqxRsd92VVYdYY4-6KbebeUIDfU_L56TBHS3jkYts2m4u4dOh6g4Qef9-ZvCEOCA4hP4fCBKMItNhn52V5lpW0jiMFw959LRVQJlrK9O6qUvZx6E-V7LbXFF_R_OC85clyrUU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwA1q1mwWIJPFmJJHQPK9m_Wql66DXzw-7X96zB93LflHq-AsK852EsrGvk7C1CO0GwW9MiKabjoMSemu89lxHKu-L6z4iUI61DOlasSnbxuILkEQplk0J5778Ws8PYeqwRKQJMGOOhglz_qAFEwAheC_M45s0AYqfGV8PhbIt_UAaT8kfQujSpOYPRcjqV226gvV0igd2IAmOQJ9cI4DgT0tmp_dWfMTp0pPeaRVypdpwIzRC14cHgA3E-zDiBUBkO8tox-zrr6g9qBYI-6-LD7j1WPdiwg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:17:24.142413+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "shivam_dube",
+    "shivam",
+    "dube",
+    "shivam dube",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

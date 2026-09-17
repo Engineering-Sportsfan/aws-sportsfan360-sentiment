@@ -1,0 +1,233 @@
+{
+  "athlete_id": "manju_rani",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Manju Rani",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1999-03-22",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Manju_Rani.jpg/500px-Manju_Rani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "welcomeVideoUrl": "https://youtu.be/Cux1eN0CwU4?si=hVjLiL87C0pb_se6",
+    "bio": "Manju Rani is an Indian race walker who has achieved national records in long-distance events. She became the first Indian woman to break the three-hour barrier in the 35km race walk in 2023. In 2026, she set a national record in the 42.195 km marathon race walk. She also won a bronze medal at the 2022 Asian Games in the mixed 35 km race walk team event.",
+    "birthplace": "Khaira Khurd, Punjab",
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Marathon Race Walk",
+    "result": "3:33:24",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-02-21",
+    "city": "Chandigarh",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Manju Rani's national record in the Marathon Race Walk highlights her dominance in long-distance race walking in India. This achievement in 2026 solidifies her position as a leading endurance athlete and demonstrates her consistent improvement in the sport.",
+    "progressData": [
+      {
+        "year": "2023",
+        "value": 17754.0
+      },
+      {
+        "year": "2026",
+        "value": 12804.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "3:33:24",
+        "holder": "Manju Rani",
+        "date": "2026-02-21",
+        "venue": "Indian Open Race Walking Competition, Chandigarh",
+        "tournament": "Indian Open Race Walking Competition"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "3:33:24",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "Marathon Race Walk",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "3:33:24",
+      "bestYear": "2026",
+      "totalGold": null,
+      "totalSilver": null,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "event": "35km Race Walk",
+        "value": 17754.0,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Marathon Race Walk",
+        "value": 12804.0,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Endurance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Pace Judgment",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Race Tactics",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "3.0\u20133.5s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "3.5\u20134.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "4.0\u20134.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "National Record holder in Marathon Race Walk and 35km Race Walk, demonstrating consistent improvement in long-distance events.",
+    "peakZoneLabel": "3.0\u20133.5s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "3:33:24",
+            "holder": "Manju Rani",
+            "date": "2026-02-21",
+            "venue": "Indian Open Race Walking Competition, Chandigarh"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDGV5ZPBAZFuxM14ljkEHB6Yvki-OBWBF6oSleb3ZFeNy59toVMlUz7bqJQCa9dvdfpEzG-aqk_p_aqtJe9pOEXzR3iMZ6cSXnirxK1zNlZh7Si0mDiubXfzxlbWWD_Eu_1PiHc8yX9JY56WO-KwPSIe6vqSSfTXLgSj8VMH0acNTQkX7b_wCxLwbpJI5ZSmwXyhONmHqM1d4cCOEWrl6G",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0_18rGwmIkyH-RSsX0Bem6DhTpRe6lSyifWPDgdpBGVirbCD7s7vmh40BwB0PE66qbb-WP_KxKoW70xV1PUMAGFGSNwacwKaRli_DVQviwcuGVnHD6oOkZp0_0aVGg6M6Uz73VQnFTzXLhS0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiin1gEoHDVkYXNfkLOv8tu7bhyfyRwRidvmF5cljVqnrpbu7k5zyNcMuQLkVn625UWm0MZCS7_WpBrfireoPOBH66eIHB0NTgS9pkWQ_bmJoVtXcYjB8RhpDI8-AHEKdFTm-wvyxwhtrBhIwpxtq1cLt8ZPmHW3j2rjS9R_hWYyaQ0Z9Vk1F7eCZV"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:59:21.922953+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Marathon Race Walk",
+    "category": "Long Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Mixed 35 km Race Walk",
+        "medal": "BRONZE",
+        "category": "Asian Games 2022"
+      }
+    ],
+    "stats": {
+      "personalBest": "3:33:24",
+      "seasonBest": null
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        11000.0,
+        13000.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

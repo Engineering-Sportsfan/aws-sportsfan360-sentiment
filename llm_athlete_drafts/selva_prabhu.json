@@ -1,0 +1,420 @@
+{
+  "athlete_id": "selva_prabhu",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Selva Prabhu",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2004-12-28",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14926703.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=u07X5zNNvaw",
+    "bio": "Selva Prabhu Thirumaran is an Indian triple jumper from Madurai, Tamil Nadu. He won a silver medal in the men's triple jump at the 2022 World U20 Championships and a bronze medal at the 2026 Commonwealth Games. He trained under Yoandri Betanzos at the Inspire Institute of Sports before moving to Kansas State University in 2025. In 2023, he was named the Asian Under-20 Male Athlete of the Year by the Asian Athletics Association.",
+    "birthplace": "Madurai, Tamil Nadu, India",
+    "coachName": "Travis Geopfert",
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "Triple Jump",
+    "result": "17.05m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-03-14",
+    "city": "Fayetteville, Arkansas",
+    "prevRecord": "16.98m",
+    "prevRecordPlace": "Astana",
+    "prevHolder": "Praveen Chithravel",
+    "improvement": "+0.07m",
+    "improvementDate": "2026-03-14",
+    "aiInsight": "Selva Prabhu set a new Indian indoor national record in the triple jump with a leap of 17.05m at the NCAA Indoor Championships in March 2026. This mark was also his personal best and a school record for Kansas State University, surpassing the previous national indoor record of 16.98m held by Praveen Chithravel.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 16.15
+      },
+      {
+        "year": "2023",
+        "value": 16.78
+      },
+      {
+        "year": "2026",
+        "value": 17.05
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "17.37m",
+        "holder": "Praveen Chithravel",
+        "date": "May 6, 2023",
+        "venue": "Havana, Cuba",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "18.09m",
+        "holder": "Kenny Harrison",
+        "date": "1996",
+        "venue": "Atlanta, USA",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "18.29m",
+        "holder": "Jonathan Edwards",
+        "date": "August 7, 1995",
+        "venue": "Gothenburg, Sweden",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "17.05m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Triple Jump",
+    "achievementLabel": "2026 NCAA Outdoor Champion",
+    "stats": {
+      "worldRank": "18",
+      "personalBest": "17.05",
+      "bestYear": "2026",
+      "totalGold": 6,
+      "totalSilver": 3,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "Triple Jump",
+        "value": 16.15,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Triple Jump",
+        "value": 16.78,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Triple Jump",
+        "value": 16.49,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Triple Jump",
+        "value": 17.05,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 5,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 16.15,
+        "seasonAverage": 16.15,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 16.78,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 4,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 16.49,
+        "seasonAverage": 15.94,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 9,
+        "gold": 2,
+        "silver": 2,
+        "bronze": 1,
+        "seasonBest": 17.05,
+        "seasonAverage": 16.64,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "15.50\u201316.00m",
+        "count": 3,
+        "throws": null,
+        "percentage": 15.8,
+        "peak": false
+      },
+      {
+        "range": "16.01\u201316.50m",
+        "count": 8,
+        "throws": null,
+        "percentage": 42.1,
+        "peak": true
+      },
+      {
+        "range": "16.51\u201317.00m",
+        "count": 7,
+        "throws": null,
+        "percentage": 36.8,
+        "peak": false
+      },
+      {
+        "range": "17.01\u201317.50m",
+        "count": 1,
+        "throws": null,
+        "percentage": 5.3,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Selva Prabhu has shown consistent improvement, particularly in 2026, with a significant portion of his jumps falling between 16.01m and 17.00m.",
+    "peakZoneLabel": "16.01\u201316.50m \u00b7 42.1% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2022": {
+            "value": "16.15m",
+            "holder": "Selva Prabhu",
+            "date": "2022-08-05",
+            "venue": "Pascual Guerrero Stadium",
+            "tournament": "World U20 Championships"
+          }
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "16.92m",
+            "holder": "Selva Prabhu",
+            "date": "2026-06-13",
+            "venue": "Hayward Field",
+            "tournament": "NCAA Division I Outdoor Championships"
+          }
+        }
+      }
+    ],
+    "beforeCoach": "16.78m",
+    "afterCoach": "17.05m",
+    "coachImprovement": "+0.27m (+1.6%)",
+    "coachJoinYear": 2025,
+    "coachImpactData": [
+      {
+        "year": 2022,
+        "value": 16.15,
+        "period": "before"
+      },
+      {
+        "year": 2023,
+        "value": 16.78,
+        "period": "before"
+      },
+      {
+        "year": 2025,
+        "value": 16.49,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 17.05,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz_j0MrE2qbuUv6_raDz2EtwmKvkwqXPEsBcEnKl-ywECvzsp6N2dVLPH-ZHlM_A9gt0qMX43OXVfzeHBXVwYv6Y_RAQcyUpKv7dW8guvMXqRxd3ZzdYzDWyhaJCGKm-zCmSwFJw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQwolyNN6nmnY7TmQLzwRJSsAexXvTzTVS13rHhPrV7j6eWYsI8cTCPAbg3-MHW-cmx8YppNr6Ihd05r0XzEOR3xGD4lgC7QkHpnH6kc6zJRxMcvNzumxLk2ziJJISmWE8B3UojOfySRb_lSCuLi9kE9ycgBpWpcigFQA6-7U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESZcOaoORi-Ad_kA5jzNmrnrRSUhQQD1d2_JoVCLKkCXzsJq56_FsFuQg5Dl8Dr85TE6hD5O4C_SaTOIgHL4cwsxROrefyeX1YxYIgNlh2jEw6WGpiv_aNKPlSgSCsfzvZHvpgE3UfF82KIXEdZE3mzHLZ45kbGZoDrOvr2HmVnRBPBoXm8Vf9FUqZcGci57yOK_U013Zzqr4lwXrrwK5_kjlhnui_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhAn6HQkOWrRg20D33YjJb5RuVUlgjYwl6jhZSUe8FBryleT7mCxXUywzDUlHSMvQgYRfKTa15PreMhfb_hXsEp74g8WpAy1nOy4bfkb2F06qLy8xUeCyiBRWHy2gjTXdgc5N3jVsTxkxj3n9q8x8Mw9d-3NwuaUby3C8HjSgmh4ZTqd6gfBw4tBCZRHHqhJ0axFjKsQRLLfaosduosGmjbSTgoXV7ioeJ1jaFMXe_g4ZCe00oUtNmPks3FuQBc1FlN9E_diY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTiIqHZMLlmGN1TAe7rIhhUtlOy-j27fgKhiUivrzntiBw4TKzBA11Jo2r8fkxiaP2Uent4kslm5j9nJxsg0GDT2Hpk2hx41EBmEMwFlizVNYQ7TQ5Y5GoWXw79FPxD82PMqsTyMU161XLGJJ_QJj73ar8MxdJBkbSCqTfi3xtc87eW07M4XqA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaAu-kC2OqYwuWGbrIIgVVfmU5JtTcLJmj2Wua8bk9LuQ1j-JY6AE_e7VfZb2V3ZINEJQ9H2z9pGe9GLdrnmLqm-38HmmHOAOqds-8Aae6HXeL8rZfA3SY3upW1PVgTr4DfbLDvMGW1lurI1KCv78xaP3FeklW6s3E-g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwpaORaIL26n36vzl6rrXAaw82-UHVe_R93T7dRZL1f5uJO30WazQCoTNzcwY85y6QIGOgbiqOtvVx0rnPmGU4af0v4q7nezjZR-Rhi-WeA6mY7idQGlLJzZqJfNx_KNnrfUwnNhc7GsR3evipq5_gmxJfANs4fK1WhyU0dxA_ax7_RLwILsLxD7XF4zaKh_p2q69pQGwTvygqhWdu1RI8YwJoFvfKiJhC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqjok3YLvRogQMci-rakUGrckOBq39E8kH3FhY5QYGXvsVNDoaMSuqofGun0ysOPyMuG1TsXLQoTBzTpAWba8UKiMDE8tz2F5BTCS45y46wZNLUx5r-4Vpr2BHfcSvQv01QyH4JixEomoTtLvUbedUslR9nOkXPrClJhnzNeX4gi26oP1MIC-bbp4M-XrHSz4D52fZ-TSn5irzYzQxT7S-qjKo6F0R",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPVOFaSjGKsu9uvilfrfU18oLEGAT9qMzeu9JZvh0WOqBoIz4ex5aRTFHYpnk0mYmrK7iFs7f5xQEzHKycgd_N-hoJiPhAXjT6abfwHC90HQa6zg68SYygfnHrGan4RnJmFi5Cng==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH25Alq_j8x50A_GZDV1Viv0mngRK0mxry7VouGH3fZzgjAYbm28dNYawQN3Hz8Ge58nLHtiNHHvpq6FVxiNrn0Rrnvq2p_gERQQzUqdnlmvGXR5YPfD4wVR4wx5FwCo3F06RCMnrut7HA_c2yJ_WAqL8yBZt2Nq59VQ-8Z0V8YAUUQX_xK",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUlnwWKdDrkDhqZcuznP5puU_jS5mmTpvMySuXMEbhgNqPYhtznZ4a-vBd_FCvbhxzi9K-vpgdwvxvfaYnsfOMw7rxcFVqIammXf71t1O5_DE8moAwhJopBTb4PkxQmewnENHoIp_KPhbzjil6JNXgyv18uF8Hqdw8VzRcgJjgOwN4t36nRMGwjydtISrBuTShL3k7ZsgriE2LusUuQFGdWlspSLlgu8Db2NxJbPNbSUhRkz0SvGrwa21JO-98okFVWzEJ6xyWg2YHMd5JiRptVdn7KA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFDM5x822hWK3gCKAhFJ3hAeS53cvuvvfqv9XHE04nBCOckh7UcQOWg56jTYflK7yp-vB67nU1vWM6bIj4wzssGFWMjgGeSdwR0Ks81cf703uchsb-Lqj4Y7uDksy_5Dn5NSwwIy-Zgh-Tenu4ZEJnymG8dQLk3be47-3sAS_I-YQ5fREufw0CQW98c_v_5CkAZajwR9-tGeDyqaw7ZYpwQyyL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYTw50FC1A0GOvMU3n0xKhX2_GC0ddE_Pf0ApZzW1vMaiimjIzIgaoiiY9ivh_vZBDibuamj0nc1gERv_FPDCx_GQrk9YdoRWHlzTthHobcpeLsx_kNZo5xvHk7lQPhQUx7vlT3Myn0U2AurECsXfI5y2oddBdi0QtxXZ5vT4VEtw_h7zUkM0Vu5viw9SZ7ZxLFfZZTS9IIpP7bCF3ox3zHG6ZTQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlAt7GXdd7fa3voHscctLmcvM3pj0Xe_5XYsXoMq43HLSwjQMUd4etbHEWDueOGb8R9SiesPaU911x4547GZG9ZH6-OwAMRjnONk5UqGRAFML6kdauPqPRx7RjqgAtUCZPYbahbn-U-CR9X8M60IcfNfUo58MB5AzpgwX50RsqmtUMLHXR1iXBOm4rd2ciCRSfqxD6dCxEybWQjJKQgAslsyd6lFvk_W7J248qMvq_wxH2CpNnE8oyDT58ErXl8m1I_vxQVurli2HvunUN_jVu466IOw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzGFU2x_lKhVOKndAlAuU9W0c22YO3dLJmsxq6oyNiTHxeafZ5BBU6zHLXup5giZgxeFooZ-d67aKOgxfYRwBRekgaOtDqeznqW3kwbrKpfNLbQbaeXYUgVmTtWibwS0UYV_YYLLRi_hrAmRpmW7WWLcHsPI5RWP59ZTtWY5z9RdY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDCBrTiT9khIoYYAZL_vgymYitWISTpdPVOVdymzeH6A6uxgRNNmr-YrOTs4vhlfXm62yw9GYFL10aQaR8VFknPVtJWFzIQ9NYKPke6cefTlJWtACAWICt1IQYlVVQ3sOPB0EHZwbxNb-eoq7CJQ2VhSYUidoeOAulRjf2hJI8fq8NLUN40pe5yWEpB_pNQNxnQPCB",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5mUpktgsDzWFxYeGoej6Q_i6PVJHLnoFLQDA9ToaUNa3R3RG53YSOtwfm56pXk-eEuJY386rxztMLJWP28egANXeWnF1l1ydgHum2qui2XEKWMHoRk_k8SzuQVH-2jHKP8HTGiTDi8AurhODKlrjPRLq3aOj_d7C2a-eEn7BWajhmMbKSks6HlyvIC4EdwTmSz1q4OLgC_xkGdJQ9Rrsm4JXS4QJFxJ6Lbee6UN4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLy-P2dCAqOSkqp7InteAYrowoYxSPtskk_2mlwxjFOJacYjbbuP270JhllGgMFt6lyG20dHoY0JjpxMUcMFH1oGjcKfsPvCgZj78apuCMT6MPoxzOmIg1Gb65pjxz2gMzYE4k0tp9y2dG_naESGDOpMkI7_4HtEoI8kGOBoEWWx7pLOsml1VJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKenxWGQtQaWY-u5MFoMnPodKt0px0ckoJuXh8_YYUyKwFNlkhX7mGyHqnnXrO5bU2ky8jA2nIVczUuRBjoF-wEC_BYszq0n__DrL2RDIXVIy2Yn1aR5kVXzUFDsrnR9KG7OPeex3NcAuLGxjFb1RJ49T1OaKMCKGQmas46SSg6d3nv9_2QSVF1Nn96hqf9_GBXUixHwe5XaN6nMOopUm2NMOeSmag5iMAQVKU9yHyFjFqgMeCR_vE_-qbAu7qVxg8If3A1zh6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd8zYiXKs98lPNPulberUO9qfbBMG6bdSjzb6PAI0EwQ1iycfJUieHvX-_3UDoCrEh4t9Gdk2jz_qYE5HpmX_Grx13jmtLWKd4MhKHpKfdfksPDAgdeWdjlTFxn7jLe4o0cd94aIpILKwOOQD9wzfcqe_JHZwPNKDba9k2BVc8cVyWUZUcGODi",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp31BENqxEOUaTTmZOpJ0ekWQ1DHnlsOE5Mvcqe3PMYtFASF0MxTVf3nafwrXLlZaRQaXJIDUI-nAoIcLLCNK8tgpdiSnpZq_vX0U-eR1amGAH8JnnMVuJfiS01XJg_m0k9C0pd3jy2XMluH8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYF4q5qpYKwkKbDvfevNKr0Vf7i_sR4ZSelVYROzXt84urggy83oibusGsySDI_CChpkDpkJrCU15eXvhvTiQ5_rhdCaXmJ7YEEAgKveVHxcGWfMGyNUBN10-72LiyonfvbZu7RolFe8aEsVLJUhpt-Ivenf5YheiAsb8PX-HaOGaOXvA9Fikf-XlgmQ7iZBFVgbUZqq9q8hctnxSQE2SY2a8I5dr2MKeb",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm95z6WSL09BG4wsQXOVktYetrdvJKBFBJ5VRDL0PIY1SE4HRSjA6v2I1ghVwg-pf-NFdwX3-bSagd9AQuZTM0aoBEAR9HR12_AT86akyi_9mnKSInrRKJzxNx8eCfOSuqnm5U9sii7Z7SuzeSJIhxVFDt_Vn57etzvJsdYYIsSsVkmVvr6IiNkaOm1qxGgA4_7_szM2SBVCgRdLv65m7LO2v2KIZxDWY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF42dvVJj3JfGEz6Aoidvb4O3pWrxA1HqrABYYNKLuoOcmRCBuKVZe8l73Apzwz0xl2yYmI9wBvQkPbm18-WOz7hNoT9nIv9bs5hUZPHoyofs3IZ1j9X1b1-7g3zqQhxhEdaYq6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrcZ1IrFDdzCxPG29vBNplL7WqhhQG85i-D5wRzTLanxV3gyFfi0RKL_f_bwho9JMWJNeDu9tl3ol_LCoFnn59fOW4IRAZfRoggrjUZLZ5byX0WvmyEASSaMQrdtSbXl40bjWO8KIjUlQD6AIS2m60LcqhR_W8nEymHWN_EC5ozh5J8sJnv3TO9b7frTWW5RHxHq8_VHCphaS5ZEuBzkwfM8KscE0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErkDSXTa5HXASQ4xu-B3m23gKWyn-1krZQVESUrXiaq5j5O5WQFUYxk1lgKzGyAF304XejXSgkq6OK1COBHrhtSCMnDQ1M4LgcTJwt_pqe46eCct5gFkH14t3NsZiwgymugHwJQGWv8P3aCWTOsjrbQtYqZiIOZ7ESMNznphO30A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc7tlI0SbPfuHhIruRVFC379wLP81L8obfhloC8UivNnEpDzlQMLey6Aak_ruwXbg9-YQKcAP0AF8i8oOcSy5YpKNyJo9ZL-ZOWJT39ntdgZnMDJazHEpLzmXr3fO0kiEBuD9QswkBcDkrvPbxuqzqIg47kOqhpuqUqlSU-dGjf1SUOwyHQMEt2UDr78dQhtLaBAMGZIYPjFLl0KnWoFyFHPydQcg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSCmj_v1ixo7M3OKidUaQtVnCgcxjp0cR2WPU_QEeylmpxJngmAPwvwMbrz-wQsh6WQZ6UjIcwIBFrejPu7WMdsp5DOgqhUIxH2cRXbUPiqkHqKCm_0m3MyJIG80IX7HNS1O89iNf0Lpl8gfZuNU0ZVoOmplTKx6dsiy-naZAWCbQn11aUFtFBQVtc9jdvqvDN14WiVxsL_ZsjohsLs5Z4b-zsaojySsIfnTM2ii9RR_GpJ1c9KeiDv57TShyrRHeifCm4aB7K9660A-MIcy_AeJ1d",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Iu6symcc9GtmyY3RlUEvYN-DqGFwGdYlASgtlotJEXUssLB2FAt-pAiYHuIQNIMEdlxvzV0WdPCD6RPe2U8Lf7-D6CshEv4-7l3CGUTxn-tV6KscdjCo2DHvDKD1tXkV2l3gUJftv0RpOLh-zDinwEJqX-4XUqcPdk_NVApTtdpoB0RYAxoRec3BtxomRYFL3REPvlgEXYAvjsFu72kIsCbzuEwdxHAhI6YXZ8I7g-wcJZDh7MYsKhKrmumpyvjdSZPAj_A="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T11:30:23.027766+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Triple Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Triple Jump",
+        "medal": "BRONZE",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "SILVER",
+        "category": "World U20 Championships"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "GOLD",
+        "category": "NCAA Division I Outdoor Championships"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "SILVER",
+        "category": "NCAA Division I Indoor Championships"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "GOLD",
+        "category": "Big 12 Outdoor Track & Field Championships"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "SILVER",
+        "category": "Big 12 Championships (Indoor)"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "GOLD",
+        "category": "Venizelia-Chania International Meet"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "GOLD",
+        "category": "Khelo India Youth Games"
+      }
+    ],
+    "stats": {
+      "personalBest": "17.05m",
+      "seasonBest": "17.05m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        15.5,
+        17.5
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData",
+        "analytics.heatmapData"
+      ],
+      "filled": [
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData",
+        "analytics.heatmapData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

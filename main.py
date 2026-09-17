@@ -2,13 +2,16 @@ from fastapi import FastAPI, BackgroundTasks, Query, Depends, Header, HTTPExcept
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 import os
-from sentiment_engine import run_sentiment_engine
+# from sentiment_engine import run_sentiment_engine
 from firebase_store import save_report, get_latest_report, list_reports, get_report
 from dolly_bot import dolly_auto_run_all_rooms
 from research_pipeline import run_match_research
-from athlete_pipeline import run_athlete_pipeline
+# from athlete_pipeline import run_athlete_pipeline
+from athlete_pipeline import generate_athlete_profile
 from athlete_schemas import TriggerType
 import firebase_store
+from typing import Optional
+
 
 load_dotenv()
 
@@ -35,6 +38,7 @@ def health():
 
 @app.post("/run-now")
 def run_now(sport: str = "FIFA_WC_2026"):
+    from sentiment_engine import run_sentiment_engine
     report = run_sentiment_engine(sport)
     if report:
         timestamp = save_report(report, sport)
@@ -109,29 +113,7 @@ def api_get_report(sport: str = "FIFA_WC_2026", timestamp: str = None):
     return {"status": "error", "message": f"Report not found for timestamp: {timestamp}"}
 
 
-@app.post("/run-athlete-pipeline")
-def run_athlete_pipeline_endpoint(
-    athlete_id: str = Query(...),
-    sport: str = Query(...),
-    athlete_name: str = Query(...),
-    trigger: str = Query(
-        "manual_recheck",
-        description="new_athlete_onboarding | scheduled_recheck | manual_recheck",
-    ),
-    _auth: bool = Depends(require_pipeline_key),
-):
-    """
-    On-demand trigger — admin panel 'add athlete' (trigger=new_athlete_onboarding)
-    or 'recheck now' (trigger=manual_recheck). Runs synchronously so the admin
-    UI can show the result (drafted / error) immediately.
-    """
-    try:
-        trigger_type = TriggerType(trigger)
-    except ValueError:
-        return {"status": "error", "message": f"Unknown trigger '{trigger}'"}
 
-    result = run_athlete_pipeline(athlete_id, sport, athlete_name, trigger_type)
-    return result.to_dict()
 
 
 @app.get("/athlete-review-queue")
@@ -168,6 +150,23 @@ def api_resolve_review_draft(
         return {"status": "error", "message": "decision must be approved, rejected, or edited"}
     ok = firebase_store.resolve_review_draft(draft_id, decision, reviewed_by, final_data)
     return {"status": "success" if ok else "error", "draft_id": draft_id, "decision": decision}
+
+
+
+@app.post("/run-athlete-pipeline")
+async def run_athlete_pipeline_endpoint(
+    athlete_id: str = Query(..., description="Unique slug ID of the athlete"),
+    athlete_name: str = Query(..., description="Full name of the athlete"),
+    sport: Optional[str] = Query(None, description="Sport or auto-detected"),
+    _auth: bool = Depends(require_pipeline_key),
+):
+    """
+    On-demand athlete profile generation powered by Gemini with Google Search grounding.
+    Writes directly to Firestore and returns the generated profile payload.
+    """
+    resolved_sport = sport.strip() if sport and sport.strip() else "auto"
+    result = generate_athlete_profile(athlete_name=athlete_name.strip(), sport=resolved_sport)
+    return result
 
 
 # ── Mangum AWS Lambda Handler ───────────────────────────────────────────────

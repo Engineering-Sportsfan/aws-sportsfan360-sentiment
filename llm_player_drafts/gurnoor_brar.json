@@ -1,0 +1,138 @@
+{
+  "playerId": "gurnoor_brar",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": "punjab",
+  "coreInfo": {
+    "playerId": "gurnoor_brar",
+    "name": "Gurnoor Brar",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Left-Handed",
+    "bowlingStyle": "Right-Arm Fast",
+    "dateOfBirth": "2000-05-25",
+    "birthPlace": "Muktsar, Punjab, India",
+    "heightCm": 196.0,
+    "jerseyNo": "15",
+    "debutDate": "2022-12-20",
+    "profileImage": null,
+    "bio": "Gurnoor Brar is an Indian right-arm fast bowler known for his raw pace, steep bounce, and high-arm release. Born on May 25, 2000, in Muktsar, Punjab, he stands at 6 feet 5 inches tall. Brar made his First-Class debut for Punjab in December 2022 and earned a maiden call-up to the Indian national Test squad for the 2026 series against Sri Lanka."
+  },
+  "record_highlight": {
+    "category": "Best Bowling in First-Class Match",
+    "result": "10/145",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "opponent": "Sri Lanka A",
+    "venue": "Galle International Cricket Stadium",
+    "date": "2026-07-02",
+    "aiInsight": "Gurnoor Brar's 10-wicket match haul against Sri Lanka A in July 2026 showcased his red-ball potential, utilizing his 6'5\" frame to generate steep bounce and secure his spot in India's Test squad.",
+    "progressData": [
+      {
+        "year": "2022-23",
+        "value": 7,
+        "event": "Ranji Trophy"
+      },
+      {
+        "year": "2023-24",
+        "value": 14,
+        "event": "Ranji Trophy"
+      },
+      {
+        "year": "2024-25",
+        "value": 22,
+        "event": "Ranji Trophy"
+      },
+      {
+        "year": "2025-26",
+        "value": 18,
+        "event": "Ranji Trophy & India A Tour"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "5/14",
+        "holder": "Gurnoor Brar",
+        "date": "2024-11-15",
+        "venue": "Ranji Trophy"
+      },
+      {
+        "label": "National",
+        "value": "10/74",
+        "holder": "Anil Kumble",
+        "date": "1999-02-07",
+        "venue": "Feroz Shah Kotla, Delhi"
+      },
+      {
+        "label": "World",
+        "value": "10/53",
+        "holder": "Jim Laker",
+        "date": "1956-07-26",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 18,
+      "innings": 24,
+      "runs": 304,
+      "average": 15.20,
+      "strikeRate": 81.50,
+      "hundreds": 0,
+      "fifties": 1,
+      "highScore": "64"
+    },
+    "bowlingStats": {
+      "matches": 18,
+      "innings": 31,
+      "wickets": 52,
+      "average": 27.30,
+      "economy": 3.96,
+      "strikeRate": 41.3,
+      "bestBowling": "5/14"
+    },
+    "seasonalData": [
+      {
+        "year": "2022-23",
+        "matches": 4,
+        "runs": 110,
+        "wickets": 7,
+        "average": 28.5
+      },
+      {
+        "year": "2023-24",
+        "matches": 5,
+        "runs": 85,
+        "wickets": 14,
+        "average": 26.1
+      },
+      {
+        "year": "2024-25",
+        "matches": 6,
+        "runs": 75,
+        "wickets": 22,
+        "average": 25.4
+      },
+      {
+        "year": "2025-26",
+        "matches": 3,
+        "runs": 34,
+        "wickets": 9,
+        "average": 29.2
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://en.wikipedia.org/wiki/Gurnoor_Brar",
+    "https://timesofindia.indiatimes.com/sports/cricket/news/gurnoor-brars-10-wicket-match-haul-powers-india-a-to-series-sealing-win-over-sri-lanka-a/articleshow/132194326.cms"
+  ],
+  "source": {
+    "source_name": "SportsFan360 Verified Database",
+    "source_url": "https://sportsfan360.internal/verified-profiles/gurnoor_brar",
+    "fetched_at": "2026-08-14T22:58:32.000000+00:00"
+  },
+  "_retry_log": []
+}

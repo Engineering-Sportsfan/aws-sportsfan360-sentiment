@@ -1,0 +1,90 @@
+{
+  "playerId": "tilak_varma",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "tilak_varma",
+    "name": "Tilak Varma",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batting All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "dateOfBirth": "2002-11-08",
+    "birthPlace": "Hyderabad, Telangana, India",
+    "heightCm": 183,
+    "jerseyNo": "72",
+    "debutDate": "2023-08-03",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tilak_Varma_in_March_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Tilak Varma is an Indian international cricketer known for his aggressive left-handed batting and occasional right-arm off-spin. He made his T20I debut for India on August 3, 2023, against the West Indies. Varma quickly rose to prominence, notably becoming the first player in men's T20 cricket to score three consecutive centuries in November 2024. He played a key role in India's 2025 Asia Cup victory and was part of the squad that won the 2026 T20 World Cup.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "First player to score three consecutive centuries in T20s",
+    "result": "107*, 120* (T20Is) & 151* (SMAT)",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "South Africa (for T20I centuries)",
+    "venue": "Centurion & Johannesburg (for T20I centuries)",
+    "date": "2024-11-23",
+    "aiInsight": "This record highlights Varma's exceptional hitting prowess and consistency across different T20 competitions, making him the first to achieve such a rare feat of three consecutive centuries. It underscores his ability to perform under pressure and dominate bowling attacks.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 59,
+      "innings": 56,
+      "runs": 1645,
+      "average": 44.46,
+      "strikeRate": 145.19,
+      "hundreds": 2,
+      "fifties": 6,
+      "highScore": "120*",
+      "ballsFaced": null,
+      "fours": 127,
+      "sixes": 83,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 59,
+      "innings": null,
+      "wickets": 4,
+      "average": 13.75,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": "1/5",
+      "oversBowled": null,
+      "ballsBowled": 57,
+      "runsConceded": null,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENWCVsNwfGxgfa7MYdoxjOb8XczA2IUvIMwiGmx5-XqQ9igpb3cKjqWe7oJOQFGqf0T8Yo-qE12Uts-8OjnR-kkG4vSwvUt0G4aA1jm1Jj0P-cyo8zVuEyi6hJLfjg6jROVQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjhgJEqcQUD8TxKrmMWBCBkIW20IYEXmbrH7lHUrODuVYEEEPmeOzqP-d8qFgDwEA-DNQoB8UN0gPm4BJVxi3VbdEirWN9FIEZTHfVTi5WcGKW23yNbnNGXHscilofI9NR6svZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUhrzMCMGpmzknVudJWLsE7WAs8hctVaURaQ1f-PqUyl8vZMS4Etk8TUqYYYeKJi0kqjA_FGJPFccRjoP54kVIgHB_fqz8ZvHYAdICDsu_Re6L20bB_20oXDHuY3PmjjO5jNLXLT-SJMSm50UxXDzFpdI_s0yUfYIzPBrilOfbQNTe5RL3bqaFUVM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsN_QxnwcAv3tYm1a8AXddIDEy3IdQ8IFi-wA3r07kz78Z4s9ssDhnXTwtEIxpSo84fVmFI7B65PR-tYlyEhPbi5qlyU7EeRu9TYSxHEtpnmJ-ZXM_twEEFcbyPYNlGxVWNdM9a2qvOSFkCzc2bxe80vDdo-fQgDKXRGlLBo1SaHQQWaHD4Zg4nBv-bRjz4BGf_1k="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:23:32.377584+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "tilak_varma",
+    "tilak",
+    "varma",
+    "tilak varma",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

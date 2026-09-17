@@ -1,0 +1,229 @@
+{
+  "athlete_id": "annamika_kozhinjapara_mbil_aneesh",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Annamika Kozhinjapara Mbil Aneesh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2004-01-21",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": null,
+    "bio": "Annamika Kozhinjapara Mbil Aneesh is an Indian athlete specializing in jumps and multi-events. She has achieved a personal best of 6.05m in Long Jump and 5685 points in Heptathlon. She won a gold medal in Heptathlon at the Federation Cup in 2026.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Long Jump",
+    "result": "6.05m",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-03-24",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Annamika Kozhinjapara Mbil Aneesh's personal best of 6.05m in the Long Jump demonstrates her potential in the event. This mark was achieved in March 2026, indicating recent strong performance.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 6.05
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "8.42m",
+        "holder": "Jeshwin Aldrin",
+        "date": "2023-03-02",
+        "venue": "Bellary",
+        "tournament": "Indian Open Jumps"
+      },
+      {
+        "label": "Olympic",
+        "value": "7.40m",
+        "holder": "Jackie Joyner-Kersee",
+        "date": "1988-09-29",
+        "venue": "Seoul",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "7.52m",
+        "holder": "Galina Chistyakova",
+        "date": "1988-06-11",
+        "venue": "Leningrad",
+        "tournament": "Znamenskiy Memorial"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "6.05m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Long Jump",
+    "achievementLabel": "National Heptathlon Gold Medalist",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "6.05m",
+      "bestYear": "2026",
+      "totalGold": 1,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "event": "Long Jump",
+        "value": 6.05,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2026",
+        "event": "Heptathlon",
+        "value": 5685.0,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 5685.0,
+        "seasonAverage": 5685.0,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 60.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 80.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "6.0\u20138.1m",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "8.1\u201310.1m",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "10.1\u201312.1m",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Data not available to assess consistency.",
+    "peakZoneLabel": "6.0\u20138.1m \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "5685 points",
+            "holder": "Annamika Kozhinjapara Mbil Aneesh",
+            "date": "2026-05-25",
+            "venue": null,
+            "tournament": "Federation Cup"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPgvpRmqCx_bGOExGNKwxnSNASvNKa3U8xkwxpm8dg-mo0HirYh0xX4piN3H8n7YZPDJmAZ1RMDm_0kguGwzngRa4B8M-56S5ZOEXutfXZSF19qH4wUuJo9T1jC3Wnev-kl1Ab3ZR1TIVPhcDJa3W6ZzVoJuSv5gPCbSEJQPrSKK4AHx5BWp4hdPEAYEE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGFJk08EjMQEChMHP494OUwFPP98o9YO3qUlUCOjNkz9mIWSMvk5vTw-zonFVdXHP2GZGXxQogLGsSigKJear9dXSOZVN8OfCw3Brar-wqW3c3_uaZaa4ONxC9HzH7H8YVCt1f60UUHTlSIczhJ-SdTSg1ds0QDGOjTqq8PI_t27MoZDYAlsjJyRDQvGx77wqnY1P79EKGQxbRrbw7GVYa5cdRhGew81Lp9-BrijlhleJ_882ri7udAE3QpdiXPW2jLgIDzzSIRON4XEUp"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:03:45.853177+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Long Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Heptathlon",
+        "medal": "GOLD",
+        "category": "National"
+      }
+    ],
+    "stats": {
+      "personalBest": "6.05m",
+      "seasonBest": "6.05m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        5.5,
+        6.5
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

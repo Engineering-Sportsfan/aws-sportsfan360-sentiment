@@ -1,0 +1,196 @@
+{
+  "athlete_id": "manu_thekkinalil_saji",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Manu Thekkinalil Saji",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2001-10-17",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14971828.jpg",
+    "welcomeVideoUrl": "https://youtu.be/HbKWOJpcT3I?si=3Y-MFH5eWFt-D3As",
+    "bio": "Manu Thekkinalil Saji is an Indian athlete specializing in relays and the 400m event. He holds a personal best of 45.57s in the 400m and 3:00.32 in the 4x400m Relay. He has been selected for the Indian team in the 4x400m relay and mixed 4x400m relay for the Asian Games 2026.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "4x400m Relay",
+    "result": "3:00.32",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-05-02",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Manu Thekkinalil Saji's personal best of 3:00.32 in the 4x400m Relay demonstrates his significant contribution to the team event. This time is a strong indicator of his speed and potential in relay competitions. It positions him as a key member of the Indian relay squad.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 3.0032
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "2:59.05",
+        "holder": "India (Muhammed Anas Yahiya, Amoj Jacob, Muhammed Ajmal, Rajesh Ramesh)",
+        "date": "2023-08-27",
+        "venue": "Budapest",
+        "tournament": "Kladno Memorial"
+      },
+      {
+        "label": "Olympic",
+        "value": "2:54.29",
+        "holder": "USA",
+        "date": "1993-08-22",
+        "venue": "Stuttgart",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "2:54.29",
+        "holder": "USA",
+        "date": "1993-08-22",
+        "venue": "Stuttgart",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "3:00.32",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "4x400m Relay",
+    "achievementLabel": "Asian Games 2026 Squad Member",
+    "stats": {
+      "worldRank": "178",
+      "personalBest": "3:00.32",
+      "bestYear": "2026",
+      "totalGold": 0,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "event": "4x400m Relay",
+        "value": 3.0032,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 60.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 80.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "3.0\u20133.5s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "3.5\u20134.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "4.0\u20134.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Information on detailed consistency data is not readily available from the provided search results.",
+    "peakZoneLabel": "3.0\u20133.5s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW7bqYSPUA6jb6Z5fLBuO1JlGHfUxD9VhvcrKgyVXCpSGFJvREVXovx_-W_JCnxdRQdFtZAnbbYAC6WZ7SXouoGfI0BWbTQYfxzkcdhUt3Nw1j6D6S2fu5K00CzNHL34T8U8njlnIcQUnJSyMRQOWi9YdeAzAuc5zw0IoxyOToNnDZcw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5TKFezEl-f5kiL6QlR_XJx47_mDas19NB_h4W_rw5b5EcaK8nR34J-HTDtQIM23peQcJGgyU9FLNQZpe3wZSbl1yIa3cpQtQKZX5OsFk8OxjTpck5vngehcBC049Z2nO6EYAYSMwmDJqlAVz6XNUbci_0WwiLV5-Xao9ciqLnGMYwzPFuHF0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T14:04:40.153031+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x400m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "3:00.32",
+      "seasonBest": "3:00.32"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        2.9,
+        3.1
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

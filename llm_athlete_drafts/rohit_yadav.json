@@ -1,0 +1,409 @@
+{
+  "athlete_id": "rohit_yadav",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Rohit Yadav",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2001-06-06",
+    "heightCm": 183,
+    "weightKg": 74.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14740932.jpg",
+    "welcomeVideoUrl": "https://youtu.be/58RBDebOS-Q?si=wzLtrcZP3SnATi80",
+    "bio": "Indian javelin thrower Rohit Yadav was born on June 6, 2001, in Dabhiya village, Uttar Pradesh. He is coached by Sergey Makarov at the Inspire Institute of Sport. Yadav gained recognition for consistently throwing over 80m in domestic competitions. In 2023, he suffered an elbow ligament injury, missing major championships, but made a strong comeback in 2026 with a personal best of 87.05m.",
+    "birthplace": "Dabhiya village, Jaunpur district, Uttar Pradesh, India",
+    "coachName": "Sergey Makarov",
+    "yearsActiveSince": "2014"
+  },
+  "record_highlight": {
+    "event": "Javelin Throw",
+    "result": "87.05m",
+    "type": "PB",
+    "typeFull": "Personal Best & Championship Record",
+    "phase": "Final",
+    "date": "2026-06-28",
+    "city": "Bhubaneswar",
+    "prevRecord": "84.35m",
+    "prevRecordPlace": "Bhubaneswar",
+    "prevHolder": "Manu DP",
+    "improvement": "+2.70m",
+    "improvementDate": "2026-06-28",
+    "aiInsight": "Rohit Yadav's 87.05m throw at the 2026 National Inter-State Athletics Championships marked a significant personal best and a new meet record. This performance was particularly notable as it came after a career-threatening elbow injury in 2023, positioning him as the second-best javelin thrower in the world for the 2026 season.",
+    "progressData": [
+      {
+        "year": "2014",
+        "value": 49.0
+      },
+      {
+        "year": "2016",
+        "value": 72.57
+      },
+      {
+        "year": "2022",
+        "value": 82.54
+      },
+      {
+        "year": "2023",
+        "value": 83.4
+      },
+      {
+        "year": "2025",
+        "value": 80.35
+      },
+      {
+        "year": "2026",
+        "value": 87.05
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "90.23 m",
+        "holder": "Neeraj Chopra",
+        "date": "2025-05-17",
+        "venue": "Doha Diamond League",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "92.97 m",
+        "holder": "Arshad Nadeem",
+        "date": "2024-08-08",
+        "venue": "Stade de France, Paris",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "98.48 m",
+        "holder": "Jan \u017delezn\u00fd",
+        "date": "1996-05-25",
+        "venue": "Jena, Germany",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "87.05m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Javelin Throw",
+    "achievementLabel": "National Inter-State Champion",
+    "stats": {
+      "worldRank": "16",
+      "personalBest": "87.05",
+      "bestYear": "2026",
+      "totalGold": 5,
+      "totalSilver": 3,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "event": "Javelin Throw",
+        "value": 77.74,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "Javelin Throw",
+        "value": 82.54,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Javelin Throw",
+        "value": 83.4,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Javelin Throw",
+        "value": 80.35,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Javelin Throw",
+        "value": 87.05,
+        "rank": 2,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2016",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 72.57,
+        "seasonAverage": 72.57,
+        "currentStreak": null
+      },
+      {
+        "year": "2017",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 3,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 82.54,
+        "seasonAverage": 81.16,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 83.4,
+        "seasonAverage": 83.4,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 80.35,
+        "seasonAverage": 78.73,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 87.05,
+        "seasonAverage": 84.31,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "<75m",
+        "count": 2,
+        "throws": 25,
+        "percentage": 8.0,
+        "peak": false
+      },
+      {
+        "range": "75-79.9m",
+        "count": 6,
+        "throws": 25,
+        "percentage": 24.0,
+        "peak": false
+      },
+      {
+        "range": "80-82.9m",
+        "count": 12,
+        "throws": 25,
+        "percentage": 48.0,
+        "peak": true
+      },
+      {
+        "range": "83-84.9m",
+        "count": 4,
+        "throws": 25,
+        "percentage": 16.0,
+        "peak": false
+      },
+      {
+        "range": "85m+",
+        "count": 1,
+        "throws": 25,
+        "percentage": 4.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Rohit Yadav has shown consistent performance in the 80-83m range, with a recent breakthrough to 87.05m.",
+    "peakZoneLabel": "80-82.9m \u00b7 48% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "92.97m",
+          "holder": "Arshad Nadeem",
+          "date": "Aug 8, 2024",
+          "venue": "Stade de France, Paris"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "98.48m",
+          "holder": "Jan \u017delezn\u00fd",
+          "date": "May 25, 1996",
+          "venue": "Jena, Germany"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "90.23m",
+          "holder": "Neeraj Chopra",
+          "date": "May 17, 2025",
+          "venue": "Doha Diamond League"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3T74kvmpJzSAxPJEz-NrPaJsI3Eq04vRuIN5N8p5OaBfq-NscJAQ7I8KEEDazDSdIi7SYzt5xVdIZv5pV0kZ49VnA8VHFT3h931si2ay0eXsv5D1lZWumejlUONGHBNjeSdtu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL8OC4QLyyF6JbcwNhVB3M54IlTQTSWO1_VHVBfVqS81WEkwr0s2_eaUdDZUB_uHd5lMuDL_OtECkhKW0aGn8edIaFOaAFFkth9mAwYmWCd5Wt5EKDC-Q2Fg9YojzFuobD5ShniB_jd8q3YVCfAJz6wngU-d1FyoTasezzvmjCJS0klFKI-56v_ohWeWu4ADcQYue4w1o7w_PTNWaVxQvyIhC4J9gNoQ4MWWTOUK_v_tqWaUdhlVGH3SYIaxYVnZnE06kA9IHFasQlTvukXQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHteHq8w2E692TWjnJDPnniweD0h9qZ9z2_6Ckr7ww8BXgMGyXxeIXX_1I_H3e_3WPE8NngAc6k_HlS5CVTjezudzRCx_gjksF0EcBSD03zW6kA5D6SzaD1AGJPp0S6Xv4Y_SS9SGnXE8yEkcg1ysFiN9M70rfpRQImPSQrMYpaH0lws9b5I5pCHNWzveO1sU1-30UucNsOjWgeTXxfPPA2x2b43AbBimUrDVUAoex8UGkaEQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWsc3wd1i1d0Qh17D6x8kL-c16ARjS_Yi9nDGmBDh-i2PP_HUMBFWOdOlKkxIvdqMgogTjP9OM3cuzHie9aK7N_ECCoIc0d0zY2X1is0TlcjZlp4czqnTO_m97bVfRna8xDQKYLlpUye_3BZ4-fPF16n7wfiaz-Gu03js-wg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJDlEHq-MxX1eZ9ebkTnio1BZfCSESHRZ6odMQLNUoKiQgHtnNcDV8cs4I_HydVrdEZclvR6pXda97gkZBZ26lHcoD96bsJNUz74uSa0Np3X3xHJX-MF6oMnieLJqL2QmJOM9-Ujg4y3eVwAWVEh28g6nTgmyR5hibu0MqYGnAo7h2rjTMZkuM1hvvcEwfPLEMZlo9g3Sq48OlKDzxHAmU_aq6miWOh6z7LAddJV3HkcYYlJAK_gyYKko=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxwwEozp6wkT2c80wpSI9w5maFmaBRRvZaKKSkck9gzcTfYmfnWaBd_qqAGw-p7i4PZAD5m6b1b2ZOhorc06-aXkf9AU90lZy5nBEAXidx_HUpaLg-hD-UxevVH778QxsZ8KJx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESU_AX44mIXWnrAq-ru2DaGGV3_zcVi7NSIYMdlX9zjYyI9SS-o8SPunfu667pcPvQ75OxLjZbzgJOpZtsCrFZ-mK4VZx_cxXEQWj6L2N4tqiyjMn0BF9qE74VwKJ6ZY9nv9wvPcDKUMFTMXyFBVg4gUu9xbVsqQZa9eRL2_LZDLkfEQTPg3IegMhkFWYAyxKXzg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWkf2AZB33jbTlqT4KsU431mbDqKgN8THtzQ2DLMQpcEqfI52VdggM6VG1OWMdMZWujoOu4875UMlQDvqB7C3SjKFOG8V73pr7zLCBlYrml703jsDvXXHwiRsh4QvesVnisgzPZLw17OXiGmrGGlYVFh0OpHfFx1qGdX4j9xArNvJNS6CYTYXhgGXKHWAXcQtsSDpq7Ki1o_kD0Y3oGjBwpcrQUeBrxMddxgKjI9CeB5OAA-oSOV1zHkFL4RS6DbKPmZZ5Lj3owydO7l8zrA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8-kYq0Zg030IJNNRhVbkQnwlodWdFZBoH-h5s8TT9rkIKDKNwX0_o7tU5A7UfLs6oZPlD3wcnIRNQBMLRLYDTOHCIogqOQStbO-SEbC_1XoWW-yXMvmcj7nRHlBRcnbnxR5L6W1xU7kV7dTx8qbosSAfGLU36uUqkmN9kir5p8DaIogWy4n_nfH2vMi74-efXPSvsBjQRYpGg-oeh6TfDT6tjvP5ovvBce9heUJYKN_lZassF8JfFKpVDZ4ze0SHcWqrjV2LCBNUT8A7s-rfRpW0e1G0mrAYvl0M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZGdeNbZvujSIecyz_5pDWJ8Jyr2UCS6E4vdK0AiroSYWmsT9sdAVWIfkp-UgDiCGtsKiM1Uy1HowUiHPI2LwFD_bEcyiqfXDhsBMjqM4LxuGq74kCVEMlxVZwVi1NIhCPt4sA6wZj_pxsF23iRdjLSVTAOWJtVhS-FhbVRNj1-CfsNVw9bDw4W93KU03zyXr3zijxsA4qWEfB7IuMVkV7Rh_vRP4J-yvuIajS1gQiK9JImsgmgOe0MZs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeruUcqn-N7IAGJcbZ1DVk1r-1M5Sn0O6Gf6LyO7XCgmC3EXtnOziL97xFkO9p2XilPaCaMe5p1n5FuNWkH6We0zA-_yFMUh8yW9ULTDRNKxJYcYSCZFyQKQsOJykrackP2_HKFcT85WH9DlTSc8QvDRr_b3rngnpfTACw1zqnn7G9R0pcOSUg1-CbBryTKTPzBilLp0QcpR93TUzN9Ks5MQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T16:22:46.625971+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Javelin Throw",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "National Inter-State Athletics Championships"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Federation Cup"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "National Federation Cup"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "National Championships"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "World School Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "SILVER",
+        "category": "National Inter State Senior Athletics Championship"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "SILVER",
+        "category": "National Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "SILVER",
+        "category": "Asian Youth Athletics Championship"
+      }
+    ],
+    "stats": {
+      "personalBest": "87.05 m",
+      "seasonBest": "87.05 m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        75.0,
+        90.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

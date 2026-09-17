@@ -1,0 +1,453 @@
+{
+  "athlete_id": "animesh_kujur",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Animesh Kujur",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2003-06-02",
+    "heightCm": 188,
+    "weightKg": 65.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14971002.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=nmr1XTRd4Gg",
+    "bio": "Animesh Kujur is an Indian sprinter specializing in 100m and 200m events. He holds the national record in the men's 200m with a time of 20.32s. Kujur became the first Indian male sprinter to qualify for the World Athletics Championships in 2025. He trains at the Odisha Reliance Foundation Athletics High Performance Centre.",
+    "birthplace": "Ghuitangar village, Jashpur district, Chhattisgarh, India",
+    "coachName": "Martin Owens",
+    "yearsActiveSince": "2021"
+  },
+  "record_highlight": {
+    "event": "200m",
+    "result": "20.32s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2025-05-31",
+    "city": "Gumi",
+    "prevRecord": "20.40s",
+    "prevRecordPlace": "Kochi",
+    "prevHolder": "Animesh Kujur",
+    "improvement": "-0.08s",
+    "improvementDate": "2025-05-31",
+    "aiInsight": "Animesh Kujur set a new Indian national record in the men's 200m with a time of 20.32 seconds at the 2025 Asian Championships. This performance earned him a bronze medal and marked a significant improvement over his previous national record of 20.40 seconds. He also became the first Indian male sprinter to qualify for the World Athletics Championships.",
+    "progressData": [
+      {
+        "year": "2021",
+        "value": 22.31
+      },
+      {
+        "year": "2022",
+        "value": 21.12
+      },
+      {
+        "year": "2023",
+        "value": 20.74
+      },
+      {
+        "year": "2024",
+        "value": 20.65
+      },
+      {
+        "year": "2025",
+        "value": 20.32
+      },
+      {
+        "year": "2026",
+        "value": 20.32
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "20.32s",
+        "holder": "Animesh Kujur",
+        "date": "2025-05-31",
+        "venue": "Gumi",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "19.30s",
+        "holder": "Usain Bolt",
+        "date": "2008-08-20",
+        "venue": "Beijing National Stadium",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "19.19s",
+        "holder": "Usain Bolt",
+        "date": "2009-08-20",
+        "venue": "Olympiastadion, Berlin",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "20.32s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "200m Sprint",
+    "achievementLabel": "Asian Championships Bronze Medalist",
+    "stats": {
+      "worldRank": "39",
+      "personalBest": "20.32s",
+      "bestYear": "2025",
+      "totalGold": 20,
+      "totalSilver": 5,
+      "totalBronze": 3,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "event": "200m",
+        "value": 22.31,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "200m",
+        "value": 21.12,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "200m",
+        "value": 20.74,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "200m",
+        "value": 20.65,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "200m",
+        "value": 20.32,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2026",
+        "event": "200m",
+        "value": 20.32,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 22.31,
+        "seasonAverage": 22.3,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 21.12,
+        "seasonAverage": 21.1,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 3,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 20.74,
+        "seasonAverage": 20.8,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 2,
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 20.65,
+        "seasonAverage": 20.7,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 9,
+        "gold": 8,
+        "silver": 1,
+        "bronze": 2,
+        "seasonBest": 20.32,
+        "seasonAverage": 20.4,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 7,
+        "gold": 6,
+        "silver": 1,
+        "bronze": 1,
+        "seasonBest": 20.74,
+        "seasonAverage": 20.7,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "20.2s\u201320.4s",
+        "count": 1,
+        "throws": 1,
+        "percentage": 16.7,
+        "peak": true
+      },
+      {
+        "range": "20.4s\u201320.6s",
+        "count": 1,
+        "throws": 1,
+        "percentage": 16.7,
+        "peak": false
+      },
+      {
+        "range": "20.6s\u201320.8s",
+        "count": 2,
+        "throws": 2,
+        "percentage": 33.3,
+        "peak": true
+      },
+      {
+        "range": "20.8s\u201321.0s",
+        "count": 0,
+        "throws": 0,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "21.0s\u201321.5s",
+        "count": 1,
+        "throws": 1,
+        "percentage": 16.7,
+        "peak": false
+      },
+      {
+        "range": ">21.5s",
+        "count": 1,
+        "throws": 1,
+        "percentage": 16.7,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "National Record holder; consistently improving his personal bests year-on-year, with recent performances often in the 20.3-20.7s range.",
+    "peakZoneLabel": "20.6s\u201320.8s \u00b7 33.3% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "19.30s",
+          "holder": "Usain Bolt",
+          "date": "2008-08-20",
+          "venue": "National Stadium",
+          "tournament": "Beijing Olympics"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "19.19s",
+          "holder": "Usain Bolt",
+          "date": "2009-08-20",
+          "venue": "Olympiastadion",
+          "tournament": "World Championships"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "20.32s",
+          "holder": "Animesh Kujur",
+          "date": "2025-05-31",
+          "venue": "Gumi",
+          "tournament": "Asian Athletics Championships"
+        }
+      }
+    ],
+    "beforeCoach": "22.31s",
+    "afterCoach": "21.12s",
+    "coachImprovement": "+1.19s",
+    "coachJoinYear": 2022,
+    "coachImpactData": [
+      {
+        "year": 2021,
+        "value": 22.31,
+        "period": "before"
+      },
+      {
+        "year": 2022,
+        "value": 21.12,
+        "period": "after"
+      },
+      {
+        "year": 2023,
+        "value": 20.74,
+        "period": "after"
+      },
+      {
+        "year": 2024,
+        "value": 20.65,
+        "period": "after"
+      },
+      {
+        "year": 2025,
+        "value": 20.32,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 20.32,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy3Gus6bHjClUUS1uQA1EwHpdHQ81WEJQkNl2PXjlo0IpIF6k5wMqMBgJ61RdoIFhkVGBX8QKjxK_8xB1ImJHQqs9Cu1Rjr51IChG7AxwiWzwRV5ynIQygpcE1WAuldVU2H5vaBU8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm9rC3M4K08atQauNIqu8NV9k5bP464nMRsh9uNW7ECYMEZkT_FY4dz9rGDaWiQHG154Myuo88AM1o9xaAOEddwC9gr1sh41hopxuaINwMj5OooDh6J5I8Xd1tQy6uJcn3G676JGUvUU7AZCatjaw1Emqc7NWs3JEWLmYeySFXrh1voBMbMUvVrdedMMOcWDkUjG9iab4jKmGalpMDEW0FrZHcnTQV_DYD9tSGgt_tTi7sLzzyv9uCmmXRzaYKfDohtie_dXbxc5eV1nhyiBUgyOs7HThk59gK8T5X2Uq1gQ_TYu7Ulg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeY5YdEBykr5awcuqq-Do1msvVBLe92Y8aF5DZM6u4-VZjYd-Z5x_Fj--r3-ocT0H-gVvTDDlKwIoWQe3EzZYmRPw0R7llSqoYmsHLJPTuOAdUknFR-4NAawCKK85TqMjnHJ3n6c2Ah9iXzkLADiY9TDmFodiFZBUoWpc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNkhSh-qvcOkAUXeXr4Jk0zd0jEwcTjIkjNebPD0bQbbBwzCdqqzXKdNb9-5lO7qMgiBlDVOZTIaXU5GiM0txaiV9GzrrgcktSPKRM31A24XXOAgW2AcXZhwFvutuALPErX8yN95AFYbm6uwsyZ0tulRxMfipt2Tmzh4zdqrsX4Ly-PxGw5OeNo8BjrQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDHJe8RnUsmnqon9MoR71HGZoM2JRjmPlmON_tfQ_nqmHKe1fY0B1i07bqwXoUu9zHE9WpEn9BRXNx1_b4hM4gUMONAxUisbcb7FhVbAyPXBpT0V4Erg-bYBRhpYPjKlhd1PffUqBD8lf6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEojKQQkfGE_pqMeHJ5Nm61I9_6bn0z4PUdH9zp9JnZFqFoK6vJvDtWMaluxpWt8Md6h8kDY1GMErnNJbIlzwQWUK-GLkG2zwlRS49UIXuevHD0pFXBWniMVlWbWWFZnjOuRQ8HDJV3Z4vga6opakN3vGcwzA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnnpT-KWIQeRlz1SEBRDq5oZmih6deMwSFRi8rw6C6ryij0pifoWyOdV-HO6Kaq_WNTJDDMwdzJkTM3LJTLTsHFAhTgDF_GpBRFrOm96Qj08UaVIEkSIGG384JRdEFVqGgdFUfgr5FG1DHsjT2xKDKlYLvialXaVDZQnNkQRSh6ICRQc0KAGsTLdqB9aCv8yfMfF7e8XjMz_6OJMz7N1rBs-0BQAwrPK7H5IyfzYXoWyeWTbo3XH7SiGpcsuP8A4QWEetZkPwBtuDrPGZDIsg4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh6pIdwHWWK9pvPeYPYXPeY0TZjZVlvTRda3LOts9Ea-ulDRQX7tpAs-fjONlHsI7FZTSNSFvvgTgULbtVM50Y56CpXDK6cTy4om_LmDJztNxcZQujD3afwU53zOmofcbPgiAFKMElAkC-uC-rDmT7_gv8qQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIuV6y1mq9oyD9SIWpOZ6xhVtqa9XyLAlnJ47B8sjIHKtiTbXCnMuNljyaEM1p7PorQO_JLDfZOuDnKAwMchwuby6ujFluD72yTCZh9h53VilQt9xEvM9UjG1sJH9Yp2lqhGyP0H8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9qnddxsi5LMwfreNLEaap5hRofv_PLFdXwsgPDbYuV3YtiEcArbwK22MCfJxDRkt7FiMNsSRDc4BrwxozqamKQOjEDs3QKkT12X4w0hkPxGHoVmQLjzZLvnFTRg8ffAhpmRBPmmEikczFtN3GW4iRVBbGrW7Ko_iOTMaW6UbP",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMzm7Hgt1q7avhIvJ084j_mHiucHNXMymDltQ9YrbFoMvjHjfAEeM-Y4WSsLO4uN9blKEgKmR6FCEzZKG4U2y6gYINfA1x_wyhYsrrSvxw8QZZMRK3oFsh0oZ62e-diHplRpAdFHVCekpy",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELrT8npFRnpgtTp04UuCPgCHMrtb4QrObXqCluRVlSK6SAW5WJGFmB2pMtVQwJy19uwtb7f7B4ZP-FXClePc_EoAyvSefbLvl5RsTej9FTqK3eB4wxwV8aWKoUMgIzJtQhTi2V5bnWfKIhJwSKqbutxr7r0tqIdPRTFqs7w7qVNHkLTi49zlQZQ6XbY8Uj4xHootuEJK0cLsRXqjAChBYQB5ym0kFCWnG7kK7586434giWTjz7X-jwJUG5E3gpfWlbFD5u3H16DzRhj8Gyp1ecBMAW5FRwt0WOx2YuSTiRbAzYFtAq0YsdT2oAz13zZO7wvTvddHTL3-5t4_Ei2fN9oZxWj8dXitq7HuHVLkYCdr0oGz07YG-YvJH7nvZhLsgY12XLGS6Sdw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXi6UCIimN3We4Y92ujCJm3XXmTJb6LrOdyt--bQ1Ix6Q3GP2_2rziqSEyAR7oTE8iG2hUBV1BWI2E5bwdOXmoyCijpHd1UZ2tHQApOixWzmDR-O2ZN5IVUmIw2WlLv_eOMbvrzZv_baEhd5SdpCe7PKamxMXl4WzOV2iJgXe9Mfpvo9dhzfZlZcwMn8DjoKoikaJIgfcoJW82saEc4b-52W-kgM5MdQWHAiUaVnokd74opFsnKKIAXgWRT6rE4O-t6wmebB2ZCspGeFeVv-gDIHiC1Bx9QawkYJKGTty6UqbLkAC00A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrXyae35v_Ae6bdvU7TyvBgn8jnRujcE7OMoqo3a1a3RyILkwGIPB9coCuVBkZgsSDyADKsRJAGECE_Qe3QhJsWnzA12pvm4Z-p7EIY1IqCNF0P58onKHPFUyuQqTRHx3clx4wzVO3NDQEO5T9kWQJyTM64KuaSPZAcENbcTMCPSbkOpHh7c7tv0m0FPVfxw0oAXEBTz5RbJNJUjpfrVPT5EyXGUCFx_E94tDcljWRGQPQ2_1shuVcCaeeZqrb4mOXj_fI6S3if78DDnZZPW3fagjyYCbEIU0bY6-18Kbj-Bm1tJBxNSIuu_bLs_N0Uf9nRg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHutdfRxzWb007DCkfgfbxbcA4eOq3Ts74N-yZ2WSnNACzVC4rbJKe9Zu_lsBgN1qB4_LopZAChqjz2EM2Dw8UsDQZsxw4qGhQm6S6JV10m3Cmyc8iCnRVVjtjYk3AtpLPI1YiRQu3uDc8y4s6CSUmz4ltJ-9_zwTNfRvkK2taSm4gqY1ADZcECFLwTD2eyr8uOV18ufUA3dUC2RlmeiT89-kJzZNybm5w3w3UHYz-SnxBZQ96BwF9P",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwHDvtRBMIDSExaPQrElXc6nw4ZQMAiyiBet5OyI4CBBrZbS9yoLAW1tQvyF3Lg0NNNuku3ipaFSJ5_D5OBn5fUbdtIbpOfFy_OYKjKZSeT8VS6sttssfiLJNCsGBAupzv1yKtTIVDMjsTYD9GVgS99M-2vHmaVNaMKtM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKsoN-s_-Mwr44DuILCV9qSV_g_z5asjMJLkAJTVWdjAUJo0VBWremZdpgTGHHpA9WQdU9b9PWRgpSAjNdn0hyPCj5Yef9FXA23_oZud3FilSBknwFXbXu_7AUZbl4hG0QRjNyYrIgT3vRX2bn11gofB-PW8xuFKqMJHCLu4wUh0S8ktkgI0--efIVUlm_0POd_p-MVrt0JS4E4VhlOO6xDggO1rH_EOkOlK1PxzfOtyfYqql8gv3QqvaHLy12RcwdgSus-wdbLt1JphyFSKrCZ7t4DgSvKF7FSuVFFa2B",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgpAa-txfbsLnU6B7jgu13r0JdrGUtlSAa2vlT6Pz8Q0ULI4NKmYBCAVMkT1-RhAMeOjV2fk8TPRB8r0ZsZcxbnjzQqwv--D2CdPuOqdG9Uwo_lp17TI0T02FvpEfNiMKFcMPAirjQw9nLlpWs5vpbYLqdvHrjI-qA8Ou-YvsqZ_3hE5-PCkoD9CbQfF745PAUpDdhNTetzCOkW3y6DjDsb47XzYHDFFWO9sNqWkukEecV7zdLdjmytXXCoWA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDBCjV2x2sE9J8bPrDTrQjhc0MQduL99k9Qz8ERa0H4UzkRNKeYWuPNBNmLPAPmMdAGurVNyLSVYgQBNnJVLS6mxV8yi4eI5zzjBhnJajqS8lFXuqxriOac3fnQq9e40b9v4Cy55k=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG04KUWGoPh6rmSgL9U7c0gEl_33Z0cNG4ZBlmx-9pMfoyDiUeXobuOXWekKMyFUhSYlvneqFy9B_pLJ89mTauwkpXzDOPzY0fwmcK3zTDc_u50LOKAf6mufLIZHylOmQCmgGx7f8-reh6CwwT_uliX_uY0ZbGYZqlSeJNM_qpnLVYqqbeEGHu7Od7Mg8JukZUAkqFIfubacK0DiRaMbntjVerYGw1WwjlJKyNzlhiqEEHNF6tjro_mNtrW20B6VcqERFkgeZ_LMJjojjJeLar0EisB4C1ClAHL9C4vSuD7VA5WMgEOMg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkNC5CvHA6u75B46a0kUpNRgO1h6t8sUZIuRkGysAzkz4QzTP6uACKgbeyx7vZX55BwtdEehO--GOEJ0HYs4f0faq1jhebc04EGDR8UQUGb6u0wcYwMGCSky9FIFjsd793fHfP7jKE_VinepgDXDKhtlx4xQqDgpNwhSo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDen5mT3c_S3AeTBJLfk1f_ni-hmLbdTpZNsCEyK-kpkEGRHSsr_RtdS8A7PrGDo1ypRUlPxj9B-pSR4-RfXKIHj0EYY_tdEYxUFyNn--Xl3-MCttdV6aC3TjvJLpncbhnqa97O5mJU-yV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8zmVSI2cpwsbZCGAaGcSGV1G-P4rfADPisQnJPUofDjvxWSUazkmwqwiVZXReb00dWjaV2ouXC62d-M6Rko6-DN2Dkq8SmcTcQ8MErSD7t3hIF4YkpILn7N3K57Ldpnm-gs0ZwshLSlF1YMaajn4oAs-rsW3iAXN6dn-fLSb-2LAR7Ly2k44jFHvVy-ZNVAwasabUsce0qbJ_0UgNsKVM_ooOr75uwjRbFmjAqF_zH_kCcdScrCOKvQXXPnL2lrGLIdvepwxdLo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtd9t4AtdJjE7vmBOc-vD4lwR81u_O6FYcNU-NiRT8XfaUZh0g16AY4gxhCNQL6Nwu8M7X1iBmHUl9QEV9fjeS_RUXaO6XhEoApM3LeN6XFV26aITVz17ww3tQ7ooWFll1YilaJwLPznGeMY76gtAWaLAc4w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsduKiGB1Wy2bC6U2GI57ykCb5ZuMdvakHJcFVRTMe9vPDuyeira3I1Agx_U1CdR5fgqMa3Mr_N4-27uaAUiireWKnNKg225AqdQtTTnHo4RFugYjgiWIQqmnGjj6tMI-Cmwy7kU9RCgCJ0vkp_sblZBMvA2Ce2w6EtfqqIObnLcZ74y7K4Vj-I5quKs6sL-ChqditnUDaTnwnQrqVIGuA4kA3HSKlnYE1jg5sGldGlKUMftuPo1yIqD8e_-2Pw93Ew9TtsZQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoUnkIlRQF7MIyHSiUw2BUu1VH2ikNhD9nCNrKbRiHGvUPt5dQX0URXxwbAxEtViLWzMXBDSRK3FpimXLWFLVSVb0GGipA4B0X2xnEKV5GUuhu4xIEDwHVw-8uDwHygo39n8bJfk2FPnBLgFjrgK70R-lQFw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T09:55:45.637412+00:00"
+  },
+  "performance": {
+    "primaryEvent": "200m",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "200m",
+        "medal": "BRONZE",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "4x100m Mixed Relay",
+        "medal": "BRONZE",
+        "category": "Asian Relay Championships"
+      },
+      {
+        "event": "4x100m Relay",
+        "medal": "GOLD",
+        "category": "Taiwan Athletics Open"
+      },
+      {
+        "event": "200m",
+        "medal": "SILVER",
+        "category": "B&S Kurpfalz Gala Weinheim Athletics"
+      }
+    ],
+    "stats": {
+      "personalBest": "20.32s",
+      "seasonBest": "20.32s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        19.5,
+        21.5
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

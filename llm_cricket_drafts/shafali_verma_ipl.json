@@ -1,0 +1,145 @@
+{
+  "athlete_id": "shafali_verma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Shafali Verma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2004-01-28",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/Shafali_Verma_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=jsIN9NJRxBg",
+    "bio": "Shafali Verma is an Indian cricketer who became the youngest to play in a Women's Twenty20 International (T20I) for India at age 15 in 2019. She is also the youngest player, male or female, to represent India in all three formats of international cricket. Verma captained India to victory in the 2023 Under-19 Women's T20 World Cup and was named Player of the Match in the 2025 Women's Cricket World Cup final. She holds the record for the youngest female cricketer to score 1000 T20I runs.",
+    "birthplace": "Rohtak, Haryana, India",
+    "coachName": null,
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Fastest Double Century in Women's Test Cricket",
+    "result": "205 runs off 197 balls",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2024-06-28",
+    "city": "Chennai",
+    "prevRecord": "137-ball century",
+    "prevRecordPlace": null,
+    "prevHolder": "Janette Brittin",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Shafali Verma's double century in Test cricket is a significant milestone, showcasing her aggressive batting style and ability to dominate the longest format of the game. This record-breaking performance highlights her potential as a generational talent in women's cricket.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National IPL Record"
+      },
+      {
+        "label": "Olympic",
+        "value": "87 runs",
+        "holder": "Shafali Verma",
+        "date": "2025-11-03",
+        "venue": "DY Patil",
+        "tournament": "ICC Women's World Cup Final"
+      },
+      {
+        "label": "World",
+        "value": "205 runs",
+        "holder": "Shafali Verma",
+        "date": "2024-06-28",
+        "venue": "MA Chidambaram Stadium, Chennai",
+        "tournament": "Women's Test Cricket"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        null,
+        778,
+        null,
+        null
+      ],
+      "wickets": [
+        null,
+        3,
+        null,
+        null
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        85,
+        50,
+        60
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb2djfdIZT_9esnsLb-wGdxBn6EMiLDGTUqddae0VdY59xqKYnnfhrHSJlHGo3doueh4F2Sit4IkyK_3aR9qOJxxwcpD99aE26vWuoP2qHubMbVcCyeZpV08NybRQUMzu__i3iwAQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTw8xZvOQHgGRZKNZdudMLIoVzXxNN5XmMH9eB9afRxc-ceFIj0fAV5EIyK14a8_PmB3hGfMC1zvTwZ9GiBsHa4jffJnBnWjqa7r_Z30CbaPkFTR5dFoP0fTiEhXD1_cmOQ8sKmlKl9ieUnyryVq2TOjBq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-R4SJfp3e7NooVdtmReTlf1vyFs1CqBodcHE4ObwOrN9pr_58dcSuhvj4etcrxgFV3whsBgdi1SyvGN9FtcT8VQorh_MOSEkFwAwUbfgY-2AkL-KeQ9OSanmfQstREWb4E89fh5M5Q-1MRYexhW43UwdET1n-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh2HYIxtTbZf8n3NYqGcUJKJxULrew_Jou69-YP30oDODr2m2E1j3ALPYYwPLADCfMp6LNZ8P76T6PlELLJy6UtuBIhYnuPrF8u4-DoJhWJYMjTeFyU40WXfMA7WYCWBi_h59yviFMzj3J55OmmL9bhuzHdA9lknsZfLIXvpTxeXM1joPa1ATAF2VcRKVJVbpiSa5wmwN-j9v8lgpM_b7jNNXcjHB6m7Pt-3tEe7D_u6sNS5FHnBph1VeuTPEVzFnXnXDPJgDh3IvWFPPkAHhzb2NL4R9eZv2PDqmNBoid4Ql9"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:50:22.193168+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "womens_ipl",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1124,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": 85,
+      "sixes": 40,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 3,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "shafali",
+    "shafali verma",
+    "verma"
+  ]
+}

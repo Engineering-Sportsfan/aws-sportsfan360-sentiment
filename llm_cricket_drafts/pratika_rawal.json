@@ -1,0 +1,126 @@
+{
+  "athlete_id": "pratika_rawal",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Pratika Rawal",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2000-09-01",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pratika_Rawal.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=KT9uasgqavU",
+    "bio": "Pratika Rawal is an Indian international cricketer who plays for the Indian women's national cricket team and represents Railways in domestic cricket. She was an integral part of the Indian team that won the 2025 Women's Cricket World Cup. Rawal holds the record for the most runs scored by any cricketer, male or female, in their first six ODI innings with 444 runs. She is also the joint-fastest cricketer to score 1,000 runs in ODIs, achieving this in 23 innings.",
+    "birthplace": "Delhi, India",
+    "coachName": "Pradeep Rawal",
+    "yearsActiveSince": "2021"
+  },
+  "record_highlight": {
+    "event": "Most runs in first six ODI innings",
+    "result": "444 runs",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2025-01-15",
+    "city": "Rajkot",
+    "prevRecord": "392 runs",
+    "prevRecordPlace": null,
+    "prevHolder": "Tom Cooper",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Pratika Rawal set a new world record for the most runs scored by any cricketer, male or female, in their first six ODI innings. Her 444 runs surpassed the previous record of 392 runs held by Tom Cooper, showcasing her exceptional talent and immediate impact on the international stage. This achievement highlights her potential as a dominant force in women's cricket.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Overall T20 World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        60,
+        null,
+        null,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb_u2XZGLQy5-htq-ItW3kU9RP_dtKf3yCU3mSRZbJy0LdAVTFRsXyn3fCiZl6Z4Dhv930ulpcVsBQeDXvDJF5GX1KaPw3omVJMaM3uyJhGHEXGmMnagfWc3by5hy_eXHkC6_0d_U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsKmHOsZlLErZ1DGaGF3V98PM4wRwEX8_zwIDhgfJvH31LKlbyXfzOv7z4tL12Ia172XOZLNcTfyfTmRXE-81KW9QWsVY3Wgz2yfbGiYr5kjTPpbNN5Gg0yuXiFiOjMALQXam2aIQu-6XdvtfpCKkUP8F8sgi1XfL3ypOSDNnOxYwqSbFgVfRujDHgj_tMq6LZGCorm7rxyOwBmOr-jPB7FVwgu_KBUSDq5-UlegqqOjdsq-rkUsKHvLJOE0IS4EMV9t9hmgeSk0SA6f5iwXGShbhPOjpyqqYRbqS3FT0xPpsewrKrVPXDwrmQw4PDZZDhqfRzdaERYKoR_QqbIDCQt-dgkB2DK4DEFi8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg8oTL-J8iG6bTJxB6MZu3KO-Md0tGbcu3Jsx-Pgj7pAYTQlChd2O9wbjLnHzjimiL24aFFuWoNs_c_MRiG-uZj26qXbH5G0Di47x0QXEgRqrhGT3YGd4hmuTsnAoRlNj0x2gUY043VIhJ7fe80BonZlxB5P3IQXqhZ3BHvhlTxy99PvFuq7tM_yiR8ixkxYG6QEeJzBvecimOZgfA0NJtsLKZQ_R0a_bSL3wGYkjCQveoxQWGuRJEYL0JZizWxLzV3FcxWaOqOp0qkTs2lkCfbNNFyKY8qE7OqZdPmERVl00iWyHNqzEDxEWdxSVe66vf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkQx9fZwFExWu6UUwADncu5s4Ckyrbc-7iADtJTSNzW0xWnumz0thF3MxSbhjLFy2eYdAduqjNBwgfjw0POvkK7hDkiERBpwC50jrihL_mDU7k-V9MhgVvRbKIsH8xvPOdHnOVYE-QwZ27dCZlaJfb8Cww1rTeNnSbjG_A_FdYmkWbmMI5SBMuj7hVRr_C61ZBODpvvl_FBXdJHBt3lA8G4URXcangLgAc1pjSCOojiNDrCdL5M4ybdLvD9pTG9y_eaZNkTXcHfQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:22:13.799921+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 574,
+      "ballsFaced": null,
+      "battingAverage": 24.95,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 6,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "pratika",
+    "pratika rawal",
+    "rawal"
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "athlete_id": "richa_ghosh",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Richa Ghosh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2003-09-28",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Richa_Ghosh_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=hSShflDKTmk",
+    "bio": "Richa Ghosh is an Indian international cricketer who plays as a wicket-keeper-batter for the India women's national team. She represents Bengal in domestic cricket and Royal Challengers Bengaluru in the Women's Premier League. Ghosh was part of the Indian team that won the 2025 Women's Cricket World Cup, 2022 Women's Asia Cup, and a gold medal at the 2022 Asian Games. She holds the record for the joint fastest fifty in women's T20Is.",
+    "birthplace": "Siliguri, West Bengal, India",
+    "coachName": null,
+    "yearsActiveSince": "2020"
+  },
+  "record_highlight": {
+    "event": "Fastest Fifty in Women's T20Is",
+    "result": "18 balls",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2024-12-19",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Richa Ghosh equaled the world record for the fastest fifty in women's T20Is, achieving the milestone in just 18 balls. This explosive batting performance highlights her ability to accelerate the scoring rate rapidly, making her a valuable asset in the shortest format of the game.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "18 balls",
+        "holder": "Richa Ghosh",
+        "date": "2024-12-19",
+        "venue": null,
+        "tournament": "India Women's T20I"
+      },
+      {
+        "label": "Olympic",
+        "value": "18 balls",
+        "holder": "Richa Ghosh",
+        "date": "2024-12-19",
+        "venue": null,
+        "tournament": "ICC T20 World Cup/Major Global Event"
+      },
+      {
+        "label": "World",
+        "value": "18 balls",
+        "holder": "Richa Ghosh",
+        "date": "2024-12-19",
+        "venue": null,
+        "tournament": "Women's T20I"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        60,
+        90,
+        10,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Richa Ghosh is the only player in the history of Women's T20Is to score over 1000 runs while maintaining a strike rate above 140."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmsHuqlPTDEe2Xa4bNvQrTe0Sz3r5ouRScfudMpX4ZSUQARwFpOl_LVKdxn0dmDF5mT5_iVD9T-pntxfKVtYMwZ52YH5fhic1Xt3H-sFNMZJrlE7UO-CrWDRhoaNNkpmJX58_R",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZyEPwNbnJrpPscdAvTRzhXThwF5fecYfxLqGE76wSi4lMVf0eRZUHJzzty5HFwS1IBY01f144q4RxtbI_zVInMKKtYnL8nf_KzX_9ZpNKLTwDnIxX-vV_eDkY-Sh8pfMFp6Hq3pMgcojcudHN7cEDi5UwC1hHsUkR5elNCTdqNTXY4paXHcrtjngtBFsH8NUerIoUvlIJ3oevW8nK0XnAS3t9Dfvxn7r8h9-7BfgBQ5kM960xtaWA0ROr-ihvNnCF1d2Vtqmw",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESwHqE9iNsVkYeaYHIa1CHSr6xg-9_8AzlIHEo70Fz2MdvER_HduO7afdSiW910LIx-K-v0iUecT8XEk2aqWbbAF7iI2FM6n9VjG0hwFgS_wY2CGkSMI7fdF_XAm2cO9ej_o03o06mbymm4mBYFfFhnVloES1ejQe_2ADAPjQleM-ZIRbIYEPw5AhjaDQ98sb9W09k80p4AwbwVHJa1CTCh8CT6AbNvUXLRECeZLgwYMYE5s43fepDzEvHz0SzzYZtNzZbrIM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxXTW2kpbLZ38FYwSRF4swqtp8l3QjZwVIFQx8uZIrmGQyMp9zzmLpPbNZGnnZWTrmQtFmiJYN5RK1Q4RoZJNUMftwpI15D_eivMfzRdQzSE8V6xX7WUq3w1gMRtAVdFiPSm2N4eUdejV9vU2iQbst8bWhAC0C936sLgXNZDUoSOT5AcHYD11g8hxYqmEgfJzbrmcymFRNxenI2CnpKpS_4deBTVNpnFVctEzt3KdGjjCIagjwJRpLyfRQj4X5vyatr_N2pLcr_UjRW3v3ETQBGQrt"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:20:54.655471+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1333,
+      "ballsFaced": 922,
+      "battingAverage": 27.0,
+      "strikeRate": 144.0,
+      "fours": 154,
+      "sixes": 46,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "ghosh",
+    "india",
+    "richa",
+    "richa ghosh"
+  ]
+}

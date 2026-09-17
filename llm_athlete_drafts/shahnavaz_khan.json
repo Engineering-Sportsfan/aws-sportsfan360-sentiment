@@ -1,0 +1,308 @@
+{
+  "athlete_id": "shahnavaz_khan",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Shahnavaz Khan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2008-02-02",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/HqR7zQZU2dk?si=PBF4CA2iJwZhVRa_",
+    "bio": "Shahnavaz Khan is an Indian long jumper who has made significant strides in the sport, becoming the first Indian man to win a long jump medal at the World Athletics U20 Championships. He holds the Indian U20 national record in long jump with a mark of 8.30m. Khan has consistently improved his personal bests and has breached the 8-meter mark multiple times.",
+    "birthplace": "Madhaipur village, Pratapgarh district, Uttar Pradesh",
+    "coachName": "Bhupinder Singh",
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Long Jump",
+    "result": "8.30m",
+    "type": "NR",
+    "typeFull": "National U20 Record",
+    "phase": null,
+    "date": "2026-06-28",
+    "city": "Bhubaneswar",
+    "prevRecord": "8.10m",
+    "prevRecordPlace": null,
+    "prevHolder": "Murali Sreeshankar",
+    "improvement": "+0.20m",
+    "improvementDate": "2018",
+    "aiInsight": "Shahnavaz Khan's 8.30m jump is a significant achievement, setting a new Indian U20 national record and placing him among the top U20 long jumpers globally. This performance demonstrates his potential for future success in the sport. It also highlights his consistent improvement and ability to perform at a high level.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 8.04
+      },
+      {
+        "year": "2026",
+        "value": 8.3
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "8.36m",
+        "holder": "Murali Sreeshankar",
+        "date": "2022-04-03",
+        "venue": "Thenhipalam",
+        "tournament": "Indian Open Jumps"
+      },
+      {
+        "label": "Olympic",
+        "value": "8.90m",
+        "holder": "Bob Beamon",
+        "date": "1968-10-18",
+        "venue": "Mexico City",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "8.95m",
+        "holder": "Mike Powell",
+        "date": "1991-08-30",
+        "venue": "Tokyo",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "8.30m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Long Jump",
+    "achievementLabel": "World U20 Bronze Medalist",
+    "stats": {
+      "worldRank": "34",
+      "personalBest": "8.30m",
+      "bestYear": "2026",
+      "totalGold": 3,
+      "totalSilver": 2,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "Long Jump",
+        "value": 7.7,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Long Jump",
+        "value": 7.9,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Long Jump",
+        "value": 8.04,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Long Jump",
+        "value": 8.23,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Long Jump",
+        "value": 8.3,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 3,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 8.04,
+        "seasonAverage": 7.88,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1,
+        "seasonBest": 8.3,
+        "seasonAverage": 8.12,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "7.60-7.79m",
+        "count": 2,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "7.80-7.99m",
+        "count": 2,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "8.00-8.19m",
+        "count": 2,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "8.20-8.39m",
+        "count": 2,
+        "throws": null,
+        "percentage": 40.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Shahnavaz Khan has shown consistent improvement, with a significant number of jumps over 8 meters, including his U20 national record of 8.30m.",
+    "peakZoneLabel": "8.20-8.39m \u00b7 40% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "8.95m",
+          "holder": "Mike Powell",
+          "date": "1991-08-30",
+          "venue": "Tokyo"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "8.36m",
+          "holder": "Murali Sreeshankar",
+          "date": "2022-04-03",
+          "venue": "Thenhipalam"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErvA6g6xKk-txFfi7vf2ktWT5iWGHuUHv2M_buNrENjW69x4VGkfrfGXeEmNqjwABM2H0vnV4pQCR57IFyDJCGAjG9jVIHuVPFhsA9y19SkJtQCKvygbKR43eiK3ttXgfVqHf95jThzxUPNS_giXbP6cNCccDIMUpxAyDj6fCrT9fVv91MVjstrl0Fe-UDNAFVV4x4Wi-BCYkUHc_fBPAmcDAEkyvUIXQv-yHjDnAOtR0-5aUBVBrJd-cK45UzdcgnLVvILEPKtbbTRdY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiTu_ZVwz1kBJuoRPtrUstUxZ_OFxE5hnqruwsVmeP5iWARfFpnKTHBi1FIbkLH66CL0yZEiza7XqKGyaYivmyF_nGjWy0YLRnivJ8xpeu4oUBSPQTG486FKQT9KcgCV8B9tO5T5JB9dpFfcs0m_OtpqKokYLDJhks7Rdh8OmTg21-HHj8p1I5iZwvO1MdrETPPjs5fQ0OGCJN75GV2mSb_D8ynZQkhD1Lnm8c3wgVZ9ocnaLv4E3MJjQ2Hw-2SKNOrjTcG3yz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHEkjusuu9xVtxVwH5ljjXkT4tCyFdnzuyhurobQksD9wwLy0aAM2Rs7WhZvouMai3Wj6K3Q_gdJ64zPO-vbPp_aBbiyncjRxIE5Q2oDQKXpe1GOuYMYyl9n6BceGnGQhsZztiikT5MjjyXabQgdwQnkVLXcqJ2KcVEzRCmrTsb6nzVJClPppuXC_rVcfgRTccFwpgAO6Fjhmi4rsiMfUsIrNYBdu0LBsUtaIAC6QopZQsPGqUBsD9qYMS722BFINYlRpKqD4VR6LzZQPW73I25DC4oQhfdpf2zprqcnXSVAe-iXYI2oobVFyZTbUeeW8dF2Qd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbXGtnmzPRqys4HsuezurSyxutcTprPjrjk1PDpy7O5O0FIGWkV_a2rhKvXM4oK7QWSTjtCmJC76Wumk8eYM6wf-y1a3xjOgacB0LdJBg8sqyXLrBwOHn6iCHX8Z4hAweAy3J8o-3knKxOfgvXYXfkRuxaxxp_6DnhsrWD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvOJrLiUbOsZrqbMQWwKlUpwSorJ8h88-D86D8JVggRsINdcu9kFevePZ3N0dQogI3QqX54cv0yqwXmXm3a1FU2VgEB5ghmM5ZnpBDbbyQ25rUJOGg5h66DumJdyMDt2An3HaVZuMUboBMe8avDEb-qs0SAFgkAKZMuhoait7D4iv-R4tYCfbRqI7y8Jx7UUiUWNI7XX50UruLcwRBKOzy8Ui_so2Tsvxe-4K_yWadmg2fZol5Lh-FhpQg8HpLyVYXmRw9vQVn70CDbYo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESafqkvwsjUJjD3ltoqiSY-XorcO6HqSiyH-OjaCwbwAkqhRP1viesH7e39LuIWMMlbwla1E4dVh-j5G7CHzP-5ufvAr8IyVsXSzw5LD6Ggd3DqwZqATp3B_P9HFzGouS9Ui3-8gEJZhuelRT1Gjlv67RfPxBcyOhD_1dtdwxkj0smAudgiOJe7-MPN7axjrl11-EAr5iemMzoq5XpMOalWuRLUPNHY86a3NB9tIs1n89LcnOI6E-C0VZIdpR8KX1JGMcVCRBpvta2iSw6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1seUG41kIGjajWadEw3iXAOiwiWuBKRg1auSZFm0msx4jxjAhqnUyBhql4wJdnHbEQmV77bu6uRTswx7YhAbXlKvfGYUU-Be78VcB0g_D3VSaW-Dgwq0OopUC6oSpW86p8mye93xseJSTEwhmB6Kq_08zSR-j8PY5KnUvTv8f9mRJkBHwpGCdwpQz_KwfpxgDuT_VQuHjh186RdGtqwYKcYwbHwaGDqGG-BJhqy-9EgIv7-gelTcwx_dlGqRI61sGKyIYOLFau7NDY8F8",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs9dMct2G4PbrbUkbLEXiVNPu6mvbcArPHT54W-VhiEuhIyzkH6CvwAmQkN0yJCZBzj1rFLjY5TahxDnRXCum8yxpGwdmnVCk3pr4sZFYzzf41r2eV993bzglUCbeyJSM0sQ9CL9Y5gsR6aTIU_vfg-nbae5uz7VQy9cQ-avF70NqpELrVIkH29Y8jt-RNO-WWTCCbi2O4XxlqA_VpWcdFnVrctB9Vu6v5IVQs4B5aoLNu_DXHn0YAy1Gp2f5E_prhy3o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH71kfBUEtxH6bghcYXRiAhXy9VzEbCDvbfJS5YHFcp5Gz3OiRfEAqJs0qGvFLs0vXEsEXV_phwfPDfZINc8_QOJ_3hHNjIZZ2TWUs2wlorW_c91c-TB4JB6smbtkC3uOzB5ndIBvk="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T13:36:44.897354+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Long Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Long Jump",
+        "medal": "BRONZE",
+        "category": "World Athletics U20 Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "GOLD",
+        "category": "Asian U20 Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "World Athletics Continental Tour Bronze Meet"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "GOLD",
+        "category": "National Games"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "GOLD",
+        "category": "Junior Federation Cup"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "National Inter-State Athletics Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "8.30m",
+      "seasonBest": "8.30m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        7.5,
+        8.5
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

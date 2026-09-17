@@ -1,0 +1,162 @@
+{
+  "playerId": "kuldeep_yadav",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "kuldeep_yadav",
+    "name": "Kuldeep Yadav",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Left-arm unorthodox spin",
+    "dateOfBirth": "1994-12-14",
+    "birthPlace": "Unnao, Uttar Pradesh, India",
+    "heightCm": 168.0,
+    "jerseyNo": "23",
+    "debutDate": "2017-03-25",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/9/91/Kuldeep_Yadav_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Kuldeep Yadav is an Indian international cricketer, a left-arm unorthodox spinner known for his lethal googly and variations. He made his Test debut for India against Australia on March 25, 2017, taking four wickets in his first innings. He is the first left-arm wrist-spin bowler to represent India in Test cricket."
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "5/40",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Bangladesh",
+    "venue": "Zahur Ahmed Chowdhury Stadium, Chattogram",
+    "date": "2022-12-16",
+    "aiInsight": "Kuldeep Yadav achieved his career-best Test bowling figures of 5/40 against Bangladesh in Chattogram, playing a crucial role in India's victory.",
+    "progressData": [
+      {
+        "year": "2017",
+        "value": 4.0,
+        "event": "vs Australia, Dharamshala"
+      },
+      {
+        "year": "2018",
+        "value": 5.0,
+        "event": "vs West Indies, Rajkot"
+      },
+      {
+        "year": "2019",
+        "value": 5.0,
+        "event": "vs Australia, Sydney"
+      },
+      {
+        "year": "2022",
+        "value": 5.0,
+        "event": "vs Bangladesh, Chattogram"
+      },
+      {
+        "year": "2024",
+        "value": 5.0,
+        "event": "vs England, Dharamsala"
+      },
+      {
+        "year": "2025",
+        "value": 5.0,
+        "event": "vs West Indies"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "5/40",
+        "holder": "Kuldeep Yadav",
+        "date": "2022-12-16",
+        "venue": "Zahur Ahmed Chowdhury Stadium, Chattogram"
+      },
+      {
+        "label": "National",
+        "value": "10/74",
+        "holder": "Anil Kumble",
+        "date": "1999-02-07",
+        "venue": "Feroz Shah Kotla, Delhi"
+      },
+      {
+        "label": "World",
+        "value": "10/53",
+        "holder": "Jim Laker",
+        "date": "1956-07-31",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 18,
+      "innings": 34,
+      "runs": 225,
+      "average": 11.84,
+      "strikeRate": null,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "40"
+    },
+    "bowlingStats": {
+      "matches": 18,
+      "innings": 34,
+      "wickets": 79,
+      "average": 22.35,
+      "economy": 3.53,
+      "strikeRate": 37.9,
+      "bestBowling": "5/40"
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": 1,
+        "runs": 113,
+        "wickets": 8,
+        "average": 14.1
+      },
+      {
+        "year": "2023",
+        "matches": 0,
+        "runs": null,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": 5,
+        "runs": 508,
+        "wickets": 22,
+        "average": 23.1
+      },
+      {
+        "year": "2025",
+        "matches": 4,
+        "runs": 463,
+        "wickets": 20,
+        "average": 23.2
+      },
+      {
+        "year": "2026",
+        "matches": 1,
+        "runs": 62,
+        "wickets": 3,
+        "average": 20.7
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnL_qYfib46CnvPdxxouYmnscPV7qjgVmwpexCApeYSGn6DC8lzVRPyOKFXes78E9pjqrDP8CM9MGOMAXTuX8Kilk9QMmSqHWQEFW1BUuE5CZElRN22-rlXpi0vyteVlKbJjREa7Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYRKKUBNQmX1aP_HTOBVzfj78lF7QuV8n7OEZDC6ypon-dl4fVkWga-0h6o6-1bmOZL2DhKWZxrt6Jqy41ehuD1nmk15iz_s4gGwD8Rf2Rxistw78_4C4v5C5d5VuvUIClGijkQjQuWrY6bHfIrITr7wm4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkk-N6CA-1jsry9nqQoTt4Vdqu3thsAMwIqh-79bWL2qf9tr4kT-il7fWd_x7xWNsSm_h7JWOPqdPGPgBaHZs7BlPhtCy7lQryRPxR7BwKKIUaIOfxizuG3wjhByXzXc7jOBZnMVciVucAkZjBerhw00F8ng==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHavhN1EFodzVKwGzKo6KGk3iWhWYOdrVdOZrDVSiG_cQLB15UgchEf36J-ooU8IF0B7on06DShKfI1wEJwrQFLUHbk5qFPhxDivi6OIx6R4tNuqV-1bbUq6g6LaBGK7MCduR8m",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl37e099B8lydcAd454z-gOVOQ3UwZMw03AQ1LaE2a3BAegWIdLo3Sv5VaQfu-jAuNxkPh2QQDqPuYKd7Xfxk5-vX7vcHXefgPwuKN09_M_atuHh0BJ9RCOOWe-rKNgWZNdA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl3_zAtnHD5ZnkUuJMY0gETExbQbL4d230EVjgxTisehyodctHI5pPLTsdgK7i8vjoka1F9eOr1qapZXPBGXEG_9Vw4wMhdjE4l1Dei1b9vA8XqQLZhPgxQaFso1lQh4raDdE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbbBQ9FxqRTU86Tvx13C4IAld_RX569pvnWWNLGl63HFDAzG7T07DzaLauTtVv7BUg2VtAOjLZY3MeWiAVSObpUI7FZqSWDYisy2J5Juz_0XS8mX5tjkFUxAz5Aulg_JxgYQhMLYpUy6lcdOr3lps-GNS5q8SGZNybHEkRU6KN_za_2rBpVl6pb6JNRQePPK97Tf8lvv-T8mupp3xPTQZfaun1dLYyv1KcMxNoLQEi1jjnL97VwZHCkg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7rYMlAakl3-St8w-WjDyAC0zva013hP0ALubrLb4gap5G3g2Uko6GooWAl3RiWd4L9gH6ZdH9ucHdqQez4p_rDKGxvVsZoqT9g8BfQuMBNqP-6Ie83gnl8JtMg7AhnnqbdR0XTu6stywi7Y4jNymIFov7RV9VJxTi-fPC2G8sN42ORiWLrcquzOrxhmt0ZUSEJwWArLVuDEEWwvikqO5eBqtBh-4p2l-sioOIcUzrWLXoZic1vT0YJFkVQA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrBNuulOxB1-HozdHDt3PvqxXpHzZSkVYq-_v0p6xnrvlGWKT_4vF7c1d2nE4wdwkxfe_71_N-uz24LAaDj0SWtLZZrP-fsRzyj3OkiFtswM9Fwvw0WgfCTYFUyzefssUqHS4o1WyyXEYjNG52xZl1BYt5YgKuLPHQoJM9LDspAIOghO5gwQkyBMw9a3_8jJJ6URjFEqra8tceVoAV-9XSiMcz4JcyDodIKz3r52US"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T16:44:02.298682+00:00"
+  },
+  "_retry_log": []
+}

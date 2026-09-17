@@ -1,0 +1,177 @@
+{
+  "athlete_id": "sanju_samson",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Sanju Samson",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1994-11-11",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sanju_Samson_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=byitJuGunJs",
+    "bio": "Sanju Samson is an Indian cricketer who made his IPL debut in 2013. He is a right-handed wicketkeeper-batsman known for his aggressive batting style. Samson has scored over 5,000 runs in his IPL career, including 5 centuries and 27 half-centuries. He has captained the Rajasthan Royals and led them to the finals in 2022.",
+    "birthplace": "Pulluvila, Vizhinjam, Trivandrum",
+    "coachName": null,
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "Highest Individual Score in IPL",
+    "result": "119 runs",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2021-04-12",
+    "city": "Mumbai",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Sanju Samson's knock of 119 runs against Punjab Kings in IPL 2021 is his highest individual score and is widely regarded as one of his best innings. This performance showcased his ability to score rapidly under pressure, nearly leading his team to a victory while chasing a high target.",
+    "progressData": [
+      {
+        "year": "2017",
+        "value": 102.0
+      },
+      {
+        "year": "2019",
+        "value": 102.0
+      },
+      {
+        "year": "2021",
+        "value": 119.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "132* runs",
+        "holder": "KL Rahul",
+        "date": null,
+        "venue": null,
+        "tournament": "IPL (Highest Score by an Indian)"
+      },
+      {
+        "label": "Olympic",
+        "value": "175 runs",
+        "holder": "Brendon McCullum",
+        "date": "2008-04-18",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "IPL (Highest Score in an ICC-comparable T20 league)"
+      },
+      {
+        "label": "World",
+        "value": "175* runs",
+        "holder": "Chris Gayle",
+        "date": "2013-04-23",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "IPL (Highest Individual Score)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        206,
+        339,
+        204,
+        291,
+        386,
+        441,
+        342,
+        375,
+        484,
+        458,
+        362,
+        531,
+        285,
+        477
+      ],
+      "wickets": []
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        85,
+        0,
+        0
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Sanju Samson has shown consistent performance in recent IPL seasons, scoring 386, 441, 342, 375, 484, 458, 362, 531, 285, and 477 runs respectively in the last ten IPL seasons."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7sD7oYB9DC_h0xSE54NQc1k7ydDzS0XDb5EcWBk_zPiZeT9G2Xb4F4vq3LOeMTGWMW184sbSUnMXAkkEp6dqoeJyVGF2ZtgLI0oFmf2GAmGauHXKY8hZWfE0xR9Ix73dFcOxY9YV0UuoI7812VZGsAY34VOtDmTfi",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMzTu_iVrJZM8hac9Ikgo53q2Re6HlDAsMcoQOUPLmMXsSkX8FEv-ATlkPdZm1rzhHuphF2RSoVWzxxPWhCpZqk2DEOp2prPwea5aTbzlgkCP4Hkoov1h29gvxOJRVSiAjrNN25WoUjMYDGEgLrs32UiGwkd8SADSE1YLYuwb8WH-8kTixGQ7fS2oC0_rUFgo5ZZVj2IA84jw-Ps1pjISJm4Ob8SDRsz-HnAagh3UZ7-SFWfhM-Y5fr9kpA8b1b_DTlFdPeNQoRNHwt0SbBA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWQEXeZQtBA4wqxOrdqXIFxvsBONEmz-Ce8llzYm7hcTCCYN4AIMaLGjcgk1KlWFhVtQCpKNOf6Yc8_miBmMe-EA87SCGhdUzV9xnqEU4_jrLDlYhR6Q0VCYhvMA1JhCKnkj_9VrtDHRXuB-Bad9BibeDShx8s",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvdQoRl4s_6D2ttVitJ04hxgmemnrm7z2I3AvWJvc2o2cmF7TuX5vg-nKBD9kPW1i_lRau6By5MMMmLK-2CLj6FlYVu6m-1gV7yejwmK1nZj_XEDdD9sd8EawuqpWzgwrwL6vpMjERv8gl0XwImtQTGfQ_CA4f9vQweqW3HYL9d0pp4nbs",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGThG-OCul4qzyBzxDYL6EPNnCV5tQ-s5kp_0lXjylRG9cS5EG1_P-qcfahPGaDeLgSk242xIeMCtIYKMa3UA4S21xS4z8-qpd0Dgdaghz2dbBvSKS9Yc1vQI5D-UxrPa2_QUrbuPfNj8hgn1TnVQCVClmwiSjpsRcSihR91zngaQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLx1NGD6RzgCeL74hGzKjITKTfmN_ijZ9DXYyRMZhTxPjlzNLJ8vZ5aCWYCseOOJDc-StYaHilgv7cOx8nNcDei38sj0Q53IpsN6OJT_VGV85S7GoEBINke5wAsQGz_537O21TtECqdbYHupHUgwNzmsnT_xxJwQdLKTfvGIFX27kum4xqddxst3j52XmY2Vkt"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:48:48.028927+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 5181,
+      "ballsFaced": 3671,
+      "battingAverage": 31.79,
+      "strikeRate": 141.13,
+      "fours": 432,
+      "sixes": 243,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "samson",
+    "sanju",
+    "sanju samson"
+  ]
+}

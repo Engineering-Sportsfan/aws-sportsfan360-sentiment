@@ -1,0 +1,114 @@
+{
+  "athlete_id": "sree_charani",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Sree Charani",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2004-08-04",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=-IDSAjToIR0",
+    "bio": "Sree Charani is a standout left-arm spinner who has rapidly become a mainstay in the Indian national team. She made history as the first woman from the Kadapa district to represent India at the international level. She played a vital role in India's historic 2025 ICC Women's Cricket World Cup victory, finishing as the tournament's fourth-highest wicket-taker with 14 wickets in nine matches. She was signed by the Delhi Capitals for \u20b955 lakh in 2025.",
+    "birthplace": "Kamalapuram, YSR Kadapa district, Andhra Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2025"
+  },
+  "record_highlight": {
+    "event": "Most Wickets in a Single Edition of Women's T20 World Cup (India)",
+    "result": "12 wickets",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-06-26",
+    "city": "Manchester",
+    "prevRecord": "10 wickets",
+    "prevRecordPlace": null,
+    "prevHolder": "Poonam Yadav",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Sree Charani set a new national record for India by taking 12 wickets in a single edition of the Women's T20 World Cup in 2026, surpassing Poonam Yadav's previous record of 10 wickets. This achievement highlights her exceptional form and impact as a bowler on the international stage.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "12 wickets",
+        "holder": "Sree Charani",
+        "date": "2026-06-26",
+        "venue": "Old Trafford Cricket Stadium, Manchester",
+        "tournament": "Women's T20 World Cup"
+      },
+      {
+        "label": "Olympic",
+        "value": "15 wickets",
+        "holder": "Amelia Kerr",
+        "date": "2020-03-08",
+        "venue": "Melbourne Cricket Ground, Melbourne",
+        "tournament": "Women's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "15 wickets",
+        "holder": "Amelia Kerr",
+        "date": "2020-03-08",
+        "venue": "Melbourne Cricket Ground, Melbourne",
+        "tournament": "Women's T20 World Cup"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {},
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVG8S55hNK2Q4DlEQ5BIfoDz4kpTzQmNUzKA1i7vfB50pCGCB6RFiFBXMJxQQhUeEdjRDxBP3_d2TeGrtKEh--ZspcaPkhIAjqgwct88nOXekzBdCH8i6IgY0J06YpTc7I8AwIrkw0tcwGIrIE39JJbw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhCfnP9K3uoDEksPoGKcF669eVo2oOSBhssrb1hF-9cp5NT2QtOXMWm0D1pYg7K2Ei53JeGVoLWHF1CdCE0ZIN2xQBpqIlQkt38DnDHnYSn-PkPT9cbq8Lk3hkBIEeue-WeB_ZHA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhMnhf0D1Z7M5uOCr8HGdXmFxGUml6QO234jrhz2vUYlVl88evQEvqoDHVCw_tM9S0-h4m3Jge6ckTeparxCkvL7DpGllyMfXFbMwsvA0rFiWfRx3WX1olgYUL_T2t0029igOfUTdjHssSemk0vnLLOI_t1pI7huC-KRKLYi7YaYyqNgPN6oGz9r-9tiUwH7VJKX48Q7U-xYlJkGplYIHghY3grXdhDph4A0uTEHPVkTGH5qUCtcq37wM4UPAICuB93KVmoVT28BncR4esuUQH9nMzxZYMnncHEMHbPJY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKNJh3oZ1aFgro5kX7kFOSPDapzcfKF_LJtXxAirXO1V2eduU7u6aEj6kFrCVmHhs4iMjiAgcazwXe2tQx4yAM2y8BpCAb3I3iNU6pSm9JD2JeInh705puq5FS9SO6mB9Pah91nMueEYMped3cuOT7OhOzpqKIDv5w9m6S2ooKnMJDyo4ZhVtB2MI7G5XnuUP0uCgXudVoTs0CvLN_IP5bRv_VSgMmFYQKLozpJsfFNAmULg-XWXxAotCW1-wc1um5H4fBhlaDAEGH3zgI0dPHxNsEue4NMbWKGdPLGS2Trb4NJtjqHdA2O49KzJ3yuCuUCpcpVw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-wT4W8aBhD9pCm2CtLwk1fEPDFHrWMHoNcXoMZqFLJETQxHDw-TmGygyDsSBzOyJ6dB57WdvQCjbVzW_i5LYES5ymcxfvNxfD-XJ6ehWACnjlCYaKzPBW6hczunioo2Av7gtAI2OARDis55jidxOQWhgcPYQU2iDfAYwoZwhqxJwAXeBohYSUi5GMniUyyv-NjGuy6aQMyyMwfOs0aH4FQj-mf61tTNMOVelA5Q=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:54:02.380046+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "womens_ipl",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": null,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "charani",
+    "cricket",
+    "india",
+    "sree",
+    "sree charani"
+  ]
+}

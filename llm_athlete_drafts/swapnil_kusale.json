@@ -1,0 +1,292 @@
+{
+  "athlete_id": "swapnil_kusale",
+  "sportId": "shooting",
+  "coreInfo": {
+    "name": "Swapnil Kusale",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1995-08-06",
+    "heightCm": 178,
+    "weightKg": 74.0,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Swapnil_Kusale_in_August_2024_with_his_Paris_Olympics_bronze_medal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://youtu.be/3K3zQJ_i7uw?si=XX4OsrfCmEro_IFD",
+    "bio": "Swapnil Kusale is an Indian sport shooter specializing in the 50m Rifle 3 Positions event. He made history by becoming the first Indian shooter to win an Olympic medal in this event, securing a bronze at the Paris 2024 Olympics. Kusale began his shooting career in 2009 through a Maharashtra government sports program and has since won multiple international medals, including at ISSF World Cups and Asian Games. He works for the Indian Railways as a ticket examiner.",
+    "birthplace": "Kambalwadi, Kolhapur, Maharashtra, India",
+    "coachName": "Deepali Deshpande",
+    "yearsActiveSince": "2012"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2021",
+      "value": 583.0,
+      "tournament": "ISSF World Cup (Bhopal)",
+      "note": "Early post-pandemic international qualification round."
+    },
+    {
+      "year": "2022",
+      "value": 593.0,
+      "tournament": "ISSF World Championships (Cairo)",
+      "note": "Career Personal Best; finished 4th individual to secure India's Olympic quota spot."
+    },
+    {
+      "year": "2023",
+      "value": 591.0,
+      "tournament": "Asian Games (Hangzhou)",
+      "note": "Qualified for individual finals & won Team Gold with a World Record total."
+    },
+    {
+      "year": "2024",
+      "value": 590.0,
+      "tournament": "Paris 2024 Olympic Games",
+      "note": "Finished 7th in Qualification; went on to win the historic Bronze Medal in the Final."
+    },
+    {
+      "year": "2025",
+      "value": 588.0,
+      "tournament": "ISSF World Cup Circuit",
+      "note": "Post-Olympic competitive season baseline."
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "597",
+        "holder": "Aishwary Pratap Singh Tomar",
+        "date": "2025-12",
+        "venue": "Madhya Pradesh State Shooting Range, Bhopal",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "594",
+        "holder": "Liu Yukun",
+        "date": "2024-07-31",
+        "venue": "National Shooting Center, Ch\u00e2teauroux",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "597",
+        "holder": "Aishwary Pratap Singh Tomar",
+        "date": "2025-12",
+        "venue": "Doha / Bhopal",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "scores": [
+        "591",
+        "593",
+        "591",
+        "590",
+        "594"
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Precision",
+        "Consistency",
+        "Finals Nerve",
+        "Big-Meet Performance"
+      ],
+      "values": [
+        85,
+        80,
+        90,
+        90
+      ]
+    },
+    "coachImpactData": {
+      "note": "Deepali Deshpande has been his personal coach since before his Olympic debut, guiding him to his historic bronze medal at Paris 2024."
+    },
+    "consistencyData": {
+      "note": "Consistently performs well in major international competitions, securing multiple medals and finals appearances."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2024",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Paris Olympics",
+        "seasonBest": "590",
+        "seasonAverage": "590",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 3,
+        "gold": 2,
+        "silver": 3,
+        "bronze": 0,
+        "tournament": "ISSF World Cup Baku",
+        "seasonBest": "591",
+        "seasonAverage": "591",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 2,
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1,
+        "tournament": "ISSF World Championships Cairo",
+        "seasonBest": "593",
+        "seasonAverage": "593",
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "ISSF World Cup New Delhi",
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOVGLRTYBd7u7ZvVR8sRWofqdty4K3pe1MDKXwGmhbC_CphalazJor26HWwM73Ukgq1keF1H44NImbOBKhzr_qTGuqrjv3umSoY9Ds4dSIzBc6t_Dkswkvvwc1eNf4BDw5xaikND5y8CrjGG7u",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERbci_g7LZZnPZibGonpGsvk8z-bjSDqZdD-h7-eWfWLZ-DD9Yse8er-l1GJKOwFOhmr0tRLChBT24TC33txOVFMYreQ-j00DK8-qLnxsa6KBT3Ro_EH93OM0eEwIsbvQcWaecT84=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfB7-MJE90kWzNs38wrmGyPRRUARi9ZDQLuYwThxjeouXYFkp8niDIiqi8pCrZyb473JAZNdaGZ0kcYdFd8GbTqvpwD-nD5FlgJ59Z8FpQNgwKvyV_PqGGgwW583ZDdnPyCSn7BkCAXIBL9dTsuUsbWsrvLdVQ1i5dAE0NASgfMyi1iyvcjw2DCvC-xQtNmicF8jPUPVotvvaO8l2eVoj1fgMtOqAdw2hNpteFyWq-6C1dR6bNobiLXNVvuxsndlPQxz8jZqUQyQYlPBBIK91QZhOSMrg8UcbSJWGAYJjcup7vdx3v6GyW9V5i",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJQjwxgbOunzYGxp2DF7d5AWJLKv6lVu1FFZhbUnS0_n-89RQL7rjsf5xS7C2PyvmxtGG2dOpqhQTVp2rFIP7yEt0N1yh0h9MNC8gfqmOCQadSFZ8tUwn04XBV5zIViyHRdsUxQDGXZq9mG8uWEYjjMloNmQDEuWnfxDQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE9GNID3PF_xSMDy6if-ZjegbfH36Sa5f9SQJPbXWCYgcGGo4ch4moeIaKRt_-k4aZhVaydtGIq7kEQ0AxyJXiCoyJab9P8NmWyP0z46deiK6KI_lJtWGdsgkrq1xy3TeB-8OCK3856hdKlnRyavv3JcWJkyMmlX8o1ME_x0_8C8e8YHvrMEk-kToBFLX_S0qCAqoiAp946gt9J6C1FY2sciFCIt-NfcRhg2ePuJQh6MN21_mSNoj2Z4BYLom3031Manaj5bLIURKkbCJfQBJCA5jYDteV5MMbtoxKRe8StleVK98ZMpz7gyYXRulE2CUPnatQTg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEASgceMHU5lStycTlX50C6mDCG5ZkDM6UL_x_HorMThHqwd0gUdRLW98Wh-60CfE5wVmI60K98l0FrdDEM0guXjrCBJwG-VmnN59l19ooO8ychL03wa3Z995shu5e6sTnKYGFjGzlZVS5f3WZiYd80djrcrx7iLizkZhF6ap0RvVMibx0XRh6I3pnWRzvtwK6j8WvjGDKL95PNCeGAxAS6mF8hJAD5QySpcVZxzYJ4pz7rv-xnRXSd1XEbWVM8OnSqq-U9rhQoGj8o4fnAsuJ-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKJfX-94SOwnU_KVan0dUMH0GZKvYKPy5gLWKoduFjzeJaS_cN__K18F5TrJdNUcnqglRqiisr_2N-4Lgp9R2s4fwVZF8N9Srb62CoxNI-MPHnRP3BQ2VWVFaxuxsiaR-5zUDxzr1ajRXqMKctx9lJcuQqCc-u8wKPS4gmnorPlV6KDxTt8HI_OzAIDaSkn8DymYYnTxqycFcGt_nklYcQdOIspUEUkoqKERk0Eiaj6DVXIton8p0JiXY8nkgPIeCl1vydmdfTUXJ2V-mtqlz_Ojw00oaRRVTwTr7fCflY9Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3ZHggbyfPpGcjFx_AyUgNMmv3Glk6Bh_HC2XI58FBF9iJIpGKcKlnDtvWoVbWAHvqHV6vyoRwhsdBqT0vlx09AyZV9GVWKDcpdSZ-HyVn246h8I-nS2taTrfVB2PzSW7R4nlwnPG6HBYeQFXwdID77UheQbtp432jfL3s9mwCuRmeSeMthAbHjp-YcIw2TSFbBVigOXspBQuiI6Z_UZY8Jr0Vxr5lThqgb_HNchRMkZ1TV1JEVhs0xLA9GXljJQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTWHNqoHHE_lQEfIxuT87Hm43SAlrRcV9xxFzFr2Bt9Y93aqegbpxN1Ex-EBKqEeqeinIhgMW2s8hqbSSaybBfWKILnwdMLaQWoU4qoWQ74b7UurU8mddZC6ki3KXHNTKV0IZyIfsH4H_bhEs5CTRuy3EJD-zKX5zvpp0MYNCxZSz69wBFjlR1fid4nlCwSiFTmo-Bu4Wcpiss-S87nHk9geukL818SSgIn-ok3I98__azkPWLeqmB3mOPrrXuz9aAGYOAcsS5BPwrBIXBv2xdUUsn_V4Mqu6t_PTiaxyq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfMpKW0BQVMbMqwrH75P7W__Nv4USHIUzh92gw_EVJuB4OBTcP0Ou7jwBja-ahfp-QC1yKJk3EVFq-bnxJyDBXt9Q6tU6YoiO0mKYcQ2rTwWnzfL3MFDaNzPreNA75zkFgb9jvcp5fV-kEpc1Q41SCITI9cBEHyW6JXx0oFt1h6r87u7YDfHS_Rg8RAMp1YzTWIrlPfugKsuaWf6tXfn4lfT6QM3Petk_IP54Jfx99v3MV_PNnisiD7s-_Nh2N9Cf993wRFr4ySz4Ct5EqptM2CVBs0Y1twxYd-jsgn8gDT1bv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI6Wf3wMjEHNXR8au--DpihckokqJXg4zYjYuyHVrTaY7-mdoaHI7oL88ubVkDwPuGQozrVrB8b5UCYscbetZbxNQtEPx1EjBi9YbixK-0hvp1NHB34a493Far9toEHXXoYkIFZd3T0-KBcJ4nbyaP-FnjvR9PnzGDIjdVutfTDfYWiVFa_JCXUEJsBIUB5bwYvu5CVMgKuQ7XXMqgPs3ndiX7g7Mki3iWBtLyX5LyUR6cfXCc5DWZR3NqmVeq7PlhhfvXUzLYHA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4-snm7tTfpjofluHwsD-UWGYDS9KVU7uslpwFbuoojMYPzUIxUFCsJYl4Xow8DVmBBEUeUTioGTrVoyVFDOpCE16SecdRMhNB4AbvvJ4yUawK2faPvv7NC-cNKxYvpqVCJ4nRpw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmsh4IbaI0AozuyhQRSQURb-tt7DlRJLMhzsWl46GX9GQGCh5kv30GaT4RlWyaSJjDLnG96ngGhUdJd2DsQk6SBFGjJn7bNXcN7dDaBtcXYLs54NePgEHQy1hbaMG0uFY7TCA1bKGD8yICgDDVJw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfKbAEkPZF97BigBElPSnPGqseIRgNc0lO51OTScQySUYA5oma9vKgpmSr6Sz98a5giFi0vocHiHW0B2KV7BGsSDog27-71cLgz9mrUMeTVlYIVy3wC8KhX6oNJZqsEovD5XnuJ7vo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjrfClQI4cHQyYBdMHodTqcIz-GhYoMnzNgSDvmYQu3pM_0epi-mfJO8TW5pCxLPc3qb-X2w_eSWfKSy55gS7fnA3r_K7AMF3n-r8WIa-XT7HIeeMcM-22c9CYIH7u7aGRjpTN5dmDeg__3t_-NQNzgnR0ciOTY4HHz9Ah",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT879rGEhcEEsQSdOZZ6rzbpC48bYRsgYYluuQf3hfhOYYiXPYofQ-hbOWqrieHXhOJZnFB90N23If9OoImX9_Nv93und81eh_ZrtLOAcfCtkgDXI7BOg3oiZkY3BILvUz9Br17PZLKC5U34aZnCL4RqP3ou4iNPP5Qr7aNkHeH0U69Fwhh8X2s89zm893KP1YWcvDGyoEZLzRS8jtubOH90m0KsxIpHfQ9EF-EnepL9mzeSq_ifJBPmyrnEBPj8ZikxiH8CFi8f59og-41X1ZOxfG5kwXHQsItEHT0Gik9cmpG7q2Yp3nFM1EVA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_aV9oCwM-x6EmsaaHUc3iMOyT_VS7W0HTJ2dDKWaH14wYaASfmuU-7z-4maADe14jaUzk9Ovui8SpCyCJhCPePUPNDATOC2n2jPOHlLn_KgThWcwlNKJKOQbu296X-e2iCzEX0oCWTLH0omTXiyD2503X6AJC8xtnyhTNNgM2Zq1OOyDRwgLnEV7GpCAW9wujpzd6Iq5EaoIc16DIhD0DsvQAUBV6SeknkLt_OC-A8xyp4I8zr8LzHvYfyqUuEas=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY4mnb9MUlBquNQRKTgBVX4NkpCSwV5fILOQ914wJNUb_sU0X-92yDFlzXSqYFtr_VPGd4k-28sjvUI_ARJ8elmUmY0GqoYhU6LUEkpfYh6iDR9t1WlILk-Koemuv8yofLume7NgOu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUCgvqpwbvmuC1vlGdSXgsy5uRp1OWwE8sH5k3LSqKVuWOYxX-dXLAwkjQuEY_-CZLE_pNoQJVd7fhIXcwDz2JxwjvPo5ohpIFroZJsUctTg_T8IbpM1qBWLUwYh5vFdhmwG2JfWdONAje9h23UGGZAKICkDZiFK_Cj7vLFpgC_s5D9U2zatq9lv8goEgQ-boSSmuQhZwSOwvfWGsFsSmAuoxlSLh8svaNn8YDGFyff_oc7VLifp2XG3fH5xrEWik=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl9YEIo-Nj-hnxCGpTTP2hObw8uuyQXbPN5EQO9K4wu-Grc1kKO8yBtr83-7PfKTWwws77a91Sa92rKtB1U_SN1um4v767zsSpL9mnOQZweeNO_s9lX5T6xHT6Z-7VqI2-XFceR-VagHTFr-ZK0A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_IEu6mZU-F6SF1oiQdXqSxaD0Ir4M54cxpsqlMVVAkIfOZr0C9BEFDCtKCfmRMKq6ZigEW3cumlkiZGz_BNdsJEWnb7EQyEovRI2JLcJSxpRgaT8RCBJ68f87TW83dMZ-skyre3y5c908REcJIRVYSZ697nQuwweM1QcYf1skjPpXcE3l0rgQczcVTZ8QSXgAML6kCFF1XRWcUqwRwNOwCAMVYPqqPC1_Qnwr_lzAYkONk9N4VIix3qwO3Lk7fB-sFeaC6-S5YdKCtPC5nHtNz5q6tjGtOWOxVTMIyAnV7VI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDNspchcX8a-S4gdAf4OfXSsIV0Dq76DD_ZMCQKOH77Zct1Q8yFPwAm7iMiF7ZcA6jR1U-Jm31pwjUQvJoNnbg2VPPhnLBq82oVfkdEBvLS2wrrwa-X7WI-pKiM8YiLOH4FvIb2KuukHF2YTIIl38cYRpwrAF4ixhXBGAiD24BmgK0a2miR7uZTM5hBuNYFaLvRRVKwAl1Kiw50NBza9g-GtP2JpVGy6Xrq5OS1xvdi4_c5teuToa4QL_ffbfgj6GXwjGanEGs_c6W3Zc4kSDoqqcWWfM-L0dYtHLRG84shg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFVtcC2S5h-u5P3UhGGSDXjpFyXfW192litnSnwtXoLjOi2eGwswfB2dL3rFjx9g_KIh2RyhkYVfESSpAYlpO5hcOdT-sMAMEt8tsN-qdSrW-19Ewon28QRRXnGimQKXYPeTYfHFWPHKDaimHyp_Fj"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-12T03:52:20.234741+00:00"
+  },
+  "performance": {
+    "discipline": "50m Rifle 3 Positions",
+    "category": "Rifle",
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Paris 2024 Olympic Games",
+        "medal": "BRONZE",
+        "category": "50m Rifle 3 Positions Men"
+      },
+      {
+        "event": "2023 Asian Games, Hangzhou",
+        "medal": "GOLD",
+        "category": "50m Rifle 3 Positions Team"
+      },
+      {
+        "event": "2023 ISSF World Cup, Baku",
+        "medal": "SILVER",
+        "category": "50m Rifle 3 Positions Men"
+      },
+      {
+        "event": "2022 ISSF World Cup, Baku",
+        "medal": "SILVER",
+        "category": "50m Rifle 3 Positions Men"
+      },
+      {
+        "event": "2022 ISSF World Championship, Cairo",
+        "medal": "BRONZE",
+        "category": "50m Rifle 3 Positions Team"
+      },
+      {
+        "event": "2024 Asian Championships, Jakarta",
+        "medal": "GOLD",
+        "category": "50m Rifle 3 Positions Team"
+      },
+      {
+        "event": "2023 ISSF World Cup, Baku",
+        "medal": "GOLD",
+        "category": "50m Rifle 3 Positions Mixed Team"
+      },
+      {
+        "event": "2021 ISSF World Cup, New Delhi",
+        "medal": "GOLD",
+        "category": "50m Rifle 3 Positions Team"
+      }
+    ],
+    "stats": {
+      "personalBest": "451.4",
+      "seasonBest": "590"
+    },
+    "recordStats": {
+      "olympicMedals": 1,
+      "worldChampionshipMedals": 1,
+      "worldRecords": 0,
+      "finalsAppearances": 4
+    },
+    "chartConfig": {
+      "primaryUnit": "score",
+      "secondaryUnit": "hits"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "performance.stats.seasonBest",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "performance.stats.seasonBest",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

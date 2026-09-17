@@ -1,0 +1,302 @@
+{
+  "athlete_id": "sarabjot_singh",
+  "sportId": "shooting",
+  "coreInfo": {
+    "name": "Sarabjot Singh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2001-09-30",
+    "heightCm": 173,
+    "weightKg": 70.0,
+    "profileImage": "https://backoffice.issf-sports.org/media/athletes/portraits/SHINDM3009200101.jpg?v=128260",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=ljeNV_FIku4",
+    "bio": "Sarabjot Singh is an Indian sport shooter specializing in the 10m air pistol. He won a bronze medal at the Paris 2024 Olympics in the mixed team event alongside Manu Bhaker. He has also secured gold medals at the World Championships (junior), Asian Games, and ISSF World Cups. Sarabjot began training under coach Abhishek Rana in 2016.",
+    "birthplace": "Dheen village, Ambala, Haryana, India",
+    "coachName": "Abhishek Rana",
+    "yearsActiveSince": "2016"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 588.0
+      },
+      {
+        "year": "2023",
+        "value": 589.0
+      },
+      {
+        "year": "2022",
+        "value": 586.0
+      },
+      {
+        "year": "2021",
+        "value": 584.0
+      },
+      {
+        "year": "2019",
+        "value": 579.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "245.0",
+        "holder": "Chaudhary Saurabh",
+        "date": "2019-02-24",
+        "venue": "New Delhi",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "244.8",
+        "holder": "Javad Foroughi",
+        "date": "2021-07-24",
+        "venue": "Tokyo",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "246.5",
+        "holder": "Kim Song-guk",
+        "date": "2019-11-11",
+        "venue": "Doha",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2019",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "scores": [
+        "579",
+        "584",
+        "586",
+        "589",
+        "588"
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Precision",
+        "Consistency",
+        "Finals Nerve",
+        "Big-Meet Performance"
+      ],
+      "values": [
+        90,
+        85,
+        90,
+        90
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Sarabjot Singh rarely scores below 575 in qualification rounds at major international events."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2024",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "ISSF World Cup Munich",
+        "seasonBest": "242.7",
+        "seasonAverage": "242.7",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 4,
+        "gold": 3,
+        "silver": 1,
+        "bronze": 1,
+        "tournament": "ISSF World Cup Bhopal",
+        "seasonBest": "253.2",
+        "seasonAverage": "253.2",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 1,
+        "silver": 2,
+        "bronze": 0,
+        "tournament": "ISSF Junior World Cup Suhl",
+        "seasonBest": "239.6",
+        "seasonAverage": "239.6",
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "ISSF Junior World Championships Lima",
+        "seasonBest": "584",
+        "seasonAverage": "584",
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 3,
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "ISSF Junior World Cup Suhl",
+        "seasonBest": "579",
+        "seasonAverage": "579",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFySqQlQjqJCHAUaGdcUDuuwrA31Y0EDlCYctSDVmBCO-VrfNcC_iT-UiXWpSwkkvUQdd-9rMhaSqF3JUHVr7R8tneBrcfQKeLglltoFdbOaSy1lgwuuvwkBPyzd_Tv7hu3RoWdNSO9DhZBg4fx5A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfFzPvALtRUpUDoi2ziKRB4lQ_DwhepHRBVh6s66kWrV1et7pexpXttsaiHWJU-DNo1csTIOewApaVennce56jsNTRyCnDJ0ihsUBg0kjkZNNlzgig2tr0l966Ov61k_j4LmnnNxKc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQSQiOmNhNck6-dqH_E3eNOHpgUqPWYfnAvg2B5P1Jo7EZx40I_G516ZaV_9eZ0TR63kNDVRF2NDM-LzxQ9MxMm-l1KHPx-8bfdRIKarC3EgkIkJTp6_DaK_KT0Y6uFuN9lniQ1HBUdF-steglNxGnU8lfppkugmAhJVPJVTzVNCK4KHc8I0l7Y09xLWz90d1XfGRzP8aYvM9YONn5uBxXPhfTv1gz3kHT2UKW3ICgW89SgLvooPf4BI3wCvjNYioOPI0fUFKH_T6aoNoMU3xfjEqulqgYQwrnu83rIiKsoZM7GRnj_oxOQ-u6rxK4YLEbO7q9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfFiF1swwskggGJiZ0bL8XmzXKhVXoM6mR-r94yqixSMt28_seZ9deu1Pcv-Sr3zDUrpawwu7e0pRoDNOKG7o-bpPpQIbHcmdFpuYg7C5Aijw1VqXbpusUTCJX7gBH4y9UBc84LsmEIV4DYy4D92wvdhfmxBlBkfA-WSBxrS1x47IsJYci_qhgOXHrkBhWMxIPOSY4auuUaZFPvRpMs1YSKe29bN6f-5fTnTZgEdyUuDEBsEjj3d8qKHdriDVxB12wzrSS_OUU8yJqrZ5Uheuf8-0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnzXfQy7BG1lnS7dI0ORIC37VHJjRYwW3eShvUZzgqvhEdB69isRT8H0ZpeC-DkSOat0d8lrUj6u5Qp_jt3j6gq9PPdjCunpwbBpR_ePOl5GNp_dDKqkZe17XWq6p-JdzoG4N5sFElPzAdYIMs8tEY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0y6UexRrAiq6LjehA73vqWgL2tnZt9xVwlAKJM6b9kMmj9Dot9t7sSeH05xlsPRSfIdyIJDbI86jKyDKaXA8iSKnlqcS3zr788FbOYXvJ7I1jJKCqHBi4QLsAAFu7RYEjhybE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxAOyafwlNiWPpxNoJQhMXw6oFPcBF1puPN2k3sTt778mdlf9AgwR7Us4QJgUG6S25WVLx8N2btO6YgpxISUI7-JjT0C1UbNO0sMhLWF-fFJpEcB6guwSdSURKadQ2VocXGVJzkJ-c6NH2YjtVJg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE15fYvJNVKLoZutSsiUlhKkLKcLsI64vQI5tHizoMw7VponSmYQvbvDo9xFxclUEaNF4UVmyDvVxpP9zN0Y17kaP7OfhJ8hIOSy8zqRfK74fEHdqJd-x_8x2_UvtmVflXFSdVow6C2",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDFM1GVynA8aRvA2v9US8EB19_roKdt_r5946t1nbaE4mj8HvZp0DquWBF4iZPrETX0i8YBh3s-YIQrLNz4vH-AEEZY9kCjgqcj9Z7yKwBraeyKk5UeVxY8YQ5oI-fCT61IHHOjpLzQA3Fx7PcG90c2TrulAe2-P8crTHWV48H5SlJt4Gc3pi313sYocfaUJMTur0pYxngHzOEpQOpZQk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiY5JjG2fn7pD4JL0NoT2j_cZDQoxyJqjftbF1Ue3u34Bkuv3t0LhDsyFURCcN18YLwXesWSMCSOuzT0xX3MFg5SfWy2gzHT9_-B6mkRBTvl40I_e_XmBpLr_j8EBRrElvUHvHLa7J_FTkgznu07bZhL8hSBqpcASccXhSGLn4EYiGg17F5-zrtYDnMuc3pWkcK8PuYRX68oxt9vBLux4zJCpqFA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrz8YQ06tK1G-6NQkRri428PhKXdzSU2jZaXvuK5EmllS6z2k1uSA3O_2aXr0O2idElcnuk78E-hcXkIPZu-GsqHL1PgGyxFH_TV686UcsGnb3Ex2TDDE223QPMJInrlRqPR4Va1J8QaO5Ctlv_ynF-vo2QrWBEJ_PlomhZ8me6Ti9UQETz_FCJvKCdr9V2msu1W_9oDlkKQzKj2uTic7xY9ihtolwpYrgAeeSJeFpfB81OgJGJ7qjE9lxH8oD-msiP3W-N9_FBGyVXL2rUkSs4QiErLInV8g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxafTdUO_8RlgSeZAAynHrpIEAT0KiS-7VnxtgLMEMqOmX2EY769jdbYGos3aaYBCsdXAUwgDN9JfnntiQbpsPT5fw4RiwvH0MKxCeIWfHBKxWJb7QEnXqTSqzGIvCRF2bAqCqNCHGmBBIwFPfSC-lbcCfltTtdrtgn-VH9vXtliqQ7AXv92WJ6k15CVgUBmUsJdDbeVcFZE3UavkFlWui",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtPadkGY5xJwUKmPe7QOYltC_oPjKFuVNp01fA77zWZQ2d4pLvia5EK2qJ1aInX22r_0FMu7Cz2gycbp1ei46SltWX_FnBBuXV8sBMugpjCJN7P5UCHFSIxh7HqyqoamB9tVoZ0ThrWTgDuonN_wC6FGc3ZH48mJXz6idVrz312hwifbo39oBxmXivqlxdERJpOAVvpQ53hhoO_zcjzdw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmyupa0AGBIttA2bHmdC7yLv4S5iRg_S-7C4NgeP12WCqOU1xSozZxC33zl1qAw4a72lbR3uJAGlwc9dNTJ1iwquJ-cQT7zisL1y2RegpV97PZsY6bLNBloI3En-yLdQR6sm5PiU-hKqY5DTUbQdlbJHQxwVI7jDihxUf7tzyZJcK21uwemwDQDyCwQyYg2MOWMvf4AC_e7RQEEWl8QJOxGyVq3E4Hv0eAy9Few9F3Id-PpqDKtZ4tVerNUryAh2KuGzQDDZ_wOUr2_qHj2SlAOZjb-G_ZxgmdFXOHbVrphin7VwzkXM6SaoW7GPhIQg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0DjHaW-nSeydS56DsiEe2zCuc9eyn7-IJe1dxWbSpGWs9j2heaJ9SZ5ateVpfJKwbpLdu1HsgVJHrA0vipizu7NGMxqYQ6CG6Ou9Y8Y3RbJGNsJBDxFVh54LrW87qNttUlRUJrIP73bMafU750NkGjlzW6EQ4LaUjBgJxKHd1ga7Nt1z-RAGLaoYkD2hVGIbIyoELa1ZZSh4XZGm6cDMwssC-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0NohKk91tTghsFb6tX-RchInlA8mGJ2kIracm_fEHM35o1yamCWgSD8hhUP7ug_IJ_AM7jT7zqyR-83S0RZaZ0IEIb4KIfjVLufviuIuo_I238rfhX0sZf4SJxQhoTRW2zTqdzD-hOck-gImHrTZPgWrsPPcDf3y8TGX59LxmvOd8j3RDf7CK19fnOuJumOTYOVnYQg_3d0jb83-HSsgI2BXZa1G14IoazTgVQlzSBoXiXv9Xq9CfEmNsawkMw7-m_TUSwV1u8Xi6O_0RMbQLiW49",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHlBo2bc4loQkbYNHeJX1A8HALkf1Uxv7jF6GP-Y3n6-hWwte7N_MYY5-l67rjIGgug3wWIg2gDbMyDNbVY9_wC6MHhdg6f3l0hEjY3OI4jM6RwGBZpU8d0xectKjcEeaiydSrziuPuGqAy_0UQsCbnDv1CDyk0DOUhqP_eP6oTLmn-IkgvxDiGRZSscAk7vamoRJkaiIoX7DML2FXocu23uA2BrcMhRsBGbkbs35-0h5yHiWJeKO9832KC74It6xwDH1XHHTnMscT0-YLwFf6rzj9k2-AdB4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM2RPwLhc3Usc6GgFz29jNMUMKa3dQe44jC8W8HMwdajmxpetBT17Led8o57nciXALproZeK44ctyJDwhfURoDvCmur2exb-N74CqrMb9qPzEtxWRvVysu-xzw1jKepl5PKte4ujlOUzRjPCy8RGHM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4GRDUlOlz8QZnBTcLAXdM29Z2P8PdjfeVSG7lGQJCZ_MuT7uxJqEauvDl2FCs_MRCmk9QNpBhqxLqTQZZBY6A0xtCToIMf9sp7Fbk3OORPunhBkTMd_GZPNsC8Ijem39sFL0RI0-P0zxeC32alg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUCLRpk1ksOV5gzeIYpu3mlm-O2eAfSPDirBac38zo4aRlqrUCXKQfbIG1olPMNu-n9zHWm29ki_5Z200iDbIJiXaorjhauthVygbfiw6gwst8k5n-v96i53HBIQUr6nVJLyLY5bQ-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcYZcqxf2ZJf1tvyjVk5_8c_bs9oALwWQxgRzw6AejgjBseZRfu_9ZKpQgy0xMUb1e7z_5h6CVd5XnR_4_jR--txbwb6Gq-KnusFbP4dyh7NWQZRWxlG3eOHN2xT1MNI-R_YFt",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBySub_NcOI7KlY5mpv-j7qzqL__nPPQ1J38Mpu32MaVCsMVNzJp-Nsuie9kN2KsTirZam0vYDo8uRmIKJrFEmyMAnK4_7Po-4cSngEHtwFfp6AmJZlWgo3H4536oBMInKsEJELfL1-EZufEKjpT7oi8wInrgUehIhy2-xfwYIWqg0G0aa-RQQ6e_OAbf2tHjnNB8rsQabMEAPLYev4aJEqUXQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUa9fcQd_e_vzeEhrcY9FtLvhru_Xi4ous_z7WxgC2F_yhlvzTyBVcZqxkv7o8I9iRAsXxChMvJQocVbFLJ4Q9Jg3g83jkvIFNxg9nXl7s9V3-liBQBJgL7zyw3Zo--hDthZgV_KAXI9EE5E3ywSRVF0DCAyimVQhNzBA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY3RxgpIvuR_GaZmVVeE58dH8IFJo-U15uLHeF0Q7_qc7dj1DuhoFEAXD-rowvQl6A6Btb2hgqRWUGJ6ZNdTaJ4s2PM7KbeMj5MynQJvEn2ctGWgqVj3zoc9p0qB7hHKEhL3xAHyqAVPwT3n3thCa1ju8YwSGgRjopTLaxBXH-VCZ8masraFfYDt4n7t813Lz1TLbqCxEkTpuMomnD3MeiTJQGKw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkrYWB65A4Z1GCBv_cMQyTd0JZY5jSDDa667rXR8i-v1aJ9-H3NXn36plG0DS4tZrdr9PlQxp3MrUu4ZAAXarefrjnytLZfxz2aPnEEgjRTLlp5coE-38ePwN2n0jz-eG-WPfihJtZyeAVbjyfeGUXOvjfPwKyazWSYThSkijlDsoVJRP-YLd58P7jjdw3v-1jpbIAKN26NOXFiivQl7_-a89A-hxLsatbVyRyp4ckHoNRdwWezPz2O_BQIm2yQpcWOtlEiGE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGANfr-5pLz3-89tmGO4qu8Gdm7nVzQWDquDrOAeSw4H93NO17sy9ABQfgI5F5lDlrZHLkaTiSrOP-xaG1ClkjnjTfX7UFB6lcBtK3DN1T0qItxZhOtGBPv6920tJi93PLXmiaNVc0gA1G4g7pi-KhYxctmdaxLqISfrKbNbQi6FK6oVNvzVpji_rndDFm_VWM41hAJ4lju3D0eN6eV4iffFPEuWXTpBnVWZfZHO-b48jGSOyPrgRr_Y8VT-ceyvPTgtw4ADRgcQciYAKkKstKVqYQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1SlFuKlFE2HbtcZnsfeCLqxcMr6kM8i6dItK_iYy5Ar13BV6bi-EhDIfKYyu9_usE7nGvOWhrwIgx8z1ohs7yLAswOYt1CIDNP-AA0Ixb7RbpClCmOuCw6rXZkqNRY2mRrGbz_5qDq7ipv0EfRz4qAhTZ2x8AfaArySDoShaR1RFrOLAkTkXJq6s58GW6fhHEmsFfUa5koz_Fio3m6ng8Xntm5D9-qi9hZ16GxVEQjw2F85Nqfj1ExwHfdw4j",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1RX1XsCvUb0yFn5CMeekHYnF1Vfq3PxSJJoBhcaRfaVMVeXfpd3D_qsOX88T67I9iCD0cnDwAmB09g2JAtb87EUMi8rlGs8fcsiHqSg6EfXgsuiF6-6Jv_OINBA3TinfCzNS37NI2f356eI8rNC6HqP0CcGFtSgeH1vkCy8JwOWxMSLUkGPzkQ7ACohPeuB1LOWbr6OtMP_YGKvcrBmL3nj601lGb4gLXdQ2bq2Enpvuwgg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7ry70YIKcvw6k0i4gcVOZyfViKwPIWR5QYmB29Plu-LN3f9sp4YsW1LWLaqLOdZehfJy_W4NmAUVLNi-S9Q23lBOEgeIJooTw9Vs18u5N6N8bmjIOnpVAVwl1sVgTP13NF9vFiWfbPacfM8krYgCpl1PhWI9_xBPnw38ihAioBvBPKDEuh2FeirQLttoQhDp-A225QyLfncrVfmx-n6vjP8HyLICeBHK5U3fkHM0MDjsguNTyfJhICtNGEQhsCe7rAA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUiJ1IZiVLhEwoJFqPhzD9EcahkUlFUpKyJHXm80yNYYrVDrSqzdEHA1dgd6L4Uivjy8ybJ02bpaWVltVqlkysum7R0DdqTwOsCELV-fkyGdXFwP55BiYYUPYsvT4sbEr2yYUhQCmfE5BadyuXB04f",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvpOTUBvEl8GKHi8L-GQJDze6EMNfga80fZRjs3JAuG8SMWjmBJ1Vdfz1KrdjGGpXjarvymPMRrRlW0mAHllrJ3dnC9knYT9HFgNPgUwX8gsM8t_pNJS6Zy3TgGgkJuzVLF2iF5nr8ImoAcPoboPCM1jbOqj9yfWcR_QV5eDrZab8Fdp1vG8uAgwAPVNbDy0MzKLDPBPrcL650MptmfaSHfYM3nYrQX94PrgO6Nxx9-0QRF6t56wxV4Wr58GmMm3Sp4iSbmJETQqXozwuLWe3C05Vb6iYqbGo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ-sQpHziewy4EuWhVgc_yfzBq2MveEE84KESKkWjSlr9UjkJ2ROxF1pbm8o8UjC6JW9wNMnFK988L4NGe8SRe1UDLPRX9o1ZN128Op3KlORcTmYiWwj-9iXno60y4Gl1oxhBO8zyAlxUqkE_MEZJUFhbWblVW_xi7tfbdc8-jDRelPTqPyYhD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhurpc1vxK857h6NFiZA2-3qkVUlxF2840cW7ksC5DxEPTxo__baEj0HBaOSi1Rw3V05udZTbSRDQ-1pLo63nu9CRtsDbZsQkOBQ3-6ktd_Lejo28etjbRpiNGJIEMOjaBU6fz6cscB3xo1QQGchnHRmMWKtGUfL7r1q7VJYk8GZrV6KYmzF2AdlI1Pj0jwbuHjDT3Dz1EwyBP4i3hEKABVRODYrMO2ty21LLwixCSuwQgr-hOZpf13GfjiXKx"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-12T16:42:05.273347+00:00"
+  },
+  "performance": {
+    "discipline": "10m Air Pistol",
+    "category": "Pistol",
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "10m Air Pistol Mixed Team",
+        "medal": "BRONZE",
+        "category": "Olympic Games"
+      },
+      {
+        "event": "10m Air Pistol Men",
+        "medal": "GOLD",
+        "category": "ISSF World Cup"
+      },
+      {
+        "event": "10m Air Pistol Men Team",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "10m Air Pistol Men",
+        "medal": "GOLD",
+        "category": "ISSF World Cup"
+      },
+      {
+        "event": "10m Air Pistol Mixed Team",
+        "medal": "GOLD",
+        "category": "ISSF World Cup"
+      },
+      {
+        "event": "10m Air Pistol Mixed Team",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "10m Air Pistol Men",
+        "medal": "BRONZE",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "10m Air Pistol Mixed Team Junior",
+        "medal": "GOLD",
+        "category": "ISSF Junior World Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "242.7",
+      "seasonBest": "242.7"
+    },
+    "recordStats": {
+      "olympicMedals": 1,
+      "worldChampionshipMedals": 2,
+      "worldRecords": 0,
+      "finalsAppearances": null
+    },
+    "chartConfig": {
+      "primaryUnit": "score",
+      "secondaryUnit": "hits"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.weightKg",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.weightKg",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

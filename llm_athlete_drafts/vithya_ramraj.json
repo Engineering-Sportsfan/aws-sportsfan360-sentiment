@@ -1,0 +1,278 @@
+{
+  "athlete_id": "vithya_ramraj",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Vithya Ramraj",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1998-09-20",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/c/c9/VithyaRamraj.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://youtu.be/MZYjZZGeE-I?si=868RKjO8UPBT-Pxi",
+    "bio": "Vithya Ramraj is an Indian sprinter specializing in 400m hurdles, 400m, and 4x400m relay. She equaled P. T. Usha's long-standing national record in the 400m hurdles with a time of 55.42s in 2023. Ramraj has secured multiple international medals, including silver in the 4x400m relay and bronze in the 400m hurdles at the 2022 Asian Games. She also represented India at the 2024 Paris Olympics in the women's 4x400m relay.",
+    "birthplace": "Coimbatore, Tamil Nadu, India",
+    "coachName": null,
+    "yearsActiveSince": "2017"
+  },
+  "record_highlight": {
+    "event": "400m Hurdles",
+    "result": "55.42s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2023-10-02",
+    "city": "Hangzhou",
+    "prevRecord": "55.42s",
+    "prevRecordPlace": "Los Angeles",
+    "prevHolder": "P. T. Usha",
+    "improvement": "0.00s",
+    "improvementDate": "1984-08-08",
+    "aiInsight": "Vithya Ramraj equaled the long-standing Indian national record in the women's 400m hurdles, a record held by legendary athlete P. T. Usha since the 1984 Los Angeles Olympics. This achievement at the 2022 Asian Games highlights her significant progress and places her among India's elite hurdlers.",
+    "progressData": [
+      {
+        "year": "2023",
+        "value": 55.42
+      },
+      {
+        "year": "2024",
+        "value": 56.23
+      },
+      {
+        "year": "2025",
+        "value": 56.04
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "55.42s",
+        "holder": "P. T. Usha / Vithya Ramraj",
+        "date": "1984-08-08",
+        "venue": "Los Angeles / Hangzhou",
+        "tournament": "Kladno Memorial"
+      },
+      {
+        "label": "Olympic",
+        "value": "51.46s",
+        "holder": "Sydney McLaughlin-Levrone",
+        "date": "2024-08-08",
+        "venue": "Paris",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "50.68s",
+        "holder": "Sydney McLaughlin-Levrone",
+        "date": "2022-07-22",
+        "venue": "Eugene",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "55.42s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Hurdles",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "55.42s",
+      "bestYear": "2023",
+      "totalGold": null,
+      "totalSilver": 2,
+      "totalBronze": 2,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "event": "400m Hurdles",
+        "value": 55.42,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2024",
+        "event": "400m Hurdles",
+        "value": 56.23,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "400m Hurdles",
+        "value": 56.04,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 56.04,
+        "seasonAverage": 56.04,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "55.4s - 55.8s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      },
+      {
+        "range": "55.8s - 56.2s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      },
+      {
+        "range": "56.2s - 56.6s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Vithya Ramraj has demonstrated strong consistency, notably equaling the national record in 2023 and maintaining competitive times in subsequent seasons.",
+    "peakZoneLabel": "55.4s - 55.8s \u00b7 33% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "51.46s",
+          "holder": "Sydney McLaughlin-Levrone",
+          "date": "2024-08-08",
+          "venue": "Paris",
+          "tournament/meet name": "Olympic Games"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "50.68s",
+          "holder": "Sydney McLaughlin-Levrone",
+          "date": "2022-07-22",
+          "venue": "Eugene",
+          "tournament/meet name": "World Athletics Championships"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "55.42s",
+          "holder": "P. T. Usha / Vithya Ramraj",
+          "date": "1984-08-08",
+          "venue": "Los Angeles / Hangzhou",
+          "tournament/meet name": "Olympic Games / Asian Games"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7jRzho2Xwet2w9fjAeF5zco_IKyWou8Qo_cwTJMeV7b5OEQNIatM07mFBt9cabwaxtKUNUDzT51aJNqGTcclYRz6h-joxlcY7yEIbb10h-1nPbF5O8EgdMStcbyZxdoXZdrJlBg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGaqpgJb0ZxKWkbpZLG7d7LEalOPZ689HbrCjscEr62Dvr6wPLNMnax-hVcF1E9xcueyuGoWo3v775QjdA0ImRuMAB5_n2U0AW737iAXLJ0yLv5XKfA4VQP2gEaPp6XDw8edrfafYH",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDL1q5Vy7S2KcrdYtXXH9uygKE7iK-vm9OMkIXVukXylhiuFJxWp1HQgNKDY52gWe8NT9-UU5nf90-gW6HWXBPiOr-9snvjngzLEerddgTQFOTgwWZG55JZDfNMwJDSNHqpvHnuDTY4h_OPrnLBryc30zHLvCVkgidM_qstUnWUrzA9rZl_8nJZMut",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELvG7o6ImhW4KvhVMTuYsynVw3Ww5T0y3hJNDE_yoV7W6EOlkFiE5gCihYBUJ6vPrW9HCV4S8ECVZygdgVdp-G4J3ox1d9gJ5KqYwgxkvmSEYqV0t81je6k-yQhJOkcDuuoje5TGopt6LrtxvM93pfwyIlbdUVxb7HIaMnoUXoFkRqxzkA1DHpsX2CSYsshRYWrYUIx2BqL9jDUnqveU6Nc2srERzqpoaOgqgDo1aUkocBZ-gc-0ovvbq9nm86fmYPGGGjvwbvAMys1HtAT9RepApOfQR_TrNASBT9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPsklkh3muoGT3ojYlbFVG57HdidteqdXHCtKEEqn6E_PGPpYmV3VBESalWWvQbhQLKuEnPRoHfask3DFknnSiCL8YQ_TwP2oCDfrRS8QOLfapbGd48ZnsFvlnrbnL_sKuD7eX8Ag8YiE-2lFArXGriq5JbmvPPcS-DpZBH6p35YEHqUmAjWMT7YPo1CR_cgE5Q1fWFVWN31ZjUEU8Z-8="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:55:06.196077+00:00"
+  },
+  "performance": {
+    "primaryEvent": "400m Hurdles",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x400m relay",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "4x400m mixed",
+        "medal": "BRONZE",
+        "category": "Asian Games"
+      },
+      {
+        "event": "400m hurdles",
+        "medal": "BRONZE",
+        "category": "Asian Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "55.42s",
+      "seasonBest": "56.04s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        54.5,
+        57.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

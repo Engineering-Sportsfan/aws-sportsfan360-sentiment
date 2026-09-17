@@ -1,140 +1,399 @@
 {
   "athlete_id": "parul_chaudhary",
-  "full_name": "Parul chaudhary",
-  "sport": "other",
-  "nationality": "Indian",
-  "date_of_birth": "1995-04-15",
-  "current_team_or_federation": "Uttar Pradesh Police",
-  "coach": null,
-  "current_ranking": 20,
-  "career_highlights": [
-    {
-      "title": "Asian Games Gold Medalist",
-      "event": "5000m",
-      "year": 2023
-    },
-    {
-      "title": "Asian Games Silver Medalist",
-      "event": "3000m Steeplechase",
-      "year": 2023
-    },
-    {
-      "title": "Asian Champion",
-      "event": "3000m Steeplechase",
-      "year": 2023
-    },
-    {
-      "title": "Arjuna Award",
-      "event": null,
-      "year": 2023
-    },
-    {
-      "title": "Forbes India 30 under-30",
-      "event": null,
-      "year": 2024
-    },
-    {
-      "title": "Best Female Athlete of the Year (AFI)",
-      "event": null,
-      "year": 2025
-    }
-  ],
-  "bio_summary": "Parul Chaudhary is an Indian long-distance runner specializing in the 3000m steeplechase and 5000m events. Born in Iklauta village, Uttar Pradesh, she began her athletic career running barefoot and has since become one of India's most accomplished female distance runners. She holds multiple national records and has achieved significant international success, including gold and silver medals at the Asian Games and Asian Athletics Championships. Chaudhary also represented India at the Paris 2024 Olympics.",
-  "quick_facts": {
-    "age": 31,
-    "height": null,
-    "weight": null,
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Parul Chaudhary",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1995-04-15",
+    "heightCm": 170,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14497992.jpg",
+    "welcomeVideoUrl": "https://youtu.be/CWLzVvfPMp4?si=uJ1gMy393i_4wtiU",
+    "bio": "Parul Chaudhary is an Indian long-distance runner specializing in the 3000m steeplechase and 5000m events. She has broken multiple national records and represented India at the Olympic Games. Chaudhary secured a job with Western Railway in 2015 and was appointed Deputy Superintendent of Police with the Uttar Pradesh Police in January 2024.",
     "birthplace": "Iklauta village, Meerut, Uttar Pradesh, India",
-    "dominant_hand": null,
-    "personal_best": "3000m Steeplechase: 9:12.46 (2025), 5000m: 15:04.26 (2026), 3000m: 8:57.19 (2022)",
-    "years_active": "2011-present",
-    "coach": null,
-    "honors": [
-      "Arjuna Award (2023)",
-      "Forbes India 30 under-30 (2024)",
-      "Best Female Athlete of the Year (AFI) (2025)"
+    "coachName": null,
+    "yearsActiveSince": "2011"
+  },
+  "record_highlight": {
+    "event": "5000m",
+    "result": "15:04.26",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-06-13",
+    "city": "Nice",
+    "prevRecord": "15:10.35",
+    "prevRecordPlace": "Los Angeles",
+    "prevHolder": "Parul Chaudhary",
+    "improvement": "-0:06.09",
+    "improvementDate": "2026-06-13",
+    "aiInsight": "Parul Chaudhary significantly improved her own national record in the women's 5000m, shaving over six seconds off her previous best. This performance at the Meeting Nikaia in France further solidified her position as India's leading long-distance runner.",
+    "progressData": [
+      {
+        "year": "2023",
+        "value": 15.1725
+      },
+      {
+        "year": "2026",
+        "value": 15.071
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "9:12.46",
+        "holder": "Parul Chaudhary",
+        "date": "2025-05-30",
+        "venue": "Gumi Civic Stadium",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "8:52.76",
+        "holder": "Winfred Yavi",
+        "date": "2024-08-06",
+        "venue": "Paris",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "8:44.32",
+        "holder": "Beatrice Chepkoech",
+        "date": "2018-07-20",
+        "venue": "Monaco",
+        "tournament": null
+      }
     ]
   },
-  "medal_cabinet": [
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "9:12.46s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "3000m Steeplechase",
+    "achievementLabel": "Asian Games 5000m Champion",
+    "stats": {
+      "worldRank": "15",
+      "personalBest": "9:12.46s",
+      "bestYear": "2026",
+      "totalGold": 2,
+      "totalSilver": 5,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2019",
+        "event": "5000m",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "3000m Steeplechase",
+        "value": 9.8501,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "3000m",
+        "value": 8.9519,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "3000m Steeplechase",
+        "value": 9.2531,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2024",
+        "event": "10000m",
+        "value": 32.0346,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "3000m Steeplechase",
+        "value": 9.2076,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "5000m",
+        "value": 15.071,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "medalData": [
     {
-      "medal_type": "Gold",
-      "competition": "Asian Games",
-      "year": 2023
+      "year": "2026",
+      "tournament": "Commonwealth Games (Glasgow) & Continental Tour",
+      "events": 2,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "seasonBest": "9:12.84s",
+      "seasonAverage": null,
+      "currentStreak": 1
     },
     {
-      "medal_type": "Silver",
-      "competition": "Asian Games",
-      "year": 2023
+      "year": "2025",
+      "tournament": "Asian Athletics Championships (Gumi)",
+      "events": 2,
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0,
+      "seasonBest": "9:12.46s",
+      "seasonAverage": null,
+      "currentStreak": 2
     },
     {
-      "medal_type": "Gold",
-      "competition": "Asian Athletics Championships",
-      "year": 2023
+      "year": "2023",
+      "tournament": "Asian Games (Hangzhou) & Asian Athletics Championships (Bangkok)",
+      "events": 4,
+      "gold": 2,
+      "silver": 2,
+      "bronze": 0,
+      "seasonBest": "9:15.31s",
+      "seasonAverage": null,
+      "currentStreak": 4
     },
     {
-      "medal_type": "Silver",
-      "competition": "Asian Athletics Championships",
-      "year": 2023
-    },
-    {
-      "medal_type": "Silver",
-      "competition": "Asian Athletics Championships",
-      "year": 2025
-    },
-    {
-      "medal_type": "Silver",
-      "competition": "Asian Athletics Championships",
-      "year": 2025
-    },
-    {
-      "medal_type": "Bronze",
-      "competition": "Asian Athletics Championships",
-      "year": 2019
-    },
-    {
-      "medal_type": "Silver",
-      "competition": "South Asian Games",
-      "year": 2019
+      "year": "2019",
+      "tournament": "Asian Athletics Championships (Doha)",
+      "events": 1,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "seasonBest": "15:36.03s",
+      "seasonAverage": null,
+      "currentStreak": 1
     }
   ],
-  "season_stats": {
-    "season_label": "2026 Season",
-    "events": 4,
-    "gold": 0,
-    "silver": 1,
-    "bronze": 0,
-    "season_best": "5000m: 15:04.26, 3000m Steeplechase: 9:12.84",
-    "average_mark": null,
-    "current_streak": "N/A"
+    "radarData": [
+      {
+        "metric": "Pace Judgment",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Kick Speed",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Endurance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "<9:13s",
+        "count": 2,
+        "throws": null,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": "9:13s-9:16s",
+        "count": 1,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "9:16s-9:30s",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "9:30s-9:45s",
+        "count": 2,
+        "throws": null,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": ">9:45s",
+        "count": 1,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "A national record holder in multiple events, Parul Chaudhary consistently performs at a high level, frequently achieving times within seconds of her personal best.",
+    "peakZoneLabel": "9:10s-9:15s \u00b7 37.5% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "2024": null
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2023": null,
+          "2025": null
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2021": "9:51.01"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
   },
-  "performance_trend": [
-    {
-      "year": 2022,
-      "value": "8:57.19 (3000m)"
-    },
-    {
-      "year": 2023,
-      "value": "15:10.35 (5000m)"
-    },
-    {
-      "year": 2025,
-      "value": "9:12.46 (3000m Steeplechase)"
-    },
-    {
-      "year": 2026,
-      "value": "15:04.26 (5000m)"
-    }
-  ],
   "grounding_sources": [
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkWhkW8Dhl0Xqpd5avvjx4_59oQek2ivauALdvfUahQG6eQPMndAxGVjDoYVNxpPP-ouFoZamwRbgF0HoeOCIVWhWrshn0TEA8sf_VnnLBhug-xDagWZ8_I6Z8mt_-6Zh-bnNCM74IUkVjsgznRvU=",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0U78N0_k1deo8IFpy7IfmSUEQJvQLI7UXldFCZI_DIv1RVsPNNUVdRUUVo8cczYmZ99ADmOafMHCEa9AYlPlUYWDK9o0EhULJ-i31G5pNADQY861f9cgGE8o_1T4H8cHEpxbjCknKNg==",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbSoa_xVEdN4tzdPiHeahynqDnXVbambkt5y5SPTi3N3kvLVMgvJq4Hn9I5xTM9Flri0uM7oOjwPoO87J785XYA8CZNWWUFSz35jSwwQx1ZfxnLfq70AFqf3BTMC2LyUO1EGOHCIc5u-NtJlG02OsPkWkRS9WQ6Ha0xuK0xP4L",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP9r6j--NWQ2y3N0WfaDZZWlJhjjs9QJqNuP57UnNvdT3bNQ74yrgMxXXJH_zc8T04wD0I_XozHzHlmmVHr6XqZ0fJgqVIRnbD_pXRxkmI4POACNtzuo35xtRASgMcqa3oezEmM2yq76EInETt5jn4duPGWQ==",
-    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoH0C2Jw8W6T83QB6fYjh7gpxk2s7RlkcV5ffL6keMsBc4MxirC72zvEYMFKjst4yh6jdqH-_KFPUBGNurLxWeYJAi6d4VHO_N14ClsOJS0CIOUAoDJc9j7wBbSu5BkwzyTm97qyvTewqjUlGUI4hmdgPpFc9iGj22M-QQrLmPqEEKZxebVd6DrYlJ4bxk5rnqzujVmXgnQ3dFL5b7YQhpW0fd_sg0djb4R9eomcc6E3FdJH18_asqFmetR0l2RYJnlNO0yyre6LMErJjoSPfQrMc="
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7snbssf27Io-QgDUK_r5xCic6mqU97-dokPa3kYhbtND448Ab7kyLiEdLIUNuC74_yCtz-db0S0xXV8x8RbA6_fAODPycdUzfpKTVdFhgMwTa9L-WAcxpJxvKFf61i3uHBMpCrK2_7jnDldOvEw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1o1l1M01kiiV4vIitTGC8uQxJC37klBmysbdWmQU217uvZLVLEEcqdX4pqP4Ge-snXkH17T0k9IT_VES_gPOV3OPvwYaFZuJAJi-019a7CiUMRrri7pD4fq8LAAhAqCwnOTnPmLGQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRZDfVnV6jd_6NlzBZPbWuCM2fDMDQqp-XxvAUy68gWoUX4Xb9R9-xamMcuPDqEREm77xtJPhj7LxA92NUVZ1iilHfUxQPW2Olu9pjE3ipj6s8jAq0Zok-8S5mswg5JQkhr3ySnYnKqwEorvi-wZfVCKoV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg-nBPSbJKNFK5pHDMfLyITaosyYrjWBAVFfhQK63l5RIQDva-L-Bjwn-ymWagFcl53vOI0rl6hv260cKNHryBW9R44dlbrHFvQ2SRXDlZkbnTdRrVjDd0IQaRCE32IU6hhTxGH3aUzeAfNY1Hmn_1VsgxogsGhG3XL6sdYjbGfw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6cU06d3dIy0s-X6w2nEDXvtBQmBEXa7Nq8RFDnEytCxbAngLXMSXN7D2vkMW373A_1wzCO5ke0PyuWzUkPhD-FynOwm3TYIS4uyjYEQisSI0l4WIttk-lhoDl2LOjlngCgYd10bijRnNszM1WF_1rr9xY-U0VZSuCtW-oSNhQqH3vJW_fKzRtcUrbnd5YTBJYpNbKUhyXi1aG-ooHoQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEztn2X2t7BmQNZrmm-BcSQRm06HQReKpp2R_FlEejn90HmefnPdXeuUvo47WlP4vqa6j5GeQCMEZZ4gYBLjLfIQ3abh_i6g5-cpOZ9axVyQrClpxJy8ie2svmxxlnGefh2jwSITYisyFVJ7VLBzslOfa5B-EEKTdAaAPHJbUyFNCKPV4yHHYfNXiMAojFaCyIo44Wapyj93pn-5JE9em1R8GXqFbDULf3Gzs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDyJOkaE3j5y0d5qx89thgpr4XWwM7dwSz76oYF8OZ6Ymy4IaxOoSbuou4ci0wLYu3ScTia8V1N6O-vcJX--sD6phE-Jw3rV7Krm5qjDO4iAI_jDH-lMUlEWY6ZkmzPnyltTzgNEu9PkVz8wNfcUAit5T08r0tfqhQg1Va-8Mjq0_RedRn2ubB94k2CirW_75wDHlRB8n3yOO7xenk6yU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvIcHZeJ12W5YOf2_ZuwAWDXeVHkQLY-IvRjNU_F64RqdOrh0Lor6-DKChnGiOKiTiTxVo2DDfbf_9Qh1Xdl0BBaU8ixMnS6LXUR8OYVNqlP8yMRDg0BPD1MT9Qne1Mz8Qv3RbOEgITQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC3ZHIpr-XnauQq38Xg_Vuj0TgV4fKFXlyrayXjBI_k_-Vo5ten6hpxjJ9kGVHvGNnCqvmIsYdutlmv6wTLVFJBn98FVPYWfwNkPHJHbm5aen2k1f70cVbBjdT1EjSQgo4_FqwIS3D-qJ4NNE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF6nFIOmjblybR1kP_9zftTqp0gCiExKYwWCPAMiLBTIyCdpk7LyJgIDHfVQbqpcQGA4rdW5i9IFwrACb9Cq7H_xL_kuggSmS8iVbE9k5HBNf4DLhqz88jD08jxad4iQEA2oRE1TAZe0r-BqGCVQSfRXw_1g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiiMAHb5qv2U0LZy6XyT0yS5NiH1qlIYmF7zDcJBDcyiecHTW8E35_8yVwwaSkmkKY3I5NhajhHDrjEkoC-cwVGAeGx451eqBmRr2Udnsck9P3F6he-uXAlVNCyM_mrWbY83wZttPwz0uYbyOMl6w=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxkWx9pAPNk-BjHbl4QfDpg9E4RXr4IsLKoYcvKf4pT8lBtnxbp4ovi3yP7CD5ZfYMil_3iGI9_YDi_3UBr46hwwuXbVAKDLoNfroYrxNlj2ix4znow9PZg9QIpBclGrV1Vkecx1yQWJVLa-UrJ2YVTu3WqK-lzwhevkaxXVaL7KrwKQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW-ZGYgRIFlLxa8FbIxcEjGiKhJ8MnRg2N9p793PuO24jUbOwARTgrENkou7wXQ_zQFwnsIg67P_OxYFQfwjnjC8mN7uLhr4zQV9WhbR8Lv9KHtXgzR03H8xq477g4l-yjBHXDKJ828I07ivl39cRgWDQeHwnr-a5xIio2igNUK8gOylJM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErIumk7Epxde2D7xnVqGUy3Vezpx8aumWXim6gPfP7AC0kd0YZfG-vdk0j5mHMgE7KL8leFPFkY_67ZhUo8SuSV8vvVAj_oRLgKuWTgRd3m0nsQoR_TqfzvR7FG-WeVGE6fEYgsIRxZdOJBcl6ItDqGwk43fxqiqtE5Gt4VT-NmhgbL6UkQ7pkeXbqCiFX7TWzDuettkodpklJ7MH79v-vfjrGr37wF6uvjlBJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE8W5ZAA1JcBBhDuZViSmsSWOO52H2McbSN9p8YkB_NB0u8f8i07dXEaKP0BpdoWsZ6_5g0vuGAnqk7yhzic83udYd-I2RPptJSsrUM-E6DMLwzwJYxRkRxhLOHm9jJTYqDy4bNfF3gA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMA2bmxJM-v3PZwhuaxxZxGQv0-5B05O87Jbz__68WeIxO1cl4lqyPH4-7F0JcbYvKz8Zi739P2zqIWIPZKvJOm8d-wYmj5_Ix3UTcgZatpw_ttG9f4CQIWMEfhSYZcV0-3GGaD4kBaxBfSgHUwobEH0ZWvc9E65MH66nlY8EfZwsd0kZUlVqGG2QnO3N7MmjJ0oxVuRO1S3s1RwVlyvE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZnDhP0QO9yUK-IBe2INMuG_rODd1nSTMSGxgshl8lJsCQVtgivTDxYGhFC9-WYjkCf_iYy6yGGulNaElm86DUD7h7jDK_H5GSyP9JSXBc0JOnKBGy7vAGC93oL1CNw38hqB_ZTNX2OdBu8bWZPsvyNvzoLTu27DisUE43YxFwfJunMm0J65T1XqaZLw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEWDBI5bAvQ-pMi62mGglVZ6_t0u3bD5DJ3pbBDuTCcV9pBTgWG9QmPZnAzFRlkZix1oKNBPwTYja37pHS6-SzOd68c631ATRByi8tNUF7BEuXeTPNByOR6WnZG2Q9NtJVyl19Cgpfnr8Nk7A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_FBE9WSeMgu-gctCbVygngzhNeERBqK9SMUxqYoGv1YOiEtA2AOHWMuocWGCwqw4kJrAP6xIo4a1kRWRSxo3qXE0BWDZqcDcS4hjqViodiijttEdsJr5_OKACLzEPpbomtAkeSPwoFGVN5_WPB6M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMFB6Vmz0mxB_tQQQ3sSnjeM9xQAsOoh6MlnGhUMYthn5mQGfgOPBu-wifoM0-qYk4J0hT8sbZgLqCp7NCGTlTDuGI6Dt46fVdcSuVc65g-aBvpET_p00lIyW0mDtx7f5wkamFyD2pIGfVt5V_l3ncEZMPpVFoNkb0Dsp8siPNamxZ5w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu3pJfh3UI8TS-a-dUIY84k6OFxysgIenNzqu70Eh8NpmenqJR2o8Wuufe848yKzSCykz7vHMDdjpNqcb4coc3ZO6jJd9YJ7whide7me_en9c_74cW7UEtUtklG9QEX6GkDUfBOJ_trltUxvJAhboJsn29Pz_HT_A5NuYoDeKQkBiu8f1ggJe_RvSZ2LTfR8HddPHmHras2THU9IBTHhZYJ2U0D4JJp16UHE7Xv-aQw_U1SgvYW1YTNJZ-P-BtL3sPe61XDLAK"
   ],
   "source": {
     "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
     "source_url": "https://sportsfan360.internal/llm-draft",
-    "fetched_at": "2026-07-30T09:32:13.125427+00:00"
-  }
+    "fetched_at": "2026-08-09T16:47:01.381164+00:00"
+  },
+  "performance": {
+    "primaryEvent": "3000m Steeplechase",
+    "category": "Middle Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "3000m Steeplechase",
+        "medal": "GOLD",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "5000m",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "3000m Steeplechase",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "5000m",
+        "medal": "SILVER",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "3000m Steeplechase",
+        "medal": "SILVER",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "5000m",
+        "medal": "SILVER",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "5000m",
+        "medal": "SILVER",
+        "category": "South Asian Games"
+      },
+      {
+        "event": "5000m",
+        "medal": "BRONZE",
+        "category": "Asian Athletics Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "9:12.46s",
+      "seasonBest": "9:12.84s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        9.08,
+        9.28
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.heightCm",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,305 @@
+{
+  "athlete_id": "ancy_sojan_edappilly",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Ancy Sojan Edappilly",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2001-03-01",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=XfrhK8PTSz4",
+    "bio": "Ancy Sojan Edappilly is an Indian long jumper who holds the national record in the women's long jump with a leap of 6.88m. She won silver medals at the 2022 Asian Games and the 2025 Asian Championships. Her record-breaking jump in June 2026 surpassed Anju Bobby George's 22-year-old national record.",
+    "birthplace": "Thrissur, Kerala, India",
+    "coachName": "Anoop Joseph",
+    "yearsActiveSince": "2015"
+  },
+  "record_highlight": {
+    "event": "Long Jump",
+    "result": "6.88m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-06-27",
+    "city": "Bhubaneswar",
+    "prevRecord": "6.83m",
+    "prevRecordPlace": null,
+    "prevHolder": "Anju Bobby George",
+    "improvement": "0.05m",
+    "improvementDate": "2004-08-27",
+    "aiInsight": "Ancy Sojan Edappilly's national record-breaking jump of 6.88m is a significant milestone in Indian athletics, surpassing a record held for 22 years by Anju Bobby George. This achievement highlights her consistent improvement and positions her as a strong contender on the international stage, with aspirations for a 7-meter jump.",
+    "progressData": [
+      {
+        "year": "2019",
+        "value": 4.93
+      },
+      {
+        "year": "2022",
+        "value": 6.55
+      },
+      {
+        "year": "2023",
+        "value": 6.63
+      },
+      {
+        "year": "2024",
+        "value": 6.71
+      },
+      {
+        "year": "2026",
+        "value": 6.88
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "6.88m",
+        "holder": "Ancy Sojan Edappilly",
+        "date": "2026-06-27",
+        "venue": "Bhubaneswar",
+        "tournament": "65th National Inter-State Senior Athletics Championships"
+      },
+      {
+        "label": "Olympic",
+        "value": "7.40m",
+        "holder": "Jackie Joyner-Kersee",
+        "date": "1988-09-29",
+        "venue": "Seoul",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "7.52m",
+        "holder": "Galina Chistyakova",
+        "date": "1988-06-11",
+        "venue": "Leningrad",
+        "tournament": "Znamenskiy Memorial"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "6.88m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Long Jump",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "6.88m",
+      "bestYear": "2026",
+      "totalGold": null,
+      "totalSilver": 2,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2019",
+        "event": "Long Jump",
+        "value": 4.93,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "Long Jump",
+        "value": 6.55,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Long Jump",
+        "value": 6.63,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "Long Jump",
+        "value": 6.71,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Long Jump",
+        "value": 6.88,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 6.63,
+        "seasonAverage": 6.63,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 6.88,
+        "seasonAverage": 6.75,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "6.50m-6.60m",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.6,
+        "peak": false
+      },
+      {
+        "range": "6.61m-6.70m",
+        "count": 3,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "6.71m-6.80m",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.6,
+        "peak": false
+      },
+      {
+        "range": "6.81m-6.90m",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.6,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Ancy Sojan has demonstrated consistent performance, with multiple jumps over 6.50m and a national record of 6.88m.",
+    "peakZoneLabel": "6.61m-6.70m \u00b7 50.0% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "6.88m",
+          "holder": "Ancy Sojan Edappilly",
+          "date": "2026-06-27",
+          "venue": "Bhubaneswar"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQbF12QIbZyTG8QDsPsustynKRJbwZvrfX-G8qEHyQ7jQwn-FSwz1JupZHENVBgqF4sLASsEH7U0LtnFeXxacURgo1FrBXcTYY-cdiNzYcC5GCgzUopXjuI8ysRoDgkYhriA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_zUT73kRwZuo7r6luGEq5oaFTwDh_LtxIuG3wKAsILppSbZr2AfDGlEY7pF4qUHl5R0rz5tom29pvqv01r0kuEaa4sBbv6wnsi0qvnL1qPI7arRqwv3fMQ787Lm7Ukd4G4-PlDiF2kBAqxRnHV9Vh_LzjNgR6indIIIPAru2V-TN-OS_mx0U2ONAHga6G1yITwaJ4QsEqnKlxu0hfwE7V",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ysq3VtGU5BxI9mW9tHVetDmN5IrJT4vnZt83qCmTc56q3Nh34iGcPlgHD8hLO4H62mhc_Asua8EXNn3ZNe9x1g9ruccZ7TVRXlIb_iNPOAN27WzhXvF0IGBs2TVnMSsbg-X9RcguRyADmEmIFa3HzW3bQwo6N9qm1txIXFYjXWxctYRfMe3UzPJDdVcU4I4Cn4l7irsG51pcONoRo7QT_nHt_tSaAtQDZ0tB1EPATeYbu3AdWf7ujypjXddnIX2LVmb8YxkUp8JCiYZ2atJV7ubAXpXEUA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtcvGMRwyPUk0hrhLIJKn0cE7p_PyOglmtySpBE7Tro7RHUZ3US78rq8G1bca7AOE094YfSS_XqF4KIJlf4zMzynC272ZePdOAq6UWrW09dlpGzzvJQbXpB03KG87C_EYhI7IFjeR1gDjha3ehrqPEpsQ0Spgq-fMrF4VtPf2Gpt-F-2N94pKUPK7SYbDlBDImIMx5MEjrktwH-tSnZt3LiP2MBqmaAA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:02:48.175394+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Long Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "BRONZE",
+        "category": "Asian Indoor Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "6.88m",
+      "seasonBest": "6.88m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        6.0,
+        7.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

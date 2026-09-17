@@ -1,0 +1,317 @@
+{
+  "athlete_id": "kiran_pahal_400m",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Kiran Pahal",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2000-08-05",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/ItuthZOc-Bw?si=45mx2AdzGiZcCD56",
+    "bio": "Kiran Pahal is an Indian quarter-miler who specializes in the women's 400m event. She gained national prominence after running 50.92s at the 2024 National Inter-State Senior Athletics Championships in Panchkula, becoming the second-fastest Indian woman in 400m history behind Hima Das and securing direct qualification for the 2024 Paris Olympics.",
+    "birthplace": "Rawa village, Sonepat district, Haryana, India",
+    "coachName": "Ramesh",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "400m",
+    "result": "50.92s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Semi-Final",
+    "date": "2024-06-27",
+    "city": "Panchkula",
+    "prevRecord": "51.84s",
+    "prevRecordPlace": "Chennai",
+    "prevHolder": "Kiran Pahal",
+    "improvement": "-0.92s",
+    "improvementDate": "2024-06-27",
+    "aiInsight": "Kiran Pahal breached the 51-second barrier at the 2024 National Inter-State Championships, clocking 50.92s in the semi-finals to meet the Paris 2024 Olympic qualification standard (50.95s). This made her only the second Indian woman ever to run sub-51 seconds in the 400 meters.",
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 54.88
+      },
+      {
+        "year": "2019",
+        "value": 53.60
+      },
+      {
+        "year": "2021",
+        "value": 52.80
+      },
+      {
+        "year": "2022",
+        "value": 51.84
+      },
+      {
+        "year": "2024",
+        "value": 50.92
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "50.92s",
+        "holder": "Kiran Pahal",
+        "date": "2024-06-27",
+        "venue": "Panchkula",
+        "tournament": "63rd National Inter-State Senior Athletics Championships"
+      },
+      {
+        "label": "National",
+        "value": "50.79s",
+        "holder": "Hima Das",
+        "date": "2018-08-26",
+        "venue": "Jakarta",
+        "tournament": "Asian Games"
+      },
+      {
+        "label": "Olympic",
+        "value": "48.17s",
+        "holder": "Marileidy Paulino",
+        "date": "2024-08-09",
+        "venue": "Paris",
+        "tournament": "Paris Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "47.60s",
+        "holder": "Marita Koch",
+        "date": "1985-10-06",
+        "venue": "Canberra",
+        "tournament": "IAAF World Cup"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "50.92s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [
+      50.0,
+      56.0
+    ],
+    "sport": "400m",
+    "achievementLabel": "Paris 2024 Olympian & National Champion",
+    "stats": {
+      "worldRank": "45",
+      "personalBest": "50.92",
+      "bestYear": "2024",
+      "totalGold": 4,
+      "totalSilver": 2,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2018",
+        "event": "400m",
+        "value": 54.88,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "400m",
+        "value": 53.60,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "400m",
+        "value": 52.80,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "400m",
+        "value": 51.84,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "400m",
+        "value": 50.92,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2021",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 52.80,
+        "seasonAverage": 53.15,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 3,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 51.84,
+        "seasonAverage": 52.40,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 4,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 50.92,
+        "seasonAverage": 51.85,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 82.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 86.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "races",
+    "consistencyData": [
+      {
+        "range": "50.9-51.5s",
+        "count": 3,
+        "throws": 0,
+        "percentage": 30.0,
+        "peak": true
+      },
+      {
+        "range": "51.6-52.5s",
+        "count": 5,
+        "throws": 0,
+        "percentage": 50.0,
+        "peak": false
+      },
+      {
+        "range": "52.6s+",
+        "count": 2,
+        "throws": 0,
+        "percentage": 20.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Kiran Pahal demonstrated a significant performance leap in 2024, consistently dropping her race times below 52 seconds during national meets.",
+    "peakZoneLabel": "50.9-51.5s · 30% success rate",
+    "heatmapData": [
+      {
+        "tournament": "National Inter-State",
+        "years": {
+          "value": "50.92s",
+          "holder": "Kiran Pahal",
+          "date": "2024-06-27",
+          "venue": "Panchkula",
+          "tournament": "National Inter-State Championships"
+        }
+      },
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "52.51s",
+          "holder": "Kiran Pahal",
+          "date": "2024-08-05",
+          "venue": "Paris",
+          "tournament": "Paris Olympic Games (Repechage)"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://worldathletics.org/athletes/india/kiran-14781489",
+    "https://olympics.com/en/news/kiran-pahal-indian-sprinter-400m-paris-2024-olympics-qualification"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-06T13:00:00.000000+00:00"
+  },
+  "performance": {
+    "primaryEvent": "400m",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": "2026",
+    "medalCabinet": [
+      {
+        "event": "National Inter-State Athletics Championships",
+        "medal": "GOLD",
+        "category": "Panchkula 2024"
+      },
+      {
+        "event": "National Open Athletics Championships",
+        "medal": "GOLD",
+        "category": "2021"
+      },
+      {
+        "event": "National Inter-State Athletics Championships",
+        "medal": "GOLD",
+        "category": "Chennai 2022"
+      }
+    ],
+    "stats": {
+      "personalBest": "50.92s",
+      "seasonBest": "50.92s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        50.0,
+        56.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "athletics",
+    "india",
+    "kiran pahal",
+    "400m",
+    "women"
+  ]
+}

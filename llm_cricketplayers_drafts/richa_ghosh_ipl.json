@@ -1,0 +1,149 @@
+{
+  "playerId": "richa_ghosh",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "royal_challengers_bengaluru",
+  "coreInfo": {
+    "playerId": "richa_ghosh",
+    "name": "Richa Ghosh",
+    "country": "India",
+    "flag": "IN",
+    "role": "Wicketkeeper-Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium",
+    "dateOfBirth": "2003-09-28",
+    "birthPlace": "Siliguri, West Bengal, India",
+    "heightCm": null,
+    "jerseyNo": "13",
+    "debutDate": "2023-03-04",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Richa_Ghosh_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Richa Ghosh is an Indian international wicketkeeper-batter known for her aggressive batting and dynamic wicket-keeping skills. Born on September 28, 2003, in Siliguri, West Bengal, she debuted for India at just 16 years old. She represents Royal Challengers Bengaluru in the Women's Premier League (WPL), where she has been a key player since the inaugural season in 2023. Ghosh has played a significant role in her team's success, including their title win in 2024.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "90 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Mumbai Indians Women",
+    "venue": "Kotambi Stadium, Vadodara",
+    "date": "2026-01-26",
+    "aiInsight": "This innings, though in a losing cause, was a masterclass in power-hitting, lifting Royal Challengers Bengaluru from a precarious position of 35/5 to 184/9. It also set a record for the highest score by a batter at No. 6 or lower in WPL history, showcasing her ability to change the game.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 35,
+      "innings": null,
+      "runs": 814,
+      "average": 33.92,
+      "strikeRate": 151.02,
+      "hundreds": 0,
+      "fifties": 3,
+      "highScore": "90",
+      "ballsFaced": 539,
+      "fours": null,
+      "sixes": null,
+      "dismissals": 24,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "matches": 9,
+        "runs": 138,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": 9,
+        "runs": 257,
+        "wickets": null,
+        "average": 42.83
+      },
+      {
+        "year": "2025",
+        "matches": 8,
+        "runs": 230,
+        "wickets": null,
+        "average": 38.33
+      },
+      {
+        "year": "2026",
+        "matches": 9,
+        "runs": 189,
+        "wickets": null,
+        "average": 31.5
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKwlGKDq4h9nwlXVSPLO3bMRGqcG_Pec0lW1UuedgDhf3M1B8bSppttr-0g1xj8mGIhkcpr5yHuykj0BU1BpBproG6R-BJFcLPIQ6dLuh9nGsJWJS0Pn5-cZH-kP6BGIkJAjY5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_BKPW4doFKvWL7StK4KBy-6qSEJl0zoSEiwBC6iY9OYTHX0cDqogaC60ecWv_Qtqye2My_YNSGW_JndBGsK1BHD9hsXEDeQz41KBT7f6Gw66zqwDWT-TCWiUXgmS1M-w11r4XxKMU7vmesE-TW_WzI9ZiytxxnA7chg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfqEyDfUtVZI-LDtJZpzTyo-Vt6yFPsUixFNjtCpvUIZlGTbf5_aKPUmrp2QdO-m6OQ0mnlHggHh9LCgeeSjGUQbZKkFrJNifj6zhpsoBov-dTJDJOjYQb80u-K9MJt5Yy50QB59Q-LoJdaw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUzbJnYvMEai7dYTST3ayO79ZNxR8rlm8tOJFiFgNAxShyogwJCWzgEtdyD0YqUHcC2AwsAcnDbsIGC5-OKEiEr0GM514wanB36tExicJuNKTT8bYouw-uBW-PDFUM8b7BWVpDUZ-aVhni03DtMQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcCw2_xOJZn6lErsUBF43uNP4Zm3uh-ePmjs9JgsncIYRLGiibBiEHAgMsr3IcXacjLttTeteQsumYbA7X2uzKcfTXQVj8XqA9Ucj1cBmae08rSosyDYEoiP00mQBkLzGEwXVBKaTEmtDnAp2eQkEdjTD00Z2Ed08WrXfN_w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYQCIbwGdTO8aA_bcsLcR7whXPrWc-eEMYV3DhDcfGvRz7cwHj1URpIhfcjTdlVNbSioapezqwIixTzkthQ3tTEnVTm4MsIwg4ya8uj1HJV-tKWJGaMRknQ-bI9gX78uHb",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKbZbTc7A8_e4b4zXHXyNid7KqLoZCGTB1aSzoJzEDnSMgUwQGdMvuUAxYaJvFjeZIkTCX_Oy8IwhBCGQvYLBx8wuUu87eyycvG3rnxMz-30vwK6KHHGL5ArbPrZUYFH5gob0UN1aXQb7ISGTbdnObLVf5fdblVeeDsMBXicz0RfM9SSxiVixk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyirdyYfBsH0V0QTB5_Y7tQbZICdKWO8u3J27KdwaMbzBBSMZ-ov427dnJbtNmgZpAxa4Vm_s16Whutn_yq9G7JGWN_TUxQOjeNNqBnQc6T66kofhfo0X-AUjhFaaqlIGzseqgOgHjtTc3msKNbB-W9g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO9FmCP_val4WrFxRu2ZKFg8rEu28XeOh5kB8wVQvbfsi1WoGi3va-GxpNJ3CPLnOhIYZwcb2blelTStl2Ss0NIi9i4pCTMaQ_q8ujmQAtp7TY_hjInPa2tBP7LpoDOxpBCw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGANZxcTUmm4zPDDagyysemlzhh9X1ziMOOfCTDl0DRLjnx4PSWiQjN5E9VcXFixKFhBRJePhjwMH4-hCBTEvfFlO5uCEHcvpXpLqUWVr05tOFucDStVhVIg-uWmDsRw4eHpGylF7eknys6xfQgjdhkoCSnL8PgMXkmOrZv3ZXVYUPlpv_kMN7i9MYPWRNpIAE7e8GeGQW1wPh7wFNM6F39BkEh5qE427neW2dxk8EbfIfHZplOj_rSk3Jhjz_LMAi7djBcNyU50j1sFe4aZw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjezk8-vwy5VAIsRxUq8bdjSv2EPANp1xvNIeOlyf7TZp54Rw9jjGm8E7R4jrrkn-hjJSVceSUn8HPK0QWmaCgCxZpUut0MEjtNL3NEBa6Nc00K7XzDWMj4HsTQ6jk7UbOSOSW1MUA_GJuHQ52rvR2qtlU2ZZIH02CMrMtxqB2MMCIvDX1IC27o0oFNTOxQhTTM0fvnEsHRgUonGpX5HS7me_dw6QNxjLfWg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIzcyrZm75GmXEYa9q1SdrG6-LZPLOaRMpxG6DCAGxCvSJtP52Nan2nXm4gp7TAgcfR9ddtQlclP94_WTxqPOMQK2yFPKJv-YfXdQLCOIdnioXD2f_dbNqokKuUJiKVWgcrSg5pjwAOqOUKeX_UaUx_pJswukJ-o1Yk1ArNlPMSMYUc1i8-3k4AiOKCokNB6cpfYvNci3CKKkssZvEOX1hvS84fgwno_Pxy5P8KBdrGBys_MA0xeQdp2iNmPasU9MNUvaTqW3XPr1O7yx2mhGpeudO7A=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:40:06.700910+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "richa_ghosh",
+    "richa",
+    "ghosh",
+    "richa ghosh",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

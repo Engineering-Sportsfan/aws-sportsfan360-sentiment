@@ -1,0 +1,192 @@
+{
+  "athlete_id": "arshdeep_singh",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Arshdeep Singh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1999-02-05",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/36/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Arshdeep_Singh_Family_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": null,
+    "bio": "Arshdeep Singh is an Indian cricketer who plays for the Punjab Kings in the Indian Premier League. He is a left-arm medium-fast bowler known for his death-over bowling and ability to pick up crucial wickets. He made his IPL debut in 2019 and has since become a key player for his franchise, earning a call-up to the Indian national team.",
+    "birthplace": "Guna, Madhya Pradesh",
+    "coachName": null,
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures in IPL",
+    "result": "5/32",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Arshdeep Singh's personal best bowling figures of 5 wickets for 32 runs against Rajasthan Royals in 2021 highlight his ability to deliver match-winning performances. This spell was crucial in establishing him as a prominent bowler in the IPL.",
+    "progressData": [
+      {
+        "year": "2019",
+        "value": 3.0
+      },
+      {
+        "year": "2020",
+        "value": 9.0
+      },
+      {
+        "year": "2021",
+        "value": 18.0
+      },
+      {
+        "year": "2022",
+        "value": 10.0
+      },
+      {
+        "year": "2023",
+        "value": 10.0
+      },
+      {
+        "year": "2024",
+        "value": 14.0
+      },
+      {
+        "year": "2025",
+        "value": 18.0
+      },
+      {
+        "year": "2026",
+        "value": 14.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "6/14",
+        "holder": "Alzarri Joseph",
+        "date": "2019-04-06",
+        "venue": "Hyderabad",
+        "tournament": "IPL (Indian National Record)"
+      },
+      {
+        "label": "Olympic",
+        "value": "6/12",
+        "holder": "Ajantha Mendis",
+        "date": "2012-09-18",
+        "venue": "Hambantota",
+        "tournament": "ICC World Twenty20 (Most comparable major global event record)"
+      },
+      {
+        "label": "World",
+        "value": "6/7",
+        "holder": "Deepak Chahar",
+        "date": "2019-11-10",
+        "venue": "Nagpur",
+        "tournament": "International T20 (Outright T20 World Record)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        null,
+        0,
+        2,
+        21,
+        2,
+        4,
+        2,
+        1
+      ],
+      "wickets": [
+        3,
+        9,
+        18,
+        10,
+        10,
+        14,
+        18,
+        14
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        30,
+        65,
+        80
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Arshdeep Singh has consistently picked up wickets for Punjab Kings, with his best season in 2021 where he took 18 wickets."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsHvaoWmxq3lBED2WinSYRc5V6x7t0tcp9rXT-Bm27nY32gFWuvq6soCNxLdz_-_Ao4CvlBChbwyjig6mp5xlcCSDjXrqewCqUqKhOfE4RxqRyvdBwus_8iM0LBHuat4IdnJMa4IPUcy0yM5g9PVjxvaanPT3fSzMGlVQf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaiQXUL6FR32zm0aX5puykQ8WLQLT7SXK967O1bN4TZz1eGYevNFTRHSogDgO_CrEYJ17QVMi-r3z9SGwc19k5lrZg5guo5idXP5Cvhk5MXFCG8oVjtHb43hp0ka-iPS4iKiZZmLMd49IIdmkixh0d3kHSyrb1B1E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGIwp3CgbqGwL7LZhU10Z4AJoKEQXqJ-Tj19G-yiH-PomyAPDFmOzqV_h3s75vX8hiyZIXBJTGVcrgV32htiLkOPMEwAaGosXEtKMSwQDbo_Pqkj7iH_uTqgVuHXPmQ0AKgYdvmhDU-rhLZtgsj7qlsVaO3XTS5Pmmg1HOqVsukHBCdIo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8iWlSiquIlbF5ryTUJoUSshEheAZBtE3Dem7lWUfTflSVGQefHAUzPE4CUZ64Lo-m71O7NJH06yehkg9_yNBbyBs0NdPDk-VaGVoRueg11tLdPDpG2-k7RczG0y2i6WVY8_QENip648-Q_qDaH0kGIPo7qQvCzwxwA6F-jRmdcuJUFtP5jXeshNQvIi9TgWmIEzQ="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:47:44.062266+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 32,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 111,
+      "economy": 9.19,
+      "bowlingAverage": 28.03
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "arshdeep",
+    "arshdeep singh",
+    "cricket",
+    "india",
+    "singh"
+  ]
+}

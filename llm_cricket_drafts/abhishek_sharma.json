@@ -1,0 +1,142 @@
+{
+  "athlete_id": "abhishek_sharma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Abhishek Sharma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2000-09-04",
+    "heightCm": 170,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Abhishek-Sharma-3.jpg/500px-Abhishek-Sharma-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=gJvVnjRuou0",
+    "bio": "Abhishek Sharma is an Indian international cricketer who plays as a left-handed opening batter and occasional left-arm orthodox spinner. He became the number one ranked men's T20I batter in 2025, achieving the highest-ever men's rating points in the format's history with 931 points. He holds the record for the highest individual score for India in T20Is, scoring 135 runs from 54 balls against England in 2025. He also became the fastest Indian to score a T20I century in terms of innings played.",
+    "birthplace": "Amritsar, Punjab, India",
+    "coachName": null,
+    "yearsActiveSince": "2017"
+  },
+  "record_highlight": {
+    "event": "Highest Individual Score in T20Is for India",
+    "result": "135 runs (54 balls)",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2025-00-00",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Abhishek Sharma's innings of 135 runs off 54 balls against England in 2025 stands as the highest individual score by an Indian in T20 Internationals. This explosive performance highlights his ability to dominate bowling attacks and set a high standard for T20 batting in India.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "135 runs (54 balls)",
+        "holder": "Abhishek Sharma",
+        "date": "2025-00-00",
+        "venue": null,
+        "tournament": "T20I"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup Record (Most Runs in an innings)"
+      },
+      {
+        "label": "World",
+        "value": "172 runs (66 balls)",
+        "holder": "Aaron Finch",
+        "date": "2018-07-03",
+        "venue": "Harare Sports Club",
+        "tournament": "T20I"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        256,
+        859,
+        514
+      ],
+      "wickets": [
+        1,
+        2,
+        3
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        75,
+        90,
+        60,
+        50
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Abhishek Sharma has shown strong consistency, notably scoring 314 runs in seven innings during the 2025 Asia Cup, earning him the Player of the Tournament award."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeHaXKy3xstzHyqZQnKy0rW6vzLmPJCXyQ6rC2AK4nGT8aV5MlTzIjr17lXLIRXYQqsSq8KSZ8nADXFotFjV6LhkFil3Zgw1yyYwk_EWYfSjhhoBHM-q8H1THKwHP4nEn3UKeJKdIr",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXlTkdgyAA48SM3VVoxDerrLcR1n1ZQgmEx72Yzw4AVLvAxfvLrtOe_WHx-5a7VkI0t5bUlTlNsp44n87qqbh42oWvg-PVIy-p64PDOqlsLfGB3-kQRuWGPUrVcWaPQEuyybrcTZlD0QOkApsNTVHhyuHwcg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:18:22.510044+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1554,
+      "ballsFaced": null,
+      "battingAverage": 33.8,
+      "strikeRate": 164.0,
+      "fours": null,
+      "sixes": 100,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 32.2,
+      "ballsBowled": 165,
+      "runsConceded": null,
+      "wickets": 7,
+      "economy": 8.47,
+      "bowlingAverage": 34.14
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "abhishek",
+    "abhishek sharma",
+    "cricket",
+    "india",
+    "sharma"
+  ]
+}

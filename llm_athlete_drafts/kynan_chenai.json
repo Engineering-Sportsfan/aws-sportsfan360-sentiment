@@ -1,0 +1,343 @@
+{
+  "athlete_id": "kynan_chenai",
+  "sportId": "shooting",
+  "coreInfo": {
+    "name": "Kynan Chenai",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1991-01-29",
+    "heightCm": 183,
+    "weightKg": 85.0,
+    "profileImage": "https://backoffice.issf-sports.org/media/athletes/portraits/SHINDM2901199101.jpg?v=128260",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=KLd5qJbQW3s",
+    "bio": "Kynan Chenai is an Indian sport shooter specializing in trap shooting. Born in Hyderabad, he began shooting at age 12, initially coached by his father. He has represented India in multiple international competitions, including the Olympics and Asian Games. Chenai secured a bronze medal in the Men's Trap Individual event and a gold medal in the Men's Trap Team event at the 2022 Asian Games.",
+    "birthplace": "Hyderabad, India",
+    "coachName": "David Kostelecki",
+    "yearsActiveSince": "2003"
+  },
+  "record_highlight": {
+    "event": "Men's Trap",
+    "result": "123/125",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Qualification",
+    "date": "2019",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Kynan Chenai achieved his personal best qualification score of 123 out of 125 in Men's Trap during a World Cup event in 2019. This score demonstrates his capability to perform at an elite level, placing him among the top international shooters in the qualification rounds.",
+    "progressData": [
+      {
+        "year": "2008",
+        "value": 109.0
+      },
+      {
+        "year": "2009",
+        "value": 117.0
+      },
+      {
+        "year": "2010",
+        "value": 112.0
+      },
+      {
+        "year": "2016",
+        "value": 120.0
+      },
+      {
+        "year": "2017",
+        "value": 121.0
+      },
+      {
+        "year": "2019",
+        "value": 123.0
+      },
+      {
+        "year": "2022",
+        "value": 122.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "125",
+        "holder": "Michael Diamond",
+        "date": "2012-08-06",
+        "venue": "London",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "125",
+        "holder": "Multiple athletes",
+        "date": "2012-08-06",
+        "venue": "London",
+        "tournament": "Various"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2008",
+        "2009",
+        "2010",
+        "2016",
+        "2017",
+        "2019",
+        "2022"
+      ],
+      "scores": [
+        109,
+        117,
+        112,
+        120,
+        121,
+        123,
+        122
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Precision",
+        "Consistency",
+        "Finals Nerve",
+        "Big-Meet Performance"
+      ],
+      "values": [
+        85,
+        75,
+        70,
+        80
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Often scores above 115 in qualification rounds at international events, with a personal best of 123/125."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2008",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Commonwealth Youth Games / Asian Clay Championships",
+        "seasonBest": "111",
+        "seasonAverage": "110",
+        "currentStreak": null
+      },
+      {
+        "year": "2015",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Asian Championships Kuwait City",
+        "seasonBest": "112",
+        "seasonAverage": "112",
+        "currentStreak": null
+      },
+      {
+        "year": "2016",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Asian Shotgun Championships Abu Dhabi",
+        "seasonBest": "114",
+        "seasonAverage": "114",
+        "currentStreak": null
+      },
+      {
+        "year": "2017",
+        "events": 2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2,
+        "tournament": "Asian Shotgun Championships Astana",
+        "seasonBest": "121",
+        "seasonAverage": "118.5",
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Asian Championships Doha",
+        "seasonBest": "123",
+        "seasonAverage": "123",
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "ISSF World Cup New Delhi",
+        "seasonBest": "121",
+        "seasonAverage": "121",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Asian Games Hangzhou",
+        "seasonBest": "122",
+        "seasonAverage": "122",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Asian Championships Changwon",
+        "seasonBest": "119",
+        "seasonAverage": "119",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "ISSF World Cup Nicosia",
+        "seasonBest": "117",
+        "seasonAverage": "117",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyFCPJQBZO3XzDP-wolqHKMp0d0gGdPQl8nR29gLegQCZwdEIh8ziLBTIzxaCejl-F7jCV0d2uO71Xh9HGnggE2uQYSj2OekB-Vx4IVb9Po5Ixs1x0S_l2JelEICDyWHqMuWub",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR4nW_UoCaL7LeCyGFJcarh8ZS7td2EeEpnY0m21T81wfsbQIBjUo7ApWPKQfKX4q6Z946GwqcEo-rMRz_t1wLaihx9I_CXdW2NTyGpO2TPfDYDFflNfY94vQUi6e4I-GNg2zDX3vt5tTSz2J2w75i3kYF",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-IUT1t5fY49BaY3zsp8eUYPvbRHabkEQxPSt8ax-PRMa1HTk7b7TbP6wjznkSa3Iy1WOrXPncQd5hbR6cWvRyD0KKb0-rcaD18S7uhbj5BzqzhDGoSwWAd-9XOnPdwQtJQjHgd5uNMesN3wQiIQ2OLBj51naSGSyo4cCYZ6dumkGlfjrNBIkUIkY3idTG1C5frzFbdYqWxZroRCzPvgQlXlB_VqE1Ts1eVJAV1YPjsdqgS11r7Bsn",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8xngf8CFEq_5TAaX3jdo-8fYUeV5imIZURDORs_UjIPZcoXeMreLweCGiWSeQ0jnNUzuxzBNuujvyLOVpw23X3kNk6kgNTrxMm4TIDE3Nbj-C0OD4cDWmGPb0cQhsy_qK-pAoW_2EF_iQEG1zX6HDlI9u0BoUI0ZRk7c9hMKXoEiOZvkDP40YpcXeFmuze28FEi7ZV53STEpyV7GhdDWTzTjitcVSUTAGDZr2oZug3iGxjL6RLfxv_ngI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxDuPhrLRvbwRhs1UZ_wWJxGnJ0A6XFMzo4cXh25Yhw1-OtQzeTNgcEHwHpZLaGZLD6JpoVN2nbgxZdGyuTzSjnPUDvN1oljLkjBnldtteLN2e5txh3jjRjRXCgvgpVtohlniGEnanEkkEtKepR1sJr9d2gIKI3jR_5G_GgLOCchfDf5ATAM0-s3nOBUr3X_1BuAEze-YvSqhY9nu7obKY3Lp4As_kCg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbL6JT5omXyobZZKRpZHKqN47pnsnjlZ0F_3Rv0Y1TOoBhCE91jkp6Th43YNqif5pg-VQsQBsuZC2ui1bO-1LjrDPyVNm9Tr8jEOlOF4uoZUT2k8STzbt3cXLk3maMwaVnAv9JOwxndb9kAYsog5ewLE8v8IOnSQ0l_blnxUTrnjibjuN9nFsZEVhbuFwH3_C329io6H4gD7vTJYILpg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7cd_K7cAv2c3Pl_jSGAYJFzlgq7_R0gZLCAHBMqukI6l3cFt3l-9MHg68zOK5nErnaHPVzeS9iVTwr2Vx2I7Z08Ie5Xuph4ubYA3SCiVo0hb5cNLMW0AuPE4SELUvQgWDDPpGIA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERWG7SA8d8az5xiaAc7m_GyqTk4Ku2SMaQUaD_IKqSvsjehdioBcU5ickw-uXXid4Vdnox8rHjiAHJKnvB2aoSvZX7itTHSB_j-Bm43vhmkZmwAm9CK5hm8TgSDrRtnBiJmUWA5O8h1Jtt129xEzw56J9b9w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKB7LJSE16Q_ZyNAQFivA6vWZ5Ev7jLHC6klI_S4GRPjtbgeCQpm_wmTgT5WsqkrAnAOkzIwixjBr2_ksosuWipRL5fyxoxVsTGa5Fm-88v8_bUtMJGnIm7q90K63xosWe",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH70yW97Ked4EGOju8jrm4Xm7bfOwhSQ5Wh4Bo8MtXPqd9mu49DaVSuYNHxzzmUpL2SxeDzslx-dgo2OLBtQci_0KeDhJdLlsyUcE5nRZRyVE0sOHP5WfuVMCjtrtLyY813EkhCLVugBui2dWbEWtfyrfkw3BdndUnwdQVcszDhcA4al1RL-GSe_kEwWqluXCPTq39jZ7yZsRk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkFSfMjF5iaMnLlNL9O0Qx1ZQ4Sch7SToOZgael9O577ooNQMML9wfsDeQeZY94K0Ll9C1TcnaIm1oMlM3xQa_ATTgMCPA6x2ia9qnMZUFN-TaSXAyGERVtDViPgh5ON9rWS2fTsCvERGfBjEFMqbs7E1shHz3IrCiD0z-Slbg2j3wg2ontWn5Pk0s_uDBgsLXY47_xNEeRArFXDR20-jSmtzZyZAe44LGQuX7nduOVb0q1NY3-Y9IsA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDzRmLOdQni_JMUpH5dVAdov2qR9oz5OqNRemPPyrkzaYRmbk90RzTRsdvLgaIBH45thLQlDt4WNN-vieicgyxcdiqAEy6ZpVjz6QJ2oJunvV752lC8wE1hS_-ZRjy_I4O9g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFnFyigRad24TWISdwpO3yWALimbe3HOkTDza0pQbozszz-c9iIoxI3c_VcBHLWWDwI-kQRzjURYMkcdUeownNw2Aiy70xKeAQmtcaAyDobwdA3tIlAJWUCqO1fNQTUTIbSFx9qjavidbg8OVM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFETDAurEfRgX36MMVtMnLlLKDd33IWfqbFUfVO6fj2g3RIqYmY_CB9aOyDdMK7BAVwFoeUIM-Z-2kd6KOFWcoCRaTcHiTvXN3jWrjM0ARzJaxLZfx3eLiPoforap2xxCLCOmey",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAB4oV0oPEiVsJTy82k4YMRb733DgyN6lOXJe71weHh03IAIsuPI7wjND7Ykqg5iL4sa-du5kOOK9_jNlHNpQCg29VNivwo-WWwm5H79ObwiTg3iFmtWOHluIvp-J50Jc0WXpthgUdxBUux07W5O-ccTyzSnUoWW_nIiZuFRzp3-6PKN6NAiAx0aYdRbYFvV_uypDi_jgE2XSFCIpNoTPsyNBqn8Tufljudwe1",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJWNw6te7TBA14gvJNFwbWvTDQJvWztLYvQnvOFgUywiHoIRI8DIInUMjCLHEEZoSyG2oer7sxcling-7thMT5UiPj_70N1QWwPr2oIsy9TfDb0G6-dYxCDsHBWEzvDRx_IXFHtT1Q61fqx1CBZyG9FmliJZQW0wRy_-oMGzJL3o29kciagCYxqJzaCGRDHQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHACj_JLqnC_AVlRlCvUAFByL42zbAig4NCsLTtM-4p4--yNNBqXAMkf77YLSBHCwR_O9QduX0Q2Fi7yPhLlsHPH_Icp_lvdZ37bObdmmSsPGw2aQyKttFV7eh7_OwnUa7RMxoEu3iZzNEL1yUhTp7HCAaN64ylO-SHCfLrvcQC4oBvAHi7fQvzzorrDsRzCtZBj6XdXGpwW4hdicIpcXaAZK8APRY58VVLW6s9unE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbgY9gn3ywY046GfPlx8Dhsqq4YSDkt2AzO4GwZ0AVzRjm0jBBXDoVe_HX8JKp_wM45GXjbXEhD_eH2d2W38j0o4Zt6yZCgM9IfMrPIH3hltpjwDpogkuuOstIOV6bSj2WJ2G5xowxzcHBCTfIDUqNh7AuJgIksggHUWhSlrvHSj81aFo5abdvUnwcDaiLsvt4QCekbpjQ6tSvVB7c9COX_HSpKj5RqV5olAZBHcyfShwjPHeTtVAYrXS4RA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrdSX62nqgVXQ4PGbiob6Btpm0Tu10RNQwORVybgMl3IutN9nAcW6v44hNFzOLTxKMxlTy7nYE5VZAgHwP2OsEtVbCgKMgiqWSA7H6zqRhyWuvYiflNFuQlK1SI6uXdHz8_g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9f6ZsiEx1qFeP132IoALBtgc2X89Fr6SPQSsyRRrfMDGAEx8X5dVx_k8qo8fIv8cWPP5o8LpkNoUHO9XJJu8omH5fS9OFWu-EwXS84FM8LEq3HKwgfHgOTWXskGd_lOh_H04qAFxXkjKDytTZPLs-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-wDFyssOt6fdWe_J6_8tRqkoIIpDAwIbPZaLmytTsdtvSDV-4sjbHLeIcMzpPG_XNFyiaB8azzp1Q7SfLITomMPG6pip4MXzFFug5wKWkzPQbaPKhrVD5qzMrVJT5nLePQQD-p8LdpMPE9zb9jktm"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-12T17:36:07.331347+00:00"
+  },
+  "performance": {
+    "discipline": "Trap",
+    "category": "Shotgun",
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Asian Games",
+        "medal": "GOLD",
+        "category": "Trap team"
+      },
+      {
+        "event": "Asian Games",
+        "medal": "BRONZE",
+        "category": "Trap"
+      },
+      {
+        "event": "Asian Shotgun Championship",
+        "medal": "BRONZE",
+        "category": "Trap"
+      },
+      {
+        "event": "Asian Shotgun Championships",
+        "medal": "SILVER",
+        "category": "Trap team"
+      },
+      {
+        "event": "Asian Championships",
+        "medal": "BRONZE",
+        "category": "Trap team"
+      },
+      {
+        "event": "Asian Championships",
+        "medal": "SILVER",
+        "category": "Trap team"
+      },
+      {
+        "event": "Commonwealth Youth Games",
+        "medal": "GOLD",
+        "category": "Trap"
+      },
+      {
+        "event": "Asian Clay Championship",
+        "medal": "SILVER",
+        "category": "Junior Men's Trap"
+      }
+    ],
+    "stats": {
+      "personalBest": "123/125",
+      "seasonBest": "122/125"
+    },
+    "recordStats": {
+      "olympicMedals": 0,
+      "worldChampionshipMedals": 0,
+      "worldRecords": 0,
+      "finalsAppearances": 3
+    },
+    "chartConfig": {
+      "primaryUnit": "score",
+      "secondaryUnit": "hits"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

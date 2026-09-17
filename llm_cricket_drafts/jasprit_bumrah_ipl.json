@@ -1,0 +1,126 @@
+{
+  "athlete_id": "jasprit_bumrah",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1993-12-06",
+    "heightCm": 178,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=eCKU2O5ZxZM",
+    "bio": "Jasprit Bumrah is an Indian international cricketer widely regarded as one of the greatest fast bowlers of his generation. He became the first bowler to reach the No. 1 position in the ICC Men's Player Rankings across all three formats and the first Indian bowler to take 100 wickets in Tests, One Day Internationals, and Twenty20 Internationals. He was a crucial member of the Indian team that won the 2024 T20 World Cup, where he was named the Player of the Tournament. He plays for the Mumbai Indians in the Indian Premier League (IPL) and was part of the squad in all five of its title wins.",
+    "birthplace": "Ahmedabad, Gujarat, India",
+    "coachName": null,
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "Most wickets for Mumbai Indians in IPL",
+    "result": "181 wickets",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": "Lasith Malinga",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Jasprit Bumrah is the second-highest wicket-taker for Mumbai Indians in the IPL, with 181 wickets, only behind Lasith Malinga. This highlights his consistent performance and importance to the Mumbai Indians franchise over the years.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian Premier League"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC World Cup"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian Premier League"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        0,
+        0,
+        85,
+        95
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBEJMwY04BXq-khXyxcn420HPO9eTqOBSHuHnZTjZWXFVnxRUEZuqce3xCfeE3eEpwNJBQYxiUd9OfUpEBOPf-TieimqzmsBIJqeYfKzzYQ9Cw6nV2Yr38iJQv8rdVJucMFLncs1vWXxOhfK6mXlAkjjZ45jBTyYCZ1IyoDYoKzN2CytCljIokKahIkM_A--xkJHvu6AOUvFfa",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWesk-ESlgnEjpk5I7VMAFc2KP0W_sbt1842ISKfz9FqPDoV_oZePuWcR6LB65I1Ae_rJx8aoP35tlIQtw0QdN3AhOA6OgcqwxUk_S7sKpMa1mEjte_r_T7N4j7cSncB3ebJ8ebe8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9SDEln9loafE3RVkxDtzatuYaS_K8_FPSN3uAL1HbOJyW_6sef3NTdEGA_3esgPIWPWJmtsm2XN88dMb-NW2epESQr_GAYP2xjZ9YS9jopqKNExWzQTLG9vjhkxVZdp9PNnAsbqV0k6okux9b",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOhHMezu9_dPKDU5PwrhW3-ggNb_pUI-7s2CedjNk1O0_G8uPqwpGp0qsbSUDIxkm5SDC0ZQcUFPIvhTYE8xwOpgT329VodZD7GjKhML0kiVF2bXPs9VAwiQKU1xP0nW_pZkYmQyX184ERUr-EG_l9nr86INr2VnMYcwXyYFJ-xK6RwzglrYmYE9OKjJM72GFHmPVV1eP0bGO6eeytsTjiaj4WoHA="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T08:47:22.697801+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": null,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 181,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "bumrah",
+    "cricket",
+    "india",
+    "jasprit",
+    "jasprit bumrah"
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "athlete_id": "unnathi_aiyappa_bolland",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Unnathi Aiyappa Bolland",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2005-06-05",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/JBARYuptHGY?si=4WBF72oeE0MS02Su",
+    "bio": "Unnathi Aiyappa Bolland is a rising Indian sprinting sensation, specializing in hurdles and short-distance races. She is an Asian U20 Championships bronze medallist and recently secured a silver medal in the 200m women's race at the National Games 2025. Carrying a strong sporting legacy, she is the daughter of former Indian quarter-miler BP Aiyappa and two-time Olympic heptathlete Pramila Aiyappa. She is set to represent India in the 100m Hurdles and 200m at the Junior World Athletics Championships.",
+    "birthplace": null,
+    "coachName": "Aiyappa Bolland",
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "4x100 Metres Relay",
+    "result": "44.75s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-06-26",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "This personal best in the 4x100 Metres Relay demonstrates Unnathi Aiyappa Bolland's contribution to team events. While her individual events are also strong, this relay time highlights her speed and potential in a team setting. This mark positions her as a valuable asset for India's relay squads.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 44.75
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "38.89s",
+        "holder": "India",
+        "date": "2010-10-12",
+        "venue": "New Delhi",
+        "tournament": "Commonwealth Games"
+      },
+      {
+        "label": "Olympic",
+        "value": "40.82s",
+        "holder": "United States",
+        "date": "2012-08-10",
+        "venue": "London Olympic Stadium",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "40.82s",
+        "holder": "United States",
+        "date": "2012-08-10",
+        "venue": "London Olympic Stadium",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "44.75s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "4x100m Relay",
+    "achievementLabel": "Asian U20 Bronze Medallist",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "44.75s",
+      "bestYear": "2026",
+      "totalGold": 1,
+      "totalSilver": 1,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "event": "4x100 Metres Relay",
+        "value": 44.75,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "44.8\u201345.2s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "45.2\u201345.8s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "45.8\u201346.2s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Unnathi Aiyappa Bolland shows promising consistency in her individual events, which translates well to her relay performances.",
+    "peakZoneLabel": "44.8\u201345.2s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOICej6Bbpotw7BBk6ioeD2gIzrZw3nviTNAVIYNu3pgaOfweQMrIpXvQpgpSBgtQidIn058F1VxX53U3QK2IHyPqhktOo1t9cno7xZWJ2q74_YWayGpWqHfXArny-S2Ch2HvoeIs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOQBJZgLdbAWUsVz7tRYPcMaf1YGQkIqmzXBX7T0KNZikSP3do3E9WVYQxofM23r5fK9HfKmGz6csDoJ58FDgb0gQnFGRZUQj4RtvM49Qk3eVm8_v33q5sPYDHqXn5WrNN0opeWmk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkzbmgQ4638h33pbWfeP8ckTQXOxyGgi1KDq6_wNbQKnv7gesfiy1QD1b8Is1HCWWqSbHbVpaorDmqGwknmocMrFBPr0eZOVDSnm-R0eigWSVzc_8pm6-kQdSb6Q9A_4WB0U54Q6mMCZBwFmASMOE3C_8o5SVV4DPzcTafGQw4qe68KEz8"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:48:19.111281+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x100m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Asian U20 Championships",
+        "medal": "BRONZE",
+        "category": "100m Hurdles"
+      },
+      {
+        "event": "National Games 2025",
+        "medal": "SILVER",
+        "category": "200m"
+      },
+      {
+        "event": "Fed Cup",
+        "medal": "GOLD",
+        "category": "200m"
+      }
+    ],
+    "stats": {
+      "personalBest": "44.75s",
+      "seasonBest": null
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        44.0,
+        45.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

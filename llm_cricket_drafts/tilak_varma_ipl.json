@@ -1,0 +1,153 @@
+{
+  "athlete_id": "tilak_varma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Tilak Varma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2002-11-08",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tilak_Varma_in_March_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=D4G02VAdTLk",
+    "bio": "Tilak Varma is an Indian international cricketer known for his left-handed batting and part-time off-spin bowling. He made his IPL debut in 2022 and has since become a key player for the Mumbai Indians. He has scored 1 century and 10 half-centuries in his IPL career. Varma has also represented India in T20Is and ODIs, making his international debut in 2023.",
+    "birthplace": "Hyderabad, Telangana, India",
+    "coachName": "Salam Bayash",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Highest individual T20 score by an Indian male cricketer (domestic)",
+    "result": "151 runs off 67 balls",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2024-11-23",
+    "city": "Saurashtra",
+    "prevRecord": "147",
+    "prevRecordPlace": null,
+    "prevHolder": "Shreyas Iyer",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Tilak Varma's knock of 151 off 67 balls in the Syed Mushtaq Ali Trophy is a significant national record, marking the highest individual T20 score by an Indian male cricketer in domestic cricket. This performance highlights his explosive batting prowess and ability to dominate T20 matches. It also made him the first player to score three consecutive T20 hundreds.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "151 runs",
+        "holder": "Tilak Varma",
+        "date": "2024-11-23",
+        "venue": "Saurashtra Cricket Stadium C",
+        "tournament": "Syed Mushtaq Ali Trophy"
+      },
+      {
+        "label": "Olympic",
+        "value": "N/A",
+        "holder": "N/A",
+        "date": "N/A",
+        "venue": "N/A",
+        "tournament": "Cricket is not an Olympic sport"
+      },
+      {
+        "label": "World",
+        "value": "175* runs",
+        "holder": "Chris Gayle",
+        "date": "2013-04-23",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "Indian Premier League"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        397,
+        343,
+        416,
+        343,
+        359
+      ],
+      "wickets": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        75,
+        85,
+        20,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Tilak Varma has consistently performed well in the IPL, scoring 397 runs in his debut season (2022), 343 runs in 2023, and crossing the 400-run mark for the first time in 2024 with 416 runs."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU1UTUzXveem-B1f0cvN2SFI9PiP-xJ65ydebjTlTCtAaBEeraXDner3i9BD2afTO9mSwPLT8qlgX7zffjo5f1FdfArJqEOcQ3GA_iF4gkFgo-4XSwx9gxvPIbXGMmqAQziuNBHjrWT4CtjQmsVk6iYun7yLBIaTlz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBMAjvIvoyhuHkn7POcTPn8YMtkPf0uqxf5s8vfh872ZduotNttX85ApVL5jRycrOyMvX4GUj4S50kLWGr2zlRhgnoFE3UO_Y7VHOZkapLC5ComMyi30pe_BNNFyLBwzcI0ajrWRM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED2eNW08v7AVWNLNM7BOLmsLBz-tJ1AQKYn3nItHY81FC764eeslBoE3zwjHmMxrpw-ojCn79ZA_-lKBog9JIhtU2gvBfcAZEYiuYrJwGMS4V9wDO-lHkglhN0yn7KCaiY8kxbP3aR_6AROa-CZRy6fN3Y_Yjm05rPLJrK1QjGsOWn8yUbZo4ec1gQXWvHzXreAMXbYjGEYSqeJbzcPJVX7jwlmkpJ3Fw16QDLfJJstYZzdDFC_T9hzLvT4TQkwVuMmzPFGpMse-dF",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-B_P0DRbKbsX2YJ9PkefJvK2eCLT--V2cl7yZLo0BZMKi_QRIBaJONDtTtMmAn1iX9OGo2eSYRNr9AcncmjJirTOk4Gcv6cO4d55d3etc-x6xq5dubJh5bu-eYwXuuJVnsJZlioWUoTdHdcWbzpaljAJx_zB5YKRtLxdLTNO6Cf7c1Sl3Vr3bUaCgJZURVlf8Xa7OCh7vXx1cOOUU5ucRX_u6nzN-rVLCFTzS08jO94k=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFduL1OP4rZoSVptI3UoZmCH9Ac_696yDZ2sOGjs8QoePyH3OkyVJsVsrSOaNqTc3Utzc47_Asm7_uscwJVnFclE36zkk5djA_8Ey5o_eBf_hKOeOjLzM68XwcJXiavNjv7dmdyALsqt19YHt2S7-hNLSJgY6o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7aK93ggs5fJ0XKlDkzTMJ-mSYUFvEI5iuKrNSlmpIBUP4Lm2PCZYL1Qe7pmmvpHuTl_Z7vNyGkDMj_eEPIC2UJsWHzcRjqGPMPrHpm9uL6nmE2dIeVcBjojoO6Q-aD-zJ6v6G7Ms1HTdxppoxHezjgtkUXlYnF1lUnGVLGXCTPgkNRrx0sMtmq-96ZPvUon4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtVMYH9PwnW6Q1c50EqrIGeFhUI-QUpT70BxxEaz-T5dTCqgZ7D-ZO3Bb16DN5YTYcS_wSnz3DTyTST6-BTDZUoz8_fJQc-TK7fqOb9xjr-X8_xfZfRuewpIh-29gV5aV0GHHVlTQys1FIVV1EoQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:45:22.103634+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1858,
+      "ballsFaced": 1284,
+      "battingAverage": 35.73,
+      "strikeRate": 144.7,
+      "fours": 143,
+      "sixes": 91,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "tilak",
+    "tilak varma",
+    "varma"
+  ]
+}

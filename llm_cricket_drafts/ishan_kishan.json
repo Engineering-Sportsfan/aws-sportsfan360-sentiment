@@ -1,0 +1,168 @@
+{
+  "athlete_id": "ishan_kishan",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Ishan Kishan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1998-07-18",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ishan_Kishan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=LxaZk99o47Q",
+    "bio": "Ishan Kishan is an Indian international cricketer who plays for the Indian national cricket team as a left-handed wicket-keeper-batsman. He captains Jharkhand in domestic cricket. Kishan holds the record for being the first player globally to cross the 500-run mark in T20 International cricket for the 2026 calendar year. He also became the first Indian wicket-keeper to score a half-century in T20 World Cup history.",
+    "birthplace": "Patna, Bihar, India",
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Most 100s By A Wicket-Keeper Captain In T20 Cricket",
+    "result": "3 centuries",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2025-12-01",
+    "city": "Ahmedabad",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": "Adam Gilchrist, Mohammad Rizwan",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Ishan Kishan set a new world record by becoming the first player to score three T20 centuries as a wicket-keeper captain. This achievement highlights his exceptional leadership and batting prowess in the shortest format of the game, surpassing previous records held by cricketing legends.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "103 runs",
+        "holder": "Ishan Kishan",
+        "date": "2026-01-31",
+        "venue": "Thiruvananthapuram",
+        "tournament": "T20I vs New Zealand"
+      },
+      {
+        "label": "Olympic",
+        "value": "61 runs",
+        "holder": "Ishan Kishan",
+        "date": "2026-02-12",
+        "venue": "Arun Jaitley Stadium, New Delhi",
+        "tournament": "T20 World Cup vs Namibia"
+      },
+      {
+        "label": "World",
+        "value": "113 runs",
+        "holder": "Ishan Kishan",
+        "date": "2025-12-01",
+        "venue": "Ahmedabad's Narendra Modi Stadium's B Ground",
+        "tournament": "Syed Mushtaq Ali Trophy"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        42,
+        277,
+        275,
+        101,
+        516,
+        383,
+        556,
+        454,
+        481,
+        871,
+        602
+      ],
+      "wickets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        90,
+        30,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Ishan Kishan was the highest scorer for Mumbai Indians in the 2020 IPL season with 516 runs from 14 matches. He also became the first player globally to cross the 500-run mark in T20 International cricket for the 2026 calendar year."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8EHZYDaJPaXz_EUFPgqcFDq7BZjwNznSkozn4avHpqkzOZARB52EGQZbYKCH2Eoh80NjC2q77AgHNjKz0uB1CxSzWbs6CqLXFmL4Rbk6NuLyDju9s8OPGmeAeSefQ4NjCbEsGCyMyFFmdOBI1uIzE5R6cv1XGGQLu2D5_2JLgP5V_bNgySJXGQh349welUFWjEbQJhQhUCDymcA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLs5seSVfdX-B8x3mBCxn-V3jsnmjKS_x7loCDFLqSUuWUBevaoY_i8S6Ai79O-cTY0poI3YAL_6oAKOVwnluKhGXbhCXSfqNJw7OzGP2fY1o4aseTKFc3omccjsAyaK2xCLoy",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNM04E7NlPDLeIvX7r8tCU2Na09wQRZNx3ZrK8KXgrWB0OGfLZNpCa3S8_h0op1mlme12oc2D9Fp1mlG3byAEwGQvuG-4el8vXnSsvM2Xi0D7No0V8K6G4wWrdO411Pz07SKHRykupwRPVuVKQ2Jjaq0t7ImWq95KB2c20SQDFOGTHYDQ6-ZOKgDYCdk_UA7znPHjN6hFuSREXm0In-2spvlrUia3Ws5RrMJ2autVfQMYwJwk7Lsusyx75RA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz03OBatvuDfCV1UnvE6_0pjyfi1eiDoHcIa_4EwqrwKurKTHzDGevPQOFM35G5IRCNftZD-g02EBZbYCRz5aXAp9kcMQNJzz2z_pyVIHLLmNH3vuX3WfkmMv30cr1Gw5CqKoiVOApWItkE4NfXgCnD8P2pQpmvZnatc7bPt4ZuFgYba3WkCrXnzmZPliUym5YN7WOHcovQ1_ZR7pXfZPoIIuKwzloqM8kn9HI1eJGkqi-kastTxC768tszTOH43bvtXlAbmqnAfldwPQUer30rQHQDJa0nk2CugsQAPENQBKfsZha-6yin5n9yvSirwKiJ6B1kxEK"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:17:02.157979+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "Twenty20",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 4558,
+      "ballsFaced": 3078,
+      "battingAverage": 32.8,
+      "strikeRate": 148.1,
+      "fours": 445,
+      "sixes": 223,
+      "dismissals": 139
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 7,
+      "runsConceded": 6,
+      "wickets": 0,
+      "economy": 5.14,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "ishan",
+    "ishan kishan",
+    "kishan"
+  ]
+}

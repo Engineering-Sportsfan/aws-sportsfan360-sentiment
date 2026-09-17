@@ -1,0 +1,164 @@
+{
+  "athlete_id": "washington_sundar",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Washington Sundar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1999-10-05",
+    "heightCm": 185,
+    "weightKg": 75.0,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/2/23/Washington_Sundar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=lNatIVg-eOw",
+    "bio": "Washington Sundar is an Indian international cricketer who plays as an all-rounder, batting left-handed and bowling right-arm off-spin. He has been a part of the Indian squad that won the 2023 Asia Cup, 2025 Champions Trophy, and the 2026 T20 World Cup. Sundar made his IPL debut in 2017 and has since showcased his all-round abilities. He was named Player of the Series in the 2018 Nidahas Trophy for his economical bowling.",
+    "birthplace": "Chennai, Tamil Nadu, India",
+    "coachName": null,
+    "yearsActiveSince": "2016"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures in an IPL Match",
+    "result": "3/16",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Qualifier 1",
+    "date": "2017-05-16",
+    "city": "Pune",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Washington Sundar's performance of 3 wickets for 16 runs in the 2017 IPL Qualifier 1 was a significant moment in his early career, earning him the Man of the Match award and highlighting his potential as an economical off-spinner in the T20 format. This performance helped his team, Rising Pune Supergiant, reach the final.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "9261 runs",
+        "holder": "Virat Kohli",
+        "date": "2026-05-31",
+        "venue": "Various",
+        "tournament": "IPL"
+      },
+      {
+        "label": "Olympic",
+        "value": "2278 runs",
+        "holder": "Sachin Tendulkar",
+        "date": "2011",
+        "venue": "Various",
+        "tournament": "ICC Cricket World Cup"
+      },
+      {
+        "label": "World",
+        "value": "231 wickets",
+        "holder": "Yuzvendra Chahal",
+        "date": "2026-05-31",
+        "venue": "Various",
+        "tournament": "IPL"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        5,
+        null,
+        null,
+        111,
+        null,
+        101,
+        100,
+        null,
+        133,
+        377
+      ],
+      "wickets": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        40,
+        70,
+        75,
+        50
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGvbzWi1GnuJyfysXTTwHLdgneB3iQrc60UdYZv_kpSurNlZhOioO0D_oiR2HnLZvtWwQlrh212Ex-nxzzmNBawHh00wj2wor9xuMzRArqnzhYp5jXB1B0cxWDvzcnJDrdlpkvrOgTz52P",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdnxbvmyrlWoGTPW6JLRnJKNbxE8JUzoPXZnsDwFuaxs1BCP3UWANRxveOqRFocauZPxgTxe4Azqft7h5cqjpujCKjmJjRVnH_nJoirg6cdF7Tg51WUuIqYNPbrT-VBb1sX22tsAyzSY_hwp1EH_2vXHRW7aajbv8NDZ7C6NczYPVC5w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWTxhQo2zxdXhN1bWhJfU7j2DR7ue-5irBWw-ic7ATQ0T8SkLlarjneKGg45Yg5mas70eEVwgrhP9dMONVxlAamAkg2kRQPrzdOAAv6oHLRcO3ujpiUIupOH4NC8ITnbt0bUsTPjbqOyglo2974FtVFMHv85GnynB_o6N4rT_nMY9X1dBVJ7mm73UKn9EiSUM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSIgfTXpK__-KE8-NjYxXmE_BpYQkgr8Mvi9Lil2q8fRq5mTKIQ9eJyID2NI4cLq97x9BtuGTsiDLb3cWx99B19H93Bc0DNdcidZX5swSEaNRElxPPQc0yYyM3ra_TXf04-ln0Eah9WZ1Aju4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv-C_cuPeUAPH-Ou_QdKlpbvjuqLakPS-6JCQW4hDjpqTQWy8VQgfyFhZRN0idhxL4u8iggayCKIsKtNh1JwJkVpF6P6pziDTo8Px-yKPGssoSi598w_ioa0BbreYznl73BK2HZmET0bAeYaGjzje44QXnMs2Y1Lyrf87Fm8RUb3w3nNa2DTFNqpjzQuYXbU8="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:44:46.237984+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 888,
+      "ballsFaced": 656,
+      "battingAverage": 20.65,
+      "strikeRate": 135.37,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 1174,
+      "runsConceded": null,
+      "wickets": 40,
+      "economy": 7.77,
+      "bowlingAverage": 38.0
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "sundar",
+    "washington",
+    "washington sundar"
+  ]
+}

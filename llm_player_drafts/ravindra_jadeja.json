@@ -1,0 +1,151 @@
+{
+  "playerId": "ravindra_jadeja",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "ravindra_jadeja",
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Left-arm orthodox",
+    "dateOfBirth": "1988-12-06",
+    "birthPlace": "Navagam Ghed, Gujarat, India",
+    "heightCm": 173.0,
+    "jerseyNo": "8",
+    "debutDate": "2012-12-13",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/2/2c/PM_Shri_Narendra_Modi_with_Ravindra_Jadeja_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Ravindrasinh Anirudhsinh Jadeja, born on December 6, 1988, is an Indian international cricketer who represents the India national team in Test and ODI formats. He is a left-handed all-rounder, known for his left-arm orthodox spin bowling and aggressive batting style. Jadeja made his Test debut on December 13, 2012, against England at Nagpur. He is widely regarded as one of the greatest all-rounders and finest fielders of his generation."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score at No. 7 or lower",
+    "result": "175*",
+    "type": "NR",
+    "typeFull": "National Record",
+    "opponent": "Sri Lanka",
+    "venue": "PCA Stadium, Mohali",
+    "date": "2022-03-05",
+    "aiInsight": "Ravindra Jadeja's unbeaten 175 against Sri Lanka in 2022 is a significant national record, showcasing his evolution as a formidable lower-order batsman in Test cricket. This innings surpassed Kapil Dev's long-standing record for an Indian batsman batting at number seven or lower.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 0.0
+      },
+      {
+        "year": "2025",
+        "value": 104.0
+      },
+      {
+        "year": "2024",
+        "value": 112.0
+      },
+      {
+        "year": "2023",
+        "value": 70.0
+      },
+      {
+        "year": "2022",
+        "value": 175.0
+      },
+      {
+        "year": "2021",
+        "value": 56.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "175*",
+        "holder": "Ravindra Jadeja",
+        "date": "2022-03-05",
+        "venue": "PCA Stadium, Mohali"
+      },
+      {
+        "label": "National",
+        "value": "319",
+        "holder": "Virender Sehwag",
+        "date": "2008-03-26",
+        "venue": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "label": "World",
+        "value": "400*",
+        "holder": "Brian Lara",
+        "date": "2004-04-12",
+        "venue": "St. John's, Antigua"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 89,
+      "innings": 133,
+      "runs": 4095,
+      "average": 38.27,
+      "strikeRate": 55.42,
+      "hundreds": 6,
+      "fifties": 28,
+      "highScore": "175*"
+    },
+    "bowlingStats": {
+      "matches": 89,
+      "innings": 167,
+      "wickets": 348,
+      "average": 25.12,
+      "economy": 2.59,
+      "strikeRate": 58.16,
+      "bestBowling": "7/42"
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": null,
+        "runs": 328,
+        "wickets": null,
+        "average": 82.0
+      },
+      {
+        "year": "2023",
+        "matches": null,
+        "runs": 281,
+        "wickets": null,
+        "average": 35.1
+      },
+      {
+        "year": "2024",
+        "matches": null,
+        "runs": 527,
+        "wickets": null,
+        "average": 29.3
+      },
+      {
+        "year": "2025",
+        "matches": 7,
+        "runs": 764,
+        "wickets": null,
+        "average": 63.7
+      },
+      {
+        "year": "2026",
+        "matches": null,
+        "runs": 43,
+        "wickets": null,
+        "average": 14.3
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDYrHCfVKv9VEZZ4lpNriMXSrhE2f8KWnOGCkL_VeujrDv2-y3Yeeu3mZM0QKnIOk12DEg0gQTkzuKoFRkNfmvR1izfG69HTh-mJJ8T_3IPzP_mT0SWnCGrnnP01xebaeqieY6L1FfyA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHNWlbzobl6LcwI0gHVOOX4O_u3aBn4UlggVaIN95F2uYqyXxU2AaBGPZ6rJ1kq2l6zzpGSC6pzagnHltCaeZ-0kTWcnFibwmMxCkEa5MqHOndRCFAK7vt4dgdhDd_MlBnzRZhe19Vhz7oKLAu4tREpLxmqJbpSusaXWPTI-JjRFiewNKoiCemlnXWIb9aBM4CX64cQIe3JPsfQ53i68se81PXGHZirh1yTNKHZ6Pf0HGm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxLyxu_hm7gblrGEv2GxmCbwnd8mAntHwZuTM3BrueyV_dPmEbj5l_FaPx_wMEp01JLZ8zM_3Qs70GDtSYdCs2MAhMxto3krIObxyzIo_zkuD3VMIUefbOq4fL1RjMXnklS9yaU-Vlj3eLfIYMz6PTtK8hH35OkHAGSM3M8__RkN4PTjYoYy4yPFTbwnkRsL13h0o4eJvIC97g-5eaUnjIrMRhHJV_RwLJau0BPECVrbQRt2zKi9HHp_Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp5yHqCLEFsWnC7_UQZSBYlnlUdum5VVu_TaT1jenSkletXQy-ZMOjSbLSFKwmRklRoiwVKlz_-35m9Z7nnvz9NYpMycxttPHss8PYWbgXQ-yusKyt4qETC-v6iabBjd5TV9uf4dDMgvd6MlwU6FiLnHYcd0aKHcHZ_qPp8gcUJEBqVGbqTC4MbqwNBSsi0tXi8Hbic6ZkARo2fdbqvA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T15:01:06.322958+00:00"
+  },
+  "_retry_log": []
+}

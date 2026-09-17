@@ -1,0 +1,237 @@
+{
+  "athlete_id": "jadumani_singh_mandengbam",
+  "sportId": "boxing",
+  "coreInfo": {
+    "name": "Jadumani Singh Mandengbam",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2004-05-05",
+    "heightCm": 163,
+    "weightKg": 55.0,
+    "profileImage": "https://boxrec.com/images/thumb/6/64/1130712.jpg/200px-1130712.jpg",
+    "welcomeVideoUrl": "https://youtu.be/Y78UNvs2Hbs?si=tTm2vteF6PSlMVJi",
+    "bio": "Jadumani Singh Mandengbam is an Indian boxer born on May 5, 2004, in Iroishemba, Manipur. He initially competed in the 50 kg weight category, securing a silver and a bronze medal at the 2025 World Boxing Cup. He later transitioned to the 55 kg weight category, where he won the 2026 National Boxing Championships and a silver medal at the 2026 Commonwealth Games. Mandengbam is also an Indian Army personnel.",
+    "birthplace": "Iroishemba, Imphal, Manipur, India",
+    "coachName": "CA Kuttappa",
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2022",
+      "value": 71.4
+    },
+    {
+      "year": "2024",
+      "value": 66.7
+    },
+    {
+      "year": "2025",
+      "value": 62.5
+    },
+    {
+      "year": "2026",
+      "value": 81.8
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "2026 National Boxing Champion",
+        "holder": "Jadumani Singh Mandengbam",
+        "date": "2026-01",
+        "venue": "Greater Noida",
+        "tournament": "National Boxing Championships (55kg)"
+      },
+      {
+        "label": "Olympic",
+        "value": "First Olympic Boxing Medal for India",
+        "holder": "Vijender Singh",
+        "date": "2008-08-23",
+        "venue": "Beijing",
+        "tournament": "2008 Beijing Olympics (75kg Bronze)"
+      },
+      {
+        "label": "World",
+        "value": "Six-time World Amateur Boxing Champion",
+        "holder": "Mary Kom",
+        "date": null,
+        "venue": null,
+        "tournament": "World Amateur Boxing Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2022",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "wins": [
+        3,
+        1,
+        3,
+        17
+      ],
+      "losses": [
+        1,
+        2,
+        3,
+        3
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Power",
+        "Defense",
+        "Footwork",
+        "Ring IQ"
+      ],
+      "values": [
+        70,
+        80,
+        90,
+        85
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Demonstrated consistent performance and adaptability, winning national titles and securing multiple international medals across different weight categories."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Youth Nationals",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "tournament": "World Boxing Cup",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1,
+        "tournament": "Commonwealth Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpbTKgHBLSp0wuXB8NtDwvkXLs8h3oyLaBzujSOZbVZ_So5-YJewHEca_JIuSMXGN9tr7NJf2FDpQngaqz-LcjyAG9x1WPEigvAh5cUSy_M4YMUQuhKrVP4Ka-wlYiI_MjvGwWUGEF",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5byaSaHlI4G8rM0bstRF_chedxMVNjd81GVgqqh0Uo0nNwGGABdy1yNt0eiJskIlVej70QT_XZv2xRraQrxTVW_1a5nK-yoneL2Tfw3q4t-FtWcizHVqmXPykt1x0wDzrGNzwGhw0r4S0E6oc-w3N_GWbceeXgp3KtGnI7wwMX8XTbyXdUQtIY4HVFz1IIKOGt1vDUTGVlH4twQBtrZbG9jeadGwoYo6mMw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2F4V2UIOfAKvL04Rdh8bfjfF68ACxD9vN_nJYRokMCsye4uA8QH1S867cvRkulUhy2yiBBut6Eo7wX8bo53nLxt-NxYI_vEomTqG54s0AA19dkMVr_zEI4ljJhL20oyRJ5VxH",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqU-JrG2ylHJtB8CTjfwOfcvdgZ2_fnHqzhc0kKIEYWNg2TOZXUTx6C8yYnhVR6i8A-iKEGLbg-a_nKXw81hH03nWECrpMkPnH6ofhBOpcvai-bAUxj4Hqd1WkL4jbpNk6O1_KCCfU0N9NXLhhByQTJHPw-wBTaA5JpYbAnUHONc5NWM23n8q-PZD9SNKQeHs-cDhxPe8Godg9iNJDz_KvPRk_hpPNifGnmAlZW0Ok6scs8V7Fa4aLi64O7O-Xim3s1GVczJinfMV6vR-bRxpenjO-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ4KIhCZpMOCIrv6g-phUI4qcuLHa6D19qyCww3fjLU4ohO08SnREqf3FXHPe49QgRPBgovtkAet0ypagVOVIG2WWxkJEi0-u52QJGJPWGOdc0N4rV5JnGGHOKBKOZWwTc7p2h0Z8o6QpY7IiY2l0eduuX0QVNuc-7nIA7n_YxA-ITav8kVZCW38ddqwcRZhBXKOrZyfZu56Ea56txepPP9xyVfkRaOoJtWF23POAWzVae7KVh20ItxFyLY2uRCEdXPoip34xqgX1h7hkitHxewPnnPKWu5f6tA1p_wSFVGnYNt7WiVXmZjWS8yAcEd9ge5bz5cEeh",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVu3LHNgRLHcWxXkIU4-Y19stT8f-mUu-8yur4G0KdHRFQBqrS62Q2sxSokXs8-rCJtb-6suLotFC9emfVs0ntKG2o3ZqYZLGPVK6ERVKkTWaxoJnjw-_zPT0G9ThQl52VXTPDL4jMr6xHb7Jcn6sWLxK_8qCEsOdayLAXa0OTQEekcuh9AvaAO_WIl0YzhHVdzm2qr1NWrlYFQbOLOc0_WIAXFCDu5PggCZXZFi9E3If7fvGyfPoasOUCrMKb-cTp89h8UWA74xYvnaQThX0_o5md4iZk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5zts1F4O8Sb0BmQS5lYlBKL7SuGXC0VCEwNv2_Wy9_heRB2ce7YfbsvkC9jieAWaSlN_iRkQkjfDMtkwab742LnAliruRaFKKX61NzoIBq8DjMJQ-rMN4qGjLbvUPss6q_3OieF4nT1zYJ4bbkXsrVXfKGLbnhUp1c3rmT1LAn81xtHVWEMcuPno9p4dhroq7yjX68CDD57FYFaSiRWOAsVJPBXONLl4E9XwXkFr6vo9gb6uas1r2KskilTBjdayi8Dc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP8_nGKYbETRZKiNtk95WBdZSksd0HaKupHMV9_mT7aEZdH-7kGmWl9oh4Krh6Q-DLwh38KmOnYAn93dgF2gjTCCAFAha1aFW_F-Iec0maCuzQh9I1XYt3wkmkmDjs-GhIyXMdmRC7UcZVr6BnoZL_H1wh9lw1-AxrU-UOfQh7_aYNCexeFucpkl0wrdeZwKBsOiaYqLOegLWqhFPNM28b_R0cU0d_7lO7mcBXy5oCRIWuawiN3Kito0r1jCd9HhdIY5OUMxCByDnI2Kn82MxvgdB8et2pz0bkuv1L3OTNjBibbhGtqHv-ufQxuImvKhMx0uLQxms=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3ow1YbAT93CdiNEaNTgBEFKR44r_VWE6I2ruiE00ss1ZYmMiJFLADyQZri6r27pBlNrRcilXzT3iqOsnXERaEuxMgWRzCIo76yWu0VvaNPKtoXznEQu41OdUpLQyZVOkBlw-n41FrTXdNJXj3LkzCNVkv_pm8atvGDhbfNUR_0QvGv6FoiUEgkg9rdhjvIo9gKJOpD6XZK4UqkOuEBsXusPZQklKoXXYG4kwxF04UpauDyshTZ8sq7LVWxHNsO6smsTKLusZnPnVkkCOaP2CRNSVyQYzXhFD56Tfk7cmqPFfm_WpZa2jC5T3d-xUE-9MazZdPwQ5L",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNPrXmhk_VcJxTx0rRo96IxICNeSdEWCaIJsLp3lJjj1l0j9yjhzvqoMhKACYgwKL0SGRobY6s6zi0cZSKcHoh4KPTZGi3l-Pc21P66gn_rTVshEwvaoDpty503ZvGc5xIgJiUBj88",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZA_qlaIBZsTvwOINlwI3OsfKngw5MJSkBOh009KDG4q2x5sxE_jCwDpVnuhXlO76Jy_XhNJxzwxp__7ngv7-bAlL-kWxL7_7oFFf9k-pyG46FcMDzgMBtbS7x0XUDTOd5_X5OtEa_BeYIbQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsGnwb4z6NE0s1X7AiTOTWoEX4WkaxDdMRAoeZhVu5DWGxcLk57Y1siAbztHzQ3ajwbV0pESjP1UC7sR5JD7p6XsSLmNE4XeOIDD0caRgnPdgzPbAHRnin0WawyPVsokLyBNvC567W2DKRBkc6ZOvQRkoJF84mPUm99E2AEUVDxNYvz_FJKiOMRwNu3lZ08Kesb3_U61cqofHOeTLwMIsILNPw2qWltJQ4j2LHPBTJx8h8-_lug7QlM0usSrNUKe7B_Co=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfeABTcEbZgupYHb4uKT3ssnC7Wy2rzrmR64lJSq-ibo-owB-nK3Vtd9ZNIfbp2GDfpGDPBfFpJFP86Bnukg4lmFBfFAX3-KcsC1_MYo9NBjC_MWBGjsm1piizd1AXivYj6zsY6X4bGGauoTNsEsS4s1J9rMcrk6zLrgja4UUXAiCM0oLvCZ6ljRXOzAVacE6aJl-mZHjddR-80gU2YY8bxkRvJx5OyH5QoA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ0O0FrSw4DqnvwyM3NFF7VIzgnq21u2ysbqCjqY4BaSJB8wAfPxTs7URLURTh3yfBc-HH5OthpDiKmZ3fUkyA4dyMxKs-kQqmPSxMpauj8r8-4BPms9Bl1c9qbLoBXxfWU8jw_BtrWjod5H8hNwKx5NH2ladE8NI1eWYUxUugZKCDDfWWpr3JlLAZR_UhfGUMS_WIAv-bD8vvAvQQ5-KvsvwHGcpYXXmCRQEG597NtA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQJb8Q6ltmWZJlFZhCgP6V4aQqDv6E8IFY7lYSRN_k5T5eiiG-PYTSExfIq1k3FkA7xNfKvCEp1atBOtCkPcUHX2ADc6jqVqOpbbgnVD8HVr1VoWopV-FliEhOcR9vvEoVCQLEaaPRuoBTReuP4bO-92U7oI_-GFLHI32c23_PPMFe2g9L5VWN8mNstQe3I-bwZVaX93oSgNBHADuR393JbQLTQNbvT7cmQLUVm76jSF7ZUMy_6vsIEv8LNTxy7YF4tBGGplczfh-ArMIdKfi6zZaPtsX8xzFuC8iBbL7kL7ll4a1YAsUP5JIc4USzEXadz00h-cacX5-LNto=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOE52msW70AFaricd4K7M-Z-gf9yClGAoCSjxM16qJDxXVXl3zlr2njBWWc9lRt3AhtSTVCsem5rhditw9Geq9rajODo7O35FXL_yzCkGrvhNjT-CUk4Ej1LE8UKb--Xxj5Q13Cdg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELb8RRRttoJYRYt6aBWC4LZYhWLhiP5lzcMkSsWk-ed3ZD9y9XkEMnAipkH-EZwi-ZooPjti9d7DwqV0tkPps0Vg1WRkXg_HJd0qdlrRWWuLDIO5Tzpu3j3erLZIkqoaZNSxZ2-j66R09oHz8HOsA18Zx2iJdxwxUHt30FeNAQKU1Cx8j5rqeP25qIRsiPCVLtab27vUAlgZ7o9Ti83HhI7u13KaRRekPk2d0QqMqjRSEY8iw17wjBNG-PtLB2Q4BVulIgd8d9FjJd9jreYttYuHJWgwKtC9GYidY1tpcvy_WqS-ZB6LVJx-V9Nc75CdDGq_AG7CP5hK4ekw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_KzCZl8BtsjjRhClKWMRJSvaDFTcoLvx_ZI5ujNs-yHPVBgMCdm3n0EXe1VjnNce7NEwWDBX2pOm6Ett2nnVDb8OPOIaENj2rvrQpRsiZqDuxKOkCZ0yVuIzeg81AUQyd-kiHUsj1U_lEPd-hDUD0fDA4fVaYIp-DZHmzhsmT5X9tOXOvgeKYPkM6zZDwDjOj6hVUny4YvbtohqmTErPYE2p5RMa2e2CFUXTJjGM6QgvbGODzRLec9W2LgDGeAhF_egEdGJ2Y2FWbSH2m-sBWVTo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt9YhfcMPC2Xz_4HJ8nCHS09nanrSdKMev5hFd3F-RtItqnvwIsy6sfpmYuEAU7tyBxX0epEEhtkLUasD_FJkzSIq4bjgOBtLvnzFnHPoEKwqIZkh4uKdL2xc6TiOW7agCdVjZP8D9OjFYX85BjcsSIy_kWCQSLuSuyr_Jtg7QPVRnRaBccgfyztBgoeDbMf8zosQf_nBpcOym08h2i999Ae5OrUYqhBnlrUkEBsi_vHFE4lX0Q726XUKdBq5Rj0RP_UdcXVpqFxSKcrh81Ag1mAMQcj8="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-10T07:47:06.879441+00:00"
+  },
+  "performance": {
+    "weightClass": "55kg",
+    "stance": "Southpaw",
+    "reachCm": null,
+    "heightAdvantageNote": null,
+    "tournament": "amateur",
+    "titles": [
+      "2026 Commonwealth Games Silver (55kg)",
+      "2025 World Boxing Cup Silver (50kg)",
+      "2025 World Boxing Cup Bronze (50kg)",
+      "2026 National Boxing Championships Gold (55kg)",
+      "2026 Grand Prix Usti Nad Labem Gold",
+      "2026 Boxam Elite International Bronze",
+      "2025 National Games Gold (51kg)",
+      "2022 Youth Nationals Gold",
+      "2022 Golden Gloves of Vojvodina International Boxing Tournament Gold"
+    ],
+    "recordStats": {
+      "wins": 24,
+      "losses": 9,
+      "draws": 0,
+      "knockouts": 2,
+      "noContests": 0
+    },
+    "chartConfig": {
+      "primaryUnit": "wins",
+      "secondaryUnit": "knockouts"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "performance.stance",
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.coachName",
+        "performance.stance",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

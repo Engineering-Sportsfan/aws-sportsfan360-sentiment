@@ -1,0 +1,94 @@
+{
+  "playerId": "jasprit_bumrah",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "jasprit_bumrah",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast",
+    "dateOfBirth": "1993-12-06",
+    "birthPlace": "Ahmedabad, Gujarat, India",
+    "heightCm": 178,
+    "jerseyNo": "93",
+    "debutDate": "2016-01-26",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Jasprit Bumrah is an Indian international cricketer widely regarded as one of the greatest fast bowlers of his generation. Known for his unique sling-arm action, pinpoint accuracy, and ability to bowl yorkers, he has been a pivotal player for India across all formats since his T20I debut in 2016. He has achieved the No. 1 ranking in the ICC Men's Player Rankings across all three formats and was named Player of the Tournament in the 2024 T20 World Cup, further cementing his status as a match-winner.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "4/15",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "New Zealand",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "date": "2026-03-08",
+    "aiInsight": "These figures were achieved in the final of the 2026 ICC Men's T20 World Cup, where Bumrah dismantled the New Zealand batting lineup to help India secure the title. His clinical performance earned him the Player of the Match award in the final and was crucial in India becoming the first team to defend the T20 World Cup title.",
+    "progressData": null,
+    "benchmarks": null
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 95,
+      "innings": 12,
+      "runs": 12,
+      "average": 2.0,
+      "strikeRate": 66.67,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "7",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 95,
+      "innings": 92,
+      "wickets": 121,
+      "average": 18.08,
+      "economy": 6.51,
+      "strikeRate": 16.6,
+      "bestBowling": "4/15",
+      "oversBowled": 335.4,
+      "ballsBowled": 2014,
+      "runsConceded": 2188,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": null
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9SzAjXPBgvl-Y-11INhDpzV0JNwAQP3Ct-2P4sjSxesoWsDB5K5HiIMQFFqbFDQB-KNIt8EWS7M_q0L_oUvsEmyg6D-SO-25BtPQrX5eeEZyy87T928rzcatXqT5QziWI9CX-WWuG",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY0f5i6XRRMaoIOojb3saq-l92LqixZxPbwOgA7C6by_mBhT9lF0bw4WrIFO4KUEIP9mxTLfHDecl-mygHgb8kN8Oh7qRjs058sWWzGGpE7Il10hcTozRFO-39IDYUI3tIXmI0HsCUkemzul6hC470vWC8fjdxvSI9XYUmaJwgt6jyswXPnNHP0eFxi4rQF42uQg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhj--rpN4VmZk36TZ5-4pGqEXzqPmT5PuswhbIcpC6Fuq00beTAnoD0I3Vq4DiVKmc_sfjzAoXsLL85Pnef5fPOnc4ckuUDHdomhhueITOiS-rrpGWJ6JQaQYYm23JgssC0dcoTGKM15u-S49HGKZSbTkdHMc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES7_QWkI-jCApKd5x8f19vNDOCHHcxAG2NRVB4LRE5pSjyKEvbz8zj1wR29449CO1uga78eiZ2QWBcYhbdYvtVEWQJMB_gItP_7B6Zzjvlln3ByOrjVGKvE6ixXZgjyqOT4neJ3iQgiy9C3Ss1WBFLqwo-HhW3Gg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmd9dMv1yYIKIr6k4Ao0kGnMFOxin5o1-a12O86n96GgQ1VwJOPE48Fwyh9gBI8n5_JFVBqSrJZRr2G6fNxizKRgFJh8Yh-XCc3qPcOJbx86KAZzSZXClyT9Dy0ERNryr4CC559Mlf9Fg-EzMB2CGzaB3gPp1G7P4JrkVWNh9JBVhgDW4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy_nNGBXD0zg_hAwGQOho961gXW0qfkZcG7FkX6o88jDLH_yjnrYC55Eexrt3WdqRWwKjms_ns8sTMlb6ofDVRw9zIwNbHIFCimL6mna3cs7xuguqTa0BdHVZi4gEH316Ung4W1k4FdSaiE3Kf4D6b5FU5Sw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZRgJzKac2_k1qMk-uthO6pGL01amtu4UkTGrN7fTlDyP5l5gSVnEn0Aea7oqzQgcWhiiU2rI61a2FlUepSgd06kIr-Xc6GHKmnGWBwQv8dxQiWoFh63zF7cNdWcx0hgKWsPPL9sb0utOBVKmDtxrBCOl6g7qD1qU5MCR-NbM-rCNVMG8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBuAU_l_ECOT74swHxJn5PTP5c9eSemTbBpr4C1g8lmM40jtBjIsTYCJrsGDiIquusBS0mf2uIm0MMDq4vwrueRurEc5W4Gk7cqMZYiPQUi3h-7IYxDc9wFsnesghXutEBpjoU5vgq4jJcR52lnkSTa0s_ucM="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:09:23.516134+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "jasprit_bumrah",
+    "jasprit",
+    "bumrah",
+    "jasprit bumrah",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

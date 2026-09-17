@@ -1,0 +1,94 @@
+{
+  "playerId": "nitish_kumar_reddy",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "nitish_kumar_reddy",
+    "name": "Nitish Kumar Reddy",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium-fast",
+    "dateOfBirth": "2003-05-26",
+    "birthPlace": "Visakhapatnam, Andhra Pradesh, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2024-10-06",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nitish_Kumar_Reddy_BGT_2024_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Nitish Kumar Reddy is an Indian international cricketer born on May 26, 2003, in Visakhapatnam, Andhra Pradesh. He is a right-handed all-rounder who bowls right-arm medium-fast. Reddy represents Andhra in domestic cricket and Sunrisers Hyderabad in the Indian Premier League. He made his T20I debut for India on October 6, 2024, against Bangladesh, quickly making an impact with his aggressive batting and economical bowling.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Player of the Match Performance",
+    "result": "74 runs & 2/23",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Bangladesh",
+    "venue": "Delhi",
+    "date": "2024-10-09",
+    "aiInsight": "This exceptional all-round performance in only his second T20I match showcased Nitish Kumar Reddy's potential as a dynamic cricketer. His significant contributions with both bat and ball were crucial in securing a series victory for India and brought him into national prominence.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 4,
+      "innings": 3,
+      "runs": 90,
+      "average": 45.0,
+      "strikeRate": 180.0,
+      "hundreds": 0,
+      "fifties": 1,
+      "highScore": "74",
+      "ballsFaced": 50,
+      "fours": 4,
+      "sixes": 8,
+      "dismissals": 2,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 4,
+      "innings": 3,
+      "wickets": 3,
+      "average": 23.66,
+      "economy": 7.88,
+      "strikeRate": null,
+      "bestBowling": "2/23",
+      "oversBowled": 9.0,
+      "ballsBowled": 54,
+      "runsConceded": 71,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQuwv65IFVrQNyGBE24xy50u7Kkmd9cAGCSvycm0WVusfc4SMNBRpdIAyjPjqXfaXWgApTZSKbaFIyzhJQgr2YwyeRaHzdDgaR0RyZBdwzOuITVKo6UZ-1iPHxBlG57GL4al4moD4zsniFKA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkLmAJJrQup-_mLzg5s1Q7nNGeBC73Qgrma6hseDVmwo2VGr0leVSjv9doegjnn6943gWMEQXqf72HRUrFulo90bHGN0NOBGeKvqfFQt_pYIg2cYZNKlGew1HYSj09V_LOdU0-lnssY8V2_M8CzIW5pjUlqnabS92U",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSsts_gjgnhHWUJOP0_XGMnNaLrv8F_HQ0rVTSjYnOxRo5WHeQX4TWdGZWMB6YFnlYcyrLhiYHy4sLYZb_f_8X5349FeUcB_vfYKvWwkB9_hD531PMzBPivwz7CyTyX39VVDmcoCMEmh3rizaxzCA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfovN2pUTVQ-28ryA4vm0-RC7lwBYWG1pocGEI8vMuRQKVbKDBPedBls8DDai2vFxsSxqgb9LcykarszdMBtb1VCxAVKxBHG7uccdNUr0q_WitTi1PfllqL_3Q_HMoN_PEilseAZsfG6za-rqL2DCmQhyi9qqJSIP9e7Brfb1rbKI5_5Fs_wwK",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3CDCnlYEJBfwWkIEEguaYtzOtR0XiNgo9vIG4DalgSNBMexSHl1386yUrXnL2msEKkrYBJZjbXHFFWgHb49c2fv2ZUkkiL7n4D0J5-G7u6FroA3v8KkB9By7wTRSuVkD9Uu37E8b9gi-uMph4AXDUGtt8qetUIpg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhOh8sefITvSLmf2-D_ioj04KZxK6-12UIKqo0l-c1n8vxwCTn3n9joTJDA0nhU-K947qamivJWYQt8lvadezt-EvDb8Yu3Z3Zqv00JOtIhEmyrMzvlCyo8sJFMs5RBcorEBN-p4q-2754aKVan3B5POpyEU7tmCjOoBqyPfl8OAQawKSW9OEuj6Sia-XMjnMXoDGIwA9fejEFQ4Ty_0Gfsk8d5QVkBlAYUMOkwTHnc7DsZnw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-LtxKb4V3caQVWWlgS4OCQe04HCrvnEPavzxPFhy9zvT_ZuEcaH3RusP5ltdtNm7eLSfm37Divaqr0N1-fS4FLbAtB6OQbNXPMOigmC1CYporMeD5POgLy2ZUzcXg2sKQ2KTyUaKqocwZ1zamw-VwpLkPugMDORass-WoQCxB3YWomHkoUMmbz7k="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:18:50.810742+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "nitish_kumar_reddy",
+    "nitish",
+    "kumar",
+    "reddy",
+    "nitish kumar reddy",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

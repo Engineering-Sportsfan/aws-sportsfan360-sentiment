@@ -1,0 +1,115 @@
+{
+  "playerId": "varun_chakaravarthy",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "varun_chakaravarthy",
+    "name": "Varun Chakaravarthy",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm leg break googly",
+    "dateOfBirth": "1991-08-29",
+    "birthPlace": "Bidar, Karnataka, India",
+    "heightCm": 178,
+    "jerseyNo": "29",
+    "debutDate": "2021-07-25",
+    "profileImage": null,
+    "bio": "Varun Chakaravarthy, born on August 29, 1991, in Bidar, Karnataka, is an Indian right-arm leg-break googly bowler. He initially pursued a career in architecture before dedicating himself to professional cricket at the age of 25. Known as a 'mystery spinner,' he made his T20I debut for India on July 25, 2021, against Sri Lanka. After a brief stint, he made a strong comeback in 2024, achieving his maiden T20I five-wicket haul and becoming the highest-rated Indian T20I bowler in December 2025. He was also part of the Indian team that won the 2026 T20 World Cup.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "5/17",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "South Africa",
+    "venue": "Gqeberha",
+    "date": "2024-11-10",
+    "aiInsight": "Varun Chakaravarthy achieved his maiden T20I five-wicket haul against South Africa, marking a significant return to international cricket after a period away. This performance highlighted his effectiveness as a mystery spinner and contributed to his strong comeback in 2024.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "5/17",
+        "holder": "Varun Chakaravarthy",
+        "date": "2024-11-10",
+        "venue": "Gqeberha"
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 45,
+      "innings": 3,
+      "runs": 3,
+      "average": 0.75,
+      "strikeRate": null,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "1*",
+      "ballsFaced": null,
+      "fours": 0,
+      "sixes": 0,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 48,
+      "innings": 45,
+      "wickets": 73,
+      "average": 17.36,
+      "economy": 7.67,
+      "strikeRate": 13.58,
+      "bestBowling": "5/17",
+      "oversBowled": 167.3,
+      "ballsBowled": 1004,
+      "runsConceded": 1285,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": 2,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEpcG_r3Ed_rvZRrSqfGY2iBTpS6EZTOfMTpJ0SunCrmup3v4p3BI8UAE6WGXq3morjwvFC-El9BhN-XV7UAA5enTYwFvdGeE1CtM8l3CxKryOHQ1MiN1cTXMkPTwbYuzbIc79ap0JPL_8WC6i87a1CxhAfV8yD8M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2N0a_Rp5nwoimFiJP61hjX29F3iRMQz_Tz1ds-3OLSVRe1JYHTpnSzc3DW0nXu311BsFbNx5WN8FlBjA2F2B4s5hKqZDHGudOPPO3HdHk6tT6z26gy56UI-gGPdYYmpLwUDg2tDOmfglTHA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxW09MhX1ysD1n70qngT8LRcKixrcoXfgqO6oxua1JwXcifHzTHPTTyr8v39yK4JkA7_QO-BUEkMAHI_SvIkJMF793hzWboS0jP1vnljQ4fuJkuZz97MJzxuAunN9rDyRXbGjgbmLN-y0brA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDKzI86P1wCtYhZrdB2hHTa-YjYqjT-_2L0fiJLJe4DGag5PbZL8dWQ1UG9W-5e2XhAimoSLhJHfZW-sSCXHhAWOL7mo7aEpUcxUzffaMcixT5qWsYSvtNVhu39R16xBbs4XJ7hu_ZCPyz0H74",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Ym8lmnszs2Q0LZTC70MJs-dPU48U2cW-HqWIqLA_EVWFMtatkC_EzUNuXB-98pVQ9mZGRiQ8oecHlCPM0JL7ugABdoaYk7LbtIPQvSFykD1ImzeW33hMmCkb02Fdl9K-dX3Lh35KdSKdfme1yNroYQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUpHu4fedbNGyzFGq_Sq5HsDGymEUEaEHDBtqB7KVOSK8e-0y8vfmK5_mOnd4kkPVpAI7_1vubk8xbUdJ5DkxzB_8LXyNF1rZsWJL45i5MQS6967uO_6OKEdv1c5214KjKeR7WBN33e-sUOKRuQ9PrbJx-c-3v8CkU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQHPeN_T4J6YlSh6064QjJGdkcO6WMVHZRSX6f_xFggUsT3fXj9CK46H3IagHTbKhFZoxJi4JEcIc_MovaSVNMyCn--ti6HXLuvPp5sxlJDbaz24HKGkCstamICDpqDAJr0eF1Ic4XqdGdhQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:11:14.380553+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "varun_chakaravarthy",
+    "varun",
+    "chakaravarthy",
+    "varun chakaravarthy",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

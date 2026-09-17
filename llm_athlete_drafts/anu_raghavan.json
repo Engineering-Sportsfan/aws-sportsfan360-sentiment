@@ -1,0 +1,254 @@
+{
+  "athlete_id": "anu_raghavan",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Anu Raghavan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1993-04-20",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/5/50/Anu_Raghavan_Silver_400m_Hurdles_competitors_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://youtube.com/shorts/ssakwbYjJus?si=WvDx48qNjmiiXBPS",
+    "bio": "Anu Raghavan is an Indian track and field athlete specializing in the 400 metres hurdles. She earned a silver medal at the 2017 Asian Athletics Championships and a bronze medal at the 2018 Asian Games in the 400m hurdles. Her personal best in the 400m hurdles is 56.77 seconds, achieved in 2018. She has also secured gold medals in national championships.",
+    "birthplace": "Palakkad, Kerala, India",
+    "coachName": null,
+    "yearsActiveSince": "2009"
+  },
+  "record_highlight": {
+    "event": "400m Hurdles",
+    "result": "56.54s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-06-27",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Anu Raghavan's personal best of 56.54s in the 400m hurdles demonstrates her consistent improvement in the event. This mark places her among the top athletes in India and highlights her potential to challenge for higher honors. Her dedication to breaking the 56-second barrier indicates her ambition and focus on continued progress.",
+    "progressData": [
+      {
+        "year": "2017",
+        "value": 57.22
+      },
+      {
+        "year": "2018",
+        "value": 56.77
+      },
+      {
+        "year": "2026",
+        "value": 56.54
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "55.42s",
+        "holder": "PT Usha",
+        "date": "1984-08-08",
+        "venue": "Los Angeles",
+        "tournament": "Kladno Memorial"
+      },
+      {
+        "label": "Olympic",
+        "value": "50.37s",
+        "holder": "Sydney McLaughlin-Levrone",
+        "date": "2024-08-08",
+        "venue": "Paris",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "50.68s",
+        "holder": "Sydney McLaughlin-Levrone",
+        "date": "2022-07-22",
+        "venue": "Eugene",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "56.54s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Hurdles",
+    "achievementLabel": "Asian Championships Silver Medallist",
+    "stats": {
+      "worldRank": "96",
+      "personalBest": "56.54s",
+      "bestYear": "2026",
+      "totalGold": null,
+      "totalSilver": 1,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2017",
+        "event": "400m Hurdles",
+        "value": 57.22,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2018",
+        "event": "400m Hurdles",
+        "value": 56.77,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "400m Hurdles",
+        "value": 56.54,
+        "rank": 96,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2017",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 57.22,
+        "seasonAverage": 57.22,
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 56.77,
+        "seasonAverage": 56.77,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "57.0s-57.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": false
+      },
+      {
+        "range": "56.5s-57.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": false
+      },
+      {
+        "range": "56.0s-56.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Anu Raghavan has consistently performed in the 56-57 second range in the 400m hurdles, demonstrating steady improvement over the years.",
+    "peakZoneLabel": "56.0s-56.5s \u00b7 33% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkH4s4nFwyas_oDxhJb5skmlltDLvGF6JA0i64wxcG3eiXIxUtoKf4aTPIVb8SfJFIG3WxwiFHTPu1n2Jx7GmACN626T_HY5MF8slYeals8FwQPQnrOjV47EtFT1kl8n2VAhU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD5LVQH5r0edxYO-tr3qi_vRY4D5KVvBlAX827HOSSfvgaxLDBFyj-CboFhdx_TQzC68JGd0m66cHKlq04G8wWp8fU3nywoeqR5ypSg0lZo0tcnFgxzfLY_xZHf7DugSaDFMBtJA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXconRf8f0zROqDGFOZ6jXG_GDkRzWn4WI7stC5QxFUy9VrUVCrYism2-ilF0apAfcHiIJTDCRHlGX16NljGhXVQ8unFt_zYviKQbyJDviUTZDe_ATlojZ4PrL2Wr0NCxmy93xeE04T4k5e5NtdJ9REKqvSZwsiCSFaw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3XbZ1xRR-1M-FP3nfB8k63l8AlZmp9yq8BuqdY0y-TqDBVoSJ-uHZuFXn1LEONKPieS5P8j9x-UaGHCHE5Qhe18ReyaXsJyuivzmxqWeI24I7rJB4JmqZBIJ_H1XlrRP_wWYhQy9GH7fg6LATSb7fjAYmFSaIBAI-dqJ6jMxj11W6OFE8pKz6xzc63AbeOMttTX8="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:54:44.550742+00:00"
+  },
+  "performance": {
+    "primaryEvent": "400m Hurdles",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "400m Hurdles",
+        "medal": "SILVER",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "400m Hurdles",
+        "medal": "BRONZE",
+        "category": "Asian Games"
+      }
+    ],
+    "stats": {
+      "personalBest": "56.54s",
+      "seasonBest": "56.54s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        55.0,
+        58.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

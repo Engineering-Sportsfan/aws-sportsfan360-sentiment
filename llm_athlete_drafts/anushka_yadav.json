@@ -1,0 +1,214 @@
+{
+  "athlete_id": "anushka_yadav",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Anushka Yadav",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2008-05-04",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/L60DvswvHLg?si=mWn8tPEt_uH05Ks4",
+    "bio": "Anushka Yadav is an Indian hammer thrower who, at 18 years old, became the youngest national record holder in Indian athletics. She achieved this feat by throwing 67.02m at the National Inter-State Championships in June 2026, surpassing the previous record of 65.25m. She also holds a personal best of 62.89m from the National Games where she won gold.",
+    "birthplace": "Baleni village, Baghpat district, Uttar Pradesh",
+    "coachName": "Sushil Yadav",
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Hammer Throw",
+    "result": "67.02m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-06-24",
+    "city": "Bhubaneswar",
+    "prevRecord": "65.25m",
+    "prevRecordPlace": null,
+    "prevHolder": "Sarita Singh",
+    "improvement": "+1.77m",
+    "improvementDate": "2017-XX-XX",
+    "aiInsight": "Anushka Yadav's national record-breaking throw of 67.02m is a significant milestone, not only for being a new national best but also for making her the youngest Indian national record holder in athletics. This performance demonstrates a substantial improvement over her previous personal best and positions her as a strong contender for international competitions like the Asian Games.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 62.89
+      },
+      {
+        "year": "2026",
+        "value": 67.02
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "67.02m",
+        "holder": "Anushka Yadav",
+        "date": "2026-06-24",
+        "venue": "Kalinga Stadium",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "82.29m",
+        "holder": "Anita W\u0142odarczyk",
+        "date": "2016-08-15",
+        "venue": "Rio de Janeiro",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "82.98m",
+        "holder": "Anita W\u0142odarczyk",
+        "date": "2016-08-28",
+        "venue": "Warsaw",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "67.02m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Hammer Throw",
+    "achievementLabel": "Youngest National Record Holder",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "67.02m",
+      "bestYear": "2026",
+      "totalGold": null,
+      "totalSilver": null,
+      "totalBronze": null,
+      "olympicGold": null
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "Hammer Throw",
+        "value": 62.89,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Hammer Throw",
+        "value": 67.02,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "62.0-63.0m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 50.0,
+        "peak": false
+      },
+      {
+        "range": "65.0-66.0m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "67.0-68.0m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 25.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Anushka Yadav has shown significant improvement and consistency, with her recent performances consistently exceeding 62 meters and culminating in a national record of 67.02m.",
+    "peakZoneLabel": "62.0-63.0m \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": "67.02m"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe6sciQd42biQPj3CaLpFD5c0ZCsFNj8QAUXTt8C3icmuKmeOofQ_xwSnZHoJOPp9YCTz55mJ_WyQrJdfXJWXYWevMG78bfi7k8Q-UVggsR-dxpuZJMyhZ1G-eEtKH5WCQRIrT3T2-M5on8UYD7HEeeexlzLnIlhQxYpM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMZIb7ggT20CL2AlMfa_-ZUUEjMeIJbZXgL-_g6fQ9HSkAoHggIll20Ny6JW1mwTMIJ6Ml15_VT87mcFIHDaArGMJ1E_HujCCaVaPYQV-zGVWHqReIlZk4MYetqfPRSrJquOThZs9lhboqYim6x4yngNwPbJ8J1vbbNYFy0S-rB0byn2exv23cWdzs3uYvgcHDqiz_5n0iD2xJ76zxKJtXV3Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bDvVwxUI4hFekkZnQj_6Ht8pzPPyCeIavDuaTDEmuPZ5US2qTO7GIIuQkCOONbAmFOYNDWPosumtl9wMy8VeygQ-cB0yLw4j9uDIdBsE_0ujHq2SwdFFgZ9TMa2udU2mDth0hSZlKcA-Z-fS7574xG2O2Xrb-ad2fvMzSLGSVkN-JcX3k9zQDqEM5A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiUm0qPdz9lWDiC5aMjpAk6Ne9mIpHNpoHML2BHwOyOYBSwQq7mqMc3qtxoxrsnYZ-X873ghkh-PAc5PMt4Jk7W-XBc4kLIpYn-14cITwyJ5eMsNUhW-JW8xO0QRrPpFqquxTY_YqTElLcrd4igdHGWDmo2HAn363l3uT-9kK9jXZ7Jigy6ZjgsOGz5UdHQeWkXdSffsIoY8KojPJhqWeIuecJstEKApEBAN5E3AdtZrTrPw0jWHc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzGSjbPacbLfffsskYtE8qcIl6cHEONlC9WS3J5LKM2DpDwfXVvzl-Xw9HLfPSonkIwLi8a_IHRSvFKHI5zauguon0fZoO3nirAoH4PRVwgAZ7320hubXWjKshcCPje3tju8Dq9Twh8vDRqspK-QRvmfXvUtVoXwVO7YXuYJ_oh-ZRHYPMp8jCfWL-ISHKQWqyluE0XbrFX71Dzq3hDErGXddarvxYPa9dQ6oHcLnNN1Ui4NMbRekQjpRGkVryYf9qz-ahn4SHUhh8K44pg-v0c5JHGLR9oulmnEh080W85NL7mivjMp_bNDBgUmllw4NCzl3RHet-YMKcLplytYaoQA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGADW2RmZ0su6s8ieIS4h4IIXjPQ4sbH4ml6fscoazagdoUsHB8qKAhm4JqtljcX-OBtq1Nqfqyh2g6hguojDKqqAL5vyKnNZhJjGo4Eu8vPeWVCeP0-NJoWFEJGlep_EUUsr_sXMYMZ5QDwVR-kuYZwiQwZ9p_WF6Xuw6Lr9rgGwQTODuHZYraT90vydycHpkNOoRdC9m4nWws6lwumwwgIipJRBHrl1HjsRg9riVSL4gQ3C_CS_BF2YCHiyogAwPKd1SE2Ot6u524nS6Q"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:00:48.624169+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Hammer Throw",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "67.02m",
+      "seasonBest": "67.02m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        60.0,
+        70.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,117 @@
+{
+  "playerId": "harshit_rana",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "harshit_rana",
+    "name": "Harshit Rana",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast",
+    "dateOfBirth": "2001-12-22",
+    "birthPlace": "Ghevra, Delhi, India",
+    "heightCm": 188,
+    "jerseyNo": "22",
+    "debutDate": "2025-01-31",
+    "profileImage": null,
+    "bio": "Harshit Rana is an Indian international cricketer known for his right-arm fast bowling. Born on December 22, 2001, in Ghevra, Delhi, he plays for Delhi in domestic cricket and the Kolkata Knight Riders in the Indian Premier League. Rana made a unique T20I debut on January 31, 2025, against England as a concussion substitute, where he impressed with his bowling performance. He has quickly established himself as a promising talent in India's fast-bowling arsenal, contributing to India's success in various formats.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "3/24",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Ireland",
+    "venue": "Civil Service Cricket Club, Belfast",
+    "date": "2026-06-28",
+    "aiInsight": "Harshit Rana's best T20I bowling figures of 3/24 demonstrate his ability to take crucial wickets and make a significant impact in the shortest format of the game. This performance highlights his effectiveness as a fast bowler in international T20 cricket.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 14,
+      "innings": null,
+      "runs": 101,
+      "average": 14.42,
+      "strikeRate": 110.99,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "35",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 14,
+      "innings": 12,
+      "wickets": 16,
+      "average": 25.5,
+      "economy": 9.71,
+      "strikeRate": 15.7,
+      "bestBowling": "3/24",
+      "oversBowled": 42,
+      "ballsBowled": 252,
+      "runsConceded": 408,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsI1n9tbMUsMYlCmGhzfX7Sv94DMxy-_3U1BoKHyqcgmapltcjYQ96xvnl3Xz0e-NRMnoR5NJ44QJJ7_xX8uCux7g-b3ykk2xTozKBtzXXo4E_5ten-V6nWNBigX1rM5bxtLJLGQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFTp_nSsW45u_SweEefWDgJagrNaHvccGSvj89mCsYlmgeN0b9JmpZPSRcrhpotTsBRzUIH6OopGosSQtdNBtbM5Z5x4E63ke5rDAaosrGMLk7E8ewkto_Bcv8_q341EY560rXDvBQIat8BpXNSO4iM0M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_dR-sTDd6Y9z1QnyVqbMwaK_wUr_FlV6VUpvWKN0V_KtciURKzvWQUGhDvGgUZeB6lsPLtJKLJHxP6_LULVml29-ovg4zZq-WKVnHhcrcRPcwGvR4a6DscXN7cU5B",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbu_zgI9QDtdVpu0JHcSkdQLh58_rXibkh1mh6fd7YZ5NmSBLq2gwExnFWAtSVNjok941W9gMDTN9T0myWHqYYP3ey_yXkM5MWTstNJtGAtRGx7LZukcL9wW7JcFUNfnaTbY1igOHK1N9KHzsFFbN8px1-cmyMZ3q3vENFzlSLQCKrCjpOAOib2Qw9aK_hCYBr_gOkNntB3wunal-z4m6Dl-8agXitwZgCl35UPDlKhFsmN98LMk3IrFCJUNKZiN-SJRF6MWcFmuLMrhlLKnH5R81gU_YkTOAjCV2IcgEbFIl4auB-AtBHeIQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsDreLwubeagxkhD-YUE9PxuOt41sb20R4WIwFI2y8CNo-Sz1itGTPK3E2mzunJTGTQoZpgXUJ7JPz1OttdYVIsjUm9xub7mOvkWyQ7wcY2nhR_Et3eL2KrUdCEDKqoAw_nUlTtNjM_SA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfOKrm7Y4U9LrZJiUfGvq83UUG3Ruv880gx3LirlWvczlekWkuL7oNKwdRr3iiCjh5RedrAUAJi7ZLgo7FltE3M5aMAVdwBed2U4Z3lPqNKIoiIWpvFBFu7EFxp93txwCfFhLmCFMC_F9sYoWbZZC2hE1V2SN-wA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmnU7gMXuM5a-M-lilq3H4SVX7NVl94kRknBrWmHi9YgIjmBay51BhhFrimmqsWkrtdHmv25L-3vtdbwQSOlVMhz-RQ8ANCIcVt-ueOS-EffFVMmptq8gONxctFM7k_SfWM8NCnYh9JORUKnigGRfR0zpmkw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJe4e-PaZtrcRX7FehCbLpLK2mNxngtDC8Xjt03mVkOPYsCMyrFpSw7w037nwu-3O-eXvxZpOTfvYpePe4LxUidWn-EhzQ9wiWPt8-B8is7LOyKO8oIMAcOHPhn_aLKVjbFOsp-wIcmk9kxe092vp7f5mlsWR1jNahQ3nzQ77Q1-5f",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSPAGvSglDHnlFKG30x7B9bXNbUNCH7EywDtG6yWXaqHbYF8SPe9AHww8rYQTgNBFDO3yJgmQAExOdRndFHHVpo2Vy7bsBioZ5EAx75DuW-4sSYXHe92R38ixwREQjZSRqn-nAuTjvB02ae2Kb"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:33:00.297154+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "harshit_rana",
+    "harshit",
+    "rana",
+    "harshit rana",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

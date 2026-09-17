@@ -1,0 +1,128 @@
+{
+  "athlete_id": "tilak_varma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Tilak Varma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2002-11-08",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tilak_Varma_in_March_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=D4G02VAdTLk",
+    "bio": "Tilak Varma is an Indian cricketer known for his aggressive left-handed batting. He made his T20I debut for India in August 2023 and was the top scorer for India in his debut series. In November 2024, he became the first player in men's T20 cricket to score three consecutive centuries across T20Is and the Syed Mushtaq Ali Trophy. He also holds the record for the highest individual score by an Indian batter in the Syed Mushtaq Ali Trophy with 151* runs.",
+    "birthplace": "Hyderabad",
+    "coachName": null,
+    "yearsActiveSince": "2020"
+  },
+  "record_highlight": {
+    "event": "Highest individual score by an Indian in Syed Mushtaq Ali Trophy",
+    "result": "151 runs",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2024-11-23",
+    "city": null,
+    "prevRecord": "147 runs",
+    "prevRecordPlace": null,
+    "prevHolder": "Shreyas Iyer",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Tilak Varma's knock of 151 runs in the Syed Mushtaq Ali Trophy not only set a new record for the highest individual score in the tournament but also marked his third consecutive T20 century, a unique feat in men's T20 cricket. This performance highlights his exceptional batting prowess and ability to score big under pressure.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "151 runs",
+        "holder": "Tilak Varma",
+        "date": "2024-11-23",
+        "venue": "Saurashtra Cricket Association Stadium",
+        "tournament": "Syed Mushtaq Ali Trophy (Highest individual score by an Indian)"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup (Most runs in a single innings)"
+      },
+      {
+        "label": "World",
+        "value": "175* runs",
+        "holder": "Chris Gayle",
+        "date": "2013-04-23",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "Indian Premier League (Highest individual score in T20 cricket)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        80,
+        85,
+        50,
+        50
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Tilak Varma scored three consecutive T20 centuries in November 2024, including two in T20Is against South Africa and one in the Syed Mushtaq Ali Trophy."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1lTHV22h1sAITQOy-FtHK8epbE8JI27QzHx2MEYRpoGoWO-715CH04kooTYh9YFIYlAaieKY8fOLp2jn6zvmdWVa_pU27fL_12p7u7uqp3Te4U2qwq7WJn9j9grrbpH8YWg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZcBB6Iw4OM09vkx-1YoTov2LpTFtG_XONkMBH8H_PkR8msuqkPFgJz3HZhymU5tyKe7gcHqJ0NUgimEu4H_658PJUtFt9q-jjy1_QCQUdT3zE7NBHZUX1tNQSR1Fl7WByJUMSdw2LKQGoY4DIUhisLptdQ8HzpE3QRdUnJA6nY40ckDI9LgHDHMyRgugCLV9B1QL7Ndij2dj_84LNrlcLxSRUS8mcMYa_5ZZQrMlxrqtRkMiShouzHo9dM5rdJwC_h_UbWDUq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRH4960qnHeWkzEOX18CA4XodSJKDqA3Zk3MXPon26qdZ-U2f8JmF--QvW9c8omh9YnjbjxPqvFphXql15y_Pxche155OVq4wuEXTb-Dg6S2G1TFyuYgIxfs-LfNTv0_a5_5sB_67nazvf11LhhUCfWf4v2iBTtrHYgnFPf78iJhITdnqegsBnPtGdFrhe2eO2-rgygXPKskrrEPMZEC0FB_zLKZdVy99ji6qPgdMAcGboUw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfwFlWc99RDyVKLva-Z9FalP5sNn2MJJM8RfWPSeCmP5iA9UtLpw36vpCpRDgkxwYYydYP3QY7LLPbDQo_7dn4Q9B2Fj1fhHEpsoEOoFB-BOIRF49w6DPNNXW4t4dFlhhNslB7Rk4JMQhjeWIJPHYYmxuPtahZq0ejfNiBD6msa-9ptjjeLTCE9Swf5p1VIB9yKw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:45:00.443948+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1645,
+      "ballsFaced": null,
+      "battingAverage": 44.46,
+      "strikeRate": 145.19,
+      "fours": 127,
+      "sixes": 83,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "tilak",
+    "tilak varma",
+    "varma"
+  ]
+}

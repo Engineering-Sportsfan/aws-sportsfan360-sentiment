@@ -1,0 +1,367 @@
+{
+  "athlete_id": "manpreet_kaur",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Manpreet Kaur",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1990-07-06",
+    "heightCm": 167,
+    "weightKg": 89.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14282904.jpg",
+    "welcomeVideoUrl": "https://youtu.be/MJ5n9P6ULdo?si=5wUXZ6KQavDdnwNx",
+    "bio": "Manpreet Kaur is an Indian shot putter who represented her country at the 2016 Rio Olympics. She won a gold medal at the 2015 National Open Athletics Championship and a bronze at the 2023 Asian Championships. Kaur took a three-year hiatus from the sport after 2010 due to marriage and childbirth.",
+    "birthplace": "Sahauli, Punjab, India",
+    "coachName": "Karamjit Singh",
+    "yearsActiveSince": "2006"
+  },
+  "record_highlight": {
+    "event": "Shot Put",
+    "result": "18.06m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2022-06-11",
+    "city": "Chennai",
+    "prevRecord": "17.96m",
+    "prevRecordPlace": "Kolkata",
+    "prevHolder": "Manpreet Kaur",
+    "improvement": "+0.10m",
+    "improvementDate": "2022-06-11",
+    "aiInsight": "Manpreet Kaur broke her own national record in women's shot put with a throw of 18.06m at the 61st National Inter-State Senior Athletics Championship in Chennai. This performance also secured her qualification for the 2022 Commonwealth Games. Her previous national record of 17.96m was set in 2015.",
+    "progressData": [
+      {
+        "year": "2015",
+        "value": 17.96
+      },
+      {
+        "year": "2016",
+        "value": 17.06
+      },
+      {
+        "year": "2022",
+        "value": 18.06
+      },
+      {
+        "year": "2023",
+        "value": 17.0
+      },
+      {
+        "year": "2026",
+        "value": 17.75
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "18.41m",
+        "holder": "Abha Khatua",
+        "date": "2024",
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "22.41m",
+        "holder": "Ilona Slupianek",
+        "date": "1980-07-24",
+        "venue": "Lenin Stadium",
+        "tournament": "Moscow Olympics"
+      },
+      {
+        "label": "World",
+        "value": "22.63m",
+        "holder": "Natalya Lisovskaya",
+        "date": "1987-06-07",
+        "venue": "Moscow",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "18.06m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Shot Put",
+    "achievementLabel": "2023 Asian Championships Bronze",
+    "stats": {
+      "worldRank": "51",
+      "personalBest": "18.06",
+      "bestYear": "2022",
+      "totalGold": 2,
+      "totalSilver": 0,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2015",
+        "event": "Shot Put",
+        "value": 17.96,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2016",
+        "event": "Shot Put",
+        "value": 17.06,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "Shot Put",
+        "value": 18.06,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2023",
+        "event": "Shot Put",
+        "value": 17.0,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Shot Put",
+        "value": 17.33,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2015",
+        "events": null,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 17.96,
+        "seasonAverage": 17.96,
+        "currentStreak": null
+      },
+      {
+        "year": "2016",
+        "events": null,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 17.06,
+        "seasonAverage": 17.06,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": null,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 18.06,
+        "seasonAverage": 18.06,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": null,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 17.0,
+        "seasonAverage": 17.0,
+        "currentStreak": null
+      },
+      {
+      "year": "2026",
+      "tournament": "Commonwealth Games (Glasgow) & Indian Open Series",
+      "events": 2,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "seasonBest": 17.75,
+      "seasonAverage": 17.15,
+      "currentStreak": null
+    }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 65.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "15.0-16.0m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "16.0-17.0m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "17.0-18.0m",
+        "count": 4,
+        "throws": 4,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": "18.0-19.0m",
+        "count": 3,
+        "throws": 3,
+        "percentage": 30.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Manpreet Kaur consistently performs in the 17-18m range, with her personal best reaching 18.06m.",
+    "peakZoneLabel": "17.0-18.0m \u00b7 40% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "2016": "23rd in qualification (17.06m)"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2007": "9th (World Youth Championships)"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2015": "Gold (17.96m)",
+          "2022": "Gold (18.06m)"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRuo43pQ-PZhzrBuCXKq8083EZTq3yO31Qz1XrCAnykOa0l564mMDrntPiUY3ivRvz8hoJyv2rW8xyrV9e-4li2INU8ldrMyAF-F4CmXQSwVk9UyuGVBiEvSZ0KUr2jPGDSajUcw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBmof_3TdZNPN_UqeCsv7N4E5MsO7HwgNL5aShOZPMglYtKv7IUJthEdIrpiz9scSOEJLD07kUr3PExC4OsFsVy9PUVNCNk-HEJIbF3zHKoaVY0yP11sUi0andk3xTj92-N6p-RJBBbe7NvE_LmY06rg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy4JLdYLlTWpVMo10hC7XJh5OAorMSzBvMcPOKLuE-KUY9UFTonb8UmVcAMz5l30_NHuu_4NqCvyQXo2A676UVxbHmJnLCiG8qhlBpx58SifW1kRI_OIN0dh1Hb7aDAfL97ThhkJ31N-_KjMvsy9wGimnb5DpNlcmAzshWnVG4LL0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj3AG4Duo53emzJeJTVtDhs3uu-QHCp20sKxdkFhT55dJZzIKMnjNDOTXn7cUGAG6R7UqMJPfXqR0BbJEloFbk3ik2EtBMUFpXjkCKtwrzrZpKzPTkCDTGICqIUvrHZEKr-nLkChV5_RhTlD4pLpZrF0w=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGrN8HwWPK6UO47dNFHISCpnSUFbpVZlE0IU3Ng0rKM5PNJAZ4Xp_x8zB8VV4Ceb8ZxpCDBi1yCxPdm6aLOJFlHvmungoC0B5uKUgy6cKUZHFFIXp1tdmpcOVhxFVdQfVCMXpZOsjwj1J3Ww==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPfJ0Vrtr91345X3vlQqVjFcfj-xtFpFCQweAzj36uspfV_Xi6kB0NkxEAxaLrsBKEYPa8_sZ1tFXhF6AmwZuMkM0gefctQWtj78qa2J6WHx9TeTtCC_D-qX7f8LO_BleIdJbmD1R5tQ8vmb2D1adOqjCGpbsdNVRVKqkTdqjcTiBOEpD7wg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5ye0DHHIQC3BUMi3QyQSgcRmA6rEIIcQ4OPuf9xGzkCaUC0EzT-VodtEG7LxYVxw5x1K_hAwaQ3rf2JpSP_dkyS-8J1aU38Zp0N7IghrMw0TC2Ilxhs7ib4OwlIRQKMWiTNhs2SlEl03Puz0hOh6S0uIFwpM50Fa0Jic=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-uWMOauP0azWwq1-SI1CfHgJz0NFJG8nK2k1AjuL8xeY32uwKEawb7nyU9o9n_uuSymr2C7zH-ZEYHv_RtUQx4IMJznw5GZ1dFQEn6Rpyv-FPosY5FqFUteIBeWTIat3IcIGpQY8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKm330J2u6_PPvZ79O91wdfeh4RG6twuTYy0MoTtqdhxdoM4ZdnwI55RdaW8DzXLJLI64MWW1XcGEHHzo2WKLFtmXKPFULKrWJU2mzcsAHh4Vge4Fg82He2UUHrr3D7nFHL0SPFN5YJvH33_0kHD-FuUHxKKdQDG1MCFI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeWVpUuFrI0oHx0_3QueqBmi6JDQ8jjRz13SzVIBLKu5ykKr2eEl42y05NEtF_gvyaEevZl7HgQfOXqQue9C3TIafupylibpo48qn8c3Ilizr6eqHrZFazDM7yZHmxR40QYrAy2qgO7PRL1aq9QSlIy10=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjsFdHjPut3orYnHh9IBg4WA_88Pv_Y79FtgTklpcITGyNsrXymlXw3UQ1jNDAzxK8qTriaIi9NYWROiWYHpgBvbcPrhkPsaKg2dV7_A4OvmJG9zvi6pm1dMbFnd8YHcohZsMYjM4q0T2l_2C3EHA_7vXqBCtGkoaSZTSBQlVvGJMv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9xRzUSUPfGdnGF6-oI5vFfnwpdoJCTxvbgddXecdj5QDTb2nHRry8W946zE1kjO_r2CT6guATSoqYtWYe642NublSnZbD6WeCvnhmSrxywaXh8VtkPjy-_yTGw0ntYGCQEg_BMUJpjNSKxOFmgYbZh4qxaK5MOk9fqZ0ByAEBKRjOiT03DpJkNnbKwHJKYVSwJejjzm_Xb8vkAIHhYY1P_jKu4BFXRhZNS6xZ8toyCWhWvtme6M4zhG8NnH6A-pjqG1Cf1cA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj3nqW4vzb4CNtaK6o1wA91WW8Z8SElVJTtx1vwUPn-nBZOFYtrXz_ZnM0lOASQrDyMmmzIQvGffEUN01bAE4491Lig9A5uv2YP9s1CYDTXFiRToR6yAeet4zx4vYB4IHnRENqhmFDWdC_lpNTX2VfqyKt1ZlOiy0v8KTmed4v1Q-gU-F4Zi8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw0Ryty8liqGWt4Ep1RHGUttDSoB1oX9kTa0g6VCYfArL-9orX90MqdDKgqxsfRfTEAA55E-8BsxHElhHXty2naSbAxH-NHwFwh0mGNf00nlz9eARdWinIii30uZQ2jYNXwr-DKKPVXWjd8ZS6RFore2t3D1E2FURvgzt8j0eqX8kiTkyBv4qxtLwvqkQ7swdhI7jyqVZ_1uGtcvk7M2A9FMhkYKdljw_qTLH3OQtMUTKNTZQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENV5dCJhrX5MPMCWJhgofZ96CjzNE7e0mp92ivnOq3O9WG4ZHJfX6A3_Uw_72WFTRBlSYuiHCoiQgCyGEXzJfi3QfZySUuD3O2MONmFL1ReigkbmTJv4YWrZLFnyzS1F5lSDh5oA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCnlRnXXSQ7v9mKjgSK7K7xM7MTcA2hyNbMJD3FPubtDxU2_EPJdSypZRhDZ4p6RE1tz_x8JTdE7CFz4uZFVm2EXqrFT0vEUnQ2Dk9INCnshPkLwrkqDGB6ltsCbMR3GJDntsBXfe4VfinXg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk-p_r_Va2Jm12xwitBwT49ONqAqxK0VB9L1ajJEqzK8XnwNqlW4JWcykFx662MoUcEtuwgBf7vgxAE1J-Zg9C0AqLLc7cRhzZW618B0jrepnHSTgybbQrKWRQtCXsSN35HODn7ogllkANtTPHnnL6TKrp09VhZKzPix6No6eoDAg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmO6kQXLJKLPcX7vmVqI8fr3UpV1nMz50LCL8Qy0xyKHppq6I_TzJxLnXADy-K4la8KukhxwTss0Q6V5fTCpgMqdHI3AAUx0YmWQx_5E28NXfQPQIAy5NWkwUXgFTfIwBrZ8UBEIUz88YViRIPXDgW1npgRedjdHhl_PgGXDh8IYS1V_IBn-GZQU9QKYvtRTb--4pT5QQTuNfvZFZCIrRQTZ9MxTs8S2Kp7mPPRoZVLVQc2dg6XZNKfTKKMRl-J1xGdWNKAw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T17:08:50.554809+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Shot Put",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Asian Championships",
+        "medal": "BRONZE",
+        "category": "International"
+      },
+      {
+        "event": "South Asian Games",
+        "medal": "GOLD",
+        "category": "International"
+      },
+      {
+        "event": "National Open Athletics Championship",
+        "medal": "GOLD",
+        "category": "National"
+      }
+    ],
+    "stats": {
+      "personalBest": "18.06m",
+      "seasonBest": "17.33m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        15.0,
+        20.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

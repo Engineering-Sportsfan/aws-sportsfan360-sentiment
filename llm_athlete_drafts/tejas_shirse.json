@@ -1,0 +1,426 @@
+{
+  "athlete_id": "tejas_shirse",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Tejas Shirse",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2002-06-04",
+    "heightCm": 183,
+    "weightKg": 65.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14873420.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=ulWLVxRrvpw",
+    "bio": "Born on June 4, 2002, in Aurangabad, Maharashtra, Tejas Shirse is an Indian hurdler specializing in the 110m hurdles. He initially trained as a gymnast, which helped develop his balance and flexibility crucial for hurdling. Shirse holds the Indian national record in both the 110m hurdles (13.27 seconds) and the indoor 60m hurdles (7.64 seconds). He is coached by James Hillier at the Reliance Foundation.",
+    "birthplace": "Aurangabad (now Chhatrapati Sambhaji Nagar), Maharashtra, India",
+    "coachName": "James Hillier",
+    "yearsActiveSince": "2021"
+  },
+  "record_highlight": {
+    "event": "110m Hurdles",
+    "result": "13.27s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-06-13",
+    "city": "Ludhiana",
+    "prevRecord": "13.41s",
+    "prevRecordPlace": "Jyvaskyla, Finland",
+    "prevHolder": "Tejas Shirse",
+    "improvement": "-0.14s",
+    "improvementDate": "2026-06-13",
+    "aiInsight": "Tejas Shirse broke his own national record in the 110m hurdles with a time of 13.27 seconds at the Indian Athletics Series 9 in Ludhiana. This performance secured his qualification for the 2026 Commonwealth Games and marked a significant improvement over his previous best. The achievement highlights his consistent progress and places him among Asia's top hurdlers.",
+    "progressData": [
+      {
+        "year": "2021",
+        "value": 13.87
+      },
+      {
+        "year": "2022",
+        "value": 13.84
+      },
+      {
+        "year": "2023",
+        "value": 13.61
+      },
+      {
+        "year": "2024",
+        "value": 13.41
+      },
+      {
+        "year": "2025",
+        "value": 13.52
+      },
+      {
+        "year": "2026",
+        "value": 13.27
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "13.27s",
+        "holder": "Tejas Shirse",
+        "date": "Jun 13, 2026",
+        "venue": "Ludhiana",
+        "tournament": "Indian Athletics Series 9"
+      },
+      {
+        "label": "Olympic",
+        "value": "12.91s",
+        "holder": "Liu Xiang",
+        "date": "Aug 27, 2004",
+        "venue": "Olympic Stadium, Athens",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "12.75s",
+        "holder": "Ja'Kobe Tharp",
+        "date": "Jun 10, 2026",
+        "venue": "Hayward Field, Eugene",
+        "tournament": "NCAA Division I Outdoor Track and Field Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "13.27s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "110m Hurdles",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": "64",
+      "personalBest": "13.27",
+      "bestYear": "2026",
+      "totalGold": 6,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "event": "110m Hurdles",
+        "value": 13.87,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "110m Hurdles",
+        "value": 13.84,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "110m Hurdles",
+        "value": 13.61,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "110m Hurdles",
+        "value": 13.41,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "110m Hurdles",
+        "value": 13.52,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "110m Hurdles",
+        "value": 13.27,
+        "rank": 64,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 13.84,
+        "seasonAverage": 13.84,
+        "currentStreak": 1
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 13.65,
+        "seasonAverage": 13.65,
+        "currentStreak": 1
+      },
+      {
+        "year": "2024",
+        "events": 3,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 13.41,
+        "seasonAverage": 13.52,
+        "currentStreak": 1
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 13.65,
+        "seasonAverage": 13.65,
+        "currentStreak": 1
+      },
+      {
+        "year": "2026",
+        "events": 4,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 13.27,
+        "seasonAverage": 13.53,
+        "currentStreak": 2
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "13.2s - 13.4s",
+        "count": 2,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "13.4s - 13.6s",
+        "count": 4,
+        "throws": null,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": "13.6s - 13.8s",
+        "count": 2,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "13.8s - 14.0s",
+        "count": 2,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Tejas Shirse has shown consistent improvement, breaking his own national record multiple times and regularly performing in the 13.4s to 13.6s range.",
+    "peakZoneLabel": "13.4s - 13.6s \u00b7 40% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "12.91s",
+          "holder": "Liu Xiang",
+          "date": "Aug 27, 2004",
+          "venue": "Olympic Stadium, Athens"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "12.91s",
+          "holder": "Colin Jackson",
+          "date": "Aug 20, 1993",
+          "venue": "Gottlieb-Daimler Stadion, Stuttgart"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "13.27s",
+          "holder": "Tejas Shirse",
+          "date": "Jun 13, 2026",
+          "venue": "Ludhiana"
+        }
+      }
+    ],
+    "beforeCoach": "13.84s",
+    "afterCoach": "13.27s",
+    "coachImprovement": "+0.57s (+4.12%)",
+    "coachJoinYear": 2023,
+    "coachImpactData": [
+      {
+        "year": 2021,
+        "value": 13.87,
+        "period": "before"
+      },
+      {
+        "year": 2022,
+        "value": 13.84,
+        "period": "before"
+      },
+      {
+        "year": 2023,
+        "value": 13.61,
+        "period": "after"
+      },
+      {
+        "year": 2024,
+        "value": 13.41,
+        "period": "after"
+      },
+      {
+        "year": 2025,
+        "value": 13.52,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 13.27,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX5e5pRdmvpzko_6g2Iu2q3kb1j3W1jYMG34m-pG6a_Rkp_cj9OK3mTkCM1G5oHktyRHxA1OjUONAqx-nNBDVGo_oCp5JQLIR8DFPGaLPRwRWkbs56vYxhykEHo4nAke9wR30hXZgkz4Jk3pzico50NrEjFMvHn4DdVqGUByo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbns8qnTrEm0UXe6eIY4Dd7IEhoqAkohfDMLcQYNJImaIWWob7RnEf_7S5Baxw0xLB-zr5PQSAo2TIFr-U3EouqVofaaE1nmxPjEuFcQBTbXWMCR-r6zDb8hZ2kg0niL2-DmKkQd6Pv8A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9bq7PoWzJ8UX-8VBpvFTzTOBWb_NDquw6fHJUzyGxDLx1uhV28O6s1zNa-AaW5Kyh-4jSEGsT-tpyqjQO75RFM6alm4nwBGDwMH7KCbWqq14VkPrvWwD-jJ1--73iO9ymJ_xt3wkZjm693nb9kYn92MTTIkBeBIP6m4RFy5l2lIh_AhFW6GAyIweZbQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEra6c7Q90QFdsLIxtS3sYKsPrGr7y8neKRBFb30Sg8-hEceQ97uxvo17ko_EUBti5G9xK5QLMUMXX6fYWY8hapOWof2VVj5H07lwYnYMrowRrcvNoyxWqv3i8lDsUPDoGNkj4wnKf1eLRhfklTVlEKHeZ9itp4SAgfg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQBFK7kO2FYPJYQSrfLCDKHu9AFeG3osxeZ5qnlG1aABugBPIP5qWhyUjqsulJwAaZoNxaxRF-Gq3e1tGph2jgKeul6xF65HogTNX6TvMVl8mr_YtwRhWKeTJhPN2Twuv2rdF3SQ3pkhUbkLV_PR6yQy2_dtoQJzA-rVIdUdPEL4WU9VKriV-d1Z-rj4vtvErAeGixoZC8UZ-gCu5jVp09kzWaeb-a",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOgtFtMB9iE-21HnBJFZg8Du94Pxm_5OqDj4tA6SVk34QQiFxUME6SkcfhJE7jn7b5Q3WLn2iPXjWBQRCrIuTfcJGhr9nEd86fdOpL8WGWCo7h0AxJXWfxOW-0uInTyP9GnO53J5uxFbZkxF_fmbf3rOaBwGyKAKNwfggA8xro35jKzgwObsJpFQa5cBeiB2ja0_YYhJtYhpajaZYjGZctF_A1BbrKUqAIVdTv7E8aJWMEYuQSB2w1Dl6Kwmr_LIsgoF9j36nxOoGbYpCqOSds0ZjGI_rb5zeS",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS_grPxTA53-7ctCHvXDNV9ouVGjvK8zubxs7E2FdU1nDX5UR0xtJFuzvxM6m5pjdxNHxZKIuadt_lOPcRL60BEh6grvvKwQLYwvX9m8z3eDCaa-x7Y-cShIJlc4F7aiZP0hgBLIR9Bp9Hj-HyTuml26l13Qo87-izYtwXVtfRRQ4MyoRYYEoG7Bq-g7V0llZQIy3QZ7GU6SdLiSd8MYcmWuXSld0gzSttgXRrnKUWsNyi",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErvwnx5UuiNS3ieFXA6QCHth3XPjZkUwsiBC14vuFfUG0FtboT4CdZkx_FpBXroAD2Dqllwp5ZIg1S8fdiR6gXy1YXBSrFdi5tMbHHu8GB9Kk7xs7VrL5P6nKeh5WlKrhtXSrTBFaFOUfswCgP8na3fGJuUq3bdHz24ZA_3MYztTWvO3mh4nLVXWeI0c0YxMeKsZFj9Cin26bG4vShoaZY2wmwpzXbJ1QzKwMx6Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB-6Fc97L-b0-rxpnA69XD6OMTS_Zge59qh0foYKGhJ9lepMpXpExSbB0ZbzFrM8AID0OjHh9gsabHM9TXlSBMuzvKxDYtL-W8_YQ4vihr1_raBMRwoUZPgI5BaTzHQnGX-ljmwaBp2UuI-pf91X2OqiYoRxwpDj_TOu8XcbhVSUAd89N5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaSAU5EgDMfNXKBHMmJoKxPfXFEBKkWcGd8ZphdlEteS8CF_XlaUS2ovd05F8UoVitWM5HC_BLYQ2FeTMI3MusUTgbfjSMXDwZN9jBNBwUKuf9UYqgvqHOWiCcKzwL1ePt16D3OAlSFaZV5pfeMmCs_JHB2eKIP5dkpcq0-GtSMhz7630PhMatUww=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXAkD3E_yoq57rLmGK3cHXIEvl4xv4cLnEbexVSs0-z7le7YmX58UV5FbKMoDEuBlnR2eAGsY9Vj-OcA2_GuDJjSKFT-AJPLb3qcwfwypL4p2EvpKovx4zTTJP1lWAF5F_t4JmkYFAZN8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH07wDhu1j7Q5WeRrD5flYWy44YkU4kBB_YMsJ679mEjA_Qz_NIYv6-WD2THnUzyPBpqLw8M39ei2M2HK9lRiC__AmkzIZcKQyJkbDI422dEose5pib9Gq5SS8rCaCyRR-n6mUqItlg9OdIitoTI-zs2y0VD-Pi4P2pgsaSrm2ZMOHbdQqFOI5b1BsmsHQKJQTuXbahObgdEPg6Hn0ERLDG4JbHugLLNKfc9WcpQGBob8gLP3xsU-VCmW7dSYc1N8BgnwH0bUHNJgPK02R9QKTb9cT71Nfw6j-r",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi3tg9QNKsQGHTgF_reLcYTzN3qJS4KNSd32MJqYV-nxUmm0tP4CS5ofxlYmcXJaTj1v3CgWQKLmebgKiU-jnr-fuixT91W3BVRVwpR_0WWfnRWh0-Jep4AVP10i7GmCC2TEt24DCit7ewuxEWOsw9IFnwwYxDJzW0WA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMbo3MnbHn_dn8T8Bn3DCWz1pOdgLi_FGsN7It3XWIDe8DUsBarYSZbJopSkjr91hnvbHxJip0sPfJPIz_izpwdIFq6wROJYYSLQ97a-RhL-LU4SM7CAON5wIAYA9jISxxsZ9Xs0Z5xkkkQK-0VGnCqSFDLVvqDOkWyD16iAwHKT-fS0Ro",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFft5KmJsZokGKaT-N3bV1LadZWFEwkKQIhg9ajRCNnc_kqvqNrHD2E0g2Xcx650yNMxhSoI-iEBIEDVt6AvMMRXfn_Uo6aauK5X9DqGB6GohbdV2oLd9lYI7C6ahSn6Mwe5PR7iRXwq0b0glNwsvwlBnb_XPJ9YCoN6GeTuD6JxXFMHOkEOMi16UuV4JKk_QuRSPYn4c_IAO_SF-BDM-c0iGlr-hgSdbOQPU3AsdiqOk-qlTdPFDZMPaKnAQvyU8PGG0Sk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6O_jyh3qqkfV2g80C6-E9jMuTTXPwMFWM50eO-Tc-4EkNK0yW54fBWZO8IUSdI5Y5xJagsrRcxTHZpKIwqDu7vRaC9e1GPjZSBuHOyTxEvUQPYQhDpy0WB5l5zSwprU1HoXgf9e63cwPz-Ysab7SctJxiGHU04sClDgtnEarBsKZRnFzW68qhVCFoZHTsXCqNrVrX8ftd9YwUFENGswYc7NZeeqw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQcejTi-LVYTXk16cuG0aJrF-6PFrrLXIOb-IGP2ORLOfDh23BJkUDULTh_hMMvsi5F2qFgA9pDoomCyLTbbpMc_5JE80vI6yR8Eh1VyOXT5Xn7fDvUj2dlY_VcUVYB-USAGmFHw1bBrtT4UD3iqtETfZs_UOSaWlJlKiHNfoUA8YmOd-iPmS39xr5pzRuQsUvC-yBhBej2b5-RgYBH8k6NXA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAokt2RjH35T0BEJ0TpOb605U6eKL45K0mhEh9P2HdRHFxdKamUQjVrhfMmBz5KvsIIFpEF8LrqXxxzldlz7K5vb5HdDljDKX1ehOr4wxJSu5CmKLLEss-3I-znlDlKJHoaRAgsbo1AY9wxcik6iofa92woh7IvxY02Cx6bkVPZGr8eVHXlOj7ObA3LEWP8tRIXSYAa9OPlS26zT655g1Z1-zAGNm_Hy1aX6EjqIlc4Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsf_EVTQmVdWg1GO31cYOG__VCVWgVuI-8yMzFClGhDvqpZKDEOQnVI5AOByvYJu8zHTuoOlynbEOt2UEi46DcNFiHw_3ZdemGQyiE7UQIJIhIiOqV1bBZdrBNoD-09R7ojm6XHf_OuiPLFo5aKFfXYt7RLF7vSclNBQPcitmB3mQANr1RLUxrFwLyJM9077rTNj2Ek6d8Y2I0xxUaF_eSc6_gelqaJwu1sw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK2y_cQB4QxnwetlU712u5BSMAQc7e7JGhiXAlBCoqMEepyny6B1PX3Y-Q7R8vo9mjGAtj-xKs_Dznf1N2ZEFiG4KJIsZehLvkXEOId6zT0LGJflMijoo677htdy8t7ua72oLsd4Br2nX5AfFJ-P0K2yKW3bYLErs0PbHOyh2C1WG7NzlzVQssmXmFQ17XcOc6o5XZ6c6Q1CsUrAVLFXoG2I8wohIjtD4PjgJNx95el3SY7cqrJy9uad5UVUopsusbPQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpVOasI4UKic8RYtmuX8wQ2jbr0zqbMPawzsVhl07DXr5eyLBl1-PdmesN7HkW21pLLygHdrUuzwkAS8cBorybj4E_AGm7ZF925Q8aXffOuwwlKmsRXMAsDEnXpTMDdN2xbwMvXluv_puaQ80Ja_OeLLT08cJWPVJKfvl8PHOexLANHfZtb75uEQROsDLkhxEptQPLJVaqlRhfRmJMn79sV6rHZYQJNMmmG7K9vwcjzG4WhfHQov6CuwEE5q_OLKVrHeId2m1Ir7PrBsDgVfiZK8Y1rdCxVkI4_cya",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxQFpvr1mptOsKkb3fO97Un7HnIzZEn7CqevuqI47jbsdIm0cH_EdzwWSlyucAZhNo6tNmwIE7EEQ6WTB7pLK_ppKRsRKfE3EZ085STw_dumTMgEY1w7-q4sdc5XvV-nspW7yHRWM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEj4GbZ85oq9C8Z5aOj_p2BkI8J2-6AYlqfEAZAYs3CB6PyLG5j31In57b3ut5i_F2xGE9oOmkG265IWFRySQ70ugpgLeJK00VZjnlifZoTPVwCwWhxsRGfb_zJev03lCjDWE0r3XZ9UQPNRBaCChtYo_ylMzZgL9hb4mx9U8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM_djFtym8pBVDPF7hDBnk_vLQ4bMuem6xuJVt_GV173uTwdxpoj-3imLTs_GTOFm18tqNYex8CezgOrmBvAZMFGGwV2slQ-qY-vH64zSJQnUVj7iJx8R1tI0eVrYBZ4nvfg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM0hqdgRd04BqQ2l9sHRaGUkNggLOIXHZzbnMP96oIVUhkACFNcUAoAO7oneF8IBl48uUUB2T6RAaGDsOdcvaAmXHv8rS6SFsWCNqkxbM3-7htF24hnew45yBnTckdeX2La2Ocsj8-XnXIhT6uwNN7xcAg6GhofQMaQzvXxv4HL-r4yV0ej273fuNQbnZJj2rfLPTe2LMgEl05fYuXvvTnHMHkKgfndjwwy-Qptc0aFnZbhLjc5cH1T8mSlJWndoJD7EdHb_rp2jrAf7RvQy0GunejlbjkNJHSDMqMM9z7w6JXPIhJL4M9oJ6WNiYYqdim6hCl",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnyaRzFNY_g28HmTJGnD7a4IsAFMi15S2f3Ui18qD57uZwM_UiAfG-DYi-m6WYso2aZFJ2c1b40KQS2xSeMysFIOnvVNRkUUW-wqlNg3KLkGKZFGuizoGkUgfLh_wU5x2sJC-Nni2yrSRkg1oxM8CFPZAdO4OhiO0pbHaFNb9g3LCLsEfQ3DOdVobcfH5FQ7uyob9VAkwwfEyz9EUhu1-ufDW9K8dc-0r4cbHLB38lzjacFAo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEohLkptWtobnEVjpksGIuHSLZ7NwXapKV55fCl1DqZKn2YhjjriQWd-GPONQzsg5ohm4t05YH2nLQcfanyR8bQfzr5ymgS09CUbZYBpav33rCDk25t_JgnWtfN7HKkqN5mfdTM0qwDU_df0kfVebCpcCo2GBASPrugEzXTMC44Y-CrXw4Tzdq9bFCnW--h48dUxllO1DYf5uukLJBLOyJZfhvhBts3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8t0tvKyIrCkjmULLXEXdvdCZLs2pHVmfO-Z6dPR9-v1be2TH_hEQU1aFeYRfS0NRcDDjb6GTOgRdeat277vOlxaFX__MtTx0Oya_8P7dvt_Aucg1Y6fnNqfl2MqLv0pk8QEZ2J6Z0u8Up0ce8pNGCKsTsq05BIUmrAxlO7RNvAN24S_MimDRGR0N0G4TW1Eq4HdDZ4fsMqgOawbJ_ckkuiPlHj6czkRC2u737XoQD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDRHwmB_HuoBiDvmXYafa61I92oGENFcvuo5UytWNVaJnkMH6WgI1toKFyFnW_OaFS6-l4qNHGEenWx6u8nBkMclb0l4cQcA1-WwnF3twFm8qf8eb9X9xGJ1lOETOEEWDce3Dr3BAfYO40t1LgkNwTA9fwwP2WFFyNGP2ORYQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZqnN5doV4edouQtgC7v-fMvqvsIMRyqJmJOejFNjRh0j4QfWMx5bHc1wy4Ej-j48SDKoc-k257RIo9zuZ32N0nJ9QXxPpBsWhG_wmHteJrVg95-WvBrdIXlqUrK72NUUiHkHJ2_Ec3whK82TUCoXEu3TAEhSXBcYblaS9qxipfTKX-ISNjctvqxb7wZo_rgGTKHYSc6b5y0vpmT_d_hg-jh6A6g96",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAJlspq3dwT_Yo1w8s1Lq0sKrIFE1RgGPpFmYyW0fLgi5LvrcvPcjScpbdUWtVZTXM1-flPgLhFrxe2RqX0mbvcqZnmp6v1dv2MeEG_GS1cuXngFwyMqoLWXrqkBnHos1W1VFEiUC0QxiAgJPRUlOEMxpm9bZB-sGzjIwJzUyZoh0keLTXPvyKPd4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCVs8oU_0BBcBzoXGJTizMwHDRnulyPLbK5rop27kSrTHm9bcVTlBBkH53DIcQkAgZZiHv4ouZ3at_0u83E7BB8pJ9nun1NK63BmRZ4AamX0Oi7E0rN8bjZDKwXmkVKTXigVZplxEenqKG6x1ll7zbEqqnqkywqYJHW2Sd1-rGXgt83TdbXA6gu9U5wDagcz0USh2ONJcC0ecT7E8XANfIVwPrUyspIoOvgeXt89ylYXQlWz9RfhWghbFKyBo-fB6atOiX5U3uN-ebTglzTZgfktw5jkfjVeA-9XWkZCf8csKc_Pg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3L55_bl3cHFl8SqriV82wGO5UElJK45xLWo6MSwTADdtyngiw6pYURtPZU8ojaQnyxSaBob9l4A1eeZWFvUbuogtNOVJ93atyU05rCDEbjb4fAaqWOFiiToZ1CPHGli2cnw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoiWoSsXh4Z3KpTVQZC7p3cP9fsEYk3QEFRDBWtXv_p8XgXrVWTKX3S02ahBnDLzfYFIoR5yRMQ5zz9YJWhTXenNONy5ipCGuZoNJ85JCbdHd0-AR8ctLYoYhwKuyzK09CnKSHZ3RSru-VkwICWKHUo2LiloAeFvxCHQGan6RWqCe63p7sbbkJzKZT-GsqOd7gi2k3hBK0ar2QvEFklsRAUVB-Rofr5JNeEJF4Bg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiURlM4xk5jSK8_js-POeddpBBSddcxcF4swSnbyzaSPYgxytWCgVkGcawzD5PkKIg9Gg4llqAcvORtHOq_HeY4sRoUzX5VorlE_5uGaSdvNiUgJ1KdyMs558Vo95RaShzs-9zpWdeSf9S7kgM7uPC5w-NLpoTUw2ZT2xuQHvXa75swzY4kvGdDqxDHpjFIfJQYcbr2OotE5Shhzd0g7cdJ17fxyC36SpSnfYni8LobA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhhNOWezfdFE0F0mOkSW6NPaaTEbVIC77De1i94Cm5bwVg3g12D3xG3O2-8ZqaEoWkEo3zTDxy6ZJqABac0xUJPATuCxr1ADfn2oqANivuZIdvB7OBYqYr693DmtV5ULKoa2JQYS__EHG3bYzKunDT5FcHHKJw4w4jbGW5XoZNsCuKXEYJHiFcTCIJcb7Ou5duTA6VRnyzFEHEbFswTjKnlju9XBK3vSZN1Czh3oOYJTvlJKAKiSjmF8zBdoi3scH2-s4AzHuw15kqWtf2Fy5GC3BpQudIX_s3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-Kp3-oPr6tBYP-Yc2N-ROqBoCVEtgQrXan0PSRcSJW59JwrlZaUxF1IQoz3_ras1xraRJtqitJqCbr46SyMHKWfllLQL9erPsNWfMlaQNGI_sZL6mXXnJaix4dPkGomUCdy112HXmvfGpaeSLaxijTcmfSvnAzqVvo2X2yQQomCJYdecg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoukPNJLbqJvK3U0meep6lo5v0rPyxt5PjXiz9Dwg0nHK7-jC5vBRsqc0KdJ_XDHiw9_DjvkhKaEe05pCKMhznKvyiUxYm3cIb2ajP1tCbxts2aIjP3AOzB6vf_sqIobj92Q1yHI1T93NKTUo8_l2t_TmRdubXaEHCUlieosnF5oWfRnHlvvs-l0HcgxskAhF_cz_zB2RuHDGBdK4kpFtbUavSixMX3HeMfOpV28m8MsSZ0CPdQxfGC_irMUqhAqQAmicAbiwnnBXLD6kZ1udDBkYaVyM99PwTSK3U"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T10:24:06.403410+00:00"
+  },
+  "performance": {
+    "primaryEvent": "110m Hurdles",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "110m Hurdles",
+        "medal": "GOLD",
+        "category": "International Meet"
+      },
+      {
+        "event": "110m Hurdles",
+        "medal": "GOLD",
+        "category": "International Meet"
+      }
+    ],
+    "stats": {
+      "personalBest": "13.27s",
+      "seasonBest": "13.27s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        12.5,
+        14.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

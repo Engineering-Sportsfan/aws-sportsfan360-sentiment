@@ -1,0 +1,121 @@
+{
+  "playerId": "smriti_mandhana",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "smriti_mandhana",
+    "name": "Smriti Mandhana",
+    "country": "India",
+    "flag": "IN",
+    "role": "Opening batter",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm medium",
+    "dateOfBirth": "1996-07-18",
+    "birthPlace": "Mumbai, Maharashtra, India",
+    "heightCm": null,
+    "jerseyNo": "18",
+    "debutDate": "2023-03-05",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smriti_Mandhana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Smriti Mandhana is an Indian international cricketer and the vice-captain of the Indian women's national team. Born in Mumbai, Maharashtra, she is a left-handed opening batter and occasionally bowls right-arm medium pace. Mandhana has been a pivotal player for Royal Challengers Bengaluru (RCB) in the Women's Premier League (WPL), leading them to titles in 2024 and 2026. She is known for her elegant stroke play and consistent performances at the top of the order.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "96 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Delhi Capitals",
+    "venue": "DY Patil Stadium, Navi Mumbai",
+    "date": "2026-01-17",
+    "aiInsight": "This knock of 96 runs is Smriti Mandhana's highest score in the WPL and stands as the highest individual score by an Indian batter in the league's history. It was a crucial innings that propelled Royal Challengers Bengaluru to a commanding victory while chasing a tricky target, showcasing her leadership and batting prowess under pressure.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 35,
+      "innings": 35,
+      "runs": 1023,
+      "average": 31.0,
+      "strikeRate": 136.76,
+      "hundreds": 0,
+      "fifties": 7,
+      "highScore": "96",
+      "ballsFaced": 748,
+      "fours": 145,
+      "sixes": 29,
+      "dismissals": 33,
+      "ducks": 0
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": "0/9",
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "matches": 8,
+        "runs": 149,
+        "wickets": null,
+        "average": 18.63
+      },
+      {
+        "year": "2024",
+        "matches": 10,
+        "runs": 300,
+        "wickets": null,
+        "average": 30.0
+      },
+      {
+        "year": "2025",
+        "matches": 8,
+        "runs": 197,
+        "wickets": null,
+        "average": 24.63
+      },
+      {
+        "year": "2026",
+        "matches": 9,
+        "runs": 377,
+        "wickets": null,
+        "average": 53.86
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUgEWyUd5Fo3CJdwWrEBlNDJ34Pooupc5t4NGNi8ewhCMoWCJtv-uaoW8JoDEt4jpyNiTnztTe3GDxf76XDx_qcbvEGyo1-80Q6_eurL0w3HS-PVsekMIIbIZQ4e645W95oZtXmbP_XA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgToZteGenydSv9Nx5d_M0Un3M60AXVxCu8wnXOij8NduTmnfWtt9v50qUA7C8LCucii6FtvabY3jUnuRjfCzpmRF2KGdf_e7AHaOBSHu4-FJ92uOxE_-pF2Lsx09iKMiH_CXmuCce63GOsxv0GfmuHfR99BuZt_CJWVtPRNwSXHmyuph-J1o6gR2u1IU-ZtHxRA1DdZ63jnlxp3081VfV876JJVV52NeGcvW9gpoFByzv6H0nW7LRCheRnbMjuy3PzciuDA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd1ZA_TkJPUdX7R81hnOk75hrstcf_4LYP_xy6zDh43QBNd98WmEghjI2SzyZmAkC-0unaG5C7qmTC9cLdiAV7Vai2oGiVskN7rvML06H9QXiLgN0flAMsKG8mN7-wxTLT_N-rPUc9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Y_MQdPstC-Ab-tG2Tbe5-IFWqkeCFyzFriswans_3NXV6_vBSXgasQXYWSbdd6gFNhJIaPkRpZqXITjYvf1rjHRipKqKVlWOe_ZEL-lR7gPMG283YYty3dXNWkm1ZXzz-ELoS3zCQ6XfqouL3JwKquIJy8iDUyFK1qXZX3-f73HVpRQ2OOjKZILbEf1JDUL9SY4DmkwXSGRJiPnUOGtV-oBl3-BMp_k-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_H9ogaj8FMYnsIjxJQbtxmQ4wHarchFZFfZNMZedxNLKzubc32pBI4VnQAwLKAkBb09DtMSZNNLgKHbkLytOaQwZEAvCGhtjCIP9R73C6sfDIyKl53khkV1vxWwkRejZ4HoZy_UTd2NCVmMtyKW_nHaUCkB4sVwj6-Uk_1VHHirVq1YARce8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiB6nSAuVoGr2QHjYLHweTEQCOPecLaB40gIE5mVzjAcY-vZw77cv6oayQKm7p217nT_YyyGJSEbds7fPVQgrrvACff7NiUziDnYr1m-DndVjg1LEGmMf_MAUfPXxPwEFhY0k1e7lY5bKFviBP9mX_ncFuMbWGtml9N221wROJfB3OOsBeV1vzoSsB3NCoPaQa0aR58-kNyGpjoIxhI1QpVtL4dOrLfLSPqcSS2PT9-57vZqTtrVk_rTGoZZSDZx4luD7AKA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:42:52.939184+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "smriti_mandhana",
+    "smriti",
+    "mandhana",
+    "smriti mandhana",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

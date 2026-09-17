@@ -1,0 +1,124 @@
+{
+  "athlete_id": "harshit_rana",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Harshit Rana",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2001-12-22",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=7-dP40eGtb4",
+    "bio": "Harshit Rana is an Indian cricketer who primarily bowls right-arm fast. He made a unique T20I debut in 2025 as the first player in the world to come in as a concussion substitute. He had a breakthrough IPL season in 2024, taking 19 wickets from 13 matches at an average of 20.16.",
+    "birthplace": "India",
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "T20I Debut as Concussion Substitute",
+    "result": "3 wickets for 33 runs",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2025-01-31",
+    "city": "Pune",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Harshit Rana made history by becoming the first player in the world to make his T20I debut as a concussion substitute. In this unique debut, he delivered a sensational performance, taking 3 wickets for 33 runs against England. This highlights his ability to perform under pressure and make an immediate impact.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Overall T20 World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        30,
+        55,
+        40,
+        65
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkDPPg3FiQBZ34xwVZhhEX6KgmkpHm6WlwQ26EU6QZa_Ek3wYU-08yBDUH1mM9xoz7D7G-hLB56GFRdWGtUgGK4UskVqEWrykTNW1uzOzQ5ixRG6qcJY82G-oWOrOBuhdjn92xAZVKNGi9R9444czowvaEiHgNo-33Qmq-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_9EAsMXAfugVfZh8hrZ98Jysq1YLx7gHkj8qeWvDSzrgeLaNbjbSE35JUPzfvz4fymNleUHj8MORFTebVC5rqu_JEU9Sv9vhRfqOCMOAC3NZdZIzT317YBFWW9uKi8t0EFoh9OTyc7pUazQr9XzZsnXfiZQbiWmCDhaRwLzbOFZJsoJmkNHFhT6yU2ExQVkmUfXhd7E4afQRvHQk8LoIowgkHq0LqqHLj-GRZx4BvQq4zv5OrTdUHdkP7VULqWSsTrTkPh7u7zPfxYw10LaDuEL8QD6HaTRoktboXyTTIHciB2Dk="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:18:06.264110+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 101,
+      "ballsFaced": null,
+      "battingAverage": 14.43,
+      "strikeRate": 110.99,
+      "fours": 7,
+      "sixes": 5,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 408,
+      "runsConceded": null,
+      "wickets": 16,
+      "economy": 9.71,
+      "bowlingAverage": 25.5
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "harshit",
+    "harshit rana",
+    "india",
+    "rana"
+  ]
+}

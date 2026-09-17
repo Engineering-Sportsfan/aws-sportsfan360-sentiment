@@ -1,0 +1,115 @@
+{
+  "athlete_id": "pratika_rawal",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Pratika Rawal",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2000-09-01",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pratika_Rawal.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=KT9uasgqavU",
+    "bio": "Pratika Rawal is an Indian international cricketer and an all-rounder who plays for the Indian women's national cricket team. She was an integral part of the Indian team that won the 2025 Women's Cricket World Cup. Rawal holds the record for the most runs scored by any cricketer, male or female, in their first six ODI innings with 444 runs. She is also the fastest woman to reach 500 runs in Women's One Day Internationals, achieving the milestone in just eight innings.",
+    "birthplace": "Delhi, India",
+    "coachName": null,
+    "yearsActiveSince": "2024"
+  },
+  "record_highlight": {
+    "event": "Most runs in first six ODI innings",
+    "result": "444 runs",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2025-01-15",
+    "city": null,
+    "prevRecord": "392 runs",
+    "prevRecordPlace": null,
+    "prevHolder": "Tom Cooper",
+    "improvement": "52 runs",
+    "improvementDate": null,
+    "aiInsight": "Pratika Rawal's achievement of 444 runs in her first six ODI innings is a significant world record, surpassing both male and female cricketers. This highlights her exceptional talent and immediate impact on the international stage. Her consistent high scoring in the initial phase of her career demonstrates her potential as a dominant force in women's cricket.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National IPL Record"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC Tournament/Major Global Event Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Outright IPL World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {},
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Rawal has shown remarkable consistency since her debut in 2024, accumulating over 1,000 runs in 28 matches at an average close to 50, including one century and seven fifties."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFATq3UTKa_kerE25dMwqO7aF0DRJNr88SlE_1Tza-ztdRUszfBA20-En_DnLV6G1FhTZ9yhFNgYL_OlVxVyOG1AJR9c2NFAiY7G1Se91sF_CS2Pfe7EjSt2T2zosUayTGsNTw41OI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIL8OD6AgCTATHlkFEZhAEIcDNW9zo-ix3J0MQL8o4_9j7ZEaRLfrcB2yGxMhs92ecsBCaX_BdyKsk0VI8cCQLltAQTsZm-yYHmpNTWGDrslEu2IfWDW_DCU7zDLelHdDBwUDu3NdAJgWSl2uVqzN4cxdnVn-Mw9pmIaOkrEKjkhzzG7kbTJKKSod5ILjujVwFtTRTgJIDCzKxAWrI3cTS6WJ6Jh-NDINEFNbvttOMNpoHiFACDVCxgZ6XCp2UFI76hhqVKW2jS3k=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGffkWAB7_aq4tSEA3q7H5RpHgFt_dV_Mbhf_mr1SgYlVoFJXnXut3g7jRjNslHsHcBSp7hGIqPLZdVcmdm6yCSjXSevk18TrSLiFUqok8lNGJl9Ui3-oQoxOAqgzaPk4hr0PXdoL1q9GDwDA71u0mnz07ROZqO4Ax1_JcVRwG0QSFfYrjwiyJxdlC4BIkeBKv7SHzzreNrNy2iCDw0BrwptgykAVpbbtdFiYBEitSmq-akg7YS9VXG_2UcwT7ZykGm8nhTcw296gM-TnPyK_m8eNgDV_kLkH943SX5XDfU0j25VP4zoyAZvg0ZJJmW115O",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEriK7PiIp1xbKuD7RnyYlqQC2wt-WgzQc3roXkPSk7MzZJ7YXb98TpDZdPP7RiZo-SYgI7v2cIjxSQJgK_LmHNuLsWShHTF1hnT2nt5-Zcazkpr6yHIYEoK6kVToWGF6C1vV_nmYDj5JQz0V7tASEV6rOReKaekKxMidq8D7_QBC53uxSTj2UpUgjEUzsoOxWxf0y0SZqOvh3zRVNwtUMVtw4CDv9G8af-PaoEvJlZPkrwKg0WMVazSmD-lHFja9m_UHlTCyv5Lw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:55:00.873262+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "womens_ipl",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": null,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "pratika",
+    "pratika rawal",
+    "rawal"
+  ]
+}

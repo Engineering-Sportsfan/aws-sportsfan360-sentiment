@@ -1,0 +1,338 @@
+{
+  "athlete_id": "poovamma_raju_machettira",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Poovamma Raju Machettira",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1990-06-05",
+    "heightCm": 175,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/dX6EDXND-wM?si=YbW4a87ZtpqYVD9g",
+    "bio": "Poovamma Raju Machettira is an Indian sprinter specializing in the 400 meters event. She has won multiple gold medals in the 4x400m relay at the Asian Games (2014, 2018) and Asian Championships (2013, 2017). She also secured individual silver and bronze medals in the 400m at these competitions. Poovamma represented India at the 2016 and 2024 Summer Olympic Games.",
+    "birthplace": "Gonikoppal, Karnataka, India",
+    "coachName": "Vasanthakumar",
+    "yearsActiveSince": "2005"
+  },
+  "record_highlight": {
+    "event": "4x400m Relay",
+    "result": "3:27.88",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2016-07-10",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Poovamma Raju Machettira's personal best in the 4x400m Relay, 3:27.88, demonstrates her significant contribution to Indian relay teams. This time highlights her speed and consistency as a key member of successful relay squads at major international competitions.",
+    "progressData": [
+      {
+        "year": "2013",
+        "value": 200.26
+      },
+      {
+        "year": "2014",
+        "value": 208.68
+      },
+      {
+        "year": "2016",
+        "value": 207.88
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "3:26.89",
+        "holder": "India (Chitra Soman, Rajwinder Kaur, K. M. Beenamol, Jincy Philip)",
+        "date": "2004-08-27",
+        "venue": "Athens",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "Olympic",
+        "value": "3:15.17",
+        "holder": "Soviet Union (Tatyana Ledovskaya, Olga Nazarova, Mariya Pinigina, Olga Bryzgina)",
+        "date": "1988-10-01",
+        "venue": "Seoul",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "3:15.17",
+        "holder": "Soviet Union (Tatyana Ledovskaya, Olga Nazarova, Mariya Pinigina, Olga Bryzgina)",
+        "date": "1988-10-01",
+        "venue": "Seoul",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "3:27.88",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "4x400m Relay",
+    "achievementLabel": "Asian Games Gold Medalist",
+    "stats": {
+      "worldRank": "377",
+      "personalBest": "3:27.88",
+      "bestYear": "2016",
+      "totalGold": 8,
+      "totalSilver": 4,
+      "totalBronze": 2,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2013",
+        "event": "4x400m Relay",
+        "value": 200.26,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2014",
+        "event": "4x400m Relay",
+        "value": 208.68,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2016",
+        "event": "4x400m Relay",
+        "value": 207.88,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2008",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2013",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 200.26,
+        "seasonAverage": 200.26,
+        "currentStreak": null
+      },
+      {
+        "year": "2014",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 208.68,
+        "seasonAverage": 208.68,
+        "currentStreak": null
+      },
+      {
+        "year": "2017",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 3,
+        "gold": 1,
+        "silver": 2,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 70.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "3.0\u20133.5s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "3.5\u20134.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "4.0\u20134.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Poovamma Raju Machettira has consistently been a strong performer in the 4x400m relay, contributing to multiple medal-winning teams.",
+    "peakZoneLabel": "3.0\u20133.5s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "3:15.17",
+          "holder": "Soviet Union",
+          "date": "1988-10-01",
+          "venue": "Seoul"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "3:15.17",
+          "holder": "Soviet Union",
+          "date": "1988-10-01",
+          "venue": "Seoul"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "3:26.89",
+          "holder": "India",
+          "date": "2004-08-27",
+          "venue": "Athens"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA5PoUG5WDN24HaSk-_xBLcWP1dgLS0zfKwnyoKnnkIYn_LC6DndlVo_S4Eo7kjtGEel9U5rnYJIQTvYbqBWteCm4c2814iJGKcQIQR1JpGSCn5pvPJER7o00GCOFSE-UAH7ya1Uc8WcFmexgiQYbpstnE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy3ephJI24ahyXIOHQRHB0eMYvopQSlP_CJ39j-ticdhKv9p5CKMCqT_mFgNbE8OfNJepwqthAwRINBagUKGkSoGCyK7Fsslkgg2ZF3OKJY97sUZADi9-qESUotUOqFJuzLJnWDOc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJnW_P_1TnxksL8D08Vt8v6GkMjTHR5PNGmNuSiR2tqItexil4aYGsWEDhVCF7NnbdyTuYVwskxubXn6fplh0N3xrsan8YAU_fyy-tWBDNzLVh2awY6tiGmLjnQp_5kACBvWjcReHtA-zjzj7YFS1EiLi4ZxnjohLyeDYjPyA9VJ19"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:07:27.814273+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x400m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x400m Relay",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "4x400m Relay",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "4x400m Relay",
+        "medal": "GOLD",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "4x400m Relay",
+        "medal": "GOLD",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "4x400m Relay",
+        "medal": "GOLD",
+        "category": "Commonwealth Youth Games"
+      },
+      {
+        "event": "400m",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "4x400m Mixed Relay",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "400m",
+        "medal": "BRONZE",
+        "category": "Asian Games"
+      }
+    ],
+    "stats": {
+      "personalBest": "3:27.88",
+      "seasonBest": null
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        190.0,
+        210.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

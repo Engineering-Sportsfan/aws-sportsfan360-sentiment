@@ -1,0 +1,312 @@
+{
+  "athlete_id": "jyothi_yarraji",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Jyothi Yarraji",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1999-08-28",
+    "heightCm": 176,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/iPhN_eRn4kY?si=cNOQzFcXULszNiKL",
+    "bio": "Jyothi Yarraji is an Indian track and field athlete specializing in the 100m hurdles and 60m hurdles. She holds the Indian national record in both events and is a two-time Asian champion in the 100m hurdles. Yarraji became the first Indian woman to compete in the 100m hurdles at the Olympics, representing India at the 2024 Paris Games. She has won multiple medals at Asian competitions, including gold at the Asian Athletics Championships and silver at the Asian Games.",
+    "birthplace": "Visakhapatnam, Andhra Pradesh, India",
+    "coachName": "James Hillier",
+    "yearsActiveSince": "2016"
+  },
+  "record_highlight": {
+    "event": "100m Hurdles",
+    "result": "12.78s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2023-08-04",
+    "city": "Chengdu",
+    "prevRecord": "13.38s",
+    "prevRecordPlace": null,
+    "prevHolder": "Anuradha Biswal",
+    "improvement": null,
+    "improvementDate": "2002",
+    "aiInsight": "Jyothi Yarraji's national record of 12.78s in the 100m hurdles is a significant milestone, making her the fastest Indian woman in this event. This achievement highlights her consistent improvement and places her among the top athletes in Asia. Her ability to repeatedly lower her own national record demonstrates her dedication and potential for further international success.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 13.23
+      },
+      {
+        "year": "2023",
+        "value": 12.78
+      },
+      {
+        "year": "2025",
+        "value": 12.96
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "12.78s",
+        "holder": "Jyothi Yarraji",
+        "date": "2023-08-04",
+        "venue": "Chengdu",
+        "tournament": "National Open"
+      },
+      {
+        "label": "Olympic",
+        "value": "12.20s",
+        "holder": "Sydney McLaughlin-Levrone",
+        "date": "2024-08-08",
+        "venue": "Paris",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "12.12s",
+        "holder": "Tobi Amusan",
+        "date": "2022-07-24",
+        "venue": "Eugene",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "12.78s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "100m Hurdles",
+    "achievementLabel": "Asian Champion",
+    "stats": {
+      "worldRank": "57",
+      "personalBest": "12.78s",
+      "bestYear": "2023",
+      "totalGold": 4,
+      "totalSilver": 3,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "100m Hurdles",
+        "value": 13.23,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "100m Hurdles",
+        "value": 12.78,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2025",
+        "event": "100m Hurdles",
+        "value": 12.96,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 13.23,
+        "seasonAverage": 13.23,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 4,
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1,
+        "seasonBest": 12.78,
+        "seasonAverage": 12.9,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 12.96,
+        "seasonAverage": 13.03,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "12.70s-12.80s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": true
+      },
+      {
+        "range": "12.81s-12.90s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "12.91s-13.00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "13.01s-13.10s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "National Record holder; consistently performs under 13 seconds in the 100m hurdles.",
+    "peakZoneLabel": "12.70s-12.80s \u00b7 25% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "12.20s",
+          "holder": "Sydney McLaughlin-Levrone",
+          "date": "2024-08-08",
+          "venue": "Paris"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "12.12s",
+          "holder": "Tobi Amusan",
+          "date": "2022-07-24",
+          "venue": "Eugene"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "12.78s",
+          "holder": "Jyothi Yarraji",
+          "date": "2023-08-04",
+          "venue": "Chengdu"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFVopwSUtJuQcawCpHzbcAwY4tMZu9ydmHimB1BcEG3YD9wY-blCtcR7HhpCU-OKTZxoEPWleP2ceZ_fb4EK-B3LBIjuJ8RMq0wBM2qVfxFqVt1U3iO2Ar2rMU-wvUOCcK9dbIVtNlCalk_WLYW9rk2XfmH26nooARe8CCfOsmKH0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETImxoHbgFPBsfk2PuuSzmSIgDS_8GsWpLyOkhu-ujUFsmWZf8dkU9GhhoRhKpxxIvdHa9XmbO3z5KzzU4OZVUeNEkjpDcAt4A_hTNg-cjEgzZs8LyX9cj6Nprnt3bhTbYs2GB1pGN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwOBVqPdI2XLd_kzBLW0uKjYF09guSPyNnuafUG8i19Iv9FgxZuiNrYpSXKbB08XrvaJqO2T6wxjVo3vLNmgcPasV1by7ADYR8WIdBNC53kA9DlVVZ6q-oAhJZFTmLoTp7J4KcXbNujJk3eAyiK36-gD9KAm_CbFegTZS0Z3zCK-TOQPXCc2eLuD2b1wA0ObCr",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETM1l14BsesIoDWAQ1JKjGVKdML5_yiadys6AKiFyswZyhyLDoTzVk3CaS0J6YUa3EYADjVuFHZRBBbb7lP8fwATjdj0DeI9oE9uaNGOIH3sJN4PE7K8pNWMpHdMcMkangSAXzv2E9NPKRA5ucEhKk7-iFGeJyfBMHq1Du",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaTlw4sUIV82fZtLgt3viQ5oZtieVAY0YFwacBm9OQ8YIYRD7F74fJhbEEMaKT5lpadQI3HHvKESUjh2VUKt0xg2LuRbzqOKomspit1A2-UFy64q7Yqn4Ldp9tFkCyaY4="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:55:27.585769+00:00"
+  },
+  "performance": {
+    "primaryEvent": "100m Hurdles",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "100m Hurdles",
+        "medal": "GOLD",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "100m Hurdles",
+        "medal": "GOLD",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "100m Hurdles",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "200m",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "60m Hurdles",
+        "medal": "SILVER",
+        "category": "Asian Indoor Championships"
+      },
+      {
+        "event": "60m Hurdles",
+        "medal": "GOLD",
+        "category": "Asian Indoor Championships"
+      },
+      {
+        "event": "100m Hurdles",
+        "medal": "BRONZE",
+        "category": "World University Games"
+      }
+    ],
+    "stats": {
+      "personalBest": "12.78s",
+      "seasonBest": "12.78s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        12.5,
+        13.5
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

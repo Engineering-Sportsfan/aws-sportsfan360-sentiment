@@ -1,0 +1,128 @@
+{
+  "playerId": "harshit_rana",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "harshit_rana",
+    "name": "Harshit Rana",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast",
+    "dateOfBirth": "2001-12-22",
+    "birthPlace": "New Delhi, Delhi, India",
+    "heightCm": 188,
+    "jerseyNo": null,
+    "debutDate": "2022-04-28",
+    "profileImage": null,
+    "bio": "Harshit Rana is an Indian national cricketer who represents Delhi in domestic cricket and the Kolkata Knight Riders in the Indian Premier League. Born on December 22, 2001, in New Delhi, he is a right-arm fast bowler and a right-handed batter, often categorized as an all-rounder. He made his IPL debut for KKR on April 28, 2022. Rana played a crucial role in KKR's IPL 2024 title-winning campaign, picking up 19 wickets.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "3/24",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Lucknow Super Giants",
+    "venue": null,
+    "date": "2024",
+    "aiInsight": "Harshit Rana's best bowling figures of 3/24 were a significant performance in his IPL career, achieved during the 2024 season. This spell demonstrated his wicket-taking ability and contributed to his team's success, particularly during KKR's title-winning campaign that year.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 34,
+      "innings": null,
+      "runs": 59,
+      "average": 9.83,
+      "strikeRate": 105.36,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "34",
+      "ballsFaced": null,
+      "fours": 5,
+      "sixes": 3,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 34,
+      "innings": 32,
+      "wickets": 40,
+      "average": 25.73,
+      "economy": 9.51,
+      "strikeRate": 16.23,
+      "bestBowling": "3/24",
+      "oversBowled": null,
+      "ballsBowled": 649,
+      "runsConceded": 649,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": 1
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "matches": 13,
+        "runs": 57,
+        "wickets": 15,
+        "average": 14.25
+      },
+      {
+        "year": "2024",
+        "matches": 13,
+        "runs": 0,
+        "wickets": 19,
+        "average": null
+      },
+      {
+        "year": "2023",
+        "matches": 6,
+        "runs": 0,
+        "wickets": 5,
+        "average": null
+      },
+      {
+        "year": "2022",
+        "matches": 2,
+        "runs": 2,
+        "wickets": 1,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOnBq7hPrwFvZIIuBml87d2bpyCnZ_F6AqtDgEQjwrBRIuoXZHlynO2CB98WDfMQI6oJzxub4bGXSf6V027_MjVolSehTMVFy71csD9lpwBR27ALD-U0hm5YAuheUBoRb21K51hA7agrFlwq-aY-5WCFPoyc0aiyZfhQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgRmP3I1giPx2m3OUA4w9uNZbmpvuYSf5lUQUo6_NEb-dya_nUyZ_Ga8DLIboBtk42nIXMvsKMsylHiNqa4p2YNT52iRGC4CLG9lBd6EYMumfKKELwwtpCnaM9NZeFQKxeLzLSyA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEVQk4NT_euhKlsWGZDfPSHHCTzLgprlMGrOut9OlqIP-v6X53GBqD_EhdrVYWp71wF5A9HzkQ6kZYbFQJkyLyU2dYNrux5AtcEHeZpoB3Qga92tSdk9JqtMYiZ3YQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYxLsGSCuGJa5StNiXPGbHWm_dZj90xg6RCvVmyZLUIo5vqB6t6FW05lZCpAIyY7CPLafk3WExnCS58z-MPn3U9E5fweU0DnalqnFSSVgJcMtgJIMvpkc19O6q0KMNHviAbYy_wUW5uNwFgA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHadJyjWv4fuRqyZZMac4ivqBdeLFMrcxiqV6Kq3DJihqslNxxwC1BdP6sv-Kb6fkoTsuMwufEZF_xfYqOQGQGnU3MWNuQn_jef1kIOEdzA2eI5FXX1-2khs9teKUVeCwvpH8844FNTg5Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTKcwEUxR_xjJ--7BT22UBKn-tqGTT1PJdR_oo5jrtJDQGu7-oNb_6If8DEZi1eJ4B_g0NMi5lWx9AbEycjT9Hd6kUhADIn_oyGw-sdyYVVhbxRNQFmzkZZ_y6txQielmduReHz4JMUG2H",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaFqZgPJwkrdYYOigAyQRyCXtMplQTmSM0VciYCIyCAEbWXXiYjRDP_WP4X1UdRU8q3Pqadvz4sGg_mWBxs191Y2Naq4JPkjE5F1fBXLJSpH7pZTky43kCVC0FwiGdxPDZj3gNvag4JR5RkCFxrFY9vbQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_T-lsb1NN2vxelI-QYHe2vRRBvjXO2wZnP_UkQ0GU9YVz957Oil5x_4GuS4R2Xyw8ugEdqoO7uhNroz5t_Xc-4Of-R73O5fUFkAIeNf7-jyH_ROqMtK8wwU7nN4yTpMVca3rgeWxDoWIbN_XVkja0W1bXLEBuGQbw4U9cdg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9QOWmFeLpsmmj_koVyLuaoiil-TRY743FANmDhmLX7b5w6fSrMC43H8Bcq-u4NYAvG7LMiWqLxw4IVBfyGgfSctt0YHjA-yGf2a3s2PfBgod-GKFnijNFD-nAvz6F2ytbIx-gEwhpK3G_aWhrCGOT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI79p0OQzRwPRdv83BRKMx5GfV1h40EzETWfaERN_qfv8yBG-sq3hC0yXU3te1fKC1_TxZ2lFhxdI0y0MPy1kZJwbw2016Te0Vi43gNNZDI30gJFuZsMQVuj9HxGhvCkalnGb58jD34HQ2",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVhFu4BEbbXjtesqGYCjh1ElsaZOYEt5ON_mNfiADT2drh0yw-AWZairR1qo-lldxV7dt6Nh-8NH4VSVNrixtq83qX-htMWb2Xn4fimCuLGovyFYRd2A5CATdA5Zs4stHlIQhiSfoyv6b_FMs7b5tbLVPWeXh_m221SoZlrrgTNmfN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQibHbO1ZPqExerjDAYerf3Uq4z70OSjslsyXSyE_l6-2Ia2-WlJMV2Cwuj8kx8uzTPOE4JqNqBCtztPQBYnaRx-0dlaXrCaJ2iBiToAoI9ixiYRkMpkyZYld4oZ2ZVRlMul9tu4N1pRYE9_zkufux-dxKmNGP7MJSu8WE1e9GR0b77K-60244koQHPfU3Cdor",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEGi0L38tyTVIHUYaBABAzUtZQ2ZINe6435Fmjm6d3PATwOpjwWOcG2XqGLaiW2P21fQ_qHeqZ4GXs1TgV5CNVLuMQ1FqR-F24IMIGs02GdD4yDx7Wa2aPBWrm0-BFi67vI6ZRzrhKoPxlpEkKnxp2KIJTgbTd"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:34:04.685897+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "harshit_rana",
+    "harshit",
+    "rana",
+    "harshit rana",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

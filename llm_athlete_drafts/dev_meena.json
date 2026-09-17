@@ -1,0 +1,308 @@
+{
+  "athlete_id": "dev_meena",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Dev Meena",
+    "country": "India",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "gender": "Men",
+    "dob": "2005-05-07",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=3I7UwQ2955Q",
+    "bio": "Dev Meena is an Indian pole vaulter from Madhya Pradesh. He initially competed in the 400m before transitioning to pole vault under the guidance of coach Ghanshyam Yadav. He has consistently broken the Indian national record multiple times, establishing himself as a leading athlete in the event. His performances have earned him international medals and a place in India's squad for major competitions.",
+    "birthplace": "Dewas, Madhya Pradesh, India",
+    "coachName": "Ghanshyam Yadav",
+    "yearsActiveSince": "2021"
+  },
+  "record_highlight": {
+    "event": "Pole Vault",
+    "result": "5.46m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-06-24",
+    "city": "Bhubaneswar",
+    "prevRecord": "5.45m",
+    "prevRecordPlace": "Ranchi",
+    "prevHolder": "Dev Meena and Kuldeep Kumar",
+    "improvement": "+0.01m",
+    "improvementDate": "2026-06-24",
+    "aiInsight": "Dev Meena has consistently pushed the boundaries of Indian pole vaulting, breaking the national record multiple times in recent years. His latest achievement of 5.46m at the Interstate Athletics Championships in 2026 further solidifies his position as India's leading pole vaulter and secured his qualification for the Asian Games.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 4.6
+      },
+      {
+        "year": "2023",
+        "value": 5.16
+      },
+      {
+        "year": "2024",
+        "value": 5.2
+      },
+      {
+        "year": "2025",
+        "value": 5.4
+      },
+      {
+        "year": "2026",
+        "value": 5.46
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "5.46m",
+        "holder": "Dev Meena",
+        "date": "2026-06-24",
+        "venue": "National Inter-State Senior Athletics Championships",
+        "tournament": "National Inter-State Senior Athletics Championships"
+      },
+      {
+        "label": "Olympic",
+        "value": "6.25m",
+        "holder": "Armand Duplantis",
+        "date": "2024-08-05",
+        "venue": "Stade de France, Paris",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "6.31m",
+        "holder": "Armand Duplantis",
+        "date": "2026-03-12",
+        "venue": "IFU Arena, Uppsala",
+        "tournament": "Indoor Meeting"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "5.46m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Pole Vault",
+    "achievementLabel": "Indian National Record Holder",
+    "stats": {
+      "worldRank": "128",
+      "personalBest": "5.46m",
+      "bestYear": "2026",
+      "totalGold": 5,
+      "totalSilver": 0,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "Pole Vault",
+        "value": 4.6,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Pole Vault",
+        "value": 5.16,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "Pole Vault",
+        "value": 5.2,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Pole Vault",
+        "value": 5.4,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Pole Vault",
+        "value": 5.46,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2023",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "year": "2024",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+      },
+      {
+        "year": "2025",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      },
+      {
+        "year": "2026",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "<5.00m",
+        "count": 1,
+        "throws": null,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "5.00\u20135.29m",
+        "count": 3,
+        "throws": null,
+        "percentage": 30.0,
+        "peak": true
+      },
+      {
+        "range": "5.30\u20135.39m",
+        "count": 3,
+        "throws": null,
+        "percentage": 30.0,
+        "peak": true
+      },
+      {
+        "range": "5.40\u20135.46m",
+        "count": 3,
+        "throws": null,
+        "percentage": 30.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Dev Meena has shown remarkable consistency, breaking the national record multiple times and consistently performing at a high level in the 5.30m to 5.46m range in recent seasons.",
+    "peakZoneLabel": "5.40\u20135.46m \u00b7 30.0% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2024": "9th (4.95m) at World U20 Championships, Lima",
+          "2025": "5th (5.40m) at World University Games, Germany"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2023": "Gold (5.16m) at National Games",
+          "2025": "Gold (5.35m) at Senior National Federation Cup",
+          "2026": "Gold (5.46m) at Interstate Athletics Championships"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9sEjy4i0zYk7Wz26T9ae-k0L2m7xULoSM6ZSntwm1QXjQ9YloUYtpXrB-8S-I8wDOleGIUxchmQj0Me8fyoI3YrAEAWWb8gIWU8lvRWEcv62qESqswFNTsS8H5cCCLKRTfAbQ6hRCBG7Jb0Dskjp-Zbb3iYTglS1632E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHENupFPG1xtVxwQzfLN0rgFM2kWMR97RTUiJGDnA2BC_tdpM-9j747Ft3fBtJjYGZpv75fzsQi6RuhmgBfT_sN-AwdRMJ_7yjBSSSX4byCfhv4_RDI1f6ezPeynRnwoO3kRw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErdltCuett550cbWDIRMuaTBMSllMHhPLS0K4m6pNyIKu-hhx-fowW48MNs_LIzNpWZ7fN50HNW6tWKupFax3Quylfmp6HQXp_aQEfDO5KcNzwLXl2-K4xsyBcDj155ziYO4Te",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMzFEc4fev4eMBWLk4SQyr8_y-2dckABPP4JWHe0-n2rxIVrw_sjEL_xV5tiOGLORZuVAj0bOw2I4zYPcXjgnpV9jWsvWx8liQRdj1w9Z4RfGzrTF-W1Owif0h45f-TYu-cT60_oP6iW7GrM5SISx129YO_umO3zQT76d6krtzFJo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMdWu4puEpy12AmqWSkJG6o2htKn1K9_5NYNmRtxq2Nzc654Wi5wLw2K7XuiWRco_0sFnQzmhKpIhkN9rVj83a7H5CdkPAZoYUPzacJmILMWYxwxuTkediXqdf05otEhezM3oo5caFiICKUBEDoKpaxBO6sJEBrnA3bMFIX9AA_fyaVKayw2Sy_ObCRXFqN5qzZh5MNxWfuMj7Zj5RXAE8R7xP",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_ovLtiEor5CzVgvswPX5r5di6ZPcl_pPt9lKk_1h5bwpW2p_TGA_2DbERwpPEQyS4v_GgqzZvamOxj9klUIDdaHZ_fvgyHnzP14QEBicxsfb_gMtdNfETkz5iMAf_8vhiDxvu3IRWzh4ovWL1BSHlcZHkPTrE7qqahwI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-NxWdTqeLe6VaLo95vq9B4QJmFhgGVS6OmUeXULOZkyBKReftNhbT80KdA05N7HU_mUJNZq17Wg9ff4V4iWFwl9RVvbZA8EEY7ZHGnHB5nxZ34keejKq8XcvnHJ7ZieTOQQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Qxtwe16SRVJt-_xriaCeRyZsTeMnwUz0-aa7LzFtBk_a9XjXoP6CJsF9Ag_9ejql-YnwfPNhLht1TPIFq2F3JVQvusWXrGyG1US_7H3y2R0prxuhFTMsPyckny49F6DrarKC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUSDen7v7l5IQRfkN8KdnESkUjqMtwyN98SEB_SeDIX0Vgjjqlu3I8YLZ1bpS3_jbnVs4eqt3f7KG1tJuRFlSSoP46ZzQ63zArNBBqgEutAa5qmcXZKLthmNEq0nKidQprd4K8RXKiFO0RqcKunn0k2C8jtpPRMlJkcfSzRCCKvtTnWOlEQrBha70M2jHXdfFHOV0PmZ8sVy0Gl5cluKASGwJkRri8qg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9TdY3vRIGqphHNWEKgXnR53xeQtCBVCoyYyqf08zlbb35k8xpr8YvPFpl7mEy0qdJE93TocZkv6i5vj8vF-psOav2-jDLChwCO3yK9N30aVir38GjnJldYnuDyRiRlIj8NYCP9wPmz-i7IX8TtX5DiI-1XSiGvyLu5CADpt-lFMemfYMoaDSETH9smiZidXNpZA8LVped2u0yW7irEMCjiTV0QWYGqg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiRaJKs4P0dugo9QKx4mUC9__LWww0ZJj6fAfLpbMPImvM87cw6qlbdJLOuiSgDURDHaOIF_Pqee3dLbkFDFuAUoSYcxBIgOkd-3T9tUa5ajiP_Arg7rrQUWlY4KESZZkwa1kKvQzxCiYYMWZOSzVvFDshc_DxvupP2GkO7LNiR5YE-SfSIqTqkhMtWJhdqJL4KD5mXzJjkrGR2aZaB9pOAxJH"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-05T18:04:40.820066+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Pole Vault",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Pole Vault",
+        "medal": "BRONZE",
+        "category": "Asian U20 Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "5.46m",
+      "seasonBest": "5.46m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        4.5,
+        5.7
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight.benchmarks"
+      ],
+      "filled": [
+        "record_highlight.benchmarks"
+      ]
+    }
+  ]
+}

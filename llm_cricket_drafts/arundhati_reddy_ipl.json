@@ -1,0 +1,125 @@
+{
+  "athlete_id": "arundhati_reddy",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Arundhati Reddy",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1997-04-10",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/8/84/Arundhati_Reddy_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=_Z7g8Nd1piw",
+    "bio": "Arundhati Reddy is an Indian international cricketer who plays as a right-arm medium-fast bowler. She made her Women's Twenty20 International debut in 2018 and has represented various domestic teams including Delhi Capitals and Royal Challengers Bengaluru in the Women's Premier League. Reddy was part of the Indian team that won the 2025 Women's Cricket World Cup. She was also named ICC Player of the Month for February 2026 for her performance in a T20I series against Australia.",
+    "birthplace": "Hyderabad, Telangana, India",
+    "coachName": null,
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures in T20I",
+    "result": "4/22",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": "Sydney",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Arundhati Reddy's personal best bowling figures of 4 wickets for 22 runs came in a T20I match against Australia in February 2026. This performance was crucial in helping India win the T20I series against Australia and contributed to her being named ICC Player of the Month.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National IPL Record (Most Wickets)"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC Women's T20 World Cup Record (Most Wickets)"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "IPL World Record (Most Wickets)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9I7Ru4iMs6o8nEsZaIA9QVG615g5PEuFAF7W1MQQ6-nkBStQ2znksyzO9DGBJCGGwQ0_SyA0gTxAOO27zKyAObR1lCIPYeKKGMVL9E0qqcpdou5Y_S_Zi5XHDickVr6MW_ya2Yd3cEQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh0PMDNxpm3-XRcZEKwVp-Bl1eFzTsRkiUhqy1ROaLpZE_WVM9MbcW80lnT8tBePCM5Bft35yDuseQ2KSVyROGE6XvFxfLvcYAphwAA4OFLdTbjVGYWP126xljTt4Up1qJQLwXXkaTl_TpKXgw8vdIGWOc-YiEbto=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUFOS0ntWMehrjqacvLGMdjwTPSKJPFxFsb3bs2mMMHhdq5tlsZL9t2JD1NhAi25zpjg33GMAFG1fsWuDvEua_gMZex14aufZIYhp82s8hSm1mPzRY6AHPazu1Xmcc2Sfg8-8kOsNlMwhvyXFW66e7pCaGOXErnXEDl9VlSpeXyEQhVORugR3uFBlSJ4BRUxEtTk6z2-h-CdrK8GhqRes="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:49:51.338831+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Women's Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": null,
+      "ballsFaced": null,
+      "battingAverage": null,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "arundhati",
+    "arundhati reddy",
+    "cricket",
+    "india",
+    "reddy"
+  ]
+}

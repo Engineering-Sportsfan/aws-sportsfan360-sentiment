@@ -1,0 +1,306 @@
+{
+  "athlete_id": "srabani_nanda",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Srabani Nanda",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1991-05-07",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Srabani_Nanda_Bronze_Medalist_-_Indian_Team_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://youtu.be/M-JQJzmSoEQ?si=7H24UrkEK3PODlhJ",
+    "bio": "Srabani Nanda is an Indian sprint runner specializing in 100m, 200m, and 4x100m relay events. She represented India in the women's 200m event at the 2016 Rio Olympics. Nanda has won multiple international medals, including a bronze in the 4x100m relay at the 2010 Commonwealth Games and a silver in the 4x100m relay at the 2025 Asian Athletics Championships.",
+    "birthplace": "Phulbani, Odisha, India",
+    "coachName": "Nila Madhab Deo",
+    "yearsActiveSince": "2007"
+  },
+  "record_highlight": {
+    "event": "4x100m Relay",
+    "result": "43.42s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2016-07-04",
+    "city": "Almaty",
+    "prevRecord": "43.81s",
+    "prevRecordPlace": null,
+    "prevHolder": "India",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Srabani Nanda was part of the Indian 4x100m relay team that set a new National Record of 43.42 seconds in 2016. This achievement highlights her significant contribution to Indian athletics and the team's performance on the international stage.",
+    "progressData": [
+      {
+        "year": "2010",
+        "value": 45.25
+      },
+      {
+        "year": "2016",
+        "value": 43.42
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "43.42s",
+        "holder": "India",
+        "date": "2016-07-04",
+        "venue": "Almaty",
+        "tournament": "National Open"
+      },
+      {
+        "label": "Olympic",
+        "value": "40.82s",
+        "holder": "United States",
+        "date": "2012-08-10",
+        "venue": "London Olympic Stadium",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "40.82s",
+        "holder": "United States",
+        "date": "2012-08-10",
+        "venue": "London Olympic Stadium",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "43.42s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "4x100m Relay",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": "825",
+      "personalBest": "43.42s",
+      "bestYear": "2016",
+      "totalGold": 3,
+      "totalSilver": 3,
+      "totalBronze": 5,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2010",
+        "event": "4x100m Relay",
+        "value": 45.25,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2016",
+        "event": "4x100m Relay",
+        "value": 43.42,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2010",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 45.25,
+        "seasonAverage": 45.25,
+        "currentStreak": null
+      },
+      {
+        "year": "2016",
+        "events": 3,
+        "gold": 1,
+        "silver": 2,
+        "bronze": 0,
+        "seasonBest": 43.42,
+        "seasonAverage": 43.89,
+        "currentStreak": null
+      },
+      {
+        "year": "2017",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 80.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "43.4\u201343.9s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "43.9\u201344.4s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "44.4\u201344.9s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Srabani Nanda has shown consistent performance in relay events, contributing to national records and international medals.",
+    "peakZoneLabel": "43.4\u201343.9s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "40.82s",
+          "holder": "United States",
+          "date": "2012-08-10",
+          "venue": "London Olympic Stadium"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "40.82s",
+          "holder": "United States",
+          "date": "2012-08-10",
+          "venue": "London Olympic Stadium"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "43.42s",
+          "holder": "India",
+          "date": "2016-07-04",
+          "venue": "Almaty"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlWGijPNHwFr7f_b04vhMRlTCUxor-25YB-Vc9U_Nbb60E3lD7MGfXiFa7gNupXeRWzyZMIXS76rxBv1DYelDHYcZXyWNe2ADEh2PXiqMCIRJE8uCfIwogDSMB_8U2biJjm7KcsA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOKv9Qegqg5i-dhE0Icdx4r8M0mANdvOR6h9-MkZvtr8QxUAeoFgtqYACX5NgGEegSMqlzrXDRc4A5CGxdY3OL5QypOJIG5mKOy0RzxnTdTr5HH-uKCDXeWrnpl6hJTy-yxvq8g3KTPypSupKGZPfKViw0l1F-o3E2nDdpGIf57Q4dydY32mOatMn6KxCzD-MPjysEhWiUYwBFcYstdkkwbCN9lT_rtY4H3mk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwZa6xsWCu8hxATKZbvO1Y9FFpnLVobkSowxcWqpgLADstJFye0T_1XqiVnWq6dk-ApmBF6dXbrovXwLqffVNG_iESGwnoElj2x6gr8kko-l8DhFtyRKSXtD57-KogxFJg_qrfKQMXbobfX40fd8lrZrWs"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:08:14.498139+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x100m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x100m Relay",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "4x100m Relay",
+        "medal": "BRONZE",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "200m",
+        "medal": "GOLD",
+        "category": "South Asian Games"
+      },
+      {
+        "event": "100m",
+        "medal": "SILVER",
+        "category": "South Asian Games"
+      },
+      {
+        "event": "200m",
+        "medal": "BRONZE",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "4x100m Relay",
+        "medal": "BRONZE",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "4x100m Relay",
+        "medal": "GOLD",
+        "category": "Commonwealth Youth Games"
+      },
+      {
+        "event": "200m",
+        "medal": "BRONZE",
+        "category": "SAF Games"
+      }
+    ],
+    "stats": {
+      "personalBest": "43.42s",
+      "seasonBest": null
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        42.0,
+        46.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

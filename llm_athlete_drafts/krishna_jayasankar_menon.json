@@ -1,0 +1,237 @@
+{
+  "athlete_id": "krishna_jayasankar_menon",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Krishna Jayasankar Menon",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": null,
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/zk48002A75M?si=mHEh2vIDRVP6qvWe",
+    "bio": "Krishna Jayasankar Menon is an Indian shot putter who has rewritten the Indian indoor national record multiple times. She became the first Indian woman to breach the 17-meter mark indoors with a throw of 17.09m. Menon has also been the first Indian female thrower to receive an NCAA Division I athletic scholarship. She is considered a symbol of resilience and ambition in Indian sports.",
+    "birthplace": "Chennai, Tamil Nadu, India",
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Indoor Shot Put",
+    "result": "17.09m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-05-22",
+    "city": "Albuquerque",
+    "prevRecord": "16.83m",
+    "prevRecordPlace": null,
+    "prevHolder": "Krishna Jayasankar Menon",
+    "improvement": "0.26m",
+    "improvementDate": "2026-02-15",
+    "aiInsight": "Krishna Jayasankar Menon's throw of 17.09m is a significant milestone, making her the first Indian woman to surpass the 17-meter mark in indoor shot put. This achievement demonstrates her continuous improvement and dominance in the event, having broken her own national record multiple times within a few months. It highlights her potential to compete at higher international levels.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 16.03
+      },
+      {
+        "year": "2026",
+        "value": 17.09
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "18.41m",
+        "holder": "Abha Khatua",
+        "date": "2024",
+        "venue": "Bhubaneswar",
+        "tournament": "Inter-State Championships"
+      },
+      {
+        "label": "Olympic",
+        "value": "22.41m",
+        "holder": "Ilona Slupianek",
+        "date": "1980-07-24",
+        "venue": "Moscow",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "22.63m",
+        "holder": "Natalya Lisovskaya",
+        "date": "1987-06-07",
+        "venue": "Moscow",
+        "tournament": "USATF Los Angeles Grand Prix"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "17.09m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Shot Put",
+    "achievementLabel": "Indian Indoor National Record Holder",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "17.09m",
+      "bestYear": "2026",
+      "totalGold": null,
+      "totalSilver": null,
+      "totalBronze": null,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "Shot Put",
+        "value": 16.03,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Shot Put",
+        "value": 17.09,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 16.03,
+        "seasonAverage": 16.03,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 17.09,
+        "seasonAverage": 17.09,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "17.1\u201319.1m",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "19.1\u201321.1m",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "21.1\u201323.1m",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Krishna Jayasankar Menon has shown remarkable consistency in breaking her own national indoor shot put record multiple times in 2026.",
+    "peakZoneLabel": "17.1\u201319.1m \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "18.41m",
+          "holder": "Abha Khatua",
+          "date": "2024",
+          "venue": null,
+          "tournament/meet name": "Federation Cup"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCxWAnyykvFzzDaP3uEbxpipkiFnxMOJuMEGTOp8Jo3IPbrof4Tyvpi0zPXoY24C5Bu1pQHPD8fxxTa4jooa-XEYBWQmhvcgGwhNd8ebHE0Tq5H-ww6WuDwPAnnlffqm1HlfYmUM-NEWayGhYqE6nwweaaeV1hyaExs6TfjzIXpwUPQp9z7gSlpixivMq8DlS8ciO4HeLddGH4Wd3P9A6ocJfksoAQo1OUkX029Qq4HjU6LBfQOlDusPSjEB_sZtWhdaQkLABNzkl6Xx9s",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsQqQQPkLK43KTllH3syTvhPFCbdsGL2uJFv1Pl1Wn2E2l6-A9Bo-18oINjY0d5LNeYjEnEJJ6GF1E4vy07NBUbXmGbSCbhpLu4Yivym8DPSRVSyOuOMB5NU_h4zDpqo7ak3HXdR4ARHCvpeViP_L79-c0v0JCnVhbMLyo9W8kAKFI4qVT6cNrHQVDXhlRYyvmupbf-ydss-abzqDRGGcriq2-d6PeNv9H1B4qkqfsz320Jdw_Nm7YEiqN62ewmRnlmVoI0ISpnMfCPyFdlrZIe-xhAlM8",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_H2sDCvmW02-ISe_8CPRe8HhpRLkqm0LeGR38gH2q_9NX2xmQAWrw2qzcoVgUSfDzHfI2LzEEj6bn9t8Fnl5ng8D2g860bBz8aXVYF_I34D7ltwbtlxCxiq3jHiDuZSIJmuzas9a880XSnIsU1SLGcAhIsQyrhr9tQ-__fj_uDrxVz-Tv_fx94vReYkzhAEXG0ucX5A0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdDcMwrLjrLTrRjMIi0L3vhqBmWr2oiF0YZMn23Rw0wfkP21FPJWYgnQB0Vyla9s-IjG-lODzQaZPlMHR5b23nYawyYLoRbL7h3n9wAdN8eeq2nrsCUg0wc-Y4lZ5s1UoX5jC5d_Y70Ob9VYSCn3Y6EsJtH6sIZko7piC7utEdy91GWoSxEzUUjGk5ehop0r47A55JpjXR0bcAe8g="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:00:29.437887+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Shot Put",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "17.09m",
+      "seasonBest": "17.09m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        14.0,
+        18.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

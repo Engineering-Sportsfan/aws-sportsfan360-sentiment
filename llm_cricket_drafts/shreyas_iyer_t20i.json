@@ -1,0 +1,164 @@
+{
+  "athlete_id": "shreyas_iyer",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1994-12-06",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Shreyas_Iyer_snapped_at_the_airport_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=qNWbURNPRkE",
+    "bio": "Shreyas Iyer is an Indian international cricketer who captains India in T20Is and serves as the vice-captain in ODIs. A right-handed batsman, he primarily plays as a top-order or middle-order batter across formats. He holds the record for the highest individual run tally by an Indian batsman in a single T20I series hosted in England, scoring 190 runs in the 2026 series. He also broke Virat Kohli's record for most runs scored by an Indian batsman in a 3-match T20I bilateral series, with 204 runs against Sri Lanka in 2022.",
+    "birthplace": "Mumbai, Maharashtra, India",
+    "coachName": null,
+    "yearsActiveSince": "2017"
+  },
+  "record_highlight": {
+    "event": "Highest T20 score by an Indian batsman",
+    "result": "147 runs",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2019-02-21",
+    "city": "Indore",
+    "prevRecord": "128* runs",
+    "prevRecordPlace": null,
+    "prevHolder": "Rishabh Pant",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Shreyas Iyer's knock of 147 runs in the Syed Mushtaq Ali Trophy in 2019 stands as the highest T20 score by an Indian batsman. This performance showcased his explosive batting ability and set a new benchmark in Indian domestic T20 cricket. He surpassed Rishabh Pant's previous record, highlighting his potential as a formidable force in the shortest format of the game.",
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 128.0
+      },
+      {
+        "year": "2019",
+        "value": 147.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "147 runs",
+        "holder": "Shreyas Iyer",
+        "date": "2019-02-21",
+        "venue": "Indore",
+        "tournament": "Syed Mushtaq Ali Trophy"
+      },
+      {
+        "label": "Olympic",
+        "value": "317 runs (most in a single T20 World Cup)",
+        "holder": "Tillakaratne Dilshan",
+        "date": "2009",
+        "venue": "England",
+        "tournament": "ICC Men's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "175* runs",
+        "holder": "Chris Gayle",
+        "date": "2013-04-23",
+        "venue": "Bengaluru",
+        "tournament": "Indian Premier League"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2017",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2026"
+      ],
+      "runs": [
+        83,
+        143,
+        203,
+        151,
+        459,
+        61,
+        311
+      ],
+      "wickets": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        85,
+        30,
+        5
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Shreyas Iyer broke Virat Kohli's record for most runs in a 3-match T20I bilateral series, scoring 204 runs with three consecutive unbeaten half-centuries against Sri Lanka in 2022."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYEWo88c__E-lmrSNeg_3_o10kpRleVLY9dM3k0_eRDn6iFxAI2_K4M9bI9sSdm-qN3JNZGdwWRvJGaohzFX_F43Jxfu-WUFBhJTL0RZ7tQhiyEuaOQ0nPQ0ApUxEGXWZXJ2ovFGLmDqKii5qLsO4sJHJHV0iwWwqKYYfLrrigbUI0kkXIJwtNu9NssZ6XFl92lthhocFTzRAsTC-TNBzjznccfow6xzJ7v_O7Lmc3S0OFaBhHORnQlhwDpkLlBAvAxQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT17HXG3Ldhppdo4hnD7pHVCd9_Omskw2jhTI61Pf1uPKZ_RWGocjvo7isQdhgQEftuu5F8C3oZcb77yaRcTYVAjg9etuR0NyZsbEoWQzWGR4w7ulNC4-oiBaR0TH7kFL_GFhZ8w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu2wtwDn8ehEZ8os4Ifmh8nkInhHYR58_lKMTPP9E3NSv69bG8YU5D3Pbv3lkA32IUDe_a5Y05LCduLnGf2tX3K70tAc7fag8SJ2kyhWr-2o_n9VycJZOXNcA1RVNGeFLTYvui7-NXlfpyzvbT6iascbx4-JNjPl76E7O89nfDsVGz_GGmY8rUGW1KPJ2cM3hSqA4tRn24B6x3Y30pMiulge5jroZGQoU83WQ5Ajs7oRyySZRHdfDavFMHA6WBBxWmhg2Eso2jzA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:42:55.214852+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1415,
+      "ballsFaced": 1025,
+      "battingAverage": 32.0,
+      "strikeRate": 138.0,
+      "fours": 119,
+      "sixes": 51,
+      "dismissals": 44
+    },
+    "bowlingStats": {
+      "oversBowled": 0.2,
+      "ballsBowled": null,
+      "runsConceded": 2,
+      "wickets": 0,
+      "economy": 6.0,
+      "bowlingAverage": 0.0
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "iyer",
+    "shreyas",
+    "shreyas iyer"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "athlete_id": "richa_ghosh",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Richa Ghosh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2003-09-28",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Richa_Ghosh_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=j8R2cl8xA70",
+    "bio": "Richa Ghosh is an Indian international cricketer known for her fearless batting and dynamic wicket-keeping. She was part of the Indian team that won the 2025 Women's Cricket World Cup and the 2022 Women's Asia Cup. Ghosh holds the record for the joint fastest fifty in women's T20Is. She also holds the record for the highest score by a number 8 batter or below in a Women's ODI World Cup match.",
+    "birthplace": "Siliguri, West Bengal, India",
+    "coachName": null,
+    "yearsActiveSince": "2020"
+  },
+  "record_highlight": {
+    "event": "Highest score by a number 8 batter or below in a Women's ODI World Cup match",
+    "result": "94 runs",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2025-10-09",
+    "city": "Visakhapatnam",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": "Chloe Tryon",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Richa Ghosh's innings of 94 runs against South Africa in the 2025 Women's ODI World Cup was a historic achievement, setting a new world record for the highest score by a batter at number 8 or below. This performance showcased her ability to perform under pressure and rescue her team from a difficult situation, highlighting her potential as a match-winner.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National IPL Record"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC Tournament Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "IPL World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        138,
+        257,
+        230,
+        189
+      ],
+      "wickets": []
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        85,
+        20,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Richa Ghosh has consistently performed in the WPL, scoring 138 runs in 2023, 257 runs in 2024, 230 runs in 2025, and 189 runs in 2026."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_9lZWswjREyG3t_ZvYzsrpjTEAlIp444-2VqgIBVKNzmUQwu9ncByolJJQmVaB5_FB4uh6txq4C05c0-ks4P7e9A4q0PqLIHQoQGztw493YqiKXd-Hl_1ZeOTkwWFfUUF7cDY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyBatJSHxG2StGFcwq6ZHI-XGgsD7xUVqNxTGvVo_UFeAT9iEPhO6br2eiK36JskYg_DN2mYWgazB52k-NWYg-lKsPNWCoVuO6CNN5kBLjsvJmqQP0m2TJ8WEhvofetHTxzsTNuvA0Ll0lTrQiOtSfOWUgfcj3U2_PcMtXqzqMKl0AuKWmPU0D3s3Ox4qf3ZYRgExlPPvWjDEQBrT9qMQfTI3p_MWweOag-hQENxk1phzrhjD8eBZ26Z79PqUNEUBLvJpjLKLjOGBDnHVSDMlqMamAmqPXruip5ih4OXsKv-uCX3f_21Qpx4ulEETS0wrQR4N7POjMWK5XcxLZZgw3CzOA23wj2GgWghUQWKR8vAeqRWdWuVjHBEN4k3A1",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOhTgtwgBtc0YMWuNxK8mlLxCO4wkQ5SHDspzXfU3sgEiDH1jpt7--wQvSNUs50SVYPwuf3H3-M6WtFdT2636GFCCkYmywrZDqzgliMYZITAL8nH1mFQgxS-Bpfh_RAqzM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMVstsQJJSJukuDpcPcnzGWeTQw1aV8s2-fGOtBG_zU1IOD1uaY3YQtGXkkEke6t26nR2aOi2fFVz0aybMukKowU32QE556wuXYnBslSzA1gBm2y_tmOLQPeoomcX61MErp3cqTB2g2dVgMAFbyX_tnUmzmZjWfxQO8nmlLe1N8PHS9jsCuMWukuRvsCnfX_TvG0dxmcikstlXNkX6MXiiykMbtQLVRtLfyIGm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_XmBdPaXwIEgtzihYTNLKqhc-vD7flai0VlGHC5Ge63aMI3KdV_LW9IbnXe1N6qfWNvmKDAfNkTarQRv-WkhFrmNIz_M_TybLHrMioyNXUY2XvatPLlvtmw9kheu5gdZ9fXxIKIcP9E9NaPCz5jZXPt661NNHpl3t0T0hmzQDrK8QsZr2cucf8D9II62_BjrDsuozmJOp3Pu6uKEwmoPhw-IyZRk4VYNyMlMPwRZC4DGI-NnT4TQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFebxKjMyEm9irvHTHXNVNa-ql-jMS8Ih6JeTAwht8cPypqO8VfkyJtkpkumHAJIf6hU7zBR_V5vctuFloxisBDDnJHPbESbPQfGsEdLB2670iYv7g60PTe8cfsWy3V0BrJuFIorec=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwaCiMFMTj3YSGIqjiMCnHlCbkesAHaXyoxX3Qd4AuH4wOsqow9UGhUerLd-PMNSryIujhnNAFrvRB0U7x3FvriFtjUNOn-vbacFsbmIKmr0Cy27jLBCZeXiQ2APimJuFU6NYJ1EerrRr43nTihyJkLK9lL34BvT194QS00vnpkMKck3-SVHLlG3vPgdWWetAaiQzvmmRBMmY9dM3IzuOIWuaaTj5yVvPlgZpLCDM_ALPJ0e4UuEqiS7gUmWsFvOLRSnRmR5HlLOrkVg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbu3Ozy1LQZeUe2x4Uoe-ahY-kHWXE2nAxetVMVQpwjdOZjv-yx2gR2Tnwe3Vth-kbRBzPe_adoYknrikMt3wdQpP-pMyyZThqCkq8QYvQp2MYWNGewAVx4ij0d_tqfVpw_zsn2dK_u4DQhXjF7oUtRn8b1IqBeIBzDEh827PXucO0_OZpxiCjmaMhKwbmnAk="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:52:29.325772+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Women's Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 814,
+      "ballsFaced": 539,
+      "battingAverage": 33.92,
+      "strikeRate": 151.02,
+      "fours": 88,
+      "sixes": 41,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "ghosh",
+    "india",
+    "richa",
+    "richa ghosh"
+  ]
+}

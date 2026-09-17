@@ -1,0 +1,439 @@
+{
+  "team_id": "sri_lanka_test",
+  "sportId": "cricket",
+  "format": "Test",
+  "coreInfo": {
+    "teamName": "Sri Lanka",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "shortName": "SL",
+    "captain": "Dhananjaya de Silva",
+    "viceCaptain": "Kamindu Mendis",
+    "headCoach": "Gary Kirsten",
+    "homeGround": "Sinhalese Sports Club Ground, Colombo",
+    "founded": "1981",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sri_Lanka_Legends.jpg/500px-Sri_Lanka_Legends.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "teamPhotoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bangladesh_vs_Sri_lanka_2nd_test_match_2nd_day_01.jpg/500px-Bangladesh_vs_Sri_lanka_2nd_test_match_2nd_day_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "bio": "Sri Lanka was granted Test status in 1981, becoming the eighth Test-playing nation. They played their first Test match in February 1982 against England. The team is administered by Sri Lanka Cricket, which was founded in July 1922 as the Ceylon Cricket Association. Sri Lanka achieved significant international success in the 1990s, including winning the 1996 Cricket World Cup."
+  },
+  "record_highlight": {
+    "category": "Highest Team Total",
+    "result": "952/6 declared",
+    "type": "WR",
+    "typeFull": "World Record",
+    "opponent": "India",
+    "venue": "R. Premadasa Stadium, Colombo",
+    "date": "August 2-6, 1997",
+    "prevRecord": "903/7 declared",
+    "prevRecordDate": "August 20-24, 1938",
+    "improvement": "Surpassed previous record by 49 runs.",
+    "aiInsight": "This monumental score, achieved against a strong Indian side, stands as a testament to Sri Lanka's batting prowess and remains an unbroken world record in Test cricket for over two decades.",
+    "progressData": [
+      {
+        "year": "2020",
+        "value": 88.0
+      },
+      {
+        "year": "2021",
+        "value": 88.0
+      },
+      {
+        "year": "2022",
+        "value": 88.0
+      },
+      {
+        "year": "2023",
+        "value": 88.0
+      },
+      {
+        "year": "2024",
+        "value": 88.0
+      },
+      {
+        "year": "2025",
+        "value": 88.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Team",
+        "value": "952/6d",
+        "holder": "Sri Lanka",
+        "date": "August 2-6, 1997",
+        "venue": "R. Premadasa Stadium, Colombo"
+      },
+      {
+        "label": "Regional",
+        "value": "952/6d",
+        "holder": "Sri Lanka (Asia)",
+        "date": "August 2-6, 1997",
+        "venue": "R. Premadasa Stadium, Colombo"
+      },
+      {
+        "label": "World",
+        "value": "952/6d",
+        "holder": "Sri Lanka",
+        "date": "August 2-6, 1997",
+        "venue": "R. Premadasa Stadium, Colombo"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "ICC Test Ranking",
+    "heroStat": "88",
+    "metricLabel": "Rating",
+    "achievementLabel": "2001-02 Asian Test Champions",
+    "stats": {
+      "worldRank": "6",
+      "rating": "88",
+      "totalMatches": 329,
+      "wins": 107,
+      "losses": 128,
+      "draws": 94,
+      "winPercentage": 32.52,
+      "worldTestChampionships": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "matches": 2,
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "rating": 88,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "matches": 4,
+        "wins": 1,
+        "losses": 3,
+        "draws": 0,
+        "rating": 88,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "matches": 4,
+        "wins": 2,
+        "losses": 2,
+        "draws": 0,
+        "rating": 88,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "matches": 3,
+        "wins": 1,
+        "losses": 1,
+        "draws": 1,
+        "rating": 88,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "matches": 2,
+        "wins": 1,
+        "losses": 0,
+        "draws": 1,
+        "rating": 88,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2026",
+        "matches": 2,
+        "wins": 0,
+        "losses": 1,
+        "draws": 1,
+        "rating": 88,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "seriesData": [
+      {
+        "year": "2021",
+        "seriesPlayed": 1,
+        "seriesWon": 0,
+        "seriesLost": 1,
+        "seriesDrawn": 0,
+        "notableOpponent": "England",
+        "result": "Lost 0-2"
+      },
+      {
+        "year": "2022",
+        "seriesPlayed": 2,
+        "seriesWon": 1,
+        "seriesLost": 1,
+        "seriesDrawn": 0,
+        "notableOpponent": "Australia, India",
+        "result": "Drawn 1-1 vs Australia, Lost 0-2 vs India"
+      },
+      {
+        "year": "2023",
+        "seriesPlayed": 2,
+        "seriesWon": 1,
+        "seriesLost": 1,
+        "seriesDrawn": 0,
+        "notableOpponent": "Ireland, Pakistan",
+        "result": "Won 2-0 vs Ireland, Lost 0-2 vs Pakistan"
+      },
+      {
+        "year": "2024",
+        "seriesPlayed": 1,
+        "seriesWon": 1,
+        "seriesLost": 1,
+        "seriesDrawn": 0,
+        "notableOpponent": "England",
+        "result": "Drawn 1-1"
+      },
+      {
+        "year": "2025",
+        "seriesPlayed": 1,
+        "seriesWon": 0,
+        "seriesLost": 1,
+        "seriesDrawn": 0,
+        "notableOpponent": "Bangladesh",
+        "result": "Lost 0-1"
+      },
+      {
+        "year": "2026",
+        "seriesPlayed": 1,
+        "seriesWon": 0,
+        "seriesLost": 0,
+        "seriesDrawn": 1,
+        "notableOpponent": "West Indies",
+        "result": "Drawn 0-0"
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Batting",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Bowling",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Fielding",
+        "value": 60.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Away Form",
+        "value": 50.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Squad Depth",
+        "value": 65.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "matches",
+    "consistencyData": [],
+    "consistencyNote": null,
+    "headToHeadData": [
+      {
+        "opponent": "India",
+        "played": 46,
+        "won": 7,
+        "lost": 22,
+        "drawn": 17,
+        "lastResult": "Lost by an innings and 222 runs",
+        "lastMet": "March 4, 2022"
+      },
+      {
+        "opponent": "Pakistan",
+        "played": 59,
+        "won": 17,
+        "lost": 23,
+        "drawn": 19,
+        "lastResult": "Lost by 4 wickets",
+        "lastMet": "July 16-20, 2023"
+      },
+      {
+        "opponent": "England",
+        "played": 39,
+        "won": 9,
+        "lost": 19,
+        "drawn": 11,
+        "lastResult": "Won by 8 wickets",
+        "lastMet": "September 6, 2024"
+      }
+    ],
+    "coachImpactData": []
+  },
+  "squad": [
+    {
+      "playerId": "dhananjaya-de-silva",
+      "name": "Dhananjaya de Silva",
+      "role": "All-rounder",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm off break",
+      "testCaps": 67,
+      "isCaptain": true
+    },
+    {
+      "playerId": "lahiru-udara",
+      "name": "Lahiru Udara",
+      "role": "Batter",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": null,
+      "testCaps": 3,
+      "isCaptain": false
+    },
+    {
+      "playerId": "nishan-madushka",
+      "name": "Nishan Madushka",
+      "role": "Wicketkeeper-Batter",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": null,
+      "testCaps": 12,
+      "isCaptain": false
+    },
+    {
+      "playerId": "kamindu-mendis",
+      "name": "Kamindu Mendis",
+      "role": "All-rounder",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Slow left-arm orthodox, Right-arm off break",
+      "testCaps": 14,
+      "isCaptain": false
+    },
+    {
+      "playerId": "dinesh-chandimal",
+      "name": "Dinesh Chandimal",
+      "role": "Wicketkeeper-Batter",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm off break",
+      "testCaps": 92,
+      "isCaptain": false
+    },
+    {
+      "playerId": "pasindu-sooriyabandara",
+      "name": "Pasindu Sooriyabandara",
+      "role": "Batter",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm off break",
+      "testCaps": 1,
+      "isCaptain": false
+    },
+    {
+      "playerId": "sonal-dinusha",
+      "name": "Sonal Dinusha",
+      "role": "All-rounder",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Slow left-arm orthodox",
+      "testCaps": 3,
+      "isCaptain": false
+    },
+    {
+      "playerId": "niroshan-dickwella",
+      "name": "Niroshan Dickwella",
+      "role": "Wicketkeeper",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": null,
+      "testCaps": 54,
+      "isCaptain": false
+    },
+    {
+      "playerId": "ramesh-mendis",
+      "name": "Ramesh Mendis",
+      "role": "All-rounder",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm off break",
+      "testCaps": 16,
+      "isCaptain": false
+    },
+    {
+      "playerId": "prabath-jayasuriya",
+      "name": "Prabath Jayasuriya",
+      "role": "Bowler",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Slow left-arm orthodox",
+      "testCaps": 22,
+      "isCaptain": false
+    },
+    {
+      "playerId": "keshara-nuwantha",
+      "name": "Keshara Nuwantha",
+      "role": "All-rounder",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm off break",
+      "testCaps": 0,
+      "isCaptain": false
+    },
+    {
+      "playerId": "milan-rathnayake",
+      "name": "Milan Rathnayake",
+      "role": "Bowler",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Right-arm fast-medium",
+      "testCaps": 7,
+      "isCaptain": false
+    },
+    {
+      "playerId": "asitha-fernando",
+      "name": "Asitha Fernando",
+      "role": "Bowler",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Right-arm fast-medium",
+      "testCaps": 25,
+      "isCaptain": false
+    },
+    {
+      "playerId": "lahiru-kumara",
+      "name": "Lahiru Kumara",
+      "role": "Bowler",
+      "battingStyle": "Left-handed",
+      "bowlingStyle": "Right-arm fast",
+      "testCaps": 34,
+      "isCaptain": false
+    },
+    {
+      "playerId": "vishwa-fernando",
+      "name": "Vishwa Fernando",
+      "role": "Bowler",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Left-arm medium-fast",
+      "testCaps": 27,
+      "isCaptain": false
+    },
+    {
+      "playerId": "dilshan-madushanka",
+      "name": "Dilshan Madushanka",
+      "role": "Bowler",
+      "battingStyle": "Right-handed",
+      "bowlingStyle": "Left-arm fast-medium",
+      "testCaps": 1,
+      "isCaptain": false
+    }
+  ],
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBsaPequFVO73_dZiMeIOAB5WIby2xqZvq_bxrBEQ7a3M1ZGKGb7xtTYnv07rgHEIK1HThB1ghzcYWge0F0qAS489s9Y5rYtItTWerFQxCC2-fqDVF8TTOPnsiMEkgAv1URsY3b1eE5DY_m2PmhFmdqX-RaEwvvGxmr1ZJ2wyiZJN0aTbfw-E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1d4-4WtZDfH1OXkMVlJcGJjIFCrGlaV9JgNtxA9B0x6nWvC1duTY9duE_XhzuiwaMJ4ZTL2grU_hvVhG2IvEyLi3QQ5-VCDN9pqp9MCJGi5IGSizbjuwDKL27Q3UeAHk5KLjQnNBsxBP461QZWpsGTf7a4G7YTyA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdn1INv1uc0kUDtEbTJGVpcjsHvysEsHjAn25CUnECLififyw5JiDjahekgQDyshruOsfmyjzQe0WSjVYuuVqyXnKzfL_4iP5JPLo-6UiGGgvJapxTwHwoTDowjvEDmwoFPCO7GbR2a8bp",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3aiWpT4RLD1ac_49paZKjJu3a_s9JDWHXkwEC0w2QPAMq1mblJRda7PILdnH19YfifBMSsEkoZoo_3mJUM0k7iCKJwvWZ97rVR3VCatEgm1whFolonZuCjn79igcTMU75n1iwm7b5lrMmjqxeHLgUmjUPhDFKMjYl9QpXurlVtH0Xb6Wc2-jEnNUjxXJXGm72IvL5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGss0V27Ua0mNhRBunsDPPGl2yxS9xF-1UNbjanfy2LSaYAKHsGeHNE93XU7iTTnJYeBrvnxl4tmjSLp_2P1td2Yhqt2vzFoQtj19_CAjHFi0B5WS-Tqg4azbFDkUjNhKbHo7aK-bn2elowWB6vpXo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOKDk1nG5C5F0_ZXfYbjea_mvQHk2ord2feID_dVwMvtePP_jZodPH19Bxh87koK4MstlhYZkT-90Y70omwVgu6OYB9dVAhgJmGRlFerR_uJzKPGg0kx6hBixCmorCN0YITlmwfkbmDsWz63zxpL-HM12dbFJrGeE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnLUIUx0mbV0huCzrEweOfEjMgaQIeQvBJxMK9yYm2hd3neFY-dNoYWK90y84GehMf5wkYD0EK2Cy0yeaMMEKecZT5QXOoQp9uxIxrhpNBBHpmzXp18tPoWlsPlEdk1ds=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjo9SSeWgNW1Xnii8zW9RSkxq1X2bAhT97teRPPyINuMbrGTJBgCfdPqlD-EGESP-yA43PGRCKmhw5E-9UKJ3o0Cq_b8mMGgUpZ4tQ0j-Ybfcz_rS0CvVJunRxQarWxqSDiGMNq3Y0oYD9Aqze-p4pvcd3iEpseiixbEU4_nUjksKiAE0t",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjhF9ms7Z4Mtj56PGudglQ1ykDpyFx3tvhDJbPVW9NWSTqIfA1N-ncZbit00NnooM62r_tO38OmgpUH6AFxQRMVcOA6sonERTYLYXzHW9okAR8qsk8WXWbKC0-a43zl17RhshchkbtuJ2KXV9Na-8rejBfDs5KGys=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJPEkusnI1y9CPraFjBLKtxjByUYUAbVwUsrbvtjWRUx2UiERKM1vCYjns0sJ6h0OyZpn_ULljDDxIZFRtwgWzAR0xXP0yBvqUxCK-UlnvNcev1TZgl2jgDe_C6nsjUeu7XJPY6n1EPFqcBcxe3QUorK_2US_dkr6bKU52JuuYAgx4sj8="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T08:51:24.382929+00:00"
+  },
+  "_retry_log": []
+}

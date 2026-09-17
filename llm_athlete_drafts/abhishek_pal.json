@@ -1,0 +1,219 @@
+{
+  "athlete_id": "abhishek_pal",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Abhishek Pal",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1997-07-15",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/bwHY1Muwfts?si=oWjR0nyQKg-9OSCF",
+    "bio": "Abhishek Pal is an Indian long-distance runner who has achieved international recognition. He secured a bronze medal in the men's 10,000m race at the Asian Athletics Championships 2023, marking his first international medal at a major competition. He also holds a personal best of 28:54.98 in the 10,000m.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "10,000m",
+    "result": "28:54.98",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2022-01-01",
+    "city": "Gujarat",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Abhishek Pal's personal best of 28:54.98 in the 10,000m demonstrates his capability as a long-distance runner. This performance was achieved in Gujarat and highlights his potential in the event.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 28.916
+      },
+      {
+        "year": "2023",
+        "value": 29.555
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "28:02.89",
+        "holder": "Surendra Singh",
+        "date": "2008-01-01",
+        "venue": "Beijing",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "26:46.31",
+        "holder": "Joshua Cheptegei",
+        "date": "2020-08-07",
+        "venue": "Tokyo",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "26:11.00",
+        "holder": "Joshua Cheptegei",
+        "date": "2020-10-07",
+        "venue": "Valencia",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "28:54.98s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "10,000m",
+    "achievementLabel": "Asian Championships Bronze Medalist",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "28:54.98s",
+      "bestYear": "2022",
+      "totalGold": 0,
+      "totalSilver": 0,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "10,000m",
+        "value": 28.916,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2023",
+        "event": "10,000m",
+        "value": 29.555,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 29.555,
+        "seasonAverage": 29.555,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Endurance",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Pace Judgment",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Race Tactics",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "28:50-29:00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "29:30-29:40s",
+        "count": 1,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Abhishek Pal has shown consistency in his 10,000m performances, with his personal best and a recent bronze medal performance falling within a close range.",
+    "peakZoneLabel": "28:50-29:00s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEByOa8b2Pk2uKR4Ee5Jw9RZm3aUfyuc7oTZeEH97IVZK_OVvYMw7TEFb6qoorJLwgxxklvUsMS-AHY--DlcjQnWorFwcUtoNQ8e_GmOdae5dbWiEet3TiP0WSx23teEiLXCYqfFk5pP1dmb4qfTEJeW1jtfRxVOqOrGYxwEqRLACzg1918FpWR-Ng9k8Zvk1_sdAZJNbzxl-S_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK09C2tk0rd-_LrZf6EXIQDuY4WfD7u08-TALmtD1c0qLjXlliK0kzVqEgv_d4jSizC8ADo8Egzjrune3k-LqXVa5yAARk-r4uaTpVyQDWSu3ZvEldow2cbopAtAHE4FMVIK39QUqgXfKwMugO0WYd6wmt5t1H6pL0ZIfgnrBIqR0RmgSWl9l2OkFmCbk9om6Y7B_BHFdwFXHqWZVI_8PbcjoMPWHbPDzH4JezwNcaRw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEapj2BSY2mAVwZSU_KSh9QLlGs8FIDtevJIu2PR537vEkSuszPO7ceJpAvY8EQm4bFzXZ9BGrmAEhpqJcyqBLdOV9j2-OTQnflU-CxIMP9h8CQ8rHV8aN3MWL88H7mwygYuEjhcW1-JZgLny_k9i1tUaWu6Q2nulpYkg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:58:59.073890+00:00"
+  },
+  "performance": {
+    "primaryEvent": "10,000m",
+    "category": "Long Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "10,000m",
+        "medal": "BRONZE",
+        "category": "Asian Athletics Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "28:54.98",
+      "seasonBest": null
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        28.0,
+        30.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

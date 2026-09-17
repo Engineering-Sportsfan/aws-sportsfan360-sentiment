@@ -1,0 +1,97 @@
+{
+  "playerId": "harmanpreet_kaur",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "harmanpreet_kaur",
+    "name": "Harmanpreet Kaur",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "dateOfBirth": "1989-03-08",
+    "birthPlace": "Moga, Punjab, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2009-06-11",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/38/Harmanpreet_Kaur_with_2025_Women%27s_Cricket_World_Cup_trophy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Harmanpreet Kaur is an Indian cricketer who captains the national team and is known for her aggressive right-handed batting and right-arm off-break bowling. She made her T20I debut in 2009 and has since become a prominent all-rounder. Kaur is the first Indian woman to score a century in T20Is and holds the record for being the first cricketer, male or female, to play 200 T20I matches. She has led India to significant victories, including the 2025 Women's Cricket World Cup and multiple Women's Asia Cup titles.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "103 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "New Zealand Women",
+    "venue": "Providence Stadium, Guyana",
+    "date": "2018-11-09",
+    "aiInsight": "This historic innings saw Harmanpreet Kaur become the first Indian woman to score a century in T20Is, achieved off just 49 balls. Her performance was crucial in India's victory in the opening match of the 2018 ICC Women's World T20.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 203,
+      "innings": 182,
+      "runs": 4221,
+      "average": 30.15,
+      "strikeRate": null,
+      "hundreds": 1,
+      "fifties": 15,
+      "highScore": "103",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 203,
+      "innings": null,
+      "wickets": 32,
+      "average": 24.84,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": "4/23",
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrJm-oVXkKA-SqmP3BFMoYzU3SPyzfLxIaC9BfOQmLeH3f9T6ZUVoHwLK-XTYZvhSY-Ue6QspOxCD0VWQ9VJC_Mezuqgw_T6iUSoGdEh39lHpN15CjrmkuHlO_x0PM1yXl48Ow5MwyaQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxTkwWDAxe7e6mHuqULGEMCHpmlNc9lix-I9biV12oKHa4geySYADA7rfML8biP2AyqouJrZEg5hLbDoSNM26E_zWGB7ZNvaUQdSTrzchriMhWoc9h13Q-uN9KML4mpfsIltfWavA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDsRW0TGgCh3T8wRHMb1zj2Sv8NeOKsMz-nBCtKYNN6YQAcqTGUsSGJPvxO0HVTu2UE0Te4BCOyyCzDa_KsTEo3T2UDST0p_ztlRNlCnXYkCTVouliOmxd2c2x862OEV4L2v3zcZpCIDT6x7gshmKDnf9tfYHnBTA1fVhfCMU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGYtCGrhREUuC1UWBy-DmePWPfkfdqyormaYK9CfglDB6bE24nWxNWjv1_Hg8InwHrSMmC9whF_3WFIFGJ8nu6JchTGymuRnxOXDCPAtPGrHK9BhLQiDYrJmuyQfGVYglm1O1pPwljE7pBvz8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXsL83QsIM4uf85Aw1KMcgxU2rd81lJvLzOv0mYrTjfz8oS0I3Bv1Pv7FPiIqc4PD-WGgB-ZAacNf4Z_cnLWlgX2wWrx8tqtdGDaI7Y0mJX6s5T2uBln28vAdPt0IjYi-pT65Dzc5r-suI9zB8xPnJB78TTzU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXdCjtqWkBgqcAX4liT-0V0di_2UFZC7Gz1MxDO0FEW0ya3N4hBu2R8YGO0PNRQ3tn0mtSnhHayojwFRZMhUBSWwSPL4Tv3nzUaG03F4sZejdp1aJJNRMlvQ5g3ZNJfesAM9dsuyhz_wRYeg5_n-kwtPJjqN9cyOIdL2Vixw3zpoWUHF5IcppK2bDQUulu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVhR0TrO9wlc_6fgIXSU5tH0sJ7NnrIRWdbcc6h6oc0MbdXyrHzPLnxqIR4NObfDdKjk5eHhCZpgmDz_pdvdfhhmbSxcsvlD-BFluoYwuWwilOpn-PaWKx6-ocG6vOejmKBclmYjNazrZUWUMqGLHvqeNYm4hrvAcHULHNi8hBgoFL3dxt_WfsVr229Ly2IiYaaBbi-HZeeJbc1pKTDZWwwwiXWsnSCIiW972ueH8qqHsp6CeqGsA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE388IkVl4x54lZueOXRSitgOKNXpXRrLkGVIM8pY-WIgeswUWvXL_X0BSuS0FGXT9uxFxL9x0_iFZ0xlD0sOwNDS6rw__89gWRN0U8aaa951Eh0t375nUVYAu0tJpFXngIigShUQZH-bCw76BnmvbuJRPvrMiKGCA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGznE6V9GIYUqEf0XC-dF4TIHyfKdjb-dud4vqBFK8WyZLtqf3OlK6UvmaDrGJFvYmcDCTsDZs-DWECuwjGSSI-9AiIBA4u4Dm3r_Zp2t9fqStv4e46eEz-fO5q5u8yizO2-HtRxlooHBFJ9agiKRgEZAI_oZpWdXX5YzIbWQZx5FKZiFMmQAzthh7nyi-8CiUj9g2D6i9nKYXxghpZ720yVA2RojVIMj_Vzbe0GGIXwuuDTD2ADZNeyVuv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLfrem1aWqKk0ZoNrXCXX5s2OpCZ3fRYK4FbVk8AFsgJo5qcfkcSGL5meMEGJg2xkgfCpxm3-hk4u6rOAnXgmgqIXQwJ09RlNNTjHvr4VHZ8DgQfogl9mS37jH8srAdVuMjXMuqqfX_7flWzLWzazoS9YmFd1MrhZLr1r3Z29T-F_kHS1yZmkLNCqTlat0gBmC08w2n5w8JvmmW24DTEmWpfKtClLymim6dhq_syGUx_gSE1_RxR1ii0Ctxgs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_tXH4XjPvDrH8UYBLEHdYDkfq6HI_aaojLeJdCb3Ivf6e26d4Fi2AusCKRs6YlMpINcCq20b60T34CvzHFZTRCQmrTAkk2zrKSvEZrX2Y6nOi-2hkApPY7LYPgWV1QJfe3eT8zfcIlO1_vqsp2qnCkSHZQCfOePioeOuznd1Gswss1bZq193n0OQh7gMS3GIfnouDiwlKmS1DiIugDXQD25IcK4LjnBJv4_M1sESFB4aod_rYqQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:33:02.965773+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "harmanpreet_kaur",
+    "harmanpreet",
+    "kaur",
+    "harmanpreet kaur",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}
