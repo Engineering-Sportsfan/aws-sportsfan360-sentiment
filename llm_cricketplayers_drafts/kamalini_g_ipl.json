@@ -1,0 +1,134 @@
+{
+  "playerId": "kamalini_g",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "Mumbai Indians",
+  "coreInfo": {
+    "playerId": "kamalini_g",
+    "name": "Kamalini G",
+    "country": "India",
+    "flag": "IN",
+    "role": "Wicketkeeper-Batter",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Leg-break",
+    "dateOfBirth": "2008-07-20",
+    "birthPlace": "Madurai, Tamil Nadu, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2025-02-01",
+    "profileImage": null,
+    "bio": "Kamalini G is an emerging Indian cricketer known for her versatility as a left-handed batter, wicketkeeper, and leg-spin bowler. She gained prominence in the 2023 Under-19 Twenty20 National Championship, where she scored 311 runs. Kamalini made her international debut for the India Under-19 team in December 2024 and was subsequently signed by the Mumbai Indians in the Women's Premier League (WPL) 2025 auction for INR 1.6 crore. She holds the record as the youngest player to debut in WPL history.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Youngest Player to Debut",
+    "result": "16 years, 213 days",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Gujarat Giants",
+    "venue": null,
+    "date": "2025-02-19",
+    "aiInsight": "Kamalini G's debut at such a young age highlights her exceptional talent and the high expectations placed upon her in the Women's Premier League. This record underscores her rapid rise through the ranks of Indian women's cricket and her potential to be a future star.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "16 years, 213 days",
+        "holder": "Kamalini G",
+        "date": "2025-02-19",
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 14,
+      "innings": 14,
+      "runs": 107,
+      "average": 15.29,
+      "strikeRate": 104.9,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "32",
+      "ballsFaced": 102,
+      "fours": 13,
+      "sixes": 2,
+      "dismissals": 7,
+      "ducks": 0
+    },
+    "bowlingStats": {
+      "matches": 14,
+      "innings": null,
+      "wickets": 0,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "matches": 9,
+        "runs": 32,
+        "wickets": null,
+        "average": 10.67
+      },
+      {
+        "year": "2026",
+        "matches": 5,
+        "runs": 75,
+        "wickets": null,
+        "average": 18.75
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8nsnvc0mtRHTqdhTrVELNtiG4sRWAFEl4r52CiaGdrzOxFAsNWRE6Bo7Q4mP8B_KqoscWOo7bJdvatgAT0t4OZJSKPRtawsOg6Rr1457u8mP2xjq7jAzHGvbn4DDUstKzWZzGDYKDW06eSdkuwYrwyA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9ALYJPHAx4jgg4ZNWwi3dynUzXdm_e2zZwdCZZwJXS7Fer7yt_XU14u1BqAoYG2qoQWgDm7zQYrsMEI2hdRFWJYWhRAOPDONVkuSngvZoLSuM_w9okP0zMtnLdd_S1Sy1VrsULOl-iTd8Cw4JrDDR91lucjxOoKPS-g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYhV4alvdVSO9eu2hv-Cd8SiTig51sOtY4Sjc267fpD_n7MNTF6ZkM-0xp1fy6uGxHjcLvYvXvItRKEwJlDa_ImgxYZO76umIazGxP054CvEZyNdQl9NYVrKKixPC7mZhQUbHTZLug",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfl1Kpc4g_iBXahVUaZEF5RJYBDi6m216BesMw8uF1TyLKQ3AyyC8cnOofKTUlmWpSsOOJmActZYhIysXsTrhWAW6_aQlxU6D4mZi_WKlvlk29E6EVIyAT73VYvkU07vIWhd1OKT8uoeww8RnYx6htqwG0XzH18l_a9jw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt3rmMq8IhMJsCeeumgWNidphYYDlfCRrmKIoEgU8fuj_Covo_jIawOqahkytxjkMR-oNFLX30CtZFmPkd0A1gFTt_cELPtzTCX66ZaM-jD7l7drFgO2ILB0bZKZvKGV9x0yLzey_lqBVizClF4KsetMhQ8WexlN679Y2bhvNNcklmNkU5Q3MiTmcXSIp-6JEpSLV20MWgITkESCKEMTzZ7T-OvDCEBLkngUJR442DMR44z53aXW9lL11odJwVGbcyosDvMquc8lmDIsrPmSjLa-rdChDIOJmB",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZXgvRMTzku5xdTbR7pOuG6CRPB5-YSfiItS0UZbF5vZxArNmlmMcmhPJAPdl4Iochq_V8x1cWrAkW9kjDSkw80uE-JJrGExMaFzXnd1-XcWYfXwNnAkq2j4Rt_zXn10Imjggjby0s9a35UNG8P_RAznc8LSl8QP3DxvacIZNtYa6ddmv6XxOY4IShz5oUKqWBjX6OTA9blFFEE00urObzmo6KudjMLhjJET4rrZw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXWhGvvYyWckXOdcAtIY6aqvvSjpvIVCqlOmDIE_7Wudvqfh17sqvKsxXU-wPzaAxVfOfmWf4sjv1A0juBxdw-AMyK39LrDYMlSpzFUo2qxrC6pMa7XqKWW5mCHbLZEpv6PEUgPBWn5i36SAoXaIaVI5ZxqGK5ewGHNx13MQPfAxKX5B7lnoqxDcn8Qa-G7FZ2UDiq162dd2ESPp2ZrMCxiGdB6-dW-ywTS5-FIC3qe26RJGGQQF4yERv4sD8mrr0PZBt2wBRx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN6eM9FTNcgG1HBLjIid9fNhtlyySzBRUFu5OUTfHa8IUvjg1lu8YZxx6ktKTA8uleZ4gaYrrVilBIpIlUJPGbV5IL6SH7aMRctuNWhNpEiHu3dGGcEqdwfE5uVF1BoW18TifdAe7Zxvrx7a2JirYcaUgsONtQOqF1nSqpDnOsjWVxOsG9LhWZGixkyhVpq0oURDmyZTXAazlxcKVT0oZ_Q-b3VEpZEUglcIEE8nU6MHNu9Kl8ZUEFPA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmHNKgc-x5-MKTUAaGniPIBBuG6ZbjyHWrXGD8rWSeRoqaKPof7IhlZZfgFcfB8mmbVtFSJ8QQQOChn1KOhwspBZI_1MCIa1PTiKkMWDLIrT1GwlOL7-s1ClGfNmdJaVMiY1f1MA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlZofuCyq4q54VBOgNcx7j38R5k7KHB0JwxLp05Zr5QIIPdZbEcNpyYLgNx5938FkUzMTzIJLQQA-zX756HKCmYNDk4Xs8NnkdParhI-DS2y_3TR9JV5Tlh183FWtSsVcZqrkWcvCyD1fT8gIrIYFCMAq__-SZliLmyRCqtgvjelDcmFfCShUmgSzdY_lPvJG296gebD19ke-cknFiYQUW6E0Yug3zT2H60Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn00QhrLEkcVmYPeOd7HWFrb4gkdOj_arnWaQgNlQleYZwo8rlMpVd-w4K8v6bA5l28rErxTmZxdfTAScTGxItOl-ArAqiL3IMyY_zz4QBLU9FGdSKH56SOzTg-Q4EEr8pcMhg9lTNN71xT392HHiRIXNI_2R2d5pwxjNAvRbgJ_mbfLn9MpKwyenT6haAB7-KWYNPnbwzGiNsX1uHBpKCjjklhpprqF-4Q3vdL0Fm"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:41:16.047144+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "kamalini_g",
+    "kamalini",
+    "g",
+    "kamalini g",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

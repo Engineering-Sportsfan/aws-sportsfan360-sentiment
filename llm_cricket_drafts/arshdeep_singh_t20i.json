@@ -1,0 +1,146 @@
+{
+  "athlete_id": "arshdeep_singh",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Arshdeep Singh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1999-02-05",
+    "heightCm": 191,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/36/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Arshdeep_Singh_Family_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=biibW5U2FD8",
+    "bio": "Arshdeep Singh is an Indian professional cricketer known for his left-arm medium-fast bowling. He was an integral member of the Indian team that won the 2024 and 2026 T20 World Cups. He became the first Indian bowler to take 100 wickets in T20 Internationals in September 2025, achieving this milestone in just 64 matches. He was also named the ICC Men's T20I Cricketer of the Year for 2024.",
+    "birthplace": "Guna, Madhya Pradesh, India",
+    "coachName": "Jaswant Rai",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Most T20I Wickets for India",
+    "result": "100 wickets",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2025-09-20",
+    "city": "Abu Dhabi",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": "Yuzvendra Chahal",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Arshdeep Singh became the first Indian bowler to reach 100 wickets in T20 Internationals, achieving this feat in just 64 matches. This milestone highlights his rapid ascent in international cricket and his crucial role in India's T20 bowling attack. He is also the fastest bowler from a full-member nation to reach 100 T20I wickets.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "135 wickets",
+        "holder": "Arshdeep Singh",
+        "date": "2026-02-26",
+        "venue": "Chennai",
+        "tournament": "ICC T20 World Cup"
+      },
+      {
+        "label": "Olympic",
+        "value": "35 wickets",
+        "holder": "Arshdeep Singh",
+        "date": "2026-02-26",
+        "venue": "Chennai",
+        "tournament": "ICC T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "50 wickets",
+        "holder": "Shakib Al Hasan",
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [],
+      "wickets": [
+        10,
+        15.85,
+        13.5,
+        16.27,
+        25.4
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        50,
+        65,
+        90
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Arshdeep Singh has consistently performed since his debut, becoming the fastest Indian pacer to reach 100 T20I wickets in 64 matches."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_voTjHDhCLI3jCPcQyX3gCqbHw0VrwYYVj1k-DJ0mFNlM_rTerxjRkhKQCsh3CSU1ReO2YBrYEcKQSNL123dP5YrUsTWIySe0aUKg7INeyHgQK5e7VAWb28XpB6oZMJ44Ngn49ckT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_ubm5whmCp_edUhCWO7IciALKJcZfbHwgsc3Ezwl0n90c8FwOfd8NgEZnQjiV7IPIwKIm4b_uw88V4zFVYNsYWlL4G3P5o7CaB4nkXnNypdZAM0bswFhXhV0IfM1NFZ8zffbpkLeNRXWAaRReX4SEseuN-T2atyNMg5PLdWCyV4Z-mAGQjOCWEtIRCut9gzj-6gsjmafHcUPwBsT0oLc7d30G9Rfj35fz19osoi_2tBRdf1K_p0_pn4TOrIJz1TJmVwLPZVTXXRfx6XR-q7LvALtRgr4my_34Lq8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvmNdjboOYpGGHOym3uV9zaQeMpO2i4mghdat1UvsNp8uLIrCanpqo4KRUfZYxtBlvST_JyuKbuguLkC5vQjayy2ldVVdwEWTB1Qmcg5YSsTZOJ_tgUSP8-tnjuIOHawclgZBzm5BV3T7kZtjUAZ982hhLSOd4mjwlOkRax_1UjtVFp1zGtOwVGFGHbp6VzhobczTfP44lYC59y0u-Ox39CBSZEKd9khhhkvz65AOdzZWpKkGCRwF7bKk5amTE9Kf4SMQ4BDBhPNIK_QTNcrltBvQJ3RF4cEeo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuEovwXZQHkNx3xd0ZRb9K4P7BX9fPnyHS2Q5oMgyUXFPEX2l5xHEK25OF5CacutRAvG0bRfAnmVpmqof2gqhw6xAq5ariOjIvinnTCqJD_OSZjTuLQ4_h-qDBNdBUrFoPPLh8H_NficBU6c2Bej8Ly13yMpE4346p0l5-VJY5SB1aTWs0P2hl6OoiW5g2mgCUvnxc40MkheRGApe_h5mQL5vERWboDA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGP7vJ4zNVAA7OcZpGpr9ZXkIfk7bfakb_FrcRzlBunvHXTxV9HXjx939wr0dfR-sBGsPKiCOLEvUn-cDoX2H9iu_8-ZtkJTbZc603r0kkeLufEpCrj4REn8AeWMxOtaSyojGE0XHgwd5aAQz9Dwg9cRy6qEo3C8sjST7MYmBAfNImJtaox_mH3zf0dKC3z9fk3GboTyxKx-o2fdZ-KZaJfJ4LB-PL4BVHb0Z5Ve85-pD7fk87",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuRFr-60QQ7LxuOtNJZM8kjNwQO_M1cWlSnkqZk1602-44JxJKisJ-yAFq1rLxjy-0-5-JhIoTTFxj4PpOY_79Hyyjgea-_t3CyS5SGjvX7W9HJnPvi-_fEx82SziTMA0yhwir"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:47:22.433961+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 103,
+      "ballsFaced": 104,
+      "battingAverage": 5.93,
+      "strikeRate": 99.04,
+      "fours": 9,
+      "sixes": 3,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 317.1,
+      "ballsBowled": 1903,
+      "runsConceded": 2715,
+      "wickets": 135,
+      "economy": 8.56,
+      "bowlingAverage": 20.11
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "arshdeep",
+    "arshdeep singh",
+    "cricket",
+    "india",
+    "singh"
+  ]
+}

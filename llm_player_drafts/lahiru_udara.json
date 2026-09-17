@@ -1,0 +1,130 @@
+{
+  "playerId": "lahiru_udara",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "lahiru_udara",
+    "name": "Lahiru Udara",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "Wicketkeeper-Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": null,
+    "dateOfBirth": "1993-11-27",
+    "birthPlace": "Kalubowila, Sri Lanka",
+    "heightCm": 173.0,
+    "jerseyNo": null,
+    "debutDate": "2025-06-17",
+    "profileImage": null,
+    "bio": "Lahiru Udara Igalagamage is a Sri Lankan wicketkeeper-batsman born on November 27, 1993, in Kalubowila. He made his Test debut for Sri Lanka on June 17, 2025, against Bangladesh. Udara is known for his consistent performances in domestic cricket, where he was the leading run-scorer in the 2019\u201320 Premier League Tournament. He scored his maiden Test century, a remarkable 188 runs, against West Indies on July 3, 2026."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "188",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "West Indies",
+    "venue": "Antigua",
+    "date": "2026-07-03",
+    "aiInsight": "Lahiru Udara's maiden Test century of 188 runs against West Indies in Antigua showcased his ability to perform at the highest level, especially given his relatively recent Test debut. This score is also noted as the highest individual score by a Sri Lanka batter in the West Indies.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 40.0,
+        "event": "vs Bangladesh"
+      },
+      {
+        "year": "2026",
+        "value": 188.0,
+        "event": "vs West Indies"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "188",
+        "holder": "Lahiru Udara",
+        "date": "2026-07-03",
+        "venue": "Antigua"
+      },
+      {
+        "label": "National",
+        "value": "374",
+        "holder": "Mahela Jayawardene",
+        "date": "2206-07",
+        "venue": "Colombo (SSC)"
+      },
+      {
+        "label": "World",
+        "value": "400",
+        "holder": "Brian Lara",
+        "date": "2004-04",
+        "venue": "Antigua"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 3,
+      "innings": 5,
+      "runs": 266,
+      "average": 53.2,
+      "strikeRate": 73.08,
+      "hundreds": 1,
+      "fifties": 0,
+      "highScore": "188"
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "matches": 2,
+        "runs": 78,
+        "wickets": 0,
+        "average": 26.0
+      },
+      {
+        "year": "2026",
+        "matches": 1,
+        "runs": 188,
+        "wickets": 0,
+        "average": 94.0
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLVYXIVJMSQlkY_1qA5rBCwIRfECtmeEojXpcEaeAhlOgyHTkFqhnC-ftnvolT0KsOkCyRbEj6hGpf7YMo7erPxtz8hMw6BB0azl3NixCtmIM212KhNglREWBSX36iZHZi8Dra",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBWLM36YoQZQ6LsNM9sv5dnTcoycqUnGTDVvidJd-R1XH1G_aExPykjMIPjIEn07VO8H4-djId9TKfqB9idnhdCfeKFK46kv0ZVom9FvfJvdwtxF55SnG51JU4zh1vyYwtvA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEASancJ3M_9IbFFh122UHLyw0sLtwgEdzjF40iHg8YkeV2q6MqoJCVkk483ydM0bP8aE5qVMwsjCeHD8S4mA1kKgCFnF3qS2nDv7rm9qvfBkYkl2iAeIJM2y94PkCqiIpJAsX4nvu_hlT2VDmW5e9cIpLMXONoelaLsGu05dK_UIeiK314pp4mtyupz6MT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO7A7ITIHiiAsQ7EQLzWXPjn5jKzAglFj7RFvIvUG1788jAxTxe3Da7NxOlLDCE5P_cEA7ZdWW8SzbRGU4OM2lId4t10VmqEFZZgLKnBSGP-SiCenF9zQVN8KgQyRWOQqKDKKtTRnUbjA66lmejB1dGZLJMTY4QLugFynXQg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpdy1p5JUbHDYTI0QbStcvVVpng3CmrglHfuqQAYNn4QIiZvGw0H20exb7nuyRIbUVB9RsFnjmbylHCdrJwoQO2Hft04xRoaiJsWWEUkugFUu5EObsQuwfmx3a2q9UwdCaPayxeqcjB6PbGeTRu3UYeS5ujd8SCtDE5h_Se7rIdsMTNJWrrFvYRZf37_zlX5Zrb0ImKULEqkO_f4hTonnc17JZMaQdaetldi7-rHWE7TLZxg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0TVVnyIQ0wMZWDwUm-e62lvx9zuRW7vWog_lmyn198UIGVRF3rtY1dYyfbH9Ad4OI3yC-COsGANUAOB2Hy0HmPlLyoqnmQkd_pID8tV92DCTwpxDQNv3l80F2n3ni0UhMlq9-WnEnXULQpqwx5_LnL5c6MJUcVfwfnOujMlEmie1SKPoquI67iqtVLGSLSCa7",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs1muBg8Cps2ExTfNh0mEBHvrbGHzZhkn89dZY77RtFCeFCGCnpp3rc9vWgZ4RihSfGfZZI8N0pLL9zsiyLhNeoube2m8s3foeSG-IBfFEChvO7OFqix2WgxhXH7cSWQE-qfbZ4ZRO3483-88d37fiog==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1fZdoctbwkDoIyCWPU7KfAovPrr3opmwwycsk-fGDftQ-KL6CJ_RRcLok8MFO2yCKmCAs30VoZltH6oOsigE9rP6LTy1QZvRHSuesCD4IjRGoIdE1KTxVO1eeJRL0iZqygpLYfD-c",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgg233eUd3Om_1uEZZj_qVb46naT_rDYkdkcT3Fqi2QI67arF9I2M0CzAAoBtFpg4TT2TgeRWIrJSw99Yjz8UnfrD_5XzARXi5s3GAB0mV9C5vL_DRdi7oceP4ottp-AlrG9ZPGnffd46Oscxk9b9XGoJ08MnnFAdDmqhUJyX2jsgYaqbLmWs8ef76pfNPNrvLbuoa9FNnXyuPChOp",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGwnZ4LwcE1aLWKXhLfLyFLMDCGyF857Nbbzehjv9EE8QSV4erDOO0aEdrcbTa8Fvwjug9e3zp4c2wknvKMDPlFDPcVzGohJ6uQbD1ljboKADtWm6ez-fQfQ4fg-LztgNC8Q5b2O2wCiVAPv8k87hmHKvMLDc44rR-EDkLMJDg3tRQ7gcgPaH9hpFm2U2XY2yKxhx-FECDDagFVYVmH9fLPUDELvJT9AEGBILfA5gZmOYTwxYK6ZcNL5m0Q0WLxAFKVQyax82fCtZRe-MUKCUJqL8uRg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T18:00:59.450128+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "analytics.bowlingStats"
+      ],
+      "filled": []
+    }
+  ]
+}

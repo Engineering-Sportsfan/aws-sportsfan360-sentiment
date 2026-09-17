@@ -1,0 +1,154 @@
+{
+  "playerId": "prabath_jaya_suriya",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "prabath_jaya_suriya",
+    "name": "Prabath Jaya Suriya",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Left-arm orthodox",
+    "dateOfBirth": "1991-11-05",
+    "birthPlace": "Matale, Sri Lanka",
+    "heightCm": 180.0,
+    "jerseyNo": null,
+    "debutDate": "2022-07-08",
+    "profileImage": null,
+    "bio": "Prabath Jayasuriya is a Sri Lankan left-arm orthodox spinner who made his Test debut at the age of 30 in July 2022. He quickly established himself as a key bowler for Sri Lanka, known for his accuracy and ability to extract turn, especially in home conditions. Jayasuriya holds the record for the best bowling figures by a Sri Lankan on Test debut and is the fastest Sri Lankan bowler to reach both 50 and 100 Test wickets."
+  },
+  "record_highlight": {
+    "category": "Best Match Bowling Figures",
+    "result": "12/177",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Australia",
+    "venue": "Galle International Cricket Stadium",
+    "date": "2022-07-08",
+    "aiInsight": "Prabath Jayasuriya's career-best match bowling figures of 12/177 were achieved on his Test debut against Australia in July 2022. This performance also stands as the best bowling figures by a Sri Lankan on Test debut and the fourth-best overall in Test history.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 12.0,
+        "event": "vs Australia, Galle"
+      },
+      {
+        "year": "2023",
+        "value": 10.0,
+        "event": "vs Ireland"
+      },
+      {
+        "year": "2024",
+        "value": 9.0,
+        "event": "vs New Zealand"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "12/177",
+        "holder": "Prabath Jayasuriya",
+        "date": "2022-07-08",
+        "venue": "Galle"
+      },
+      {
+        "label": "National",
+        "value": "16/220",
+        "holder": "Muttiah Muralitharan",
+        "date": "1998-08-20",
+        "venue": "The Oval"
+      },
+      {
+        "label": "World",
+        "value": "19/90",
+        "holder": "Jim Laker",
+        "date": "1956-07-26",
+        "venue": "Old Trafford"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 23,
+      "innings": 36,
+      "runs": 279,
+      "average": 8.45,
+      "strikeRate": 34.74,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "28"
+    },
+    "bowlingStats": {
+      "matches": 23,
+      "innings": 41,
+      "wickets": 125,
+      "average": 32.03,
+      "economy": 3.16,
+      "strikeRate": null,
+      "bestBowling": "7/52"
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": 6,
+        "runs": 15,
+        "wickets": 29,
+        "average": null
+      },
+      {
+        "year": "2023",
+        "matches": 12,
+        "runs": 56,
+        "wickets": 30,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": 18,
+        "runs": 156,
+        "wickets": 48,
+        "average": null
+      },
+      {
+        "year": "2025",
+        "matches": 8,
+        "runs": 28,
+        "wickets": 15,
+        "average": null
+      },
+      {
+        "year": "2026",
+        "matches": 2,
+        "runs": 24,
+        "wickets": 3,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_UmYxWq0afGjA2aecEqAWuIP-o8PXmvxxxAHAajkX1m4aaI2m0dZQEVYxkrUIed1f39V_zrJ8jGehyUpEnjpA4QaEY1AfRySw3anYGLFjCn84AyxvqWq8EtavG2j9MdTXmY_mvbrX86u0xVgByA6BfPJPW8yEucE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlp5JhBLKwCsSe-0kPrI0Wy8IM96ylZQTMzXIibbrZaMFW4HHA0VSJZLsOGR0gEjBxmu4P2-yBsQnf7nDRCgDfTv9VrCUqPzL3ZQ0900SAAIt7elcKxQmhiWjNgB7OuyMzyXKw9pyr3sFLmr0dlF6DPRvtEctk1oAd_TGMF9DBPPC8OZtUEbS09Yg1ke1Ne0WCWrBEyYNOXWvSf6bLapelrramprUYi-cKg_6QPVGWGw2UmLiLenYGbUs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm7AbnOSNqDsOJqo6ZgPekFqkC0ohx9hzaLB3ZwYixhcREOXSGAY2sC4GJ8whd3VJMAc15MLIrW_c7atmUVtwkpb7Wa4Q4NXpAWj7Z3SWjtYLjhR3P92plr8wn3nCtqptGAXMjWbKAxStf-w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhTkVHeWU214KcvK4R_w0LZjB-NutV3VjjleATu1nodWhz8kRzM6plJ6vw-_53bnjpTfMD6vW20OgXBw6UHskJfjfbdaRzAtjcUcKJeNxiqArZnbH4oIRcW0m3qH7F-DEc8yLWAtdVjAC9FecqeueSh7TZ_G7SW9aZsVzRs642ruABQv29BXyo_mvMqgmh1VUJ4yCFEhgfRblUTB5OeuDnZhh9aWBn2ZH47Itesz4QMe-zYEfk6G2GXhUbzuNRG8RAfY11FR2NXjYJ7Yzew7MA7YcTjs20L1umuwj2aQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo6WHPxPTQW1mgFznuwtFEINopLtvFz_DBiNaBFQD-NYEA6wJpKehMRdpVhVO4hzOSFTLGarR6R-eznlB7W5E5FzRCWfLY_tkvKjjS7eyNiaYlDyaPlENK1RQ_5g0RH1mLhbS9ThvFmDSHU4S-FAW0aNd3EFRAC7DIukJIM6gCr8azvfmju7j_Pm_NybLlHslxPvFU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQDQ1jDqbSdls3WJ3gC61eIDpbQioQrD-u3dGHh8n5-FeGbckrX4Yp_KuYOOvxvjFiu1brUCH2dpoKh7Ae6KtezRcaspnbr9Yn6y9WuD4R09BTtaoAJDnmN003F7R9Xr2GmvYQPs79Gbt7rs8kSrLlC3XPM5OGymOmsQepI8dIhtiQbkCw8R9iYK62Dq5lydiN_Vp3AiXMpH8clk39fZZbwHcrjBEljAjZZlSbPFlJ-PG8V-qlCYccW3R37qLa6XrgFOI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX4gN5PFAwKV1h6SxWQZk_xj1laGjoRwjIvjhbKDgSzeXHnDs2EgG5Py17clemE7FbkCUZykPo2AbbIMbBq2YRxXs4cQ8yc9Q6ze0-pFDoFNPNg9yrpMMnO6_5l6EQbrr6gpQWvH2t6JC8AgXAMmBxqzQhngo4oZSU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExOL9iWgprU3qF13-lzzHFGS5A_-zH9GEj79DatHvGcdXPNLatERBkKg8rHKSWnYIZml7RBLzTX9enFplVsgXXs6P4bSh2AUJGnlqKtoLHe23gpw_OFmN_N0cR6H-ZCpIFS2TP_9wuNefe6RoNknrvpW2myGlzvKvIHPBFNUVBQh6czOE3Vxzaoke1k2OUwraw8nTf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIwOKooTl9gao2wu0KA-wkkx-yOv4mAn6QqdOWssTVFbXaGkQAwp_HHDSs8wuRuD2mkWqNwXRRXOn5lXTRCgHb2_1Bpww562urKbNvK7ZfKXsSi0cRZEC92YVY-LvA1xgHFKwNIpC6qlojfk9edXSFL7LTePjkk-BUUPrn7_gjEeWhbEQ2UXv5Rcj1kpgqgsE6FElqjaaRbR0oJocjro7ytvDisTqXmGN808qJh3sw-fyrp_mQiHyNc5FyyTzp-b6e4QVi9ew=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7QtmCl_vRj0jUrU1z68GT5FXRmZLT2M1cH0oaM461AKxNXNO1zH9mUo2TJRvX78IYbkubgvorYqyXRYZbaZSYWKyVJNvVctN_RJsOF3d3Afg1HqszU8JmJnFJkaVdsZnCC-YZxr9K1VRm3J91j5bRtkhEoNxD2aa4vtX6CDtn0hsQRlzB0dhwdKGIT3Hq-KN1nHVYXmsYi6KHiTW81shnDq_PnFY1BC5s_sha7O0MwCrL6PMIYwcdw50uGLJGR2AqQ-F3hBC7kB3t7Q_V3A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW8VmTGD2ochSRQuRLLmkATAXsxtligDeIKKQqU8659O856haDxDLsP6SK813hbQMjJFDVBJHCbvttrL73p9HJftJ1YuhXqd7nsMRWBSEGDQ0sM1N9vSgkLnqS-Ury_ni9u0pUUOnAsg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxEBagrFvAJzNCeLuF3AxWhm7HznjV0rRjQUHe40WIuFRS_G8hL9kR1P3xreWBF0TV7D0la4KEaKDabFmaSqvCSINUKeYFK8PLWHZkJ1cSHig3aQEW4qNnAvAoxUEIQRU7k7kaGXuHHj87yXaIviGSSoEqx1oAfw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOEDYF_tBgirlo1N15SidjO12LCHRhWR06QbjZto2Krj4qKQY9lqJ0IAH2XUFJMsVM1jaUjAO9mgG7dA-w0zN3ECVtS9N3vafCRjrrT7P8KmsGGbIQtwXs8wdovCA2TdiXoHTfgqW2mZxu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFuTx4CiB8iyilpCTvU1Z-Y0V0mSPN84qBYRscVVdSz_t-b6Zsyk8vBYRS6ghxk5B702Hh7gTY_0K2AtyOy6VTkJPI8FS7didEvxMAWRGoEdflp4n8kH1GM-Hrz2GVxZjsUxsJ8Z2SLkOnASyJNYs9C023heq9WZ3QE7RkUhoQBW89zCp31toOGclumK0gAv3EEHFB8lJhnVI69GoXTgBuw4p7nDJIOs0aJZ489YzczOnYOVaUDi_RLhlnsZLKA9DfFNvHVFgPNDUDmlA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqdlwMVU7sw0ae_dKiIvCwKJRLSaeL1FlJUcz9DrUVTTtJ02tdJBUOcyktQT-uN_IBlMDwYVKVq1tImheaAhw0d8NtKbAYA3R91NspPJh1Nc5LBCWyKQq8a1cHgRhMw7U1b3ZAIcX6hqHR8Wzz_3TVcuKOq37VHmxdZ1wolEkmWGonIZMVntfyuo02jbTaiuMtec98in4wzl5dSOdDqmE_jiHKgcgn-3NzN1kCebbZ_t_gwJiDUkYhYt0DV1GZo19VvSXtc4DF9fvOZEB88n-KvvBTVMNuU_FR2CUx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiqMYoLQ6m75MW0imFv6cvRs0m2hWwdkobWNV9LcV50qLuvcoCXCAOwt6502NkOJi5HRnrjTt5wJacCJlhqCqPXyAwutvz9kZipxKCdcvJAW1ORd2FcWLXdvzqYd8HHeq7v69nJwSs5NII0cL7hhM61A6yMcT3qv-pXqk_SWPi1KkeYEIwdSD55-bDAfg43s-Z3nRORTuyP_QXczJTXTDIey78bbD_X7WMHssOImJfhQC4VqAeStp57XSIKwp2UiyD3cjSruXq17pOtgZN"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-17T08:03:11.116105+00:00"
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,316 @@
+{
+  "athlete_id": "sakshi_chaudhary",
+  "sportId": "boxing",
+  "coreInfo": {
+    "name": "Sakshi Chaudhary",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2000-09-09",
+    "heightCm": 166,
+    "weightKg": 51.0,
+    "profileImage": "https://boxrec.com/wiki/thumb.php?f=908466z.jpg&width=375",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=PvjEvrs8vOg",
+    "bio": "Sakshi Chaudhary is an Indian amateur boxer from Haryana, currently serving as a Havildar in the Indian Army. She has achieved significant success in junior and youth categories, winning multiple world championships. After overcoming injuries and a strategic weight class change, she secured a gold medal in the 51kg category at the 2026 Commonwealth Games.",
+    "birthplace": "Bhiwani district, Haryana, India",
+    "coachName": "Chhote Lal Yadav",
+    "yearsActiveSince": "2012"
+  },
+  "record_highlight": {
+    "event": "2026 Commonwealth Games",
+    "result": "Gold Medal",
+    "type": "GR",
+    "typeFull": "Games Record",
+    "phase": "Final",
+    "date": "2026-08-01",
+    "city": "Glasgow",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Sakshi Chaudhary secured a historic gold medal at the 2026 Commonwealth Games in Glasgow, defeating England's Ruby White by a unanimous 5-0 decision. This victory was particularly notable as she ended White's 68-fight winning streak and swept through the tournament without conceding a single bout on the judges' scorecards. Her strategic decision to drop from the 54kg to the 51kg category for the Games proved successful, demonstrating her adaptability and determination.",
+    "progressData": [
+    {
+      "year": "2018",
+      "value": 83.3
+    },
+    {
+      "year": "2021",
+      "value": 66.7
+    },
+    {
+      "year": "2025",
+      "value": 80.0
+    },
+    {
+      "year": "2026",
+      "value": 90.0
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "Multiple National/State Titles",
+        "holder": "Sakshi Chaudhary",
+        "date": "2013-2025",
+        "venue": "Various",
+        "tournament": "Haryana State Boxing Championships, National Games"
+      },
+      {
+        "label": "Olympic",
+        "value": "Bronze Medal (51kg)",
+        "holder": "Mary Kom (India)",
+        "date": "2012",
+        "venue": "London, UK",
+        "tournament": "London Olympics"
+      },
+      {
+        "label": "World",
+        "value": "Multiple World Titles",
+        "holder": "Nicola Adams (GBR)",
+        "date": "2012-2016",
+        "venue": "Various",
+        "tournament": "Olympic Games, World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2015",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "wins": [
+        4,
+        4,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        7
+      ],
+      "losses": [
+        0,
+        0,
+        0,
+        3,
+        2,
+        1,
+        2,
+        3,
+        2,
+        1,
+        0
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Power",
+        "Defense",
+        "Footwork",
+        "Ring IQ"
+      ],
+      "values": [
+        75,
+        85,
+        80,
+        85
+      ]
+    },
+    "coachImpactData": {
+      "note": "After a period of struggle around 2021-2022, Sakshi Chaudhary joined the Army Sports Institute in Pune and trained under Chhote Lal Yadav, leading to a significant comeback in her career."
+    },
+    "consistencyData": {
+      "note": "At the 2026 Commonwealth Games, Sakshi Chaudhary swept through the tournament without conceding a single bout on the judges' scorecards, culminating in a 5-0 unanimous decision victory in the final."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2015",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Junior World Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2017",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Youth World Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Youth World Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Asian Boxing Championships",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Women's National Boxing Championships",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "World Boxing Cup",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Commonwealth Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGswcz6PfyjHlcCIsyClVeMmgXJ1SI0t2dfJRX-q79eHaY3zOO1UqD5KepbPjHDCZoEL3en0LwlphW_QYXRcE_fF3N9F4H4gNfBSVhplEtrJJysqFNK-pjXs2bxHFWIXLX8JLPtQildEPZn_hANjdkPZIFITw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6Ly8F4VcRGXfiS-y-kenQnckIyZSv3mskZrhs8m-wPsUN1ZxB_IMNkSd3fGoZucsZbbd4izEUEsu40_Wxgf-7F8iCP0OmpTJgzQw6IVkhRM9fJoGatnHxQGQauX71UzWj0O0R00GAcB4Zw8R3yr6J",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaFqIm782iOrCpkplrPT8Wf5ZcOiY92K9wnhV9x9wruWla98K4gxGboM84mMwmjGsRWzzKkjuc8dm9uuoFYBzY8uYwSSbB0wpL3qi6KptyeInxxOEd6LqS7V726ZmJY7orSxAvH8WYZ9RRmD7HwKh88AlBUkfY9ScQVT_Ts11mwt32fnq5q6INNr8d1_n08mXY1lhcWNcBFLuFjtYseWUIkf_Gv4QaFUid6rE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-MtU7jn8u59LhPSF8YYWAEcjgifFcf-9lZL3GQGF-VDiXDSS10b2rrorAVHneinhXVMoIHZB3eT_2EVdXMQh0USYOoPkCREEgWikfm0XucTg-YRd40ErwDKGUvs0iTYXc8G6x_yHezcSZOT-oJZd8xYy3EOjYlRviQY-SPDulYpZLxlbTooJeOjJkJaPZk0gNteSQvk81sWx4362137iQz6orUVCux2cytIPkvWAE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX86ei40Hp8gia4iWzrLfqYyxBWdTaa-0QjY7lfIcecQIeQ0RuJhu0Yn1WnC1ojWu8lqQjvsg3n3DRdr-AP8FzdqD43rNXR2Oiy4ySf2XjK4VlOiO_NMcx5MBZfjdlN0pePQM0xaETsJHnXM9WDxJvygiv06myQdMKNH9EsawyDu36355-J3Sj8lTLHhqf6vwwK9EIVgVMVi4NCQmO4ZwvDXNyAtmgUTVLav1G",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtB-eZSO3dFxpL98jstOZUGtWfSgPQKvt0ae-XkX4c8fS3YGxFlsrvNzuXFCC5MLQCe7yAsRC7-ZmDWFw1LcRO63yfNcq9VX1hndgdxRWMyB_1cFG5dbvL07Z47WwRxBc47P0kKPLsQdzLzqQzYGIsPuJdTD8bpiPiSgL5aNW0CqKTBPLZoOGlfFHuSeqKru1zEYG4-4N2rKPwWUJhY9M6_jRVc-mkCLdM5R8auTMHbhGMu6U67tOsOtEjWBg1Dj5dAizWxHoK7pm06nErcggujCRAOQ12hMXrG38xU9j7u4OFect09NOZeaBAhLOb7jX7WumwZLg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpWyrvjt89LB4dSXx-XpHCwjCeiHo9TJ7-h_mAiz1lem0wmkDpj9YgntklrvyXHScTTv7kMcIjyxnXImBS_hHTT2ZRZkl_RcI3T5a6IWeVmxtcbmPCUVv5WTQsuuy7GMc1ECgapOrSNR1L4NCpqi2fxH5lljVtVws7aiFkGQztx_5TMjPN_8GiXkyK1r5B7ZiCgHDOA4s0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsJQ57U8lbPO4QLkpeWkG-xb2JlMwWtaWEja4rpf0y_JscSc8Gsbws-8B9AiZLrK_tVzdU76uy-txdFGR5YBQsX4zXR0rIBG6mcu8Ry5m0SSSAHe_7mJ7wnY1ltkoC9RrYDboW4rPlbAuKez9Wi4InWXkE2m57wkTVQVpdAfRotPKo-2ev9m3x0L7-kw1frfDueYCkSlX-WjDXOBUZjg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG478tLzFuDQzm9ncw4bO5F5IC5ICG_SSvrsYUVEdegtTmOjqMwaa2eTNaUCokDLsuPm3RbTSPallbyFNuGuzx0LlJlfcgWAVaYnyHMzDmx00qma8VwgRJrUzuwIPvEt2QzQ_dSSVE-XuyUq-RKF2N7LSEfz3-UjPzvhuxLv-OaBnH-MYpAdC2WopMFpOnBMOxHE5HkJr0pYMH-LZu6Ch1GY0xIRg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdc3In40GS7vRG5eAckz9O2NaVPrw87PsAIWmF5eOXtbqFBefzR6JFQPc9OmBQ0ZW6Wu8WtMBuWZDUW8y1Pp36uzyj7eoSzBUva2yDiu0tkCKxQeieNjYOfB50zhJ6fLJqRDnqzZDZ0Ok7pkfCvKC7vw6d188QG3kdc54SzTKGz1LqrpHR0CbG_122Mw4QnYlggqKE6ksQiNr_KolhtniNbMF7f_x4hk5f0cRbdpRo46zL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_GwXEOldIAG7f8oQf4cXR6NBIwQ_CuVd0ZKRtLCVgiS4NUQnbnKZ0dnIdzO1feeoW5UroaZWWlGEJNpUtPK8BDDoHI5T3GlDgZpCl1k7xH8SlqUYzRDg0Z14RdYVf_ORwMBv2d-UPiSoO4Tppo8fTbuDb7h27wdAAKe8QBhKpvnqjdmMI5CcMMrgj0AAho5qrGe-0KCx2QP94KiYEkMW-yFhHGZM-Q3--mv4WfGVs52JERWGpk6ulk-sEFjEuqHlKaPUFVvCQa26jshDLYdGNFGcZWUfeo2KmhlX5_tdE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHafeD_g085S9LoXyo8zCrbIc9-qUBaOezmsSVHrDIE4Zu6DxvS17q61ddVNZywPNWeJECqh0xcjwnk_2CVuIFJniuLut9IwbhQ-Tu8glfLQkYAEaBROfnBbCYK6MHW9BdkkO7JUikVi-XqPvJXAgxHzGfDElAgPCGfamnvUUGaP1Rm1YhQZY2zGtJdIGTOHue6lWarjgqoa8pXlE5TKg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqz1hOJBkfHgvRaLjDqJjh5dAm5ebXJiOzWIV7Ovgl60sxWPzKksGSUSDg_8HzfrHOkHy2OBlgpAY6fD7cSgM5RUPhiRyHKx-zn2CmfCxsplbH2-i0hpkvjLkn8BStEWTaFUiKwusSQhYWUoX_KBWdJvMfcY0ZBJHeg2XndwaHpIt7mRh-QbVepHIqxErcd3wRzjiaQIFz2o6Y4BWRchZbEPFkSlrYKNfoy35Butn-QV6OiqyDjCvar4PV8gwtgU12eUhWMO3DP6FjTBWfT8kofxNwfXgdVCcNidcrn-OhwqbKM1HiKUbARg9XJ1pkXCSgNGtSFNk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHBwJGUg1LcF_JlEyjit7P7gSnCV4vKksnlw1lyBQRJYKT8E_EnyoCFreZVwNZON8k31EVyFqTKkfYshX60xHCNWA5BzWxnKtktqWQ1lD-iyiTJGYf2e_oYAcU7D2KgpLFyuGtc6_FFAepoeex3YnEIm-vbJU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4BF9ADoe1sFydLukI68LpFxr3lRWL7PP_fouKeTuuddpCKRwPKZ-Ea60sSdQBPVLXDTQa-9LnTs2DQg3EVeuhTq8R-UbAb4G2j5wFiyh4tRiBEIuA_7UJViU2CpFDXRWgGbr-WZipVGZ3UezvccrVj3iLgEB9P8JQlQwOcOXtHJhZhiuOJ_z4mq5r6HNPFmu1WpmN8b4uGEbo1P05t5pP8-39I7XOwPBO22w5PYIoLv386Ktib_l2w-8HhjUSuMHsB-iFXdd5h2OjkZKpHBAQKSeOGyMJ6jaokXex4XQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqfaTRuNaCWT0uixXYL38TbVDaLFTtkB-jpcvu1cpVe_UKGuJDca99gyy3mpQSAihO_NvmVvkaWxuuifNwCLJrwbg982xmfWRHgEWnQoI0qhh9gts8IFfBdCvA3RNfIK_n6k1Gq3NdoPNWKHGUDIVx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS0OR1gEpFsDOEqUqfjpQuMl8IMYs2ye3uQK17RjIxmHtOQpzcvF-f76o05y8IMKwYNRvAc2qkJoaGZmANOnuulJaN6SQU5VeZzCvecRCMng10xVE7HJVncgSDQ1w81ra17DhnrH3PGBcgHiPhmV9a9mXVSg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENJVOmmcfvSXVWPY9ohRW4XIYcyFx--DkBG_XGw-FeMb-MyWM67ai1hHTw1v76TO8-ia8x8tGLoqoySyxkGVVDJ3gk1btjwtbp3mROLHTg9oQTu9mmUoo8D_Cm3cXTlLC1PgwIxCvUEymn6ymIPcRHG0oBk8XxZjAJbjLd7FoM9xDVk0Dx6NBFlf-afiJ__ONks2dd78EKp8Ch32WYpg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESarBK9Qt45BBNERS--FdVb3WTLFfLXVQEoyiahh-wbJgx_BuwcctlRpfOvJy-rR8k-S-Lc5o2OVYcIFGSS8rBNFqu8W3oSFYIApMgiaFiHViR-0u7cT4mmt7VvKxdCjOWbrDPckpsWTVb4hwgbn0klOxFiqU7wYJlbb1ELWfqIDYaWV4NL2F4lnseqaWfLngGq9JTG6_mzKJqYE7Rdrx5IWydPRd5crMV9voz4U_1eQCFNSv09eA6Snp56iACmq1awNy8rkoxUJZvKYLt-DKZ93QjYMkqsziDUr_-mpaANQ38s-kWhj1xBepZbcDN7Nc367hufaZIHK0W64-c5to2YrKQudeB5H8GNnnJIfbOiF88v9q7lGAbCriaG3qbGs9cNaU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVNIxKIod6d8sVxblzv5LS-aahx3Q7CYw43Fr_V6IcFnC7IyLBtC6KVFwYmM3DZminkX7QpkTW11oN7dP8IVPczDI_OmLP_Svti73c2U0v_iKDZVaAVlZ9V-_NJdB-VSXKwsNu8HF7zJIuECAv3ztbD_c2d6pXjX_I6HYhYXib81dAIntOehW2HLyAqkRWEczwd0Z5NLqVQVWLMZf46MHUw7p_hPrYLPNkjTTlCjK7kViQuvMjolNYz4dpNw2T3sJy6OO-i2-CpkcUnA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDHzcLCN3d5BKsz7dXy5uCi7xvwGyEfjh1yggLoQzEuR9J2AyT3rtNJ0jlxs8A3Iyshd1HrZb3wiyX8amJqwIViniSaONzbuEaMztpfKoci42IFeaRL_YY_mYvyPQmgnpkjKpZ9o3XrJajYROdM0o4iUl9Ja70n7u4OLdeNw8m6O96sj_qu01SFyK-TfK7hgEFJNJOQJI5LJ4aeDrbgSPvJ2-QjhRCJ1_HJnjAqO4AvCGWcZalJkttLsYDhYCu-OZuzu_hbqZ0UeeRU8hbNMVe",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2BFrfAeJsG3jqDHo8eHAvu5fxPJDAwCu3lzQDhWxaQndPiVY65e0T12vVjFldfvJ2WP5Co1lpDxTR8MDVjDopmfuMJqmBzbaP_CtJTGHJ5E5RLbYc77DCVlTNnYLk0BJ10B_lyj8nmVfgc8vUmlktIg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI6pVeXwBHhNBStRTjY3XDOWlpojlewy24ipf8tWCHI-mw5mjZMc-Z8aGHn7LpoGdPFKvnrrBLOTxrJqtsEN6mkUTRdRdagk5D0GW2kGlM9cAuNMR3bXbKJyB6NNVD5ExxOsjKPmtrNg1wgc-HfeVN9k6wsLFe",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3C0R1dz3IR6SV8uAV_Zc2TC9_p0Nv_GvERi3Hv_aKBZJDQ4xFCKPQs-5GtH-4u_LSwkj1S54q1rkGRu4_47LvEi3sLgW54xELkkZvWe-xqbGCb-kXPLnhEMXLWrrHSNCEaibc_9KCWLUP1A432-EFjPn7CH8PfC-iBuL8zsdhM_xHyUEJ-khslgKCJx5WS8LIGKoVRx5UghW39dEfeakQioIXNC3vRINQZMuA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_9IbrUYEUWduA5tbKyyIU5qHfksUMDoht6VDnjbx9Dd8RUF5e2S4pDJfcGtUSRiID1Kk-EaEXAu3sV3Z60GxDfXVQ30H1QGOHIMniUL4zgmdyAnYDCewxCIs2byJ1XhkYuCECB8rO3jZ5HNDFbIw8JZa9qcfjoqsJ4girW0CwO4iq4qd7bwEX-Mw6wwnPt5yzCFYuaiYLQIp-hWHTOsxBBuTlJosw8bGp0NMDyGX9Bw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnxJw7Md0TL2a_67sLrMa1ISIbGBEttmkWRCh8f7pVej0WG-Uol-HbLxeif_ICgLaEIErTmd0bWUm2BmqV296mq7JtXyuU7nlsHPwi4SdE8RXMzOdzwG7m4h5kS5vTo2Tox_AzpHsdCFJch6HK3LUDo1YSpyW9rMRw1cslA7onhoO4ZbULl7SroSxmBInSqL-DvDRSrQt9tcGXuYXRVFw5cNia8g-bcJyFYDEdnw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrz4EJm8psCmgHANZbXc5-cdG5jIVnH21nExJggV9c68TsFLbn9L3xvltDlDfN-eWdOUOhz7myYHAu6HcWb2j1ygcIUXlSTG6QEViSXkSwHCKW8D1-8mSVWQT1juEMpcDBgpQ4fpRTRoam2NuNhOgbitI_Ns1x2tPxhsOIrkOFzG0UWkPQjJbS_-kki0v2kfu__2_nryfspBS2KJ5JXSY1fQwVBiiaX_ky0ejD7rWUewMwQoJfBdym7SAZ7y2OuREKE2nShK3_vvMwPM59hXAwSFxSVsDnWOkBoAXLNgJ-UkwOvEbhEftqbeMezP5kfq05elpGnWbn",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFybPGLKNl0J731eVPRLmQokXZkCkSsvWX0EasSHrIu6tWPe4ULekm0GfzNbPC6-ca6S-V5osBRbwwOtTLTM8yJYnxgirm8WNEP2bcyUKR7Xe19g6BJnj0U39Xlp9iMO1G7B6gY14C1qALZdJND6vkicmvAxJKKj6eab6TPa-PAYThsANPWU5F99fBJ1f3pS-xW4sm3xgEk_hXbPhsemXU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3kzWhzv4eb4R_N7PshUSv0IzmGd3707XFmhreuieysTCLAHnmosQLW8KmQiR9ixZ-6IUp2sLQQapHUcCI2qYPcxp1t_M9Z70HTOToXCZiai9BOj0BBV1dUGc8sdJmh7iX1MHzpcjBjZFji0t4T--MPL1W9oqZalMy5fMqBWvWT_-nzUINGeWZefRF0iPxetqwz89UZCygi78e63rXY7h4PFU1j6pA0-nkCXUu0C_m4TbA_twE4YBAEDODnVYKA3RkAmDXfp9jlbk5xNc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj26tVXuMUS8TE5ipnS3kDpr7Xr7dMwFc5-zUoX7FItpHweL8jNNpwhnC1IA8RzcLRwVyeLfDHTOnOXpXLP-GkmlutkpYFKWZPjMNqKOfaSxf4cfdc73PdazujRpHbyiEJJYEdEyJTMkisjLuNrjDGasNqxHxgre5gDX2aK22Qh1HhajCUVi8SRkmHTUJ979sZTk21FcxsDxDqyzxVPVV2CXPPZt6kSTG_8EeJaj_lBxc-9geAxzU5YYLklWSRu2t-ST4jrHq-_dav3UisKtjGbvrl_OOytp9ftZbveA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T19:27:05.499049+00:00"
+  },
+  "performance": {
+    "weightClass": "51kg",
+    "stance": "Orthodox",
+    "reachCm": null,
+    "heightAdvantageNote": null,
+    "tournament": "amateur",
+    "titles": [
+      "2012 7th Sub Junior Women Haryana State Boxing Championships Silver",
+      "2013 8th Sub-Junior Women State Boxing Championships Gold",
+      "2014 9th Sub-Junior Women State Boxing Championships Gold",
+      "2015 AIBA World Junior Women's Championships Gold (54kg)",
+      "2017 World Youth Championship Gold (54kg)",
+      "2017 11th Junior Women Haryana State Boxing Championship Gold",
+      "2018 World Youth Championship Gold (57kg)",
+      "2021 Asian Boxing Championships Bronze (54kg)",
+      "2025 World Boxing Cup Gold (54kg)",
+      "2025 National Games Gold (Women's Featherweight-57kg)",
+      "2026 Commonwealth Games Gold (51kg)"
+    ],
+    "recordStats": {
+      "wins": null,
+      "losses": null,
+      "draws": null,
+      "knockouts": null,
+      "noContests": null
+    },
+    "chartConfig": {
+      "primaryUnit": "wins",
+      "secondaryUnit": "knockouts"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.seasonalData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.seasonalData",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight",
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

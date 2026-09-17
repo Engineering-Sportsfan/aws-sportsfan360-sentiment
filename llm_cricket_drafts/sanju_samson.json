@@ -1,0 +1,150 @@
+{
+  "athlete_id": "sanju_samson",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Sanju Samson",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1994-11-11",
+    "heightCm": 170,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sanju_Samson_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=byitJuGunJs",
+    "bio": "Sanju Samson is an Indian cricketer who plays for the India national cricket team in the T20I format. He was part of the 2024 and 2026 T20 World Cup winning teams, including a Player of the Tournament performance in 2026. He holds the record for the highest individual score in a T20 World Cup final with 89 runs. Samson is also the first Indian wicket-keeper batter to score a century in T20I in South Africa.",
+    "birthplace": "Pulluvila, Thiruvananthapuram, Kerala, India",
+    "coachName": null,
+    "yearsActiveSince": "2015"
+  },
+  "record_highlight": {
+    "event": "Highest Individual Score in a T20 World Cup Final",
+    "result": "89 runs",
+    "type": "CR",
+    "typeFull": "Championship Record",
+    "phase": "Final",
+    "date": "2026-03-08",
+    "city": "Ahmedabad",
+    "prevRecord": "85 runs",
+    "prevRecordPlace": null,
+    "prevHolder": "Marlon Samuels",
+    "improvement": "4 runs",
+    "improvementDate": "2026-03-08",
+    "aiInsight": "Sanju Samson's 89 runs in the 2026 T20 World Cup final against New Zealand is a significant milestone, surpassing Marlon Samuels' long-standing record. This performance was crucial in India's victory and cemented his place in T20 World Cup history. He also became only the third batter to score a half-century in both the semi-final and final of a T20 World Cup.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "111 runs",
+        "holder": "Sanju Samson",
+        "date": "2024-10-12",
+        "venue": "India",
+        "tournament": "T20I (Highest Score by an Indian)"
+      },
+      {
+        "label": "Olympic",
+        "value": "89 runs",
+        "holder": "Sanju Samson",
+        "date": "2026-03-08",
+        "venue": "Ahmedabad",
+        "tournament": "ICC Men's T20 World Cup Final (Highest Individual Score)"
+      },
+      {
+        "label": "World",
+        "value": "172 runs",
+        "holder": "Aaron Finch",
+        "date": "2018-07-03",
+        "venue": "Harare",
+        "tournament": "T20I (Highest Individual Score)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2015",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        19,
+        23,
+        27,
+        179,
+        40,
+        436,
+        222,
+        400
+      ],
+      "wickets": []
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        90,
+        10,
+        0
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Sanju Samson registered three consecutive scores of 80 or more in the 2026 T20 World Cup, including 97, 89, and 89."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMgd-mRQMqCzhAf7rbRBgncdKrvnRBjtaBoYl-vl2PE_1XQ7icF8qegdL9YqDAyilHZqHKQEfYrIcV7CUueL-eYpkw7bQ3IKUolJO8AW1vL1DNil-tIWj70GcAgZcyvy5h352lkg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBbCC4gnvxjPN5mGARMyEVINGtnoVmPAhse_G3ZA1lpPJR0uzEwpAWxrL6e2LhOUy8J12RcXlb1Dx4H7oCqDNkUANaNFd19EPXUOgyozp44iGK_NN1DOS4ETnVjn322Ahedv7iT5hJUuv7OkECQFeYzDVHSqG8Nmb9IsgGfU5_b1D7G80zpeVZ7z_0yYz8dri6UI1lYNMdwlUqGFuTjCOZicbWrq2nVJbI2ocvJmvxAHZ9wKh2hUcHm9AtblSBMhcW4UqG",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9gkXKZvad0dUwd07IxYzcDNuFM1Eo8VOZFLcDnDRDktny5hDADWB_8X5UcEHt-3y8hjhlIRS4mq7z97E6VgWuQtkZzmfEzU2AFsfssSSUQHovXj77horrD72sjh5vuvLBTrrSwEA8YIJENXcvqfBqVAJMfrGML_783Zh1EIFfc-x3RwN_2tk53PRHmcVGBRCz4pQYWa-lT_salQGxRyrew7jzWIuieofXSnvviZ-IReGlU23lmxuo5rKACM7wUHFforZqYhMt74UJ28XM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ_4QWwVCtKGzdYJeP9LgtkD5OscHKK26pTuyWGgvq81kA9jpvCsfaCaWen94lwtiVMOYSyrzyQB88Zv1S4dBjqjo7_LkK-4STZA64uLsvx7vL3uT6-NfaXLcucBF2KvY0r_BaHZC1MpR9j_cVYap97u5Ou_Op4BMyboAlM9o5SeI7jEeGScnSqu6QgP4lHSXY0DETmWmwmo3wzhgL5ANLoWTin-wbhP5fGCw="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:19:09.932486+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1432,
+      "ballsFaced": 918,
+      "battingAverage": 27.52,
+      "strikeRate": 155.99,
+      "fours": 119,
+      "sixes": 86,
+      "dismissals": 52
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "samson",
+    "sanju",
+    "sanju samson"
+  ]
+}

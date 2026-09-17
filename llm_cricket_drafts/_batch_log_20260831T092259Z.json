@@ -1,0 +1,215 @@
+{
+  "succeeded": [
+    {
+      "name": "Ravi Bishnoi",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "ravi_bishnoi",
+      "path": "llm_cricket_drafts\\ravi_bishnoi.json"
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "jasprit_bumrah",
+      "path": "llm_cricket_drafts\\jasprit_bumrah.json"
+    },
+    {
+      "name": "Varun Chakaravarthy",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "varun_chakaravarthy",
+      "path": "llm_cricket_drafts\\varun_chakaravarthy.json"
+    },
+    {
+      "name": "Shivam Dube",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "shivam_dube",
+      "path": "llm_cricket_drafts\\shivam_dube.json"
+    },
+    {
+      "name": "Shreyas Iyer",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "shreyas_iyer",
+      "path": "llm_cricket_drafts\\shreyas_iyer.json"
+    },
+    {
+      "name": "Nitish Kumar Reddy",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "nitish_kumar_reddy",
+      "path": "llm_cricket_drafts\\nitish_kumar_reddy.json"
+    },
+    {
+      "name": "Ishan Kishan",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "ishan_kishan",
+      "path": "llm_cricket_drafts\\ishan_kishan.json"
+    },
+    {
+      "name": "Washington Sundar",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "washington_sundar",
+      "path": "llm_cricket_drafts\\washington_sundar.json"
+    },
+    {
+      "name": "Tilak Varma",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "tilak_varma",
+      "path": "llm_cricket_drafts\\tilak_varma.json"
+    },
+    {
+      "name": "Axar Patel",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "axar_patel",
+      "path": "llm_cricket_drafts\\axar_patel.json"
+    },
+    {
+      "name": "Harshit Rana",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "harshit_rana",
+      "path": "llm_cricket_drafts\\harshit_rana.json"
+    },
+    {
+      "name": "Abhishek Sharma",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "abhishek_sharma",
+      "path": "llm_cricket_drafts\\abhishek_sharma.json"
+    },
+    {
+      "name": "Arshdeep Singh",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "arshdeep_singh",
+      "path": "llm_cricket_drafts\\arshdeep_singh.json"
+    },
+    {
+      "name": "Vaibhav Suryavanshi",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "vaibhav_suryavanshi",
+      "path": "llm_cricket_drafts\\vaibhav_suryavanshi.json"
+    },
+    {
+      "name": "Sanju Samson",
+      "gender": "Male",
+      "format": "T20",
+      "athlete_id": "sanju_samson",
+      "path": "llm_cricket_drafts\\sanju_samson.json"
+    },
+    {
+      "name": "Renuka Singh Thakur",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "renuka_singh_thakur",
+      "path": "llm_cricket_drafts\\renuka_singh_thakur.json"
+    },
+    {
+      "name": "Arundhati Reddy",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "arundhati_reddy",
+      "path": "llm_cricket_drafts\\arundhati_reddy.json"
+    },
+    {
+      "name": "Shafali Verma",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "shafali_verma",
+      "path": "llm_cricket_drafts\\shafali_verma.json"
+    },
+    {
+      "name": "Harmanpreet Kaur",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "harmanpreet_kaur",
+      "path": "llm_cricket_drafts\\harmanpreet_kaur.json"
+    },
+    {
+      "name": "Bharti Fulmali",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "bharti_fulmali",
+      "path": "llm_cricket_drafts\\bharti_fulmali.json"
+    },
+    {
+      "name": "Kranti Goud",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "kranti_goud",
+      "path": "llm_cricket_drafts\\kranti_goud.json"
+    },
+    {
+      "name": "Richa Ghosh",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "richa_ghosh",
+      "path": "llm_cricket_drafts\\richa_ghosh.json"
+    },
+    {
+      "name": "Kamalini G",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "kamalini_g",
+      "path": "llm_cricket_drafts\\kamalini_g.json"
+    },
+    {
+      "name": "Smriti Mandhana",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "smriti_mandhana",
+      "path": "llm_cricket_drafts\\smriti_mandhana.json"
+    },
+    {
+      "name": "Sree Charani",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "sree_charani",
+      "path": "llm_cricket_drafts\\sree_charani.json"
+    },
+    {
+      "name": "Shreyanka Patil",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "shreyanka_patil",
+      "path": "llm_cricket_drafts\\shreyanka_patil.json"
+    },
+    {
+      "name": "Pratika Rawal",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "pratika_rawal",
+      "path": "llm_cricket_drafts\\pratika_rawal.json"
+    },
+    {
+      "name": "Deepti Sharma",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "deepti_sharma",
+      "path": "llm_cricket_drafts\\deepti_sharma.json"
+    },
+    {
+      "name": "Nandani Sharma",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "nandani_sharma",
+      "path": "llm_cricket_drafts\\nandani_sharma.json"
+    },
+    {
+      "name": "Radha Yadav",
+      "gender": "Female",
+      "format": "T20",
+      "athlete_id": "radha_yadav",
+      "path": "llm_cricket_drafts\\radha_yadav.json"
+    }
+  ],
+  "failed": []
+}

@@ -1,0 +1,340 @@
+{
+  "athlete_id": "selva_prabhu_thirumaran",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Selva Prabhu Thirumaran",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2004-12-28",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14926703.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=jDA09f4CCH4",
+    "bio": "Indian triple jumper Selva Prabhu Thirumaran was born on December 28, 2004, in Madurai, Tamil Nadu. He initially trained under Yoandri Betanzos at the Inspire Institute of Sports in Ballari. In January 2025, he joined Kansas State University, where he continues his training under coach Travis Geopertman. He won a silver medal in the men's triple jump at the 2022 World U20 Championships and a bronze medal at the 2026 Commonwealth Games.",
+    "birthplace": "Madurai, Tamil Nadu, India",
+    "coachName": "Travis Geopertman",
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "Triple Jump",
+    "result": "17.05m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-03-14",
+    "city": "Fayetteville, Arkansas",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Selva Prabhu's 17.05m jump in March 2026 set a new Indian indoor national record in the triple jump. This performance at the NCAA Indoor Championships highlights his significant progress and competitive ability on the collegiate circuit.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 16.15
+      },
+      {
+        "year": "2023",
+        "value": 16.78
+      },
+      {
+        "year": "2026",
+        "value": 17.05
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "17.37m",
+        "holder": "Praveen Chithravel",
+        "date": "May 7, 2023",
+        "venue": "Havana",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "18.09m",
+        "holder": "Kenny Harrison",
+        "date": "1996",
+        "venue": "Atlanta",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "18.29m",
+        "holder": "Jonathan Edwards",
+        "date": "August 7, 1995",
+        "venue": "Gothenburg",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "17.05m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Triple Jump",
+    "achievementLabel": "2026 Commonwealth Games Bronze Medalist",
+    "stats": {
+      "worldRank": "18",
+      "personalBest": "17.05",
+      "bestYear": "2026",
+      "totalGold": 1,
+      "totalSilver": 1,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "Triple Jump",
+        "value": 16.15,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2023",
+        "event": "Triple Jump",
+        "value": 16.78,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Triple Jump",
+        "value": 17.19,
+        "rank": 18,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 5,
+        "gold": 2,
+        "silver": 3,
+        "bronze": 0,
+        "seasonBest": 16.15,
+        "seasonAverage": 16.0,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 16.78,
+        "seasonAverage": 16.78,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 8,
+        "gold": 4,
+        "silver": 3,
+        "bronze": 1,
+        "seasonBest": 17.05,
+        "seasonAverage": 16.7,
+        "currentStreak": 3
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "16.00-16.49m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 33.0,
+        "peak": false
+      },
+      {
+        "range": "16.50-16.99m",
+        "count": 3,
+        "throws": 3,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "17.00-17.49m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 17.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Known for his consistent performances, especially in the 2026 season, despite facing challenges like food poisoning before the Commonwealth Games.",
+    "peakZoneLabel": "16.50-16.99m \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2022": "Silver (U20)"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": "16.78m",
+    "afterCoach": "17.05m",
+    "coachImprovement": "+0.27m (+1.6%)",
+    "coachJoinYear": 2025,
+    "coachImpactData": [
+      {
+        "year": 2022,
+        "value": 16.15,
+        "period": "before"
+      },
+      {
+        "year": 2023,
+        "value": 16.78,
+        "period": "before"
+      },
+      {
+        "year": 2025,
+        "value": null,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 17.05,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcD18spbLuLLo_g1nIZc7QStMYiWTSlRe-CJKzibkDgwQKXrXZ_I_UVIDS1E-BX_wozeulLHhamKjDbRt8H7NBjnDxTJoG1KUKCuh52D2TgbsBN9fs-cmke_9OZKk9fC-t0cAiiQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtDMu7Aakj0hWrx2mogZpoAfee7J4tCxWoUnt0KESHSE4M9P1t1LXauhSsDfcRKTo_LlxmjgLcBH4t82yj6ugwRk4BqgHclQ6JFUGdax-DnWb0IWAi7oWd6CULgHTl_G72WsPILRgGSCwuhgsj-1QAiD0DzyiIG1RDvNvRRLiUlpQs7rN89n-Ttpo2fbL8KUskYfYKSD_nIXrVszOFdWZ1nNpoQ8ggZ3f6-YZL9gIfYAxR3LDo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRtMytoncOlDQQ4fMgASP8IFE51zbCpxj8Be0C9tH7tNRUTnDuw9TVCQ-lRslwaiVclYZFvEDonAM8jVrnY6zbOP-NyVG_Yl2ZzPWvgXE1w8W_87cobL0Va4OyV-id675EejgPALNn9zCOc6Ib9m4EYbLZddH7rDpHodCGx6A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrB4JIzET5fLQwBzqG_VE0rcj7d-uDFI0qSReMog-BHbyDyaJhgBE4EGmB-qrqS8sI7OztT5qzEewypQZ0fOst3zzL8R8QN287nMvjYKiSKhgfw2Z9PqKPw0p09Io85EGvdHxuDD_TnSUR8KOiXqz0qDrTaHPDyl3En3R4G-Y8-0UtFx19wRz-79ULTPuqvSEwyHPekHBxfe0xEAmiuYmX94ALnbHq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZEfFIXXIpSi-siqsjzAZY4odyrWwjMYPen-QwjSg7eOM1L8NTDHvAFduhFlFY1m27Q3cjfUjtDOVjqWExhxTL7jxusWltpdsuEtW-1iBDjEegl7P1bWbljqCjeT9u8E64fJoE9AKSFNtO28KdeMf0PkwJp51a5q55cUKqWUp5jPCq3RDDe4gnb1zstaWdALIEwL_TMtuBQxfsAu_KuGjLflrhFFrMqrlYEVbLBK5iUK1i5onBYomuXSwemfaqKuLoh9vAq6WEccf42J7sez0UO-JRqQHSSJU1CwlxoELnENTSioIO5clKOFgj-bMqCgQ7GTxKKJpfjh6D4cfNbXtbJS2MkD6WScLsHCq2IilR1ox8JoQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3nsw6L4uD0g19NMbkxxPdivQdnAiAZSVtBcVMonXeh-7vchwMlRkPiPOcRSA32O4_VxJLtwnybhvq2gsIXOp0QZU36sIUaVYDs3lcVKtKzM9jvo0_rOnRgedIwsvQ5cgsNu_YqmHoHmplzJJDvgYNf_G7pA2n8hfDaXLFTyC4m1KSutffzFgCdZJhVbwZ4LfXAOtp3ELRoejJKopLqjEWNkuBAQDE2cNHcjGdlFUZ4cWOVxweyM5KiNY03Rh1Pfr_kbffMqq-g9NdfXKAoiqxLC9cgQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmCaycztNpdKrlxKDdMbAYPm2z9j4rqKbau8X3gE0CzgpRtqw3bOfJA2ksFZ7Yr5Mzdsz688_hWXeH2PvQ9OcvLrwav2OA99PBYzySK0cBZchHHMVk-heBpzVzC6LlM8ClXFyohyWoYvQ6aWYlKxBXxrACNnAcqqNlc71XRUyVsVzPKyWcrup_VSG_3j-VTbM5oLNYkxltqdCSXyubhE5FBBCgTY-6KMrKhLikDpDaF3PPYzClO-NT1RGs9E3XHGieyTEP1E53QLxRvSScYRXE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEORET52tu8SGWlXu8lXunogzo9Nm7pQHFwUajG2MNYagaXPKaB8do9fP7u9pOTy8w5cHl7tQmbNcBCAlBj5iPh2VsfTbnawNjQ1glsLQJPKZCdVexe_AbBISs0zYjo-kD3LiqHMA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfujchOag7UotuJZ8n1I9AE3kLqkkc0RQsbDas2wcGPXGX0Dcqz8s2IjZYF2w3vO9yzIIMkUkDlVbWffUwByCCTtldeyPnjYy7wvz2XifbSF53fnOua1OL9LWLBMQ0DQFJid_SHJrcFd4bB7G1iL-2v9z9v6G5gBh16IL-b3hp8eBlluCOPHzpnu_rH_3A7wwH9jib1WiFbG57dnyn03-R0FQNYXT_NZY8A_GBj30qD1jTmyjT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMgDvAUOuy812gfmj94UWRIDbqGUTUravOHrZrmUaW5NY3ftmEG4rVe4yOHQOnkjmAMOiJ_rvn-q2ENDTNKmijWpu71xzdowU6EV2A8zIwdf5nQ-GJ8NpqW1Foxw5qXeiY9BONohZWssuTqmBjQEBgkPXrNn3A74DQC0VfuyiF8s11kiMLCGDjhu1D2xqF1WPpk2muLAFqozyY4I_U_MmALklL2AUK",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRVb7R2TqDtY5LahBuPNrK8IqIZIMekq6i0BFSbAS0YO0qeApuLQAILF7HgprPhvn_mOtoWb9ak46sgdGfENfGzJ0PKdLdrMUKSujQNyFgTl9apYs9ONqP11_N-xdlwTpUXy27zcTzeSQ3SfYD8TYbRxxv-5ev2WlzdOZNkXg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFRiPHEAjx0oY2psZ9Qn7MFDlu41m61vM4gkGmXdrP_0mwE2OCm19A-ZvBRwlE0FOj4_II_f_unQJiyMxBJlrCIbtfGyW0RBuokiWo6PheQCBKzM1MPyw_Tf-iD7F74fl5mMK-KUb4V4wm41czbTfwjmYInCsa3H7sZ5Qcnymwcs660-mLLWuNe00pfz2y-xWsLim_z4Mk-wh9AnUK9RXVVxIsvCO2DwOVemx2J00pqriz08afMXaXOWWUAGXtxwMZO2wMelSdwv_HlO_Pt95QXmdY-IIcqcu1VCd5AwmCXRGjBrulfQQloBVPJhQ4l4YIcz1WbFNi0-CQ_4hJgFtJCV02Ei_6XrRxzXH8GI3EYCUVoDw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE04GJv6UzraPUpwG52Dy-hval2XmRNgYW8oVlB4-Vx81kKiSLuP6V_sxLv6T-uDIhdKVsMrIcrrE9B45jDimCOi0dTUNjUgYsxnWf6YFWrMkxAw1uQMxbbXVLqv69Sf6gVrvRaKQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3uPWxINNxFs4JBDo0vqBm8qYsgCsm2xhHqQz1Xvda9DHDd53E8jD1JE6BSAAtAV1dFvE_B6jSRiXdh35Sp3W83ENBarYiM6Owsz20sk2jLw2JTeCGA7jZXYiMVlItivPlUhXNrW3lUS00ppn_ohny-mXxDkJee1Nc8dCDRBM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFI0Y62KStYBXDjuNihBGJ5EAcou-axDBWXPfT6nItFvDRlCsOJl9uZAaaV_Lg6wdJhaet901ZIML6VuYvglOmGu9MGJ-Vx_iwQWr74M4om91UFUypXAVSArCPrvaHTkAOnpJhmgz9_RfMAKurU87dq0FSnbv4V2GWYu8IJhwU2_KFsiON4Skck0Pt-Xi0cx_Bv2NGC7CZeCNUkeDuhYezvyJnFG0a1UDqmn818YJH6798mTuRfbPObw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T12:29:06.618589+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Triple Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Commonwealth Games",
+        "medal": "BRONZE",
+        "category": "Triple Jump"
+      },
+      {
+        "event": "World U20 Championships",
+        "medal": "SILVER",
+        "category": "Triple Jump"
+      },
+      {
+        "event": "Venizelia-Chania International Meet",
+        "medal": "GOLD",
+        "category": "Triple Jump"
+      },
+      {
+        "event": "NCAA Division I Outdoor Championships",
+        "medal": "GOLD",
+        "category": "Triple Jump"
+      },
+      {
+        "event": "NCAA Division I Indoor Championships",
+        "medal": "SILVER",
+        "category": "Triple Jump"
+      }
+    ],
+    "stats": {
+      "personalBest": "17.05m",
+      "seasonBest": "17.19m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        15.0,
+        18.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "playerId": "renuka_singh_thakur",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "gujarat_giants",
+  "coreInfo": {
+    "playerId": "renuka_singh_thakur",
+    "name": "Renuka Singh Thakur",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium-fast",
+    "dateOfBirth": "1996-01-02",
+    "birthPlace": "Shimla, Himachal Pradesh, India",
+    "heightCm": null,
+    "jerseyNo": "10",
+    "debutDate": "2023-03-05",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/35/Renuka_Singh_Thakur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Renuka Singh Thakur is an Indian right-arm medium-fast bowler renowned for her ability to swing the new ball. Born on January 2, 1996, in Shimla, Himachal Pradesh, she began her cricketing journey at the Himachal Pradesh Cricket Association's academy in 2009. Her breakthrough performance in the 2019-20 Senior Women's One Day League led to her national team call-up in 2021. In the Women's Premier League (WPL), she represented Royal Challengers Bengaluru from 2023 to 2025, contributing to their WPL 2024 title victory. For the 2026 season, she joined Gujarat Giants.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "3/23",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Delhi Capitals",
+    "venue": "Kotambi Stadium, Vadodara",
+    "date": "2025-02-17",
+    "aiInsight": "This performance showcased Renuka Singh Thakur's ability to dismantle a strong batting lineup, securing crucial wickets at key moments for her team. It was a significant contribution in a winning effort for Royal Challengers Bengaluru during the WPL 2025 season.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 32,
+      "innings": null,
+      "runs": 6,
+      "average": 3.17,
+      "strikeRate": 63.33,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": "6",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 32,
+      "innings": 32,
+      "wickets": 20,
+      "average": 40.85,
+      "economy": 8.28,
+      "strikeRate": 29.6,
+      "bestBowling": "3/23",
+      "oversBowled": 98.66,
+      "ballsBowled": 592,
+      "runsConceded": 817,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 2
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "matches": 6,
+        "runs": null,
+        "wickets": 1,
+        "average": 159.0
+      },
+      {
+        "year": "2024",
+        "matches": 10,
+        "runs": null,
+        "wickets": 2,
+        "average": 113.0
+      },
+      {
+        "year": "2025",
+        "matches": 7,
+        "runs": null,
+        "wickets": 10,
+        "average": 21.3
+      },
+      {
+        "year": "2026",
+        "matches": 9,
+        "runs": null,
+        "wickets": 7,
+        "average": 31.29
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt84W3UWG0XewFtV2rJ1kWZGRJsg_V1Ljkx5z3IjyeRbBGQjHzrkPjSQ72wmTthP6n73DPukxjWzFMl-KA9ETlDvH1ol_FOEAMO_qEBG3eiBxEDipUXJfFDNdQDZhbFoYSabK-JHtVjtQIqnC1O_xylW_T5pnSkeir",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES1jQiipb1FLqQFucB_ESLXdUpbNjK634wnuXobqz1t2Yc7eZHQV8Dt0mrYyXab_HCpKgcsZ6_qTVjD-P0W8zzAZPElaZ3-E9sjPYViHTzi7SSFmE4JEvgs34yMVca6CFhqHa1HOPX39-mtibjoP3w7Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC_jeZ1SJZF8uiMGBfa0Xk3hil8V7Lz8FZDVqO1UwR69eDcPZmBrBUv3mKedHz_dwH0-IRhYqbGPXrQ1TUQF2kUspQM5BhoAW8vqU26Ew177dG-N6E34OKvx26d7etc-K4wAvtStzH_qMsfoBX6GxXbA8spvzypDSrwmsjFoLZ92Ai6gmodWa8zX6KNj7cQhcedsE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOWzkh5GHiKAnC0RNCBVUgL4NzblNnzx5x-zvWrMYWmqTv3ncyhlsxriYfJtLRnXe9iHoWLaTx6VfoHSXhqlsEcrc_fVNkyqNQY5osYSs99q55yv2JKcPhEeT9O_Y9Az6J6Np8KZBwXi7vsP5SQuQ9hmKlEud7hZwJEBi8RuQ83HXoNv_STt6MZbDLsbhvgiGXEV4zySnxOXMs",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJFAwv2d2XyQnp7p4za8BaLGBWQuh4Cr0RC24ZzfrJULgoqKdWEdlhJNms6r990gTEEZ7BlklQWIt_cjB1kHcqqpwImOU3DPIIflBJfwLDcdbupmcHpnhWLe34eSh2rDoGH4gmGv_Nu6pZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH80ikaQRuuKNy6BZrDpQfhASlKDqg5I47MEDpkg3OBsCz3tVfHlNAEEaDrberBqRkNKJ1azAlDhvdsQp-uEvICVtr845E5BNINLi25p2QtRc1HZC9sRNBBUDPa5j673kHNSms5eLA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjaA32uCSg8OQ2mKRoJOY2TV41itOM1GT4L7Y8YLLKu2pbZFsr8SVncXFU7g9_mtBVC-z8ssiqn0pcYuYY9_tmw5FN3RbQ3jGDlxZ13KMgjCBeP8GdeAFXHV4MOPklLjuMWFFfBrEwj5IG4zGuPP4pqKLNkTwjp3ugcNqNhAPU2gPfXUiHGxqkIoA0PoQN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt_qkP0UQz3JxSEEB68Q6N57oXpzkIF0y5oV10O75xDkp7UBi6Pv15SpgdeIjgzOIMlHweyWkJeaVzZ0EqXyugcqP-zjESWUbFA0HR3dMAUcvTusO5Wj5_D4UGFMEPesS4KXsi06pv0kCELq2oFcSCldxNgVSEG8CyMKD9mKpFscl3b1hMbfw0N1zBzjBsnIbc1w_e",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3QLGevb6hG-jKj5VYs1bEcRT04vXHXCKv1DNb5HOQFBYRLo-4TkDuiYk8-SDri7UF8CirPDxMiOae4FvAitCKetVGxHmUXCJGZcDpY8dRuNKM_ge8RcOvqmXI0XPGAzrHc_31M2Tfl5unYXN0_mOCssKWw7vzHikjoEc8dx9nxDOP3KSclfQV-D3p6ztoaJzxpOlzsIDfH0tIP4Tw5UBom_TdHd0bqeFQV6E7UORKIQsirRUQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxCjJyVSiSMX1vrR473N0Xm8n2VQdswTzx5sDH-GGcUEemd1p0SnsDGmbHYBShIZgWhuaGMcjBoA3L5UouW4MNkaf0P453ZEgOYqwMnOD22jRUIv4ax4BHHFciLm7e4gVB0jop5-K65pzUZghq9rmR9bTJsK8xcyfvZxPMFQ0SXnrnr99U0Y2ltxziNKa5vPbeze09e2_sPvQQn9XF7_t0_oTuTTJoM6i7735XyrimThTajCASRMNyFoQf1iGP2S0F2Cmfd2eE3uYk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAz0SzOEzdJZ0dKkYcvdeqSFMEo0XDHYgh2P2fzr6Ptw-iOEy-65q_RnMyE0A6XXczzSg4gaBE9Tn1T7OBDX9alWiymRrUbJjZcw53BNd9zBR3Hspu8RmLvuXs2ptBcSdbtlonEbIeKWGATvo0a1lNyVujzfxWSfJvpPAO2qXypKLx-UhhLs3DPKBmZTGSyM31jSpeggY031OChsAq7tflA2JPhQMtFz-3xP6kFTa-Fbsr2aNdr8GZyOr8fA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXJWHtl_Izkl6-HFsvp23qAXNJVS7WPH8G5jHNtYck2rWOGwL0As7M1KSCarAne3tqDy1QOnuM-qXFxyFUCrKOT3IcvPkGbgaKZ8XPzfTLtVSaSclvRrsszwbsnspQQFBja_KMRJgYvc_a0x2u83wHQBzB61N6MzF7S-uDTlTc6od2L6K3kpODeLpZELX62ZmHClXx7XKw5lNhsqo5JopdWeG8jz67YqXtzPu_lmjUecwMmTc2ruPVLLXvTzBHt5QJ"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:28:52.518428+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "renuka_singh_thakur",
+    "renuka",
+    "singh",
+    "thakur",
+    "renuka singh thakur",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

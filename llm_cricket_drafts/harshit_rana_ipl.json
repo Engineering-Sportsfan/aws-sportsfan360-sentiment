@@ -1,0 +1,146 @@
+{
+  "athlete_id": "harshit_rana",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Harshit Rana",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2001-12-22",
+    "heightCm": 188,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=7-dP40eGtb4",
+    "bio": "Harshit Rana is an Indian right-arm fast bowler and all-rounder who plays for the Kolkata Knight Riders in the IPL. He made his IPL debut in 2022 and has since taken 40 wickets in 34 matches. Rana is also notable for being the first Indian bowler to pick up at least 3 wickets on debut across all three international formats (Test, ODI, and T20I).",
+    "birthplace": "New Delhi",
+    "coachName": null,
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures in IPL",
+    "result": "3/24",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Harshit Rana's best bowling figures of 3 wickets for 24 runs demonstrate his ability to take crucial wickets and restrict opposition scoring in the high-pressure environment of the IPL. This performance highlights his potential as a match-winning bowler for his team.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "6/14",
+        "holder": "Alzarri Joseph",
+        "date": "2019-04-06",
+        "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+        "tournament": "IPL"
+      },
+      {
+        "label": "Olympic",
+        "value": "6/12",
+        "holder": "Ajantha Mendis",
+        "date": "2008-06-08",
+        "venue": "Gaddafi Stadium, Lahore",
+        "tournament": "Asia Cup (T20I equivalent)"
+      },
+      {
+        "label": "World",
+        "value": "6/7",
+        "holder": "Deepak Chahar",
+        "date": "2019-11-10",
+        "venue": "Vidarbha Cricket Association Stadium, Nagpur",
+        "tournament": "T20I"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "runs": [
+        2,
+        null,
+        null,
+        34
+      ],
+      "wickets": [
+        1,
+        5,
+        19,
+        15
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        50,
+        40,
+        70
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg5Rx88l3mmwHX71eL6rbYkh14Rj6Vnd7P_ccCwu2M8MY43QKP8ynL_xlvIPer_tXCM_fhFLmF54XSt8ftg9Ji0IyPE5jw4HHw0Xp8gv2L_YUrc7J_uFwFeFfQAz3L4CEdbgjlCQg7gEjY9G64q63uQL3_Z6dkBViJoQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVl3wkwycIbHt2-h1z-klKaNXq0qoC2w8RqhPM5i01QtwQGCFuys5oGRR612HMljPvwlEOXKBJPjhfUU9M0yjlPiLQ9SAeGkFNxyrth3q4lmnPdinvxUWzy5NKhShGcKKFtDIz3_5NdntHxqiBKAy8kZ5xD20pzmKPb1p2KohGhOz3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJo0jJMMlNiISiwS4DtiP_vmdBaRHYwAhVxSFtyUGOKQv2Vz1tLc7_EojQEOoyymzOknOtOKKRdSm-CbNBhxMMCSEE034hoRh1RHpGubd6-ltb7W1-ytESdxwFkohV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD_19QR7NpWBBusM5XbSw726Vp2LdJSQ5YMwiPZDUB_ygabotZuEswRyFIpHVQ4qA_EnIs1oR3AkgHdqPvQEzUPolOwRGHH7oa5bzxesssfg_-5x_swV1vFKy8Is0E8OarqB4VlzEiNxpwbJPn1HwDs75lEMR3h96DixauXk1XYsrkjhr24uVxtNMH6ncVK_m5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsdTcgVs_fk4leBi-IaRG8PeaAjR74cjB4OLCgQ8qAaN-LM1Tx5aWOve17aXTXJS9_Ah3v2XMmgfAnXg2ZN2GBA99RCuNSIUpzGF0zZ1p_lYBg9ziL9HuDNoxb_-4n1e9qiaBEYfEJK31m"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:46:29.405716+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 59,
+      "ballsFaced": null,
+      "battingAverage": 9.83,
+      "strikeRate": 105.36,
+      "fours": 5,
+      "sixes": 3,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 108.1,
+      "ballsBowled": 649,
+      "runsConceded": null,
+      "wickets": 40,
+      "economy": 9.51,
+      "bowlingAverage": 25.73
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "harshit",
+    "harshit rana",
+    "india",
+    "rana"
+  ]
+}

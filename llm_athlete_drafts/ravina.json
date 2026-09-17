@@ -1,0 +1,318 @@
+{
+  "athlete_id": "ravina",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Ravina",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2004-10-10",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14670524.jpg",
+    "welcomeVideoUrl": "https://youtu.be/vf_KHvDDYZk?si=rcIabCTMJVlaVPzL",
+    "bio": "Ravina Gayakwad is an Indian long-distance runner specializing in the 5000m and 10000m events. Born in Maharashtra, she gained national attention by winning a gold medal in the Women's 10000m Final at the Inter State Athletics Championships in 2025, her first major career win. She began her running career around 2023.",
+    "birthplace": "Maharashtra, India",
+    "coachName": null,
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "Half Marathon Race Walk",
+    "result": "1:39:15",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-02-22",
+    "city": "Chandigarh",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Ravina set the inaugural national record in the women's Half Marathon Race Walk at the Indian Open Race Walking Competition in 2026. Her time of 1:39:15 secured a gold medal and marked a significant achievement as this distance was newly standardized by World Athletics.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 91.86
+      },
+      {
+        "year": "2026",
+        "value": 99.25
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "31:50.47",
+        "holder": "Preeja Sreedharan",
+        "date": "2010",
+        "venue": "Guangzhou",
+        "tournament": "Asian Games"
+      },
+      {
+        "label": "Olympic",
+        "value": "29:17.45",
+        "holder": "Almaz Ayana",
+        "date": "August 12, 2016",
+        "venue": "Rio de Janeiro",
+        "tournament": "Rio Olympics 2016"
+      },
+      {
+        "label": "World",
+        "value": "28:54.14",
+        "holder": "Beatrice Chebet",
+        "date": "May 25, 2024",
+        "venue": "Hayward Field, Eugene, Oregon, USA",
+        "tournament": "Prefontaine Classic"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "34:45.47",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "10,000m Run",
+    "achievementLabel": "2025 National 10,000m Champion",
+    "stats": {
+      "worldRank": "654",
+      "personalBest": "34:45.47",
+      "bestYear": "2025",
+      "totalGold": 1,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "10,000 Metres",
+        "value": 2085.47,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2026",
+        "event": "5000 Metres",
+        "value": 992.92,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 5512.0,
+        "seasonAverage": 5512.0,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 2109.57,
+        "seasonAverage": 2109.57,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 2669.66,
+        "seasonAverage": 3210.29,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Endurance",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Pace Judgment",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Race Tactics",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 60.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 70.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "1:30:00-1:35:00",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "1:35:01-1:40:00",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "1:40:01-1:45:00",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Ravina Gayakwad achieved a significant personal best and national title in 2025, demonstrating strong potential early in her career.",
+    "peakZoneLabel": null,
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2025": {
+            "value": "35:09.57",
+            "holder": "Ravina Gayakwad",
+            "date": "August 24, 2025",
+            "venue": "Chennai",
+            "tournament": "Inter State Athletics Championships"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOldbCkZkI9U_RU4pkgDc_rGdk2gH29NEmolJnx3lPCDMoKp3ahkXKPYluewakOuG6DROMpy2bcT2BoEsogkzhktJEr6_eC20EfhAlQKfF3KVO3tvpqH0NEPefsYVroMwfcrFJcIm1uWco7BoN3Y8Y9Uwhnr55sSlkoiLp8Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5cLSdNsb3hL6U8rCsibe36nwWXXmM2vHjsaWdPAsF3RwyAgiMHdxVJyuwliWHi3fcDWr_Mee5rvD4PyLgNZ5YtVKWacR8fGYUt4dTOZfcGQTQ7iXspFE5eO46bdOoMad-bekc6sY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvI44n2YwvUE_anfXNsipt97oXnFNetcgoZvgxIDTIvmEXGI_l52rjuFxSYTRAfjKnQGILsUgeHb8Ey_TR-3cCVnVnqkomU_8uosTuyBwcnD1qBc97VV4AkaGppb2hPJeIHXScU43K9uCLxpVFNw-46-gOlA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEewEdGrMuMD3hq0R08QuK6DA5mTHfTOQuLHdKUcSYskuJHeeyALdDe9e-fUrrspv0ZItyU8SLSVGmxJOlKIeHV8aykNUeYukEl35c6P_nK8SjzKzxVN13NIGdtEjqu_CVyAF-aT3_iO2W1azxSwDV60wTXm9ydD2eI-7T-xG0Mn3LmjGfrzrD2bD9WKI9xviJ1Qd4wnV5cxsJ5pm3OW-wV-dO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEay1GrYD4TYs-ih_Hhf8lF3SmYDsVkDdO0rnlJT6D_zj-PyyiBwRN7vaxUYfIEtlQcy17JKTB7-vc5ZTEQaptBAqoO94as3amktfdl8F8yfoGr0CodheYulB2rtBnj4Owx2ss2FMlcrW8Nm339D_z5sua-8O60b7_qmA6rzZI4744unfgNdnVREVAWCSD9P0ujOxRxQYEODBzZeyjQM8MA_RJ2GAljTLRbd4kiiaVnWycKIAZPIzOe2Y5n_5tbFaWgMgfEXwR-qDh0Uw6em1HUYvayhF-j",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEGUqUCajaRamMys25zC2sixG_IHdTuxZx0eo6xCkh0umQ3FcMqbPEv96wm6fCGGjKwZ7RT8K4--UZ_SS3pr_FIvuEqFmqVc9EeYM_sgRJGyK_4PrlIsvJ5IugOWXbL0YMyuA-61MnYnBvJLYA_goC5dXZADxMo0e9_foIoYS45cP7cLPKjHmLB9sB-nbBvtca0hfyipk-hHEh5HZ6byu8Yr95-0WhQXs1UY4hwSEnggr5Lr9Fi9zpwIWYHhvqRpWud3FsgaVu5_cwGP-tti-Fogpfc_Pp0FHcWJ9ZxfWu5H8b9F-alrIbw_Xaqm9U",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE5BdiACRBRl7v-UIAVntwfNAgb5QA-r4bBRPDNUag72YHPLaahxZ1bijrQpDxynp4jBS7KmzhnNcPI8oEwtK-tzI_mconrgD4GGpo3MKyq7x_iiVERF4Za4-KxzMcyeBU_iMG38b2UruThJGbClggo555DTh_iR24xV40n3W9yaJpadQ55MbPJz2LhpP8ZD9ac1feACFAXMxTJdUgGIU-gw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9M5LdGlxboUMBOrgf9tKjeFYUwoKJbVCHlL3vI60a3sA8Dh0Vdx89HuduZD8ehqs1vZe7MoOyJRR2qefYPvBVSpjj-UXtiSxDFe5Nz-JW_tmtDxrAiiEBgCmfF0TBcVjfAtO6688=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR3s_peL1dgC2l70hVHEAHMF3fdj708Zf1DF-GFMMU7Tft58Ej5K3nKJ8vEcpfJWNINNuQLK60D-gNxP-r0RzB5Gt6EN0iyJczShZmu6Mi6atLqv4pbwl5Th69PPG3oM3xGP0GDfUionvQ7k6CFySqTsh-2E__Uh0pNHOfFZza8bK_owcQYL6fVv7mq6aHWGU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHU4RdTdAABhT5LxTE_Kx4NKUuXTRnPTscA0GVgZlP64RlfDJHqDjaSapGBKVRLH6gJct0QrTwsdKDS4dv_qfvC-v87V7Je7vw_aKWXBxHBiCGtPVqTP2Taub7m1uESev4Be3NsiCrEGJ0nCEJCrJntHCZpPnOZgSuCBSeV4rD-40XVSZXdvrqewTcRXaFfQOnq3DmY7Jl7rYWmpYv84ZbSkaMjS7osjZ07On_DXhw6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaM-cO3KCFWMb17e4lg8G9SoWZonEBkCr1wsK4_Vam4pCH53CtZKa4blthRr-HDtNgIRLtbJebXZJjbTa83vWC5-K8xZ4TEEuSq2ZBkQK3W5gaVHbCbt1L2CPEiBnly2x-rLHAiKlkvpxa2kPhCkg-xtRkpisa48k6kmgB5DhkClSS-L4Hk-CfBPyre3aBOo6HRFSTqVcb0O_fsxNHB1t7JNO3XZjq6mGctU6a8brPZ_FNpAk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJDQfaIymZ0tURjTHHWpMgvaniekXGEVkhqrZ_hKRe4W8E68x-jjZTFp7Ohv27H3wDTs0Kw-MxOJUNBjyZkaFlum275gTUWuw3CWkFrmQ5Nfw4hWLU9M45IhGhgcpTk3iCp_K-oVSkcq4hdfDyUCUZ9GTnnV9vf9yy072PU377fwmYe9NX0GqzYVmhSCJg1X-Z9Jcb",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7QdxJCwnJNThz4ZGImprpUX1IFhet3Ho4DAJ7eHpzsRZF8Ef_O9bk6E2ZtmRgC-wQWtOuJjYycyoKYwkhiQ4DDg8Qwqwl-DYtFnlzH4_OXtCZ6FSJCKcI6H_jtzLPhXb3MQG5kdo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwcr8cXCiU8qUX56lNlJ8nICsNqVo-uA5vx3WaF3nq2Hk1R_KueOb3VazR3X9FFxTTsnGeshGrrizXwsdcEbtACHSHrYHj2rFbdYwiK7xS1CavVOuhKJw1KClEqBnDmfgGxkFZow-aXuPbP0o8ktp6hk311EWwmUAYvk8otw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhsYpjPM7GuXqbRnHhPWsqicv_N51p_rGcKScYJkEKeKgaUR4LkqedFdLerqcd5PyfnGwSM0RF-vb6hYod3zZOGEhNLUboAcxCzsA9vrnVqfOyg8A454n6Sn9SqS_bZZJGMy430XMCKTauKo5uphDAOdCZHlRv9Cl_N_iY-XVdgW2UuA_9a_DCFo1kdj3_th-DKefZA5WQgU9LHrBck-HyPr8RFCJjJp74B5iRTB_x1mG287oz6QQ1Alh2CU-KDPs1cal3U3H16Kw3qefu8S2rhc_QW2tAx3o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbLzP4HOwYkrrmM9HSre0lOJzONx2BORK7uAxw3z_ZvbStpTgnhcXLlA_WNxWl3TAhyuC5M5pPuIi-e6whreBHsbBRbVyEfEMoWiA3nulhPMnP1Kqiz7QJwzCy2ruaxAGk9dWthGt2hKmhr5lYoMqhtcmzKibYKfZXgtRxqjWi7Vza1t-CFEWFPKl42uIVeg4t",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtsdbVQ4fiwO6ngy4_2y9vNLmAS5WxA25jDeWxAVhEu0JvXHgLZCLuzqOXiFh9AuoW6BM7iIORmP0ptUzWdzGgG1iIIqJUqpB_SdMsWfYYXY20p98zLRIa_lkd09h2G4R5v1JPpA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T17:27:12.247777+00:00"
+  },
+  "performance": {
+    "primaryEvent": "10,000 Metres",
+    "category": "Long Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "20km Race Walk Team",
+        "medal": "BRONZE",
+        "category": "World Athletics Race Walking Team Championships"
+      },
+      {
+        "event": "Half Marathon Race Walk",
+        "medal": "GOLD",
+        "category": "Indian Open Race Walking Competition"
+      },
+      {
+        "event": "10,000m Race Walk",
+        "medal": "GOLD",
+        "category": "National Senior Athletics Federation Competition"
+      },
+      {
+        "event": "20km Race Walk (Open Category)",
+        "medal": "GOLD",
+        "category": "Asian Race Walking Championship"
+      }
+    ],
+    "stats": {
+      "personalBest": "34:45.47",
+      "seasonBest": "1:39:15"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        2000.0,
+        2200.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "performance.medalCabinet",
+        "performance.stats.seasonBest",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData",
+        "analytics.consistencyData"
+      ],
+      "filled": [
+        "performance.medalCabinet",
+        "performance.stats.seasonBest",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData",
+        "analytics.consistencyData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

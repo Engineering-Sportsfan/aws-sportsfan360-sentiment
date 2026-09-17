@@ -1,0 +1,121 @@
+{
+  "playerId": "deepti_sharma",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "UP Warriorz",
+  "coreInfo": {
+    "playerId": "deepti_sharma",
+    "name": "Deepti Sharma",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "1997-08-24",
+    "birthPlace": "Agra, Uttar Pradesh, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2023-03-05",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Deepti_Sharma_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Deepti Sharma is an Indian international all-rounder known for her left-handed batting and right-arm off-break bowling. Born on August 24, 1997, in Agra, Uttar Pradesh, she represents Uttar Pradesh in domestic cricket and plays for UP Warriorz in the Women's Premier League (WPL). She made her WPL debut on March 5, 2023, and has been a pivotal player for her team, recognized for her consistent performances with both bat and ball. Her career highlights include a historic hat-trick in the 2024 WPL season.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Hat-trick",
+    "result": "Hat-trick",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Delhi Capitals",
+    "venue": "Arun Jaitley Stadium",
+    "date": "2024-03-08",
+    "aiInsight": "This was a significant moment as Deepti Sharma became the first Indian bowler to take a hat-trick in the Women's Premier League. This match-winning performance against Delhi Capitals was crucial in a tense encounter.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 33,
+      "innings": null,
+      "runs": 638,
+      "average": 26.58,
+      "strikeRate": 117.93,
+      "hundreds": null,
+      "fifties": 2,
+      "highScore": "88",
+      "ballsFaced": 541,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 33,
+      "innings": null,
+      "wickets": 34,
+      "average": 21.24,
+      "economy": 8.4,
+      "strikeRate": 29.74,
+      "bestBowling": "4/19",
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": 722,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "matches": null,
+        "runs": 108,
+        "wickets": 9,
+        "average": 12.86
+      },
+      {
+        "year": "2024",
+        "matches": null,
+        "runs": 295,
+        "wickets": 10,
+        "average": 98.33
+      },
+      {
+        "year": "2025",
+        "matches": null,
+        "runs": 122,
+        "wickets": 8,
+        "average": 15.25
+      },
+      {
+        "year": "2026",
+        "matches": null,
+        "runs": 131,
+        "wickets": 7,
+        "average": 21.83
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELpXjr7ez90IBFJLlDXSVfOQ4VT45gjLbmc07usbgneOPMDdfEkHn_eFWbgFcle1cNd0-MW7J5ZPEaoMdOyzHJ_Qohu4xCV96j4oGcVihOHJbGg8vABr8v4Fn_T83jwE4Nhf4HgGU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEelvcaueSCMUqNPFdo7sU9jdgylE0_QcNWb3nhGXRegoZVfcPQVELAzkviBaNYXa8hfTQGvUOrz-0uO7jd8Gzazy-ay-Hu5-aIZpNC_KlSehfa7mwtRRQo65uirA-xKtxFKyGwah9ErDsR82OJSdSzYtqI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuEFVDxortW57BNQWcds603IAWw1g5zCksmhizXdTYz7_yAj3ZGt7eRhzpgP-_EsyWELv0ZJHMwzISFqMqsMb_g2GfveufNJr7zcpS6MQVV7SmlQ6wcuYGewK9UG2aMMttURwl",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoELC-Y06lzr6PjU8KuYVebM8h9ZMtjcRUMEeDcALibJq36ZyR_GE8Com5TXvI4cmAEp2Ps-1RNl2oxcuuifxPjLTcV-OBZpK2SfYu8T4LckQKiF3bibvoLPIvYk-cAaQ-LyhoALbvcbrWaUkmGvtmgiX2UoIrdMKMdeBnLPry2f_Lt0zAhqPZi9bgbeeEaNrMSA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZQ_f68EYZUFpO9EUOsy8GgXmQysIhxRPq70wW0dRi_eBl9BlOHs3pVM5N5x3OxjNeYoe86UcXxpVGkqBbcr9gdbTSuhEOo1WcLrIiHFdzSfcU-UCrwM-6v1TSK5ZDz5mjpDEO_4DyZ8v96_xQbkLGtgcpZOkFvDU2uKcCioV2svAmkMEmB6yRHELb7zlX6DgxyZQdz4yuZefKqMB2glLhTf3qN6aFcsGcGSclFRPWP8JFv0NgebMXtnQ0_3iJra5F6NcscpU_jdzpL756rf4X6A0J0PIUN25ypX_eawZNgD6xRTDx8tmGS8LS",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGULKL5OzMm-LJ6j1bOs4O-DsPmxnKKBfgyBkZtIk78aifjZtN6zfEOKJJnx07lRZWbGFUEa2yQ3gMEswaFPNfuBbYf_j5x6IzQGShqivWgJ8UvC_XspcnR6sFdzR20DSBN86AVtU10IHPuOQllsAuf8xSR1uD2BfTs_LSC2lboH5rTgs-Jr7xN2I3tsP9lLq0o0jJBKxfJMD-bGWZohZnKicUPg0pZVAB30UI="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:51:08.778263+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "deepti_sharma",
+    "deepti",
+    "sharma",
+    "deepti sharma",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

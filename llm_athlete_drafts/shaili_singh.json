@@ -1,0 +1,342 @@
+{
+  "athlete_id": "shaili_singh",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Shaili Singh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2004-01-07",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/8/82/Shailli_Singh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://youtu.be/gjWOMm1BBXg?si=zbHK0w3WUWAXojj-",
+    "bio": "Shaili Singh is an Indian long jumper who holds the national U20 record with a jump of 6.76m. She won a silver medal at the World Athletics U20 Championships in 2021 and another silver at the Asian Athletics Championships in 2023. In 2023, she achieved her personal best of 6.76m, just 7cm short of the Indian national record.",
+    "birthplace": "Jhansi, Uttar Pradesh, India",
+    "coachName": "Anju Bobby George",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Long Jump",
+    "result": "6.82m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-06-27",
+    "city": null,
+    "prevRecord": "6.83m",
+    "prevRecordPlace": null,
+    "prevHolder": "Anju Bobby George",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Shaili Singh's national record-breaking jump of 6.82m in 2026 is a significant milestone in her career, surpassing the long-standing record set by Anju Bobby George. This achievement highlights her consistent improvement and positions her as a strong contender in international competitions. It also demonstrates her potential to achieve further success in the sport.",
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 5.94
+      },
+      {
+        "year": "2019",
+        "value": 6.15
+      },
+      {
+        "year": "2021",
+        "value": 6.48
+      },
+      {
+        "year": "2022",
+        "value": 6.41
+      },
+      {
+        "year": "2023",
+        "value": 6.76
+      },
+      {
+        "year": "2026",
+        "value": 6.82
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "6.82m",
+        "holder": "Shaili Singh",
+        "date": "2026-06-27",
+        "venue": "Bellary",
+        "tournament": "Indian Open Jumps"
+      },
+      {
+        "label": "Olympic",
+        "value": "7.40m",
+        "holder": "Jackie Joyner-Kersee",
+        "date": "1988-09-29",
+        "venue": "Seoul",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "7.52m",
+        "holder": "Galina Chistyakova",
+        "date": "1988-06-11",
+        "venue": "Leningrad",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "6.82m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Long Jump",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": "58",
+      "personalBest": "6.82m",
+      "bestYear": "2026",
+      "totalGold": 3,
+      "totalSilver": 2,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2018",
+        "event": "Long Jump",
+        "value": 5.94,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "Long Jump",
+        "value": 6.15,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "Long Jump",
+        "value": 6.48,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "Long Jump",
+        "value": 6.41,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Long Jump",
+        "value": 6.76,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Long Jump",
+        "value": 6.82,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 6.59,
+        "seasonAverage": 6.59,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 6.41,
+        "seasonAverage": 6.41,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 6.76,
+        "seasonAverage": 6.65,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 6.82,
+        "seasonAverage": 6.82,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "5.90-6.10m",
+        "count": 2,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": false
+      },
+      {
+        "range": "6.11-6.40m",
+        "count": 1,
+        "throws": null,
+        "percentage": 17.0,
+        "peak": false
+      },
+      {
+        "range": "6.41-6.60m",
+        "count": 2,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": false
+      },
+      {
+        "range": "6.61-6.80m",
+        "count": 1,
+        "throws": null,
+        "percentage": 17.0,
+        "peak": true
+      },
+      {
+        "range": "6.81-7.00m",
+        "count": 1,
+        "throws": null,
+        "percentage": 17.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Shaili Singh has shown consistent improvement, with a significant number of jumps over 6.40m and a recent national record of 6.82m.",
+    "peakZoneLabel": "6.61-6.80m \u00b7 17% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2021": "Silver (U20)"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2018": "Gold (U16)",
+          "2019": "Gold (U18)",
+          "2021": "Gold (Senior)",
+          "2022": "Gold (Senior)",
+          "2026": "Gold (Senior)"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3ONeE8jbJSVR8rlBY5rxTmCxndlonb5YxvoAOSNdqOxtbMZ96TH3EtVCp1LakzE0ZHg4a4iKXHwD7PGpk6IBuGRjjo8BUSINe7TJQGlblcmw7c0Yl87yBqVIHehkD0ty12odcqUFEtpjIfRkMhVDQnT1H2MaL__1KHWu2Bnjj-IFxp-mrESyv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyxaScboUrtt1rfvfT5P8C8egw5v1RULUst0JjUGYCCE4sAo-f_QUHoEoLdNLuJbqpguPsdr5t5GEfpa62B3aHGGorADGb69l7ZNxMHpIPfirMdFAiUQdoMN10JplGfH9j7GCn",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJdO6a5i2xCguVqc_tTQKa-PM-dihou07KvwPtHDUh6qX3-k2hUJwjIq4FsamZb5bCujNzqzd66E_0cC_mgxt-xHKjeuygod2Mm5BIhbN1n3TWW9MjdNON56vW4-sp6tknv4wDT0qUbNhQHvjih6VT0jA3OXE0MuDA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYMCXjaH_EU8FY_YbGNw_DrO9Rzz1_Y7rFEVvBezVK5fNf5YKS7oypT00NEmmQFg0zh6kzk9n49uR-mrflNhCPXAScSmfOniueM1IvsXQ2JOYTqINqBJJIAl0WEIQrZhFE5Z17bu_n_w7SwD6kUrZ6HsYaSjxVV8f2170Hp5oULDHGioDZEoqp_b_H9rNaoCOad64IrVrh6wrmt_QwT7n3vae4QnoF"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:02:25.337786+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Long Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "World U20 Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "GOLD",
+        "category": "Indian Grand Prix"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "GOLD",
+        "category": "National Open Athletics Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "6.82m",
+      "seasonBest": "6.82m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        5.5,
+        7.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

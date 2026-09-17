@@ -1,0 +1,147 @@
+{
+  "athlete_id": "nitish_kumar_reddy",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Nitish Kumar Reddy",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2003-05-26",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nitish_Kumar_Reddy_BGT_2024_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=aVJNHjJVC-o",
+    "bio": "Nitish Kumar Reddy is an Indian all-rounder who plays for Sunrisers Hyderabad in the IPL and represents Andhra in domestic cricket. He made his Test debut in late 2024, scoring a maiden century of 105* at the MCG, becoming the youngest Indian to score a Boxing Day Test century. He was awarded the Emerging Player of the Year in the 2024 IPL season. Reddy also holds the record for the highest Test score by a player batting at number eight or lower at the MCG.",
+    "birthplace": "Visakhapatnam, Andhra Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "Highest Score by a Number Eight or Lower Batter at MCG (Test Cricket)",
+    "result": "105*",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2024-12-28",
+    "city": "Melbourne",
+    "prevRecord": "104",
+    "prevRecordPlace": "MCG",
+    "prevHolder": "Reginald Alexander Duff",
+    "improvement": "1 run",
+    "improvementDate": "2024-12-28",
+    "aiInsight": "Nitish Kumar Reddy's unbeaten 105 at the MCG is a significant achievement, as it not only marked his maiden Test century but also set a new record for the highest score by a number eight or lower batter at the iconic venue, surpassing a 122-year-old record. This performance showcased his resilience and batting prowess under pressure.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 105.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "76*",
+        "holder": "Nitish Kumar Reddy",
+        "date": "2024",
+        "venue": "IPL",
+        "tournament": "Indian National IPL Record (Highest Score)"
+      },
+      {
+        "label": "Olympic",
+        "value": "120",
+        "holder": "Paul Valthaty",
+        "date": "2011",
+        "venue": "Mohali",
+        "tournament": "ICC World Twenty20 (Highest Score)"
+      },
+      {
+        "label": "World",
+        "value": "175*",
+        "holder": "Chris Gayle",
+        "date": "2013",
+        "venue": "Bengaluru",
+        "tournament": "IPL World Record (Highest Score)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        303,
+        182,
+        302
+      ],
+      "wickets": [
+        3,
+        null,
+        null
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        60,
+        75,
+        40,
+        50
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEANJvPWTvVt0JVs8sFTnyOXvbKQlHH4FQlHJKI5YEO2PN00lEcW3G-sux9iYvTuN9X7TWluuA5TbagNu8cHSfxdH4S4dBv4H4cGzmBJyhgpbUnAGq3teKW264C42LCloJycn9nXU8o66WOM_hF8dtyIDNOhCMXt9M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFT9h2rw_LxyxkRqMn4PhHzsIv5U7OM3xehtWl1PucwHQWdAESSnj6sh9AsQEzYzTZz1CoG14k1qo5oQYAitxpngTH5qKvAEx707k-NHZGfOR--Wo85ydlLiU_LsJKtvvgg2R6dpCwbfDwF-A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnIfd3rmoZVvxXPtr0cZvsGcyjwndXuSn1Bt18MvLh0lzuaFlHAhIDkFJ79KXga9Y-BVA216zcNAIkcyH0Y4tBJXXgmStq_CgMGjElmMAMjbfdiyJ2Ezaaz5_NXtfwSx390bbV6_MKxXIvb-MOdBM0kWrHtJZELxurS02cgbTftKSYVUsb3DuTvD9zzTi_RCKBj6mxaa6CL_opBbIdUrdrmwadnZXd6NxukmKa3HAoc4pay_dP-IprPVF_3rpQ"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:43:42.692568+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 787,
+      "ballsFaced": 541,
+      "battingAverage": 29.15,
+      "strikeRate": 145.47,
+      "fours": 50,
+      "sixes": 46,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 325,
+      "runsConceded": null,
+      "wickets": 13,
+      "economy": 10.65,
+      "bowlingAverage": 25.0
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "kumar",
+    "nitish",
+    "nitish kumar reddy",
+    "reddy"
+  ]
+}

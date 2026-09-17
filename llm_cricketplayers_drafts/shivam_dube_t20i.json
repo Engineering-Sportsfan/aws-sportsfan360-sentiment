@@ -1,0 +1,131 @@
+{
+  "playerId": "shivam_dube",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "shivam_dube",
+    "name": "Shivam Dube",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm medium",
+    "dateOfBirth": "1993-06-26",
+    "birthPlace": "Mumbai, Maharashtra, India",
+    "heightCm": null,
+    "jerseyNo": "25",
+    "debutDate": "2019-11-03",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/6/63/Shivam_Dube_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Shivam Dube is an Indian international all-rounder known for his left-handed power-hitting and right-arm medium-pace bowling. Born on June 26, 1993, in Mumbai, he made his T20I debut for India on November 3, 2019, against Bangladesh. He has been a key player for the Indian national team and also represents Chennai Super Kings in the Indian Premier League. Dube's career has seen him overcome financial constraints and fitness challenges to become a prominent all-rounder.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "66 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Netherlands",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "date": "2026-02-18",
+    "aiInsight": "Dube's career-best 66 against the Netherlands in the 2026 T20 World Cup showcased his explosive batting prowess, coming off just 31 balls. This innings was crucial in setting a strong total for India and highlighted his ability to accelerate the scoring rate in important tournaments.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 73,
+      "innings": null,
+      "runs": 1127,
+      "average": 29.66,
+      "strikeRate": 152.09,
+      "hundreds": 0,
+      "fifties": 6,
+      "highScore": "66",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 73,
+      "innings": null,
+      "wickets": 38,
+      "average": 26.03,
+      "economy": 9.7,
+      "strikeRate": 16.11,
+      "bestBowling": "3/4",
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "matches": null,
+        "runs": 488,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2025",
+        "matches": null,
+        "runs": 191,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": null,
+        "runs": 296,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2023",
+        "matches": null,
+        "runs": 25,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2020",
+        "matches": null,
+        "runs": 13,
+        "wickets": null,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqs3Ge79W0wbFvGB7fXqEVWk87G73icluEolyCpSM7WXX3KHj8qrhK7IHP1IQDWJDDPaq936eI715_hP8V1sSfzsuz2F7go3z-HPYES45wdj8prXnkqarhE_ojcOPbuEpOSfE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKrXUa1UgahVQKQ191310ETtlOda9qd3JiYrkGjvpj1mYjh-snJjfCKezFKiRgPTQctHI9fwqo7SRFnTK_8tL7vHe3Iqu49H73PKMoMTnUD6_fYfk4LGC6Xeh6ovh6TKCyrXTu6HUok4Kew7CGki62yQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI_sBJSb5Q57P3h4Rh7G-wPueHV2mKbEi6MBcRbQAjr8B3Kwc1qDKRxHRuHnmnBJTTrc0dSeqocnio7kZ1HuwXNzouRzdZtL78gEtBWhIM0wuTz7H4qWMzIuDXPewK3nn-WQti_SSveoa2ysddVYqTfwEoUwbpK2LEXmZA1z-9TkOSg4-XVowEhaq3JHhUUfH5Ir5tu9XFUFQIKQLoOyyA2bUIoBXAoa6Z-4x0PhIQHYY9XlsVEMlbIWKSiF1-eyRn1wyxpS0aB_T8hhTRz92T",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMwl6-7HLUs5K4RGPA6kHYAfMEZSeoXDiuwNlb3rEKl54suvusWzJpsmfUvBUl5a84rp1B2BRatBTc9MslwOs2RfUylPIvw2wlq8-41XFwqyQq41g45rGEXJ2wOtjuzV_4RDNGKg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElNkErMuTLlKjqU3qF2Tb6Qgn-5aD14vxn3r0t1Gc-4j2KRSGA6h3PRbNtOjbwgDvw8jBL0yo4KyxnwV9uWwy6ErHjzDRQAvEvKhHMrF8NnG4e7c3A8uW11ZlxqK0HUZV01hW1vBpsQ05VD4T57uJhz0_CnH2jL-ooFBVkrOGKioRcb7FkKRueIxPmGZCIxg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnCPpdO6OAQt0dMTIfS5IIGmYD4XYDow9MoUJ4n4ZA7KwFqa9QQeSTEMgEu4blzXaMmee-dVyBwInCEdR99PGkWydq_X0-s_If62BKp_LIgHHgeWwYRvM9v5GIhSYCYdp3T7rTzE-g4-Ha0iFxMY-sbwXXc1P78WqnO6f2B9Xwwi9NViMH4OK-phzxlw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBrjkCfr91D9lm9oSCQTDVK27u645L6Ln4wnaWPVIeeOYVupduE06RCwOiq9-rRNQAHrMPlbm2f5pSmCwrGFCdO-EVpagEa7Nydi2J0JuPMD2jGSvqP9qSV7koekcQfU4kP1LVjHJ8BXv1fRFkqtHsc2DfdOhrNaGCl0s38c0UUeav9xrrMmSwfInrrHNZ0UDruDNve73mhezPM4vCsWhlfSwzanKDIOWS-_oyVkQ-UHLZVcFHxjkX6keDB2n4ArXia9wOsHtYyH5ECWbtg-jZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs-JKMuFHmD2Jkq5SVoK6oKfEnQSStbbnr0R6pXUssRFWWheG0ZjoRBH7MmTIZu8RB80tGRVVyDJB5GEnaujMwGVOq_kGjBiCLghWbbdONsXS83Qmus-59ctD-aXxVyQxuiL26yeLq_QguOISR_noPC94gnBXu43SPBjJTMh08ISjsdSADDU85BVSRsk60gdJc3_VWj5e5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK_1Tu68YskBPg1KNXpmhTqWlc-OL2IxCPh9gmMHEv2ea5a4RKnLViBmX7gr6gnsZflK8HUDw1QO3ezmqHJRV6dJS1rEdFP4wJ9m822hFVGF9Qj7wKjISAfSOJmLRLzeKbXNG4bS5Sajete3sR4qjVYUJzAm2amTqxzTVQ6jo7TwwaSCWq-GvyJd-sEuunkOOIfQVXTsSbvDZxO6D4s1sfcAoD4SH96Gp84A=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:12:23.490891+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "shivam_dube",
+    "shivam",
+    "dube",
+    "shivam dube",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

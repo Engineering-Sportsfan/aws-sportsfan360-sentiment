@@ -1,0 +1,257 @@
+{
+  "succeeded": [
+    {
+      "name": "Unnathi Aiyappa Bolland",
+      "sport": "sprints",
+      "athlete_id": "unnathi_aiyappa_bolland",
+      "path": "llm_athlete_drafts\\unnathi_aiyappa_bolland.json"
+    },
+    {
+      "name": "Nandhini Kongan",
+      "sport": "sprints",
+      "athlete_id": "nandhini_kongan",
+      "path": "llm_athlete_drafts\\nandhini_kongan.json"
+    },
+    {
+      "name": "Anu Raghavan",
+      "sport": "sprints",
+      "athlete_id": "anu_raghavan",
+      "path": "llm_athlete_drafts\\anu_raghavan.json"
+    },
+    {
+      "name": "Vithya Ramraj",
+      "sport": "sprints",
+      "athlete_id": "vithya_ramraj",
+      "path": "llm_athlete_drafts\\vithya_ramraj.json"
+    },
+    {
+      "name": "Jyothi Yarraji",
+      "sport": "sprints",
+      "athlete_id": "jyothi_yarraji",
+      "path": "llm_athlete_drafts\\jyothi_yarraji.json"
+    },
+    {
+      "name": "Prachi",
+      "sport": "sprints",
+      "athlete_id": "prachi",
+      "path": "llm_athlete_drafts\\prachi.json"
+    },
+    {
+      "name": "Krishan Kumar",
+      "sport": "middle_distance",
+      "athlete_id": "krishan_kumar",
+      "path": "llm_athlete_drafts\\krishan_kumar.json"
+    },
+    {
+      "name": "Mohammed Afsal Pulikkalakath",
+      "sport": "middle_distance",
+      "athlete_id": "mohammed_afsal_pulikkalakath",
+      "path": "llm_athlete_drafts\\mohammed_afsal_pulikkalakath.json"
+    },
+    {
+      "name": "Avinash Mukund Sable",
+      "sport": "middle_distance",
+      "athlete_id": "avinash_mukund_sable",
+      "path": "llm_athlete_drafts\\avinash_mukund_sable.json"
+    },
+    {
+      "name": "Yoonus Shah",
+      "sport": "middle_distance",
+      "athlete_id": "yoonus_shah",
+      "path": "llm_athlete_drafts\\yoonus_shah.json"
+    },
+    {
+      "name": "Gowthami Jayaraman",
+      "sport": "middle_distance",
+      "athlete_id": "gowthami_jayaraman",
+      "path": "llm_athlete_drafts\\gowthami_jayaraman.json"
+    },
+    {
+      "name": "Ankita",
+      "sport": "middle_distance",
+      "athlete_id": "ankita",
+      "path": "llm_athlete_drafts\\ankita.json"
+    },
+    {
+      "name": "Sawan Barwal",
+      "sport": "long_distance",
+      "athlete_id": "sawan_barwal",
+      "path": "llm_athlete_drafts\\sawan_barwal.json"
+    },
+    {
+      "name": "Kartik Jayraj Karkera",
+      "sport": "long_distance",
+      "athlete_id": "kartik_jayraj_karkera",
+      "path": "llm_athlete_drafts\\kartik_jayraj_karkera.json"
+    },
+    {
+      "name": "Abhishek Pal",
+      "sport": "long_distance",
+      "athlete_id": "abhishek_pal",
+      "path": "llm_athlete_drafts\\abhishek_pal.json"
+    },
+    {
+      "name": "Manju Rani",
+      "sport": "long_distance",
+      "athlete_id": "manju_rani",
+      "path": "llm_athlete_drafts\\manju_rani.json"
+    },
+    {
+      "name": "Annu Rani",
+      "sport": "throws",
+      "athlete_id": "annu_rani",
+      "path": "llm_athlete_drafts\\annu_rani.json"
+    },
+    {
+      "name": "Tanya Chaudhary",
+      "sport": "throws",
+      "athlete_id": "tanya_chaudhary",
+      "path": "llm_athlete_drafts\\tanya_chaudhary.json"
+    },
+    {
+      "name": "Krishna Jayasankar Menon",
+      "sport": "throws",
+      "athlete_id": "krishna_jayasankar_menon",
+      "path": "llm_athlete_drafts\\krishna_jayasankar_menon.json"
+    },
+    {
+      "name": "Anushka Yadav",
+      "sport": "throws",
+      "athlete_id": "anushka_yadav",
+      "path": "llm_athlete_drafts\\anushka_yadav.json"
+    },
+    {
+      "name": "Shahnavaz Khan",
+      "sport": "jumps",
+      "athlete_id": "shahnavaz_khan",
+      "path": "llm_athlete_drafts\\shahnavaz_khan.json"
+    },
+    {
+      "name": "Karthik Unnikrishnan",
+      "sport": "jumps",
+      "athlete_id": "karthik_unnikrishnan",
+      "path": "llm_athlete_drafts\\karthik_unnikrishnan.json"
+    },
+    {
+      "name": "Supriya Sindigere Basavaraju",
+      "sport": "jumps",
+      "athlete_id": "supriya_sindigere_basavaraju",
+      "path": "llm_athlete_drafts\\supriya_sindigere_basavaraju.json"
+    },
+    {
+      "name": "Baranica Elangovan",
+      "sport": "jumps",
+      "athlete_id": "baranica_elangovan",
+      "path": "llm_athlete_drafts\\baranica_elangovan.json"
+    },
+    {
+      "name": "Shaili Singh",
+      "sport": "jumps",
+      "athlete_id": "shaili_singh",
+      "path": "llm_athlete_drafts\\shaili_singh.json"
+    },
+    {
+      "name": "Ancy Sojan Edappilly",
+      "sport": "jumps",
+      "athlete_id": "ancy_sojan_edappilly",
+      "path": "llm_athlete_drafts\\ancy_sojan_edappilly.json"
+    },
+    {
+      "name": "Niharika Vashisht",
+      "sport": "jumps",
+      "athlete_id": "niharika_vashisht",
+      "path": "llm_athlete_drafts\\niharika_vashisht.json"
+    },
+    {
+      "name": "Thowfeeq Noushad",
+      "sport": "jumps",
+      "athlete_id": "thowfeeq_noushad",
+      "path": "llm_athlete_drafts\\thowfeeq_noushad.json"
+    },
+    {
+      "name": "Annamika Kozhinjapara Mbil Aneesh",
+      "sport": "jumps",
+      "athlete_id": "annamika_kozhinjapara_mbil_aneesh",
+      "path": "llm_athlete_drafts\\annamika_kozhinjapara_mbil_aneesh.json"
+    },
+    {
+      "name": "Mohammed Ashfaq",
+      "sport": "relays",
+      "athlete_id": "mohammed_ashfaq",
+      "path": "llm_athlete_drafts\\mohammed_ashfaq.json"
+    },
+    {
+      "name": "Dharmveer Choudhary",
+      "sport": "relays",
+      "athlete_id": "dharmveer_choudhary",
+      "path": "llm_athlete_drafts\\dharmveer_choudhary.json"
+    },
+    {
+      "name": "Jay Kumar",
+      "sport": "relays",
+      "athlete_id": "jay_kumar",
+      "path": "llm_athlete_drafts\\jay_kumar.json"
+    },
+    {
+      "name": "Manu Thekkinalil Saji",
+      "sport": "relays",
+      "athlete_id": "manu_thekkinalil_saji",
+      "path": "llm_athlete_drafts\\manu_thekkinalil_saji.json"
+    },
+    {
+      "name": "Pranav Pramod Gurav",
+      "sport": "relays",
+      "athlete_id": "pranav_pramod_gurav",
+      "path": "llm_athlete_drafts\\pranav_pramod_gurav.json"
+    },
+    {
+      "name": "Tamanna",
+      "sport": "relays",
+      "athlete_id": "tamanna",
+      "path": "llm_athlete_drafts\\tamanna.json"
+    },
+    {
+      "name": "Sneha Sathyanarayana",
+      "sport": "relays",
+      "athlete_id": "sneha_sathyanarayana",
+      "path": "llm_athlete_drafts\\sneha_sathyanarayana.json"
+    },
+    {
+      "name": "Sudeshna Hanmant Shivankar",
+      "sport": "relays",
+      "athlete_id": "sudeshna_hanmant_shivankar",
+      "path": "llm_athlete_drafts\\sudeshna_hanmant_shivankar.json"
+    },
+    {
+      "name": "Nithya Gandhe",
+      "sport": "relays",
+      "athlete_id": "nithya_gandhe",
+      "path": "llm_athlete_drafts\\nithya_gandhe.json"
+    },
+    {
+      "name": "Poovamma Raju Machettira",
+      "sport": "relays",
+      "athlete_id": "poovamma_raju_machettira",
+      "path": "llm_athlete_drafts\\poovamma_raju_machettira.json"
+    },
+    {
+      "name": "Kumari Saloni Nagar",
+      "sport": "relays",
+      "athlete_id": "kumari_saloni_nagar",
+      "path": "llm_athlete_drafts\\kumari_saloni_nagar.json"
+    },
+    {
+      "name": "Srabani Nanda",
+      "sport": "relays",
+      "athlete_id": "srabani_nanda",
+      "path": "llm_athlete_drafts\\srabani_nanda.json"
+    },
+    {
+      "name": "Abinaya Rajarajan",
+      "sport": "relays",
+      "athlete_id": "abinaya_rajarajan",
+      "path": "llm_athlete_drafts\\abinaya_rajarajan.json"
+    }
+  ],
+  "failed": []
+}

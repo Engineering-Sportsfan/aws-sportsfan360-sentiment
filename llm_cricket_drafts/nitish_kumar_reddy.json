@@ -1,0 +1,125 @@
+{
+  "athlete_id": "nitish_kumar_reddy",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Nitish Kumar Reddy",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2003-05-26",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nitish_Kumar_Reddy_BGT_2024_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=aVJNHjJVC-o",
+    "bio": "Nitish Kumar Reddy is an Indian international cricketer who plays as an all-rounder, batting right-handed and bowling right-arm medium-fast. He represents Andhra in domestic cricket and Sunrisers Hyderabad in the Indian Premier League. Reddy made his T20I debut on October 6, 2024, against Bangladesh, and notably scored 74 runs off 35 balls and took 2 wickets for 23 runs in his second T20I match, earning him the Player of the Match award. He is the first Indian T20I player to score 70-plus runs and take two wickets in a single game.",
+    "birthplace": "Visakhapatnam, Andhra Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2020"
+  },
+  "record_highlight": {
+    "event": "Most runs and wickets in a T20I match by an Indian player",
+    "result": "74 runs & 2 wickets for 23 runs",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2024-10-09",
+    "city": "Delhi",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Nitish Kumar Reddy's performance of 74 runs and 2 wickets for 23 runs in a T20I match against Bangladesh in October 2024 set a new national record for an Indian player. This achievement highlights his exceptional all-round capabilities and his potential to be a key player for India in the T20 format. This record surpassed previous best all-round performances by Indian cricketers in T20Is, including established players like Yuvraj Singh and Ravindra Jadeja.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "74 runs & 2 wickets",
+        "holder": "Nitish Kumar Reddy",
+        "date": "2024-10-09",
+        "venue": "Delhi",
+        "tournament": "T20I"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup (most comparable major global event)"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "T20"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        60,
+        80,
+        40,
+        50
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4KOv-KA6poo-gVf_K5v8v-SfoI1JxQcWF690R8gLtU7I92jGB6RY55Cp5V6D-RuImD3fnBECgcL3Yf82CD1Uf8_ms3PASWddemsosRFjY97P5WjxnKAJjcnCBR0_Y4FewvhbwSCs-vY1Ozg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_ePTuOZAzlwVPU6bVZB-XXU_5e-woCUbpls8plcZAvbbP3vCayToMVU6af02PmEi0i9Bc01X3J9rDqvMate5T9HpAj3cLvPu2-EWkPn2f61PsCTj4wV_Pq9AVTQtkn0xOKhkVB9ylW6tiKb2GgBkGrHqjgizyeEheiMIFyC8UWtbVpuyMFhJg3wEVjcdZ28FJBqhAemeLQKRE8U43_OQYcewsJ7uMs21XoHB2JJuotWjLVyDjj0EADjhIaZGXyeIA4_oHvT2uouk9C5EW6a1XoLtQVvMoaNjR2q7twx0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:16:43.597229+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1039,
+      "ballsFaced": 738,
+      "battingAverage": 28.86,
+      "strikeRate": 140.78,
+      "fours": 69,
+      "sixes": 59,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 76.1,
+      "ballsBowled": null,
+      "runsConceded": 764,
+      "wickets": 22,
+      "economy": 10.03,
+      "bowlingAverage": 34.72
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "kumar",
+    "nitish",
+    "nitish kumar reddy",
+    "reddy"
+  ]
+}

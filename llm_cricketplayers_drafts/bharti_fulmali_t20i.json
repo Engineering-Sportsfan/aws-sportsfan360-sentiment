@@ -1,0 +1,108 @@
+{
+  "playerId": "bharti_fulmali",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "bharti_fulmali",
+    "name": "Bharti Fulmali",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium fast",
+    "dateOfBirth": "1994-10-11",
+    "birthPlace": "Amravati, Maharashtra, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2019-03-07",
+    "profileImage": null,
+    "bio": "Bharti Fulmali is an Indian cricketer known for her right-handed power-hitting. Born on October 11, 1994, in Amravati, Maharashtra, she made her T20I debut for India on March 7, 2019, against England. After a brief initial stint, she was recalled to the national side in 2026, following strong domestic performances and an impactful Women's Premier League (WPL) season with the Gujarat Giants. She primarily plays as a batter and occasionally bowls right-arm medium fast.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "40 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "South Africa Women",
+    "venue": null,
+    "date": "2026-04-27",
+    "aiInsight": "This innings was a significant contribution during the India Women's tour of South Africa, showcasing her ability to perform at the international level after her recall to the national squad.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 7,
+      "innings": 7,
+      "runs": 86,
+      "average": 12.28,
+      "strikeRate": 93.47,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "40",
+      "ballsFaced": 92,
+      "fours": 7,
+      "sixes": 2,
+      "dismissals": 7,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2019",
+        "matches": 2,
+        "runs": 23,
+        "wickets": null,
+        "average": 11.5
+      },
+      {
+        "year": "2026",
+        "matches": 5,
+        "runs": 63,
+        "wickets": null,
+        "average": 12.6
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmv-tCqysxYnhdjl4L16W3-820WKjbFkePwoKmR8lIMtdeD0LTbFQOBXk5MTuHEm69H-nIyPdc5c5LHWKa6q2UqPVJ38MOmAia_isQOi-popijGRLnJfYn8_pewv8qtnxh22y-iiP7",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbCPfGb-bRCQ0huTXGx8ZzuZeBTv4K31v-erCOlzRl23_Pkz1u03ePRWQU-W4aYcnlLs1VnApuObLnvRkcWIdayPW8Bc4NBe781F5xzRm5Utam6woYRTURVuzWklDaIbQ9LbD4uP41U0WWED9HGg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXMQyEzNsh1vn3PAp8l5JRenvHcywSzy3nWYbcfqn9AfO0MHRYSR42bsWUbrz9N-SAqoykTbepxHuKzNNNU_9qF-NGHTwZymOmbfxquOFc8WbGLC6EVf5V7Zxt7gAaIAnY9ZlinF7zmUJEf0BEuDGqXFm5ug==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_C1Vn0WDaBnkb9eonuMMgeJnEd6DbifZxnNURiVrzNCy-Rkr_x-WDRv2Cl3UMIgNC2fuDxNVOCSmBpjNNm4QL21PYWZLVG043Np3g77d4WVp1H4Ty49S8VR2GSJFz7R-9AF83jp6YbGkXXzVwiJgvwFAZ43Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR26zyJ39OyGh_zFd4klob5y935ezWASyAkm9JiL_jW1r16KjqoKFj5531VwN-mclLdP0IzlakZ9AiE-uCJCAFaAzllSQhoszxIhNd_YkVoZo8NxeqjROVPbsWrdPAP1itQ382cZxTynwKh9x21UWLEr26-GV0_9Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFagdxmRAL3j3jOv2uv9aTCduwLj5ukeg5vYXJF5GDUnOlBDuUnEWD8ks-hJRuxheYEZhqqT9Mzfgl8ol1iNjvAMMSFefPgmdDMRk3k2b2gQ_LL1p-LI-kh9mUj_KouC6ZsbNqcQAE6zg2CCSeckhbCCjb8o6oDPcYD_8cRbJUVPSZWy3s4dLPFThPO3TIkLY06V5X9oiTIzkeioPc8a7KdGZz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzcWtJco03u3f_0H_m8coEPLu3lFC8RIuQyFXxGCziCEp2efYl27J5nVnybWth6XFqM81kgW9Vt8pEPe5NkewV2Nv2KbsXVyBJ8kFGMkwVcCR8I32SD92rX6XB6bsmL5BjElC2vS-VV4O5I3qpvsFngHeTuozJhvrCDsLThkZ7N0S0M2zosLl42wkASp99MGC9"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:35:13.645319+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "bharti_fulmali",
+    "bharti",
+    "fulmali",
+    "bharti fulmali",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

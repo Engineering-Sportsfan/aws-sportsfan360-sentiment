@@ -1,0 +1,391 @@
+{
+  "athlete_id": "rashdeep_kaur",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Rashdeep Kaur",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2002-02-01",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": null,
+    "bio": "Rashdeep Kaur is a 23-year-old Indian sprinter from Gandhuan village in Sangrur, Punjab. She began her athletics journey at a young age, overcoming financial hardships and societal skepticism with strong family support. She has represented India in international events, including the Commonwealth Games, and has achieved the Asian Games qualifying standard in the 400m.",
+    "birthplace": "Gandhuan village, Sangrur, Punjab, India",
+    "coachName": "Sarabjit Singh Happy",
+    "yearsActiveSince": "2012"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2021",
+      "value": 56.45
+    },
+    {
+      "year": "2023",
+      "value": 55.12
+    },
+    {
+      "year": "2024",
+      "value": 54.20
+    },
+    {
+      "year": "2026",
+      "value": 53.10
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "50.79s",
+        "holder": "Hima Das",
+        "date": "2018-08-27",
+        "venue": "Jakarta, Indonesia",
+        "tournament": "Asian Games"
+      },
+      {
+        "label": "Olympic",
+        "value": "48.17s",
+        "holder": "Marileidy Paulino",
+        "date": "2024-08-09",
+        "venue": "Stade de France, Paris, France",
+        "tournament": "Paris 2024 Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "47.60s",
+        "holder": "Marita Koch",
+        "date": "1985-10-06",
+        "venue": "Canberra",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "53.10s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Sprint",
+    "achievementLabel": "Asian Games Qualifier",
+    "stats": {
+      "worldRank": "334",
+      "personalBest": "53.1",
+      "bestYear": "2026",
+      "totalGold": 4,
+      "totalSilver": 3,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "event": "4x100m Relay",
+        "value": 47.96,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "200m",
+        "value": 25.07,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "400m",
+        "value": null,
+        "rank": 1,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2024",
+        "event": "400m",
+        "value": 54.29,
+        "rank": 2,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "400m",
+        "value": 54.47,
+        "rank": 3,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "400m",
+        "value": 53.1,
+        "rank": 1,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 47.96,
+        "seasonAverage": 47.96,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 54.29,
+        "seasonAverage": 54.29,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 54.47,
+        "seasonAverage": 54.47,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 53.1,
+        "seasonAverage": 53.44,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "53.0s - 53.4s",
+        "count": 2,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      },
+      {
+        "range": "53.5s - 53.9s",
+        "count": 2,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      },
+      {
+        "range": "54.0s - 54.4s",
+        "count": 1,
+        "throws": null,
+        "percentage": 17.0,
+        "peak": false
+      },
+      {
+        "range": "54.5s - 54.9s",
+        "count": 1,
+        "throws": null,
+        "percentage": 17.0,
+        "peak": false
+      },
+      {
+        "range": "55.0s+",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Rashdeep Kaur consistently performs in the 53-54 second range for the 400m, with her peak performances in the low 53s.",
+    "peakZoneLabel": "53.0s - 53.4s \u00b7 33% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2023": "Gold in 400m",
+          "2024": "Silver in 400m (54.29s)",
+          "2025": "Bronze in 400m (54.47s)",
+          "2026": "Gold in 400m (53.10s)"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyFClqNntRJNYKKJuw443FCI-4Jk6mbPS29gFpJ-quI-F8FYTavLvaf5hg6u_2xyhRyV9ZLQIOcfwDgoOghZyyKPcOM-Q0VjaGh7Cy9qG8-K53wXpGvk_JIGbJ5zAcOl5LAS2DXxLneVQK2JHhTw8Q7vWIRfwMGDZqFeRu62TbIlIee05Zp8YJgcBPz5PjlJCQcmB1MlCxw_S2ogyKi5njFXPp-DBV9y4tNR4jicR4YQfU4dsO2DfqXtzI8w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP_bjsiITzjWJY_d-KXGiXQBfwj30DzS-1wXOxiFqL1mmpbmpxxyY8Z55UXX62D73aGcf4A3mRloe43ohXDzZhLH3ShYWK4FIcg0MlSqAV90ZYWvixIQT8zkULS24xakfbIqM4LBXw5iFAxpQ8jQSfMicvug-OwlzbcyhQzRf2XNDFfpu_TtybnfTG7mcaRBtTrat7w7l8OL80KE58yvcK0tx1L9Mks6ggv1BlQhWPKtviOGTFhwuSYoY7aIZfaNwoA-VCbDh6XngKPwIQmlLQPg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0G10sVUxo-MhCa2DyuKlJ70jPUkibYRdESxafE9rNa7Dl-a1mQcci1_u25xt4csgGv4PAn1nPyaLkPpaYdnG8anl3xRTBBvWkYpYWluqFhqxUaYb18zLrpmgq71Y5h4Nz65IzbKmdyGcUC66urtwfm30Z69EBATFJfKKot7kua21h8ovdPgc0tFekbpqHUaqFlUwsw9RVvZfMVcF295FlSttu4P6myHnQ0-0rggM4ewMDCHiZkoa43KcGErOmnTGHARy363WbaRIMxL8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlsnaJxFubOSpc-rK02KqoO8ufHvtH2sOvIRfqjOYnmEisp0DvKYz8VlcGlZaAel47mqTl2HRfPWErviueITWVJWfNAFhOUHTKYGzPgzvmjhgXcqZ5rRN0Mfnc9HpV2x93BOONhrY7QansCHWT47kp1kpBMIQE4IKpXF5VYtXx5okaqzxb6T0r_O6EYlFBfDTKfGLfmkIzQp4FZ4xgEkwwL9_qsr2f4ITaz6SbtgcrNT3SxoqjJ7LE2jyL7OX7aQscUYjyEFh44Ra_eOl5PgEpEuc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf-Ed9GAATIZw-wToMDNMCJkwk9Pw4UWjjaaw8n2df6rDrVTcQU6mEtgK1fAUGWDEmTIv5hPtzDGJrYa9cG56Lf8CNsbGpqT9l9IFQx_837e2LM2VxNbZayMrV5Uak1Ps3ZZxS8unCN_2uCqFmqi3kcwg20R7j2Ke1OeOof8Lfpi8FWi-CcNCfdX9OgKN0sgsDPjUVsiCjnze9dYrc7CKBOboyZCoLFIkLU-0Vww29hrFJWzVONQahP-6gKkO5T2__WtvVQRMyJq7_KrkgUeQxk7g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1InyNJ27UWH_USHALqyDSSM_SAuIw_W2n1eK1uTxHZZkLx0rDNcmQyyaJYf1H7xnkHkL3O6NeFkyl2NEfbw9Zvfvmry1rqBD4oZICNKhYpu1WsmKoJld6PLz53WuIrnPP6PCsFLL_wv_z9ut_NjBdtp1jBwAA026j74N5zrKEgtKNyQVlYaDZOV_rDzVHDjF4Larew_P3iPU1y603vfvxHz2Bug9TVpsrgY6wocWiq4KnBLHk7V_AcgQI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxCoIb-NKR6la8kqEz8FxMTrhnA8_7DKsPrenBs-iMzSt8zJO96tjMM1DvF2AT5tjwIc_c9rylvYmNN8ucMA_5qeE87zciH7MOYn_86pkmufhlaKyWrbo9e2SG3iar2BYvRG3xK6XSCzv0Q4IsOyz_E6OClMt6AbBWXg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqjHeQ1_GbBqBjx8F21ZrxZux8Xjwu2HyAANdJ_4uPO2ilCK0vm1QKfpkQdVPwEjq50IuQp7moCjuK5p3BGlh9oaarstOzxaAMs0Dh05JpRuuEv4hIPT8BrSlXfKLjsIhMbuPw-Mh0vNVJFa3hue0aS-b-WnWsdCF4KUFGKAtQJBRubKo-LI8BUfr80oL9IT8zPR97NtUSFhWy240_JXuMTQYprl0Ov2P2PiEJcXs532pai8MtMRELPQ_oECpxrEXzzb003UliYNeXfWae1hlDBU63rqf9GmX3qdUXnHI="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T17:51:32.046106+00:00"
+  },
+  "performance": {
+    "primaryEvent": "400m",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "200m",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "400m",
+        "medal": "SILVER",
+        "category": "National"
+      },
+      {
+        "event": "4x100m Relay",
+        "medal": "SILVER",
+        "category": "National"
+      },
+      {
+        "event": "400m",
+        "medal": "BRONZE",
+        "category": "National"
+      },
+      {
+        "event": "400m",
+        "medal": "SILVER",
+        "category": "National"
+      }
+    ],
+    "stats": {
+      "personalBest": "53.10s",
+      "seasonBest": "53.10s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        50.0,
+        56.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.benchmarks",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight.benchmarks"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": []
+    }
+  ]
+}

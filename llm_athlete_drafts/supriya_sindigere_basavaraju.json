@@ -1,0 +1,195 @@
+{
+  "athlete_id": "supriya_sindigere_basavaraju",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Supriya Sindigere Basavaraju",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2001-03-11",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": null,
+    "bio": "Supriya Sindigere Basavaraju is an Indian high jumper. She holds a personal best of 1.80m in the high jump, achieved on June 28, 2026. She is currently ranked #295 in the world for women's high jump.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "High Jump",
+    "result": "1.80m",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-06-28",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Supriya Sindigere Basavaraju's personal best of 1.80m in the high jump, achieved in June 2026, demonstrates her current form and potential. This mark is a significant achievement in her career, placing her among the top high jumpers in India.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 1.8
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "2.06m",
+        "holder": "Yelena Slesarenko",
+        "date": "2004-08-28",
+        "venue": "Athens Olympic Stadium",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "2.10m",
+        "holder": "Yaroslava Mahuchikh",
+        "date": "2024-07-07",
+        "venue": "Paris",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "1.80m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "High Jump",
+    "achievementLabel": "Personal Best: 1.80m",
+    "stats": {
+      "worldRank": "295",
+      "personalBest": "1.80m",
+      "bestYear": "2026",
+      "totalGold": 0,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "event": "High Jump",
+        "value": 1.8,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 60.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 80.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "1.8\u20133.8m",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "3.8\u20135.8m",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "5.8\u20137.8m",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Information on consistent performance across multiple competitions is not readily available.",
+    "peakZoneLabel": "1.8\u20133.8m \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE3QGrfCK6QM1eBREYoOA29jTBahyb_UbcLumzyeK7kNDS-oYBp46xRSwBDErW6HBC1nFf3LWXitO5g6T3xN02QXVlY4kVXwq4Czd3SiWvtVQjPX1nvLnDpvKv0Swz8FMZQqaN2ndrsxQFaQxBrXORkezv3GfzPg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T14:22:45.500372+00:00"
+  },
+  "performance": {
+    "primaryEvent": "High Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "1.80m",
+      "seasonBest": "1.80m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        1.6,
+        1.9
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

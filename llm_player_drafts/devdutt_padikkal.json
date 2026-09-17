@@ -1,0 +1,111 @@
+{
+  "playerId": "devdutt_padikkal",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "devdutt_padikkal",
+    "name": "Devdutt Padikkal",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "2000-07-07",
+    "birthPlace": "Edappal, Kerala, India",
+    "heightCm": 191.0,
+    "jerseyNo": null,
+    "debutDate": "2024-03-07",
+    "profileImage": null,
+    "bio": "Devdutt Padikkal is an Indian professional cricketer who plays for the Indian national cricket team in Tests and T20Is. Born on July 7, 2000, in Edappal, Kerala, he is a left-handed batter and right-arm off-break bowler. He made his Test debut on March 7, 2024, against England, scoring 65 runs in his debut innings. He represents Karnataka in domestic cricket."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score on Test Debut",
+    "result": "65 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England",
+    "venue": "Dharamsala",
+    "date": "2024-03-07",
+    "aiInsight": "Devdutt Padikkal scored a commendable half-century on his Test debut, showcasing his potential at the highest level.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 65.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "65 runs",
+        "holder": "Devdutt Padikkal",
+        "date": "2024-03-07",
+        "venue": "Dharamsala"
+      },
+      {
+        "label": "National",
+        "value": "187 runs",
+        "holder": "Shikhar Dhawan",
+        "date": "2013-03-14",
+        "venue": "Mohali"
+      },
+      {
+        "label": "World",
+        "value": "400* runs",
+        "holder": "Brian Lara",
+        "date": "2004-04-12",
+        "venue": "St. John's"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 2,
+      "innings": 3,
+      "runs": 90,
+      "average": 30.0,
+      "strikeRate": null,
+      "hundreds": 0,
+      "fifties": 1,
+      "highScore": "65"
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": [
+      {
+        "year": "2024",
+        "matches": 2,
+        "runs": 90,
+        "wickets": 0,
+        "average": 30.0
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBk2onStTuCXUT8mHVk20UiaZRzU6FaF6zWsg-Ti9zU44HBnOyx0aqP_mb50f66v3thkEXXS4LnsU242BSCdcfLflUNwH-mCt-qkKQ29RbaIGaH3JF27jX-8Gt5QTKh6N_-gLJgJ4gZQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0Wb7HxcCFECo-X2AgLMqrXW1wmhOt2taIMZgrxl_a0B7bQYHWS81xw5UU2eBAnV5aePffn1wNfXBvhpFQGQjYH_TlGXXPaowEJTPYE6yI65RRb3GqKwK81XYTkQI6uMIA82dOU7mgw2f4mzIPPKwzORv1xwJn3m-Ig6IYU9dCJv1oN_6w",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZITol3NmhSGxcQVTdlQSKaX57PlNbV2lLO8iybP8L6sSCThudqmw7b2iPWGkOt1IVsWhE30il3Dda0UZ5OKzuM2nTyiJTNSKGBq5WL9EQBcc7AVffl88QnY43YWsMDLWf3tbBF-y85owPK8my89GLd6BU-5eie1Qgr7gA38yMyxVDuyYHt2-4I9epZrKEtIi-ALv7H9CV6rKV7LwENjsa8FzfHAOQ4guwhhlKGBegreBu1ck2znDZya7sDUA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJmhAD5iXgCppSSdD9L4t5dSf4YQdDInt6GHFroAm7xIaTK-KLx5rWO8CqvcOdX1pRrfBg8a97ACxbzuKBQFo0jrwSaN74WJf76ikcUl_XNoxhSn-KxbntOmwLxcYndMeAc4hSeWM6qrr0Ir0GTZ4C44XWHV_ysewgc1sRTPlJqxRnhZ5pYM7Vkk-oAcTqlwuz58gyAQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T11:31:59.050153+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "analytics.bowlingStats"
+      ],
+      "filled": []
+    }
+  ]
+}

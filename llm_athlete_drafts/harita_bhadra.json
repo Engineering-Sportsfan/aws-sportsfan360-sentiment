@@ -1,0 +1,227 @@
+{
+  "athlete_id": "harita_bhadra",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Harita Bhadra",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2003-01-01",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/kj-JcOOHT5I?si=CynWzYLhV9pDsBWM",
+    "bio": "Harita Bhadra is an Indian sprinter specializing in the 200m and 100m events. She emerged as a national champion at the 2026 National Inter-State Senior Athletics Championships in Bhubaneswar, winning the 200m in 23.14s and qualifying for the Asian Games. She trains with Loughborough Students Athletic Club in the UK while representing India.",
+    "birthplace": "India",
+    "coachName": null,
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "200m",
+    "result": "23.14s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Final",
+    "date": "2026-06-25",
+    "city": "Bhubaneswar",
+    "prevRecord": "23.58s",
+    "prevRecordPlace": "Indian Series–10",
+    "prevHolder": "Harita Bhadra",
+    "improvement": "-0.44s",
+    "improvementDate": "2026-06-25",
+    "aiInsight": "Harita Bhadra's winning time of 23.14s at the 2026 National Inter-State Championships moved her to 9th on India's all-time women's 200m list. The performance comfortably breached the 23.70s qualification benchmark for the 2026 Asian Games.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 23.14
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "23.14s",
+        "holder": "Harita Bhadra",
+        "date": "2026-06-25",
+        "venue": "Bhubaneswar",
+        "tournament": "65th National Inter-State Senior Athletics Championships"
+      },
+      {
+        "label": "National",
+        "value": "22.82s",
+        "holder": "Saraswati Saha",
+        "date": "2002-08-28",
+        "venue": "Ludhiana",
+        "tournament": "National Circuit Meet"
+      },
+      {
+        "label": "Olympic",
+        "value": "21.34s",
+        "holder": "Florence Griffith-Joyner",
+        "date": "1988-09-29",
+        "venue": "Seoul",
+        "tournament": "Seoul Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "21.34s",
+        "holder": "Florence Griffith-Joyner",
+        "date": "1988-09-29",
+        "venue": "Seoul",
+        "tournament": "Seoul Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "23.14s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [
+      22.5,
+      25.0
+    ],
+    "sport": "200m",
+    "achievementLabel": "National Inter-State Champion & Asian Games Qualifier",
+    "stats": {
+      "worldRank": "110",
+      "personalBest": "23.14",
+      "bestYear": "2026",
+      "totalGold": 2,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "event": "200m",
+        "value": 23.14,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 23.14,
+        "seasonAverage": 23.36,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 82.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 84.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 88.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 92.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "races",
+    "consistencyData": [
+      {
+        "range": "23.1-23.4s",
+        "count": 2,
+        "throws": 0,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "23.5-23.8s",
+        "count": 2,
+        "throws": 0,
+        "percentage": 50.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Harita Bhadra consistently ran under the Asian Games qualification mark of 23.70s across heats and finals in 2026.",
+    "peakZoneLabel": "23.1-23.4s · 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "National Inter-State",
+        "years": {
+          "value": "23.14s",
+          "holder": "Harita Bhadra",
+          "date": "2026-06-25",
+          "venue": "Bhubaneswar",
+          "tournament": "National Inter-State Championships"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://athleticsindia.com/harita-bhadra-storms-to-seasons-fastest-indian-womens-200m-time/",
+    "https://www.indiasportshub.com/articles/who-is-harita-bhadra-the-rising-indian-sprint-star-making-waves-in-the-200m"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-06T12:56:55.000000+00:00"
+  },
+  "performance": {
+    "primaryEvent": "200m",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": "2026",
+    "medalCabinet": [
+      {
+        "event": "National Inter-State Championships",
+        "medal": "GOLD",
+        "category": "Bhubaneswar 2026"
+      },
+      {
+        "event": "National Indoor Championships (60m)",
+        "medal": "GOLD",
+        "category": "2026"
+      }
+    ],
+    "stats": {
+      "personalBest": "23.14s",
+      "seasonBest": "23.14s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        22.5,
+        25.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "athletics",
+    "india",
+    "harita bhadra",
+    "200m",
+    "women"
+  ]
+}

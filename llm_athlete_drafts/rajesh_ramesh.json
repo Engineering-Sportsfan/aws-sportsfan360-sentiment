@@ -1,0 +1,347 @@
+{
+  "athlete_id": "rajesh_ramesh",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Rajesh Ramesh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1999-03-28",
+    "heightCm": 174,
+    "weightKg": 58.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14840992.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=VyLosgnLOF0",
+    "bio": "Rajesh Ramesh is an Indian sprinter specializing in 400m events and a key member of India's 4x400m relay teams. He represented India at the 2024 Paris Olympics and has achieved significant success in continental championships. Ramesh was part of the Indian relay team that set an Asian record of 2:59.05 in the men's 4x400m relay at the 2023 World Athletics Championships.",
+    "birthplace": "Peralam, Tamil Nadu, India",
+    "coachName": "Raj Mohan",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "4x400m Relay",
+    "result": "2:59.05s",
+    "type": "AR",
+    "typeFull": "Asian Record",
+    "phase": "heats",
+    "date": "2023-08-26",
+    "city": "Budapest",
+    "prevRecord": "2:59.51s",
+    "prevRecordPlace": null,
+    "prevHolder": "Japan",
+    "improvement": "-0.46s",
+    "improvementDate": "2023-08-26",
+    "aiInsight": "Rajesh Ramesh was part of the Indian 4x400m relay team that set a new Asian Record of 2:59.05 in the heats of the 2023 World Athletics Championships in Budapest. This historic performance allowed the team to reach the final, marking a significant milestone for Indian athletics.",
+    "progressData": [
+      {
+        "year": "2023",
+        "value": 2.5905
+      },
+      {
+        "year": "2024",
+        "value": 3.0058
+      },
+      {
+        "year": "2025",
+        "value": 3.0635
+      },
+      {
+        "year": "2026",
+        "value": 3.0143
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "44.98s",
+        "holder": "Vishal Thennarasu Kayalvizhi",
+        "date": "May 23, 2026",
+        "venue": "Ranchi",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "43.03s",
+        "holder": "Wayde van Niekerk",
+        "date": "August 14, 2016",
+        "venue": "Rio de Janeiro",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "43.03s",
+        "holder": "Wayde van Niekerk",
+        "date": "August 14, 2016",
+        "venue": "Rio de Janeiro",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "45.26s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Sprint",
+    "achievementLabel": "Asian Games Gold Medalist",
+    "stats": {
+      "worldRank": "155",
+      "personalBest": "45.26s",
+      "bestYear": "2026",
+      "totalGold": 3,
+      "totalSilver": 2,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "event": "400m",
+        "value": 46.13,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "400m",
+        "value": 45.54,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "400m",
+        "value": 45.75,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "400m",
+        "value": 45.26,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 3,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 46.13,
+        "seasonAverage": 46.13,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 45.54,
+        "seasonAverage": 45.54,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 45.75,
+        "seasonAverage": 45.75,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 45.26,
+        "seasonAverage": 45.26,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "45.2-45.5s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "45.6-45.9s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "46.0-46.3s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Rajesh Ramesh has shown consistent improvement, culminating in a personal best of 45.26s in 2026, placing him among India's fastest quarter-milers.",
+    "peakZoneLabel": "45.2-45.5s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "2024": "4x400m Relay"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2023": "4x400m Relay (6th place, Asian Record)"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2025": "400m (Gold), 4x400m Relay (Gold)"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoU1N4UjtveJB8Qi3znLEHF-DIPKQOF26kZ9efwMqRBW3E_V7YqyPtJZiYEyHDDMM-pbvsr1k69rRJ7vQc7dKRltn_d45dP8I2BN4XCpGE9DAFcQVIO_BdmQhe5VEEQQnPAZphE80T3xFd3q75msEn",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECmLDiEcBQcoZl9qMmG82C9HK9Hof7qhV8mhYHJYdpRZiUonjKrEvUvggLFei8h2PTNLzChri7q7sPVNZBH-fpOxU1Rm9LtNeMxOYuGv9J5M2PxNLUJWvsDausH_62bc7dS07bXuMUtJc2XcjqaleuqKmyfKdTDfuN9ckUDtraY7eW7o6cMfRtcRNxFZAsgPAUk-3eUcd3jQIVNs1GKQABBNVtDh8fTsku8O4wnQs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU0CeJ21km7zc62qtNzPgzbFQCwTGLxP5A4OL0BwLiZuKFhLbnN_bvyBd5mnEmAf3IMAjpoPIIEh-ReE15f8ypH9-14z_889w8SyFnb5jtFkpO6J6aFRf-lqgNsQBRG8JyFTEk1DIQtTvnUyVRcS5tYWE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzgOoztyuW6CiA9pvxkdSTmzfnBoLSLNre-zkyH25APaxHMxhz85HnwDyRx_QQW35e5If2kNN6PBcV-DqkefMZA9M_9_K8IVhDND6b3ZI6KEsjHN6iSC0TeWdbunYhdz0ZJG8XVpPWvZ3RWQwqSOSko_9ow1JWpi7i1oW_1hyXLuikp20pTAQhNQ2qL0foGk_NbjmTd3BOjhZA4Qx7Xs1pL4P3HlbfP9cxOciLY_38sCJBpo2IXmq7g7-7fAoaLt6RVr4wnJQpIHK9t1cIuyCYYZAP1v5FlyqDD0uHF4g_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2IQiNTTIlPbBC5j8qIWXvVqWeer13NDKLbMSulD98eKhWbIgjJY0Wn6Wy8dwGqwhV69LOVjO1Osby6vURe2ckD7MeFNsvvAJ4bSZNOF7uzvRhhPeD5NItf18LWjLVn-hu95qNB3hKGEayn-aXJ1bEb19AwU-QQbtzljoQlMJjh97vf2306ssMtVAAxV7fKAtqLajE4snnspMlUA_N25aeM5b13y_eANwn0dIjRC8dHNmZMLPARm-PyLdD8RlQ76EsosjwKGPl7zUcbdiBnrfwRo3QU3GPSZeuQ3A-FQ3bPwyQnrfe3hfhivAEoI1FCD0PWg4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGU6ueRKB0DtAdn_glxlsnP_JYy2-Z9_0Me8iee0u3RSZQF5Ws_yhVl2z4GdAV9aqeuTdeaOHgoMonYvTgJJld7g9g2yCScYA_Nu9IAh53l5SDS0fc-goCCddpyUa3FJn_45zFTSiLmv0kgSiAoVkllgj6ld-OdFnQhmsK_f4P_33aU1RaVqvhX3hWDge7Gg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM-eWbeYxYaR6-cRRjHY74WJO4avhyepWfAYGSbmvyhxUQLq21i_O6aByszEQphvHxm9PVm72u-UlPMJeUn-3bqQ6FnIxQSJbUcBzaCQkoCpKiJMjNznADeOfDFoAauJtiR6D4jrd_j8SAlmhvmlGIBx6u1megn3S2vXvku839c3893zdn9NugtkRKF9_xK7yPs3iatlqN4tZMRYv-l3TAeaFYtEr3-iOOaY7HW5kU-BZwwvZzLu0O_6ni8O0p5kZYs0iz7UQSjLfWB4gVFA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKSz9YHp_0ZmA08NQlIiPZqn30CRVIp5G4UX56nfXDcAx34caa_Zw7ur6SbiDWV1pWNPjEEjXOXEfmTTZbEfrrMUmjSdeHVWUChRNfrTVib37H1Ig7_gfYckQteYmT12uzFDdnMTKcvG96HDBKcCmtC-ZCJgqT72QOI83GKKldKZfPsYMksxQrsF3IxgRVyGkAedh8ECfanWTUdEJSzhaVO58Gg_2GIH7V9WhoZqAUR3jLxmhJa-K8zhjWTw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHquJiVLYf3OXPU79kgfyaoTZm89nWj-imzXtKQ7b8WaTOykwHUALuNGxznXz-NPp12Jb6X5jc3UgQ4aGZDpG_sXx4rwiGxsDzwZ3rE96ybvrvJB1EJQw4_fevJU3faRt7rmG3p8JAK1LjoJNV_7Dk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI6yWSiRtkpBze3W6dhAoaCGD9anbOcNNKoITZGYQLr9B-9JtwW5wQC7GrYUkoSkUcf-i36NCU9NulnNH_wlNtzU_ZUzSNY7WAhP8Dq-ugnDLhUlfEsAWBpoQCzv_D88VJaviCNF-5x_jESt6oyuP7f1QE9zoTqu_RgR0_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3msGbg4HKMHQs5q1swobnHV9FztegIDRQsTsH7bRT8mdw36WHM09qL26uZHsGcoERa7djKjWxY-VVkCB-Z8PfH71CihXUfF9LUgaUEDc0UVWFGd3NUMx3rXzs5DKfN9Uy2x4c3M00tTMIODUVzuJGjA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm93O1Q8NWzokt8bvjbr-kB56zXQuRvqyw4Qye1SesPp3Xk5qcW4DiQd2DcX-TQmzWvr3W07ovsog64R_4BPqlkEdULFZzXgcVMrxamLIRKmryariOgYfSs-rlsOpacstKGjyRc4JOepqIgT-UNKf89Zf-WfyGB2AGCLD5Rv01jofm7S1oYGwUkM2R_b6wJCfbRpPR2pd9fu8vI10ciM4CVOqDLGUJ3EtSrkT5tFkoc6AkFtY1bqGx0iJdruIuwIyIuV7IshbT-oZ2Yr5D25-6_dSOltJJAYM7j4Wlxxk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4O-L4NEoc_LPRsVY4S16SXdKe28O8kglO4jqbV9vwBOTZklOr57_hr20EqsLU98OgpwhYuBeyDtMoQFWHjyETyZXWOff9JOuIaKajZUnt355mCnKmxxAr2k9W6P4ANfCZrOh_cPLScJBsYYs3Vxyt-vF0t8JSa1U02UgIkdhi-7TtJCed8vPIQdstNTqe8fU-crpx3UKOwBX4F2bGwgSR2FVf3QqfE8jlv8Tjv31kRzF1n8uH4VpxOrYr2Knz7pzF66tvCOFOaFwG6fz3xz-l62g1Zx5PENuBqy6zBZZopdYgMLZHG9r-Bs4NANtn-qRAEKTTl1Y2rCXU6sGISKX6AjBHYK_-WmAcSqNRCnzVFNI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4PIOyg9ZYCSfFPy2Vc90Knb4L8IU4lwp84BDzYRf6RM7MxlgOvKF07N5U4QoZhbrah2-orrDWRn2rdhKqIK_HxYrKGR6SZgvjvqEbwhgEqNjb6wF2WY3E_0hVlUxKQjfPkEtQSl12eUYArIaE_hcBwVi7yJEeuoi9DRly5T8-1Y_ogKVzRmlCAbb5f91jzI6PkARFDUSsFmcik2aTqMlVMVupXyYcvP7AqEJSEw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7d9hQFDdoKFQ_B7wY47uu2pTcZA1BzhRRTcSPsZdouZ9T151MAdeCKB9KS5AEl11XZ1LJHlQpEJ84DbdGkSKDEM3_3VnIMW-UpaAmxVEL4ZTEiO7fv2GMC4UQe8r_UGXLamlT-R4Tr__pBNIZhdY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTF3tIHacS4awHLL2-zrWjxQ-jk183nPRkAjMw4nuIIiFHHn-f-zA3vbkklgDhw4wAQqs49mu11QqAOxUr1XAnyyCaUmILdMmZacAY6RfEfv11x_aiXmxUQUZY-kGIweGPaDgjv8xdN7xwr7rq2rxCjA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T10:09:35.161863+00:00"
+  },
+  "performance": {
+    "primaryEvent": "400m",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x400m Relay",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "4x400m Mixed Relay",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "4x400m Mixed Relay",
+        "medal": "GOLD",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "4x400m Relay",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "45.26s",
+      "seasonBest": "45.26s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        42.0,
+        46.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

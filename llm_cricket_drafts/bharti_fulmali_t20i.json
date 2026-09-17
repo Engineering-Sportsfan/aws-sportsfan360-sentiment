@@ -1,0 +1,138 @@
+{
+  "athlete_id": "bharti_fulmali",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Bharti Fulmali",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1994-10-11",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=v8fmm1ILwpo",
+    "bio": "Bharti Fulmali is a right-handed batter who plays for the India Women's cricket team. She made her T20I debut in 2019 and has since represented India in several matches. After a seven-year hiatus, she made a remarkable comeback to the national squad for the ICC Women's T20 World Cup 2026, following impressive performances in the Women's Premier League. She is known for her powerful hitting and ability to finish innings.",
+    "birthplace": "Amravati, Maharashtra, India",
+    "coachName": null,
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Highest Score in T20I",
+    "result": "40",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Bharti Fulmali's personal best score of 40 in T20 Internationals demonstrates her capability as a batter. While not a record-breaking score, it highlights her potential to contribute significantly to the team's total, especially given her role as a powerful middle-order batter.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record (Highest Individual Score)"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup Record (Highest Individual Score)"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "World Record T20 (Highest Individual Score)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2019-2020",
+        "2026-2027"
+      ],
+      "runs": [
+        23,
+        50
+      ],
+      "wickets": []
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        40,
+        70,
+        50,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRBnxv0qHK9umDa6k-pfspLs060wOdE23zX5lkK3dw1xR4lJJzhOtwChSjf7QGuJwYkMLs8oehp8ZLabdnfuoaJDPj-AlWRUwX0mMD8U62xrneC5C2yKm2Z2ADi_486qdFEdo7SfSR7gLP-tQRRWTsKsy745MZIZRrfPcbGmwN4IqmyQ0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ignNMye1U9hIyH_HfYlpAwWutFHC7OGooIuoNIpHJkE0IViLE7vLUUb_vUXZy24_A6zAWNs87rnlZ53mS87gX89eOBOzrSGYl3P5hC9X_BkK5CEIuvMhdXw5cSRCuBuE5IGgi-ds",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE6ZMFo7XD3btD8AFyGlc1eS3IZ0At6PTpBp6Z4O3DHZVLiU4aYyOV-BrCx-g-PabVkK0K0v-ns_ghukvTB3JqAaJjcKjUTmByq5c8V6NmT8fbAbfpGnJKIax8rd6dG8cvdd84YvhKq_Kutyt-ZKNal_DKT3mKfu3MRBVV0b9NrifRYX5zJ_3Q3sabbv2pcf3oRhV5R2HibMcdjgd2T1nWVPT1FsGeLW5VwCEzhI_cuRjL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcPtme6H3vcJkGB783ZBgubKJn2fiibFuD5OX1GpuZYwgcqz_7vqxDjDwRMkX6AKoZfrx38rJNhbKiQPP0JhY55bgrBoI0lXHwSmfCwpin9m5OPc4QBXfrS1Okz_RT87-ieqzJ9As9sNfdU5EUviZXUk5nSv5dcxltRvvQyQdazE6lIe1cKye0JeJT44TQkFtuiqtVWoXWNDYqZoyhdcqiAzmdWOXXc_K76HYg3u58dxXgJtdUcdmP",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsQqfZ9IFM76Qp4UAokjy1344HiBnCcvNxOUQMlgZLhUGUNH1e9iQtQXqLfSJtv7onrhL-yxFDefHysz4zXp9-B-XWPnYheMePyjGjdlYlDkj3QIJGKwHwhNIVKcs_OqeZ-o1sgFx6vdS04SX9nTq7lB0Pjg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuaMh7PNZmRJ8SRyzGMLKR7RMTmdKYaXs5Co8DXwcHsnsVhXU73aa3_VoPGyWTkSlHr4sO4k0dsZzSK5bpVRbglLZbZTXrxsv7cnF5YCLvSpPLzRLV2hTUDPJ9TnvE0S9iCPmhZARDxMJG_lqYOi6TiWuFifZhUgg="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:51:12.292820+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 73,
+      "ballsFaced": null,
+      "battingAverage": 12.0,
+      "strikeRate": 92.31,
+      "fours": 7,
+      "sixes": 2,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "bharti",
+    "bharti fulmali",
+    "cricket",
+    "fulmali",
+    "india"
+  ]
+}

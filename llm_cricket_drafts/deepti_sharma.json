@@ -1,0 +1,127 @@
+{
+  "athlete_id": "deepti_sharma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Deepti Sharma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1997-08-24",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Deepti_Sharma_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=0vWDlLKTWIs",
+    "bio": "Deepti Sharma is an Indian international cricketer and an all-rounder who bats left-handed and bowls right-arm off-break. She is the first player globally to score 1000 runs and take 150 wickets in T20Is. Sharma also holds the record for being the leading wicket-taker in women's T20 Internationals. She was part of the Indian team that won the 2025 Women's Cricket World Cup and was named Player of the Tournament in that event.",
+    "birthplace": "Agra, Uttar Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2014"
+  },
+  "record_highlight": {
+    "event": "Most Wickets in Women's T20 Internationals",
+    "result": "171 wickets",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2026-08-30",
+    "city": "Dubai",
+    "prevRecord": "170 wickets",
+    "prevRecordPlace": null,
+    "prevHolder": "Thipatcha Putthawong",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Deepti Sharma's achievement of becoming the leading wicket-taker in Women's T20 Internationals highlights her consistent dominance and impact as a bowler in the shortest format of the game. This milestone, achieved in her 150th T20I, solidifies her position as one of the most formidable bowlers in women's cricket globally.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "171 wickets",
+        "holder": "Deepti Sharma",
+        "date": "2026-08-30",
+        "venue": "Dubai",
+        "tournament": "Women's T20I"
+      },
+      {
+        "label": "Olympic",
+        "value": "22 wickets",
+        "holder": "Deepti Sharma",
+        "date": "2025",
+        "venue": "India",
+        "tournament": "ICC Women's World Cup"
+      },
+      {
+        "label": "World",
+        "value": "171 wickets",
+        "holder": "Deepti Sharma",
+        "date": "2026-08-30",
+        "venue": "Dubai",
+        "tournament": "Women's T20I"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        75,
+        80,
+        95
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGty8JYJKwpiMSfXIgqll5rOEHLfS-qjkBfawJfMOvhHKPyDTbFVJYgoKNc-TAi1LAp6eQT4w9S3K55XvZg0esSI-K8cutgqK4CMA02OdmQpdHbofbVqoe50phFq_v4Vy4yVDbU2YH1QHxQcQvIoH4f3zSqsq9mhwsyBw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsHyUxer4MXselxi6B2-7boUdXXQ4F_ZM4If1DudRPLTaiSOn1JdmsGsCxUMjOmf9qRrpSF-HYbKq_5jjDEm3-JymRXCarjZjVVkq9PynPH9Kv47qEim6il5_vMMgWgbl4NcFP4_D8BSjZ4kOr4m1gfmH9k9d-rzU7eJPAr72B_oKFQgG1DJpk4yjeXPAO5J087FeBAc8ez6IGEHfbTP-SZSoSNnGA7lLmiBhWHfOeKrOjQzLgdHrTFs-xbdW87j8blUHd9IthyA-4N5lCzNoN208KcUU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzMyN9sBx46AvBgboqc3JQPLw_Gw03z9okjnPCfzcvSidmih1g8xmE_-8JDVboDN8uNx6EpRUy_vV-cGLflGjW_FO4COAOH54-STcYuM_quiOTwAglILW6uSEweT61Ume2ULfja4Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoN9oMFuBpsMBIvgqb2C6Z8UugVBPQ01xqTcmh6iZv5zbxEOHA70PqQCA0R6nS_6OTSs5XaN40-DqGmmQyhRVkp66nQeMt55WOFHbXk1orfRTMf847rzZBeLSUzbOZe4rUOV-xv8Ecyf2ztxymC6yosuwGXY65W8tN9QjeWVi4u4NXgTHGDS_VIRzFPddRlkVyKaYkuFmIwHNzjxOV7AG4I5up9_F3P0Kh8Gi69bFyfZY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1nPzX-aVbxpk238HD37HDA1N44YMFL9eU4BeL7_ky_Eiw36klQT4PYAmn8anBmZ0vVX3U3-0Uzh84bbiABkQDvCMiviipJQYgck99JvBkWRz8XfV0bU6v0moiNO9t1f3_Lv-LRZISkJYsKzeBoN7aYM0wzen-T5fGiBdQ97TMdlgxaU7FnI764w2gTji79N0VIaBoNsQ1mZcx4PKf_2KNZ4TAgpRp-K75gY47wnlGNUQp7VAgnHAbiFJsCmZH0q0K-rG9IJ-54oYNpuvXWXiSJpjRV_nwBuVY4cmcDhABEsJjTWOflZM="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:22:27.732702+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1270,
+      "ballsFaced": null,
+      "battingAverage": 22.0,
+      "strikeRate": 107.0,
+      "fours": 108,
+      "sixes": 8,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 3072,
+      "runsConceded": null,
+      "wickets": 171,
+      "economy": null,
+      "bowlingAverage": 19.42
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "deepti",
+    "deepti sharma",
+    "india",
+    "sharma"
+  ]
+}

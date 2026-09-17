@@ -1,0 +1,128 @@
+{
+  "athlete_id": "abhishek_sharma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Abhishek Sharma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2000-09-04",
+    "heightCm": 170,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Abhishek-Sharma-3.jpg/500px-Abhishek-Sharma-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=gJvVnjRuou0",
+    "bio": "Abhishek Sharma is an Indian international cricketer who plays for the India national team and Sunrisers Hyderabad in the Indian Premier League. He became the number one ranked men's T20I batter in 2025, achieving the highest-ever men's rating points in the format's history. He holds the record for the highest individual score for India in T20Is, with 135 runs off 54 balls against England in 2025. He also set a world record by becoming the quickest player to reach 100 sixes in T20Is for a full-member nation by balls.",
+    "birthplace": "Amritsar, Punjab, India",
+    "coachName": null,
+    "yearsActiveSince": "2017"
+  },
+  "record_highlight": {
+    "event": "Highest individual score in IPL",
+    "result": "141 runs off 55 balls",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Abhishek Sharma's knock of 141 runs off 55 balls in the IPL is a significant personal best, showcasing his explosive batting prowess. This innings is the second-highest individual score by an Indian and the fourth-highest overall in the league's history, highlighting his ability to dominate with the bat.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "175* runs",
+        "holder": "Chris Gayle",
+        "date": "2013-04-23",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "IPL"
+      },
+      {
+        "label": "Olympic",
+        "value": "175* runs",
+        "holder": "Chris Gayle",
+        "date": "2013-04-23",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "IPL (Most comparable major global T20 league record)"
+      },
+      {
+        "label": "World",
+        "value": "175* runs",
+        "holder": "Chris Gayle",
+        "date": "2013-04-23",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "IPL"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        85,
+        50,
+        40
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "In the 2023 Syed Mushtaq Ali Trophy, Abhishek scored 485 runs in 10 innings, including two centuries and three fifties, at a strike rate over 180."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDW1s0NN2NwA1BOwTApiKa3Qy1n5Kycrf56wgvPF-dEhlqD6u0g80LjReOHrxsbzCgRrEpWX1jQ0nloA2Ncz3_DNBmUWeN14AUqoSRwihxsr5k3irn4kQJiWoJquPDeSgSx1QLzp7Y_WbBgwOcHvXHnytsLWvKimphUemJFIZWLPVp4YKvWTvb5jrDyr2Z_M7zB5A6N3LtBf25XsBJzoTBqYihLUA8clpMop7W41SWNCh5k-PFidykzP1bNhoWZKb-wWyr6UVpFpJDRqRYjO2bQtquKEH9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgqzcItvIASOOa4RrkiUx68pakmm3iBDm2cJu2cSpCVNDnj_cY7k9y1WkqomUY__nPEy4aUoMSaK4PcPhVmXau3hG6kxDh3y0yOqR8v3fjNnCyHPhz1vwHXPQGPYTj8hUcmsZyT9Bhxg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCYWS5Q13r6Ml_EeZCsJPinHHr5TyB5_YiIvbXoP0Av1x3u5XAeQ9iVYNmG0GZdCrh1Xddsb7YEm9G5zTv-A3ncHpW273Uk4yX3Pdr3OFCBP6yyYwfUYlu5wF1DwBMiACiT4P2qTvnX3Wh8aoF03_hl0avL6HNQOQ691JviwmQgoeXFeZfecBWiLTAPhajy6xe5G8HhGiKDiuir08S7G1J-K3Am4rVekuACjcxEYVkIBxJpSF24aCf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG4MYMntfQxDqjz0o9fpbc03H8CBWfEtiMC-p7yOgtQrDHJ1fgZJyD5EGmiUESrZM7YriDW8pEt-blb5hzEgocfmM4MNv7t3ozpoCWqHE-lulC8RNljqMmnYdmmKZxYzoyE2v9SQrqSsY5UCd2tPknkVCpo1_atlkjGYBRt15i"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:47:05.932949+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 2379,
+      "ballsFaced": null,
+      "battingAverage": 29.37,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 365,
+      "runsConceded": null,
+      "wickets": 11,
+      "economy": null,
+      "bowlingAverage": 50.0
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "abhishek",
+    "abhishek sharma",
+    "cricket",
+    "india",
+    "sharma"
+  ]
+}

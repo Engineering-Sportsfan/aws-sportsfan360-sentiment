@@ -1,0 +1,145 @@
+{
+  "athlete_id": "vaibhav_suryavanshi",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Vaibhav Suryavanshi",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2011-03-27",
+    "heightCm": 167,
+    "weightKg": 67,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vaibhav_Suryavanshi_meets_PM_Modi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=XXdx6FmW7tU",
+    "bio": "Vaibhav Suryavanshi, born on March 27, 2011, in Tajpur, Bihar, is an Indian left-handed top-order batter and occasional slow left-arm orthodox bowler. He began his cricket journey at age four, training under Manish Ojha in Patna. Suryavanshi made his first-class debut for Bihar in January 2024 at just 12 years old, becoming one of the youngest to play in the Ranji Trophy. In November 2024, he became the youngest player to sign an IPL contract with Rajasthan Royals, making his IPL debut in April 2025. He quickly rose to prominence by becoming the youngest IPL centurion, scoring 101 runs off 38 balls against Gujarat Titans in April 2025. He made his international debut for India in July 2026, becoming the youngest player to represent the Indian team.",
+    "birthplace": "Tajpur, Samastipur, Bihar",
+    "coachName": "Manish Ojha",
+    "yearsActiveSince": "2024"
+  },
+  "record_highlight": {
+    "event": "Youngest IPL Centurion",
+    "result": "101 runs (38 balls)",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Match",
+    "date": "2025-04-28",
+    "city": "Jaipur",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "This record highlights his exceptional talent and early impact in one of the world's most competitive T20 leagues. Achieving a century at such a young age demonstrates his maturity, power-hitting ability, and potential to become a future star of Indian cricket.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "IPL"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "IPL"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        50,
+        50,
+        50,
+        50
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvH91iYdjIIc40dlwiVgU7twEixLRFOXm7J0MDonWyqwfqlTnoBjIgB7dx-mSW1pNEEDYjPwjIaC6rTB9i16hr2lIGtNYCeoAQSiHA8ZnTDglZ1j1lNIQRLnUVm5V6tRdydrVPRWKjx6X-I0gh",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaC3j-6kE92PgEoycl3fLPkvjDslcUMc9r42OUSkC-odCCBpoR5yHDbkUp7VmM-F37W7gXMzGDXfnrvRwzkaEWKM20ZRweetnXPAHp117f89pDyKZ4pSuC7oMsGr-naIiEuPZ43Naiw4ugaD9E-LCSmu7O",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbxR56nJ0j66fTfXZ-lMpHSRnq5uORDBzVrE18X5v2_L0C_HcfzTOKGYBWwbPTJ1Ie-IiI1sMVA3J05_6sird46tM3egxL02eUz9l3cQkJHQwv65srRWSFZ0JnQaYaTdxgaTZsJtbQx49GhCZDwi5ylgusRBo9bEwx-GWh7jvOybkCKwQl1Bmalnrnu_ERfjY9aOB0XaCzH6JoRQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWzCmkJx2aaa-HCbDJfuwHkU2MlwzCdix4msRVFfX_YSiuainqFee2tTB0W_bJwM3Fd5gGWQt8XEdKmtwrLAjFqvgF73HWly1dI-rTU0_7bGPJ3z5WUJw5m1JRJTK5PYvq23JD9yO6zY10SzQRiqAOb4sX9Q5ntBD2PM1PsPnjvK32GpzYcVQsQC7QkEEEnLsLfkK3fF9N5CkLmO8bVCEFWomwhonJ2b4FhSwtQt2tzoW_8WU4WbzRKsdH9PSb1mxcWU4_VdZC4yn9Bmicv3KOG_cxdPhMHtYrd9l4Uk_O3N_kv6bqIbQI_LEZctrDqq4PhzSiNTyZR4tXHSGIOIoGww==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4JFMVZjVjq0nSBLjS-20KdIU2G1QpIReBsGod318gao7sqeksAzQoTlPVAaU5UqYtG8M-HiS5BLDCo1-ONqb5ri2pl1K928OQ1mloi_BcX0r1QMKhB_2Y_m48kOffzexxwxIgpTl9_UqddatBZeyVBFVwRAaz7EaUPH3RfecOKksua4pKRpyty77vQLgBTn0umFfZGeuJztx8dPbWjJCnuggp4Lj0VcYo7Z2x8miPjikjyC_K13DyJ6saMe-WQkEWY9pHljP7Vvvw8ANuCtTjYgRPLtuKgxtIRW6UJFUYxW7gFsxG_egyng==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-scVfuJXCowjEw3-GKYc7i79W3Pl-f_rHzzTd17mdFeLzCQoHzmH_Ay0aXze8iRhFxxCwDl5S2JV2ZOTrpJJZQwl78tSmufYI6sSxUOhqR5svvzt_aIgYDPFqJVEx0zeY2A5S1flEIi8v3d7K1stOe1DIMV2JaC8ZiTAI9oZI6WA-LVJoOQ7oYQIz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHcv4QyJGrLTFdQutBP08x0MIInK3Lo3YTptBXDgTjb3zoS1yqyg7nEbOIZOm77UAAyOYnx8Zv9d7hYna8MYqmu58fDUg0yEmkHyOlCrr90ljUuSkfn9pM4RONfFMzNs3GbfIv9Kam0XA2GISjhvJ3ngD7EQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3DRd3_xmgHqFSkMeMm__E57jVJQNd8ijxN7BG7ZvAPwyz0l6H7BfcShEEBE3nkLIIxjuT1wb6DQGFYhG_aYlCeRqZCJt38OIZRs0P520lUy4YQI29MlG8_FaUp_6eguvQfGVrVfiG0sziYEtXuH1oCa6I5_-xrXtJg8PHzLvza4Nc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0pb_-qi2T4dFV6Aohv1EXRZ05xzPIYQ26ZuAzVzNSkGHa0eF2horxJRay4Z6U3tvpIA6BiB1yz9GlE3J0GWibBeuT9UbeLkMjIkymWO8um7JIQNNBQpgvvzXrQ-tK23_BvNsiRl7tWvDRuFXUB_ju7rx9hGUPdll0oAIvEAGJ7OsY7PB_tZSC5JTYTQY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuOyjn46R9EoJsKbEF-xKOW13QIdPYBQQViZq7EDKMxN_DKa71tLV_MTd_XsWyA-9pnrwp-ptkLrYUctgwPW53WiOmkjmPZFEiX19XJxo3US6WKxSc-_i0zd5gP58yy0UKcffh1X6Q3qQtPlw8UlsPdVmlIZ-pdNB4LHTT4ynYDnE7vnC4ogl4JlGI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEadBCDdVvOmmp192bHnR1iBAOhXuQxMd6nyf1iXiiXysjB9UzDlIkwjKgYxw0XTpqFnRatYLrsG7d6Wyoiy-kbdLtT6--zZ6GBbkIMqCkJgt8URvA7d6wo2E4KNiomMklRhvRrHHG45dP7r9EVmo0calY7HTDSJ79mtDolXZZxEs4yl7RtNh0zjKBEB6A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYS4PWT1whzQtb2Qp5SHufKeRXy6R5mBNTUIN5uAjqj07AsTPskfpS9THRDZVX9yln7LJYAds1OAExDLEJXmfgQeyGO00ScOnjqS-9bSDOXdDLwr9Z59orMeOFJuimFIBMRUZnIkXDz0On5XFP0Q1tjDNHxQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElZdcg18n9FG_wLdFXT_OUEfFEetof-uU1WjquPHByQ3md7-7NyBt4RYMsVAH2fVe3EugiVl2hnQ4ktpS9GZxyiDAyYEcMQXlGz_ppTMROpZD1z2bDWP84QG3v3Sj47te5Kep00pWCrkhpjQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKIugxapMnq46npQkz_SSrD-a7UV5ZGNpsGOqc0bxQOUfnlypoM4TwhqTzPtgZS395EyvmDQCUpLERhSTqEqcNwSmt-2NzdZtWENpKnGTq4S_-sSie2gF4UcF_chT-95vV4EO79nKnvFlsdb_o"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded � unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T10:03:04.892978+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "IPL",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1028,
+      "ballsFaced": 449,
+      "battingAverage": 44.7,
+      "strikeRate": 228.95,
+      "fours": 81,
+      "sixes": 96,
+      "dismissals": 23,
+      "highestScore": "103",
+      "hundreds": 2,
+      "fifties": 6,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "vaibhav_suryavanshi",
+    "vaibhav",
+    "suryavanshi",
+    "vaibhav suryavanshi",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "athlete_id": "ansa_babu",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Ansa Babu",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1998-04-09",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": null,
+    "bio": "Ansa Babu is an emerging 400m runner from Kerala, India. She earned a silver medal in the 400m at the 2026 National Senior Championships. She was selected for India's women's 4x400m relay squad for the 2026 Commonwealth Games in Glasgow and competed in the Mixed 4x400m Relay final.",
+    "birthplace": "Kerala",
+    "coachName": null,
+    "yearsActiveSince": "2026"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2023",
+      "value": 56.12
+    },
+    {
+      "year": "2024",
+      "value": 55.30
+    },
+    {
+      "year": "2025",
+      "value": 53.85
+    },
+    {
+      "year": "2026",
+      "value": 52.94
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "3:12.87s",
+        "holder": "Indian quartet (Muhammad Anas, Jyothika Sri Dandi, Muhammad Ajmal, Kiran Pahal)",
+        "date": "2024",
+        "venue": "Panchkula",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "3:07.41",
+        "holder": "United States (Vernon Norwood, Shamier Little, Bryce Deadmon, Kaylyn Brown)",
+        "date": "2024",
+        "venue": "Paris",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "3:07.41",
+        "holder": "United States (Vernon Norwood, Shamier Little, Bryce Deadmon, Kaylyn Brown)",
+        "date": "2024",
+        "venue": "Paris",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "3:18.90",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "Mixed 4x400m Relay",
+    "achievementLabel": "2026 National Senior Championships Silver Medalist (400m)",
+    "stats": {
+      "worldRank": "383",
+      "personalBest": "3:18.90",
+      "bestYear": "2026",
+      "totalGold": 0,
+      "totalSilver": 1,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "event": "Mixed 4x400m Relay",
+        "value": 198.9,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 214.88,
+        "seasonAverage": 53.5,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 60.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 50.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 55.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 75.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "< 3:19.00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.3,
+        "peak": true
+      },
+      {
+        "range": "3:19.00s - 3:20.00s",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "> 3:20.00s",
+        "count": 2,
+        "throws": null,
+        "percentage": 66.7,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Her performances in the Mixed 4x400m Relay in 2026 show a personal best of 3:18.90, with other races around the 3:20 mark.",
+    "peakZoneLabel": "> 3:20.00s \u00b7 67% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "3:07.41",
+          "holder": "United States (Vernon Norwood, Shamier Little, Bryce Deadmon, Kaylyn Brown)",
+          "date": "2024",
+          "venue": "Paris"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "3:07.41",
+          "holder": "United States (Vernon Norwood, Shamier Little, Bryce Deadmon, Kaylyn Brown)",
+          "date": "2024",
+          "venue": "Paris"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "3:12.87s",
+          "holder": "Indian quartet (Muhammad Anas, Jyothika Sri Dandi, Muhammad Ajmal, Kiran Pahal)",
+          "date": "2024",
+          "venue": "Panchkula"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGrwHnuLZXhfTTE14xs5Abj887QKJj9U46LtEkK1byGvMyjryuUJXGu29Z0Ak5opvkpZ8ECatAYF32a7uY4K7aQTekw86YyWBI74tX81y4-PH5FrxdodG_LrDOkarfBVtYBG6jlubkuPzONsbPZk9jw2FFiC1v2aDD8s-xkrwJpwFQRSSQJuVd13Ga6Ha0o5OTdDCMrE8FOY53dDCBf9D0wMmMh-_cz3j_9WFppvyOdhp6QyWeb9Bxe4ZwCfewssYx0uU-8-iyXijIsXGk5mtxOhE7Wa9qUuMH4HM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOW-TtOMekyIVD5osIsfGIAD_duL_qPKNRl9fcVW6Bpz0EEBy86Eb8LUNZd0k5qMWPI6AKwEzQSbsEHeLUu_pSy6Ze54D2gy9JAC2AtAfvegAG9p4xnRKFEgkj8zZSHOIwC95DSoCqgfZVzlpiEp0LaPGL39R1XG6cWTrlsrCfXCrhdTz55t5bEZY_HZwj-bhYT7De-HrrbaNVcfW4KaZmgWjl4B8XwDieickpsIAuygR9AkBWrMZoI4XkJeP4KLJ0NbOAzH8kyndRYKobOdrFbyPbF--2FCGHAuuYmLk7H-RGCQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Qr0Zrrz3c6Ni9zFa1NBOoDRwrSBW1VGqtIg-0bpAOXTt3yt2MwsUGHNAcg15zJ0RTsAJtB8ecyJrINQ76gS1IALufotTb_0AsHm7lUUEHPo6bRH5Zvin6oK-xdwHGthzCDUZBI4sjf3YDOfuj8Stb5AywixMUNIzlXdDOIgeLjEDxFSM_FbCHpTD8gIxSjzhJsHW3dRibGwndlD6D1UfEIGF3wcU9TbRsK_rRGhz6PJRAVxmCbQaqyip55c871g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaVTm6RmTFA4Xi-NzZRx4Bfnd2C68n-dqwcXCkab-_FszsX0jkRAecP92yu4BZ9RtWkQG1G6_QvIgHIgU3aNxzWpJHZwTkrVYOxdOeM6FutaeuL64_jfrq8_rlcVBrmbxCF6ePPTSoyz8jiY5fcxpPvOXaEwIsrhaNXvxnNEqmQrpSl2gOev5FzSW7yCqG5w-vAUvre-utmk4MK1sReaVoThoGo1g8JA7trj_KW2buOuKYgGf2PJBf7SjxK75yatib2DY2qPBo6ObBrswCgXv9aw4FduLsK7GLPEN-XCeluLicz08j",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcXtRSE74wA6s6pxqFZ9HIwcPYZVx2ECQT6TsJnNB3w8ufETsxc_o9YmjtqWNg5W6tVHcGrABcoe6c8_oXB8lWPWixgH8Hn8hfaK_FuCjgA-3Ub8aW_iSdnq1vQ17GVXI4D5Dmb6KBN0Qnoo1loGjqMLfwrQpuihRyXyj5iDI5C_puHXU-sOcYQMQMisnBdcfBYneIXCgepB3PVtnhanC_3YCSVdcsANz4KsGina9YqFKOkH1oINs-PzPIhBvLKewvbCebrw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTHBSxoO2X8DEMxkvOP1VWTAt7Bo0Bbqb8tkl6WMAapNEvxCLaQIXD0wzCRFdNu6_If3GKUl_KonGX0CxwpFBsiyUVoOURkKzS6RSs6FjV4q1faEVlHiBB1aiNaz5N9fkoLZM3VPpoa8fBhyDOMXFHjklTIm83dQ95-8PmTrqbrW3JLET4fTVYXpSDFqY-H6LyPf1zOOPKFIAv74GOjGmGVHZ0GSQEojil3i15DAuy4OSkHY81Gw3Ooas=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG01uh2hjxMihdfHTjRCRTPwtgdna9-sfl48Sldvr93NGHaRnj5enFV0Rk10e7r3UXecPxX6OwkH3XlC2HbeOJNaRVxb3ub9D8zJN7CqUUodh5Jxg3N9ZZZDOGe_kc9WuATHWkUDkAdBAAVhBAne8Ca3GhrmIKHQg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTpBM_LYzSBqnefW9tEXQWfn7FeJOtX2-vtVPwnMoZm21yfZbSuKsMEV0qh_p0treWbGV-i-geYKmr4HTnaW9hzhJtDoNOTPqPpW_GEVevadTvchCjTjZoPItkvK1ZhSv5WLiPm9k4fxEFPMNvQhMzxJFQ0U3FciduNHvftiIaGUMLltibUj55pN6SCrC5tnE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwMy2mqwQZp8nPUcNJEqNScLOwBEtN1tDvdaqGjouwhqiBJNKfSUjotqnvcNC5kKWWDVtpsbHfXlOgNHK3ZhfYsMLrCrhkrPyt5CVy3MNDMxkpm-LKgzv2L5oWnl-aH_f9dswa39jQo6zw5kfAuzaTpi3_6CHRXyCMOGsENOlZLl3NnO3eZfWiTJ5BGPw8tNlv9jUnufj_Ts6a_HYGYI0FEvVwSQ8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp3koHhBi5ADtlr9LY6iaqBoadkg3u-bkobbi66pDmAWjRu3rfbqTuLcmC5K-PDpkuSWRMXR9Y8KrZnk-aXhf8iG5-5Hb-SSbp9NV_Kg8MMpiXNdJU8-FcQkgvfVS3YQ-ekZgLCNbkB83plS8_XoDmr_j2t1VdpexT6gizJt12vgVRxJ7X9SOJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUqc9DlwtIv9FHmm85JOc13yTHPsaJZdgt7f_b-eT6Hc1A88YIfdXNy5mwTr5_JboZ87272Kk85uIAMO9imyJpUh4pxsa3jWI6pJ-voYra0SIJUj75kmPATuehP7lZiR7Avmj8UsvFKClAXOR8n3qDtsojxG_D6bjd2DmF-Qg8I3oMPZQO-jt91FOO10WSbiykObUAIy2yFh-xHjk_aseI-KXOaJye5dRrHNiaa9VuZVbS62ikbMQFQ5bepaQVyi2Mkuw9hk_wRq7pNuz0Wd2T_cf0wLFngozgA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZTcwzIkSeYtJlaP0mJFBX06MFQwTztDflhE2h6SDExwrfMVnMVeUrLNGFb_izGjjlgehpL2BdX87QrcfkzMdFbFmijkhBjOm_6nzz0Fmebs1w8L_JxZ5aVhSKuY40qtsoUcyFBE9O6W_sHB0nC5KCmHs6KAz8BJDJYeBjCPnajuC-go5Wi6jc06EZGF3RM5sPwVsTPal69rkOO2CcoZfiGFuhIxhuh1kvR_M1SxLCEKyPwhZ1wF8t9IfRu5Xw_g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVez7-NB-emR9hJsDcU5CmsSAmCuI24bumPmNinMeL-wY6iUAOb-DPAPK1_GykTH75vG0G4Pz3Umvmfoq93xnMy8ISeb7_yE8nB4MI1VE9H3wfd_mO3Xq8SrMEuDKqkJLF8H4MkyPVZwQzHuOQbHaSOGRSK7bOHu7_G4Me0aGx-jgj7FUqHV_Q_v5BjThkevSVNoT2TJI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj_snOPXRvfR0rY3G9CgDoRfDruEM_yaLeI_CH2A0iypR8w6q6JMXcCw8tRh-aBwOqqgmIbu43scfaobsNZq7F8-yJzIKJQw08JhMpQu7WzkImfcy756YfVE-5jCRzkP2EczRpdylVdN1-8PJjohPybY7hUjj_9IFWUEa3KtWkhQxen9kg35jqLN5ljdSUUsEqCZzgeC5sWXMIx5zVZMULg5qxqbqvg2J2cqMOtwrem6yqFF-fr0TW1PPO8YoW9NZ3j0_AdTPYshb7Qgt-olH-A-A5QRl5wYqgyA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkAL1AP7bn4GfYgv04C-aNrJu0NlQ6QaSjW9WGqqr0YbSHMdqsLOXRRG4ESWe1NXb9jLk_UYk2M5mUkqjdLtuhvVsezxOoJWxaUn_eabKOj88R1PYMu35qoUipjmIlAA1DvH3hnP_mUQvQGmgE1uehS7B3FX_eGZL7CzS1UfS2Kj-h3LNUnvgQW8uiIMm3Wd73DVVIoiFLGl8Gatuu8z_MlGclQSFGrvbNDN4MGGxHVGs08fzMOSPM51TFRG_AMNBny0Fc"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T18:14:21.392574+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Mixed 4x400m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "400m",
+        "medal": "SILVER",
+        "category": "National Senior Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "3:18.90",
+      "seasonBest": "3:18.90"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        190.0,
+        210.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

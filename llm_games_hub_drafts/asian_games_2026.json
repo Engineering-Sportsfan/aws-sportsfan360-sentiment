@@ -1,0 +1,504 @@
+{
+  "games_id": "asian_games_2026",
+  "gamesInfo": {
+    "name": "Asian Games 2026",
+    "edition": "XX Asian Games",
+    "hostCity": "Aichi Prefecture and Nagoya, Japan",
+    "startDate": "2026-09-19",
+    "endDate": "2026-10-04",
+    "status": "UPCOMING"
+  },
+  "medalTable": [
+    {
+      "rank": 1,
+      "country": "China",
+      "countryCode": "CN",
+      "gold": 1674,
+      "silver": 1105,
+      "bronze": 791,
+      "total": 3570
+    },
+    {
+      "rank": 2,
+      "country": "Japan",
+      "countryCode": "JP",
+      "gold": 1084,
+      "silver": 1104,
+      "bronze": 1054,
+      "total": 3242
+    },
+    {
+      "rank": 3,
+      "country": "South Korea",
+      "countryCode": "KR",
+      "gold": 787,
+      "silver": 722,
+      "bronze": 863,
+      "total": 2372
+    },
+    {
+      "rank": 4,
+      "country": "Iran",
+      "countryCode": "IR",
+      "gold": 192,
+      "silver": 202,
+      "bronze": 217,
+      "total": 611
+    },
+    {
+      "rank": 5,
+      "country": "India",
+      "countryCode": "IN",
+      "gold": 183,
+      "silver": 238,
+      "bronze": 357,
+      "total": 778
+    },
+    {
+      "rank": 6,
+      "country": "Kazakhstan",
+      "countryCode": "KZ",
+      "gold": 165,
+      "silver": 180,
+      "bronze": 292,
+      "total": 637
+    },
+    {
+      "rank": 7,
+      "country": "Thailand",
+      "countryCode": "TH",
+      "gold": 132,
+      "silver": 175,
+      "bronze": 279,
+      "total": 586
+    },
+    {
+      "rank": 8,
+      "country": "Chinese Taipei",
+      "countryCode": "TW",
+      "gold": 118,
+      "silver": 164,
+      "bronze": 304,
+      "total": 586
+    },
+    {
+      "rank": 9,
+      "country": "Uzbekistan",
+      "countryCode": "UZ",
+      "gold": 101,
+      "silver": 120,
+      "bronze": 150,
+      "total": 371
+    },
+    {
+      "rank": 10,
+      "country": "North Korea",
+      "countryCode": "KP",
+      "gold": 100,
+      "silver": 131,
+      "bronze": 165,
+      "total": 396
+    }
+  ],
+  "focusCountry": {
+    "rank": 5,
+    "country": "India",
+    "countryCode": "IN",
+    "gold": 183,
+    "silver": 238,
+    "bronze": 357,
+    "total": 778,
+    "previousEditionComparison": {
+      "previousEdition": "Hangzhou 2022",
+      "previousRank": 5,
+      "previousTotal": 671,
+      "verdict": "same",
+      "summary": "Rank #5 \u00b7 671 medals total (all-time, through Jakarta 2018)"
+    }
+  },
+  "scheduledEvents": [
+    {
+      "eventId": "EVT-2026-CRIC-001",
+      "sport": "Cricket",
+      "discipline": "T20",
+      "eventName": "Women's Quarterfinal",
+      "participants": [
+        "India Women",
+        "Japan Women"
+      ],
+      "scheduledDate": "2026-09-17",
+      "scheduledTime": "09:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-CRIC-002",
+      "sport": "Cricket",
+      "discipline": "T20",
+      "eventName": "Men's Quarterfinal",
+      "participants": [
+        "India Men",
+        "TBD"
+      ],
+      "scheduledDate": "2026-09-28",
+      "scheduledTime": "09:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-KABD-001",
+      "sport": "Kabaddi",
+      "discipline": "Standard Style",
+      "eventName": "Men's Group Stage",
+      "participants": [
+        "India Men",
+        "Japan Men"
+      ],
+      "scheduledDate": "2026-09-21",
+      "scheduledTime": "09:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-KABD-002",
+      "sport": "Kabaddi",
+      "discipline": "Standard Style",
+      "eventName": "Men's Group Stage",
+      "participants": [
+        "India Men",
+        "South Korea Men"
+      ],
+      "scheduledDate": "2026-09-22",
+      "scheduledTime": "09:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-KABD-003",
+      "sport": "Kabaddi",
+      "discipline": "Standard Style",
+      "eventName": "Men's Group Stage",
+      "participants": [
+        "India Men",
+        "Bangladesh Men"
+      ],
+      "scheduledDate": "2026-09-23",
+      "scheduledTime": "09:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-KABD-004",
+      "sport": "Kabaddi",
+      "discipline": "Standard Style",
+      "eventName": "Men's Group Stage",
+      "participants": [
+        "India Men",
+        "Chinese Taipei Men"
+      ],
+      "scheduledDate": "2026-09-24",
+      "scheduledTime": "09:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-KABD-005",
+      "sport": "Kabaddi",
+      "discipline": "Standard Style",
+      "eventName": "Women's Group Stage",
+      "participants": [
+        "India Women",
+        "Bangladesh Women"
+      ],
+      "scheduledDate": "2026-09-21",
+      "scheduledTime": "09:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-KABD-006",
+      "sport": "Kabaddi",
+      "discipline": "Standard Style",
+      "eventName": "Women's Group Stage",
+      "participants": [
+        "India Women",
+        "Iran Women"
+      ],
+      "scheduledDate": "2026-09-23",
+      "scheduledTime": "09:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-KABD-007",
+      "sport": "Kabaddi",
+      "discipline": "Standard Style",
+      "eventName": "Women's Group Stage",
+      "participants": [
+        "India Women",
+        "Japan Women"
+      ],
+      "scheduledDate": "2026-09-24",
+      "scheduledTime": "09:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-BOX-001",
+      "sport": "Boxing",
+      "discipline": "[UNVERIFIED WEIGHT CLASS] Men's Heavyweight",
+      "eventName": "Men's 90kg Preliminary",
+      "participants": [
+        "Kapil"
+      ],
+      "scheduledDate": "2026-09-21",
+      "scheduledTime": "12:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-BOX-002",
+      "sport": "Boxing",
+      "discipline": "[UNVERIFIED WEIGHT CLASS] Men's Super Heavyweight",
+      "eventName": "Men's +90kg Preliminary",
+      "participants": [
+        "Narender Berwal"
+      ],
+      "scheduledDate": "2026-09-21",
+      "scheduledTime": "12:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-BOX-003",
+      "sport": "Boxing",
+      "discipline": "[UNVERIFIED WEIGHT CLASS] Men's Light Middleweight",
+      "eventName": "Men's 70kg Preliminary",
+      "participants": [
+        "Sumit Kundu"
+      ],
+      "scheduledDate": "2026-09-21",
+      "scheduledTime": "17:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-BOX-004",
+      "sport": "Boxing",
+      "discipline": "[UNVERIFIED WEIGHT CLASS] Women's Flyweight",
+      "eventName": "Women's 51kg Preliminary",
+      "participants": [
+        "Sakshi Chaudhary"
+      ],
+      "scheduledDate": "2026-09-22",
+      "scheduledTime": "12:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-BOX-005",
+      "sport": "Boxing",
+      "discipline": "[UNVERIFIED WEIGHT CLASS] Women's Bantamweight",
+      "eventName": "Women's 54kg Preliminary",
+      "participants": [
+        "Preeti Pawar"
+      ],
+      "scheduledDate": "2026-09-22",
+      "scheduledTime": "12:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-BOX-006",
+      "sport": "Boxing",
+      "discipline": "[UNVERIFIED WEIGHT CLASS] Men's Bantamweight",
+      "eventName": "Men's 55kg Preliminary",
+      "participants": [
+        "Jadumani Singh"
+      ],
+      "scheduledDate": "2026-09-22",
+      "scheduledTime": "17:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-BOX-007",
+      "sport": "Boxing",
+      "discipline": "[UNVERIFIED WEIGHT CLASS] Men's Lightweight",
+      "eventName": "Men's 60kg Preliminary",
+      "participants": [
+        "Sachin Siwach"
+      ],
+      "scheduledDate": "2026-09-23",
+      "scheduledTime": "12:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-BOX-008",
+      "sport": "Boxing",
+      "discipline": "[UNVERIFIED WEIGHT CLASS] Men's Light Heavyweight",
+      "eventName": "Men's 80kg Preliminary",
+      "participants": [
+        "Ankush"
+      ],
+      "scheduledDate": "2026-09-23",
+      "scheduledTime": "12:00:00+09:00",
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-ATH-001",
+      "sport": "Athletics",
+      "discipline": "Field - Throws",
+      "eventName": "Men's Javelin Throw Qualification",
+      "participants": [
+        "Neeraj Chopra",
+        "Kishore Jena"
+      ],
+      "scheduledDate": "2026-09-10",
+      "scheduledTime": null,
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-ATH-002",
+      "sport": "Athletics",
+      "discipline": "Field - Jumps",
+      "eventName": "Men's Long Jump Qualification",
+      "participants": [
+        "Murali Sreeshankar",
+        "Jeswin Aldrin"
+      ],
+      "scheduledDate": "2026-09-10",
+      "scheduledTime": null,
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-ATH-003",
+      "sport": "Athletics",
+      "discipline": "Field - Jumps",
+      "eventName": "Men's Triple Jump Qualification",
+      "participants": [
+        "Praveen Chithravel",
+        "Karthik U"
+      ],
+      "scheduledDate": "2026-09-11",
+      "scheduledTime": null,
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-ATH-004",
+      "sport": "Athletics",
+      "discipline": "Track - Middle Distance",
+      "eventName": "Men's 3000m Steeplechase Heats",
+      "participants": [
+        "Avinash Sable"
+      ],
+      "scheduledDate": "2026-09-11",
+      "scheduledTime": null,
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-ATH-005",
+      "sport": "Athletics",
+      "discipline": "Track - Relays",
+      "eventName": "Women's 4x400m Relay Heats",
+      "participants": [
+        "Shravani Sachin Sangle",
+        "Sandramol Sabu",
+        "Pravallika Narimalla",
+        "Nofisa Khatun"
+      ],
+      "scheduledDate": "2026-09-12",
+      "scheduledTime": null,
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-ATH-006",
+      "sport": "Athletics",
+      "discipline": "Track - Relays",
+      "eventName": "Mixed 4x400m Relay Heats",
+      "participants": [
+        "Astik Pradhan",
+        "Sandramol Sabu",
+        "Setu Mishra",
+        "Shravani Sachin Sangle"
+      ],
+      "scheduledDate": "2026-09-12",
+      "scheduledTime": null,
+      "status": "UPCOMING",
+      "result": null
+    },
+    {
+      "eventId": "EVT-2026-ATH-007",
+      "sport": "Athletics",
+      "discipline": "Track - Relays",
+      "eventName": "Women's 4x100m Relay Heats",
+      "participants": [
+        "Srabani Nanda",
+        "Sneha SS",
+        "Sudeshna Shivankar",
+        "Tamanna"
+      ],
+      "scheduledDate": "2026-09-10",
+      "scheduledTime": null,
+      "status": "UPCOMING",
+      "result": null
+    }
+  ],
+  "scheduleBreakdown": [
+    {
+      "sport": "Athletics",
+      "discipline": "Track Events",
+      "dateRange": "Sep 20 \u2013 Sep 25",
+      "phase": "Preliminary Rounds & Finals",
+      "highlights": "Various track events including sprints, middle distance, long distance, and relays will feature preliminary rounds and finals."
+    },
+    {
+      "sport": "Athletics",
+      "discipline": "Field Events",
+      "dateRange": "Sep 20 \u2013 Sep 25",
+      "phase": "Preliminary Rounds & Finals",
+      "highlights": "Qualifications and finals for various field events such as jumps (Long Jump, High Jump) and throws (Shot Put, Javelin)."
+    },
+    {
+      "sport": "Athletics",
+      "discipline": "Road Events",
+      "dateRange": "Sep 26 \u2013 Sep 27",
+      "phase": "Marathon Finals",
+      "highlights": "Men's and Women's Marathon finals will take place."
+    },
+    {
+      "sport": "Boxing",
+      "discipline": "Amateur Boxing",
+      "dateRange": "Sep 21 \u2013 Sep 28",
+      "phase": "Preliminary Rounds",
+      "highlights": "Preliminary bouts across various men's and women's weight categories."
+    },
+    {
+      "sport": "Boxing",
+      "discipline": "Amateur Boxing",
+      "dateRange": "Sep 29 \u2013 Sep 30",
+      "phase": "Semi-finals",
+      "highlights": "Semi-final matches for men's and women's boxing across all weight categories."
+    },
+    {
+      "sport": "Boxing",
+      "discipline": "Amateur Boxing",
+      "dateRange": "Oct 2",
+      "phase": "Gold Medal Finals",
+      "highlights": "Gold medal matches for men's and women's boxing across all weight categories."
+    }
+  ],
+  "metadata": {
+    "source": "Gemini Draft",
+    "fetchedAt": "2026-08-10T11:34:37.745948+00:00",
+    "groundingSources": [],
+    "lowConfidence": true
+  }
+}

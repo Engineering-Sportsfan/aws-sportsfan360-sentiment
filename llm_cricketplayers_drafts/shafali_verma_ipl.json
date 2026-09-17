@@ -1,0 +1,84 @@
+{
+  "playerId": "shafali_verma",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "shafali_verma",
+    "name": "Shafali Verma",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "dateOfBirth": "2004-01-28",
+    "birthPlace": "Rohtak, Haryana, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/Shafali_Verma_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Shafali Verma is an Indian cricketer renowned for her aggressive right-handed opening batting. She made her Women's Twenty20 International (T20I) debut for India at the age of 15, becoming the youngest Indian to do so. Verma has since represented India in all three formats of international cricket and captained the Indian team to victory in the 2023 ICC Under-19 Women's T20 World Cup. In franchise cricket, she is a key player for the Delhi Capitals in the Women's Premier League (WPL).",
+    "gender": "Women"
+  },
+  "record_highlight": {},
+  "analytics": {
+    "battingStats": {
+      "matches": null,
+      "innings": null,
+      "runs": null,
+      "average": null,
+      "strikeRate": null,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": null,
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY1ZY4OAeXAFglEt-CL5wfCFN7g_ORDZP6QL_EXrEe2KcdqpvHjCDw2ZI9dpzcyl0-OGW9-wBLqtA_8031CqPGPX8PE9818XrocQpypXrSliBnR2-000OhAJoI_PQi_pWR-whQEpM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnzsUVbPqkyD9eHRXSmEDyCfMalrFJx_5BNTUQ52WJpqKIg5oIYH-0w1N8fwsblyAjbFsxw5xoUuNnuetiv77kuySD003B7ab1ihUVLH2UgwPyhxmzTA32fiDEXiZbYFzl9UuMthA-HJzx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0WQE3VAoXu88nStJTzEYI-_-5F4jX_T4FK_Trc-ye36J339mIbvKhSX8eW_ut9voo2457CfJUjU4_0wo0_lEd8YiLn5Q9-kJ4k89d5LAdtRqAReMjMtGszkTX8Kln8DHa7JoAPyMgb5xxUbv-4Mw61ieWBC8ieGPC_4OzliuJZNac8dr72zZWJYTbUg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERyvYAWZgWvV0WOZNuTl6hG1ZG1NWBLuLAWEWWcexQvITuFjLF6I2iYOIl7h9GJ2H37DXSq3QcoZht7zLYkvogWOJYtxCW5HHB_Lfw2IIcvzD6O7qMbFbK3PbbUg-c-qv5ENcp19TJT6lGdqDJDfN9o20s",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV-CBk2yN4JXA3uXi0fqucv1-fnZafTCwD6X_rmgNfO7d5m9WScWBXSmSSylBB_7gzkDeUtzj10W70a7QfBUEamjKkMZ1KoDewgFgHemvztcd0yBqG5B4iIA6x7aGnJv6TQwe_WfZSa6pzaXNJ7bA_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkojoLgHpfaEYsCJmWquI1KbBy058y0_rFZLAf2FFxngoWPAzO8M3iweHDVyoy4xrkUhc-cmZ-1TD3LmsbTSw5_yKYpohWpi819foy1IixydHoJaOkJQSxZ_DMCffuZkYxVtW8c4ZQ0jr1MLJHJdqHK5qhvw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-XL4001yiicsbCurQkfkp0h8ClMKfpEc2fUclqf3m1svAamVlSvKE2B64D3WOZAtYzKvHP72xtkYBrR8rky8dnx8b7Yuq78MbphHja62qTl-hd_fXtLHa8XmeNyIJyQ4Vuofen1OFnqVMBSWPtsxinuh-EEgGhr9Ub-74570KCO4rPdxKGPc6hxuED48ciQegpA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjoS_lFAD0YyJ8LnN6fMOhAqSC8iVBx_5X4FLLiG5ZDK4Ym8_WimizLU3S0OIS0TVfulB9ZETDJtuFnFZvADKdTTtZVWYT1wRvs9BfM9IBepjXNya_6B9qdb3l26-zaeponcorKmqsle6nYuzUo9euxXtTmjL88eaPDdBPdse6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3bHN7fmuRs62lByJZyh_tJuR8M6lqZzdHyAxpSVpENOnA2cMfA_QAg2CCfk5inRl5RNkZ6w_-1Cvq3P66Fj6YrK4MfnAdm2z4DnM0_HJuZn5Aa6U1L2XnMEQxH6W-E6lqhnSh6ABLViAL3lFrvZP93rxH6tjF1X31olptqY4="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:32:35.962116+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "shafali_verma",
+    "shafali",
+    "verma",
+    "shafali verma",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

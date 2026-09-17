@@ -1,0 +1,156 @@
+{
+  "athlete_id": "shreyas_iyer",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1994-12-06",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Shreyas_Iyer_snapped_at_the_airport_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=qNWbURNPRkE",
+    "bio": "Shreyas Iyer is an Indian cricketer who plays for the national team. He holds the record for the highest T20 score by an Indian batsman, scoring 147 runs off 55 balls in a Syed Mushtaq Ali Trophy match in 2019. He also became the first Indian player to score a century and a half-century in the two innings of his Test debut. Iyer has captained multiple T20 teams, including leading Kolkata Knight Riders to an IPL victory in 2024.",
+    "birthplace": "Mumbai",
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Highest T20 score by an Indian",
+    "result": "147 runs",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2019-02-21",
+    "city": "Indore",
+    "prevRecord": "128 runs",
+    "prevRecordPlace": null,
+    "prevHolder": "Rishabh Pant",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Shreyas Iyer's knock of 147 runs off 55 balls is a significant milestone in Indian T20 cricket, showcasing his explosive batting prowess. This innings surpassed Rishabh Pant's previous record and included 15 sixes, the most by an Indian in a T20 match. This performance highlights his ability to dominate bowling attacks and score rapidly, a crucial asset in the shortest format of the game.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "4231 runs",
+        "holder": "Smriti Mandhana",
+        "date": "2026-04-17",
+        "venue": null,
+        "tournament": "T20I (India)"
+      },
+      {
+        "label": "Olympic",
+        "value": "1292 runs",
+        "holder": "Virat Kohli",
+        "date": "2012-2024",
+        "venue": null,
+        "tournament": "ICC Men's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "14921 runs",
+        "holder": "Kieron Pollard",
+        "date": "2026-08-27",
+        "venue": null,
+        "tournament": "Overall T20"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        439,
+        30,
+        338,
+        411,
+        463,
+        519,
+        175,
+        574,
+        676,
+        604,
+        498
+      ],
+      "wickets": []
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        85,
+        20,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA5kLQd_wsgpqfC5fAruHvoMrnLMH6ckqnR81Fmy-IfG6dGuz1aPsugZoV1tEsuyT1qG-FKwLuuvGkn7A0wNwedrfHOLoi4V8xgDzcONALSjCGfMoCNZSaP1z14Bsl-k3GL7Z78eISIZshDXJ6ku4hcaJfk6CPHoSU2TD8NHuzeSNW6C7nM-9N8j1l1Zd64HUYfIv3YAY60OSeTciIMKZgNAg2LPhFc9lvdEnO9DL9aMq5_AHbKIBNDoTECp6QAkrWSly1S5uPUA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2FI4u198awuNtQ-H_zuiIL8Mll661qxZOl4Zu2WQRxMwLxKTBk9M3a_kXT5ARTPLA-WsZ35G3w0BpZUQ547_nm2qusxqSb1ZqiVRDydddfdtAWfH0OAlO7d5VeqAx5CAFY6KTeKndKqxG6FihjfusO3FTUiFvIhg5lNVXxXEdj7C2gLeDx2BOEezbyZG9aeHO20AxR2tMHJKGQRJXK5o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_qIBk1yE7yw1mmQpFrUcoJwqyoqBhLK2CHCicG41kWZOobU3LKtS36RKaikGWs1Y8HxqMzdG2gIm9Ctj3Qy5PIIvGgABXu1ygFUc7p1uFyIFqTuk2ro67O0k2Xl1qNBD8xG-d",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqg2PovKiIpqz0pcmHEEF4mJNt66crOIo0DRd2QPEF-RnTVZByDKtQ5Rou-Z23CFWLm2a6UKmbPU39K46PWcOJFEaJA8dzjWu5fhOaDPRHPtwuc5QSAHaoB4sKDGm39n5-8Nd5t9tQ-dMnGNXpcebFtOfR0oa6qEN5x_dss-MKynCClzsrqcJ1aRvT9VSeAybiTxoUr7k21GAHSxfjhTPYhVtOhHYOZUv4LyFoSu_0CrPyB2d29ivtLq6DuiiX7BqoirWS-5x9l3oD6oNX0GoHs-5DzjDuSg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtMZBkIMY3BJp41PNB3AVHl5yyDcpiXcQEbhjvqu7UQ3nOb2HeOxyA7wpi4Du8JIHqCOV3C2Hw2r8axE9veJeuKzwo2xAP4fmgd_mvF1_OBIYvJB8p0j_KcZTjxe2lTHTJx2htWpZMVlsTtLNZjOGOAoKn5lZgpcjqWl5ueCYVKLhQmKbLkRQg0Y-0npuDQVywI-68cd37dxLVemAFNvQwDBUUy_z2dZvkuxwLQ2pAJj_YYeDGzFoHFor4lA61",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo-iW3jpKjL6wEoIW_GaJx0bJ5Eil5gZGd9K9DJBhdrfB2-J6WN_mZPoTamrUeHrG-Fj-0bs-agShYhf5niPaBGm7yZwR3mAm0-RA3iQd5br4b_0ydGpFYydE-F0UJ_f0XqpjSlIywelou2_0fo2q_qSZ04J1d5NmLqUM-HcAH_kJxd2EfDA5k8_YCgDJm6XEUK5NSlGqAAJk8R2zP"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:16:28.178828+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "Domestic T20, IPL, T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 7387,
+      "ballsFaced": 5324,
+      "battingAverage": 35.17,
+      "strikeRate": 138.74,
+      "fours": 395,
+      "sixes": 211,
+      "dismissals": 210
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "iyer",
+    "shreyas",
+    "shreyas iyer"
+  ]
+}

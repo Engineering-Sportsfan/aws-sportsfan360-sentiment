@@ -1,0 +1,354 @@
+{
+  "athlete_id": "adarsh_ram",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Adarsh Ram",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1997-09-27",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=K9lut2njtCk",
+    "bio": "Aadarsh Ram Jothi Shankar is an Indian high jumper who has achieved significant success in recent years. He secured a bronze medal at the Asian Indoor Athletics Championships with a jump of 2.19m in 2026. [13, 22] His personal best stands at 2.27m, achieved at the Indian Athletics Series S6 in Chennai in 2026. [13] Before his breakthrough, he balanced his athletic pursuits with a job as a railway ticket collector in Mumbai. [13, 19, 21] He began training under national record holder Sahana Kumari in January 2023, which marked a turning point in his career. [19]",
+    "birthplace": "Tamil Nadu",
+    "coachName": "Sahana Kumari",
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "2.31m",
+        "holder": "Sarvesh Kushare",
+        "date": "2026",
+        "venue": "Bhubaneswar",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "2.39m",
+        "holder": "Charles Austin",
+        "date": "1996-07-28",
+        "venue": "Atlanta",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "2.45m",
+        "holder": "Javier Sotomayor",
+        "date": "1993-07-27",
+        "venue": "Salamanca",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "2.27m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "High Jump",
+    "achievementLabel": "Asian Indoor Championships Bronze",
+    "stats": {
+      "worldRank": "35",
+      "personalBest": "2.27",
+      "bestYear": "2026",
+      "totalGold": 2,
+      "totalSilver": 1,
+      "totalBronze": 2,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2019",
+        "event": "High Jump",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "High Jump",
+        "value": 2.12,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "High Jump",
+        "value": 2.12,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "High Jump",
+        "value": 2.1,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "High Jump",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "High Jump",
+        "value": 2.27,
+        "rank": 35,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 2.1,
+        "seasonAverage": 2.1,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 2.13,
+        "seasonAverage": 2.13,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 5,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 2,
+        "seasonBest": 2.27,
+        "seasonAverage": 2.19,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "<2.10m",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "2.10\u20132.14m",
+        "count": 3,
+        "throws": null,
+        "percentage": 42.8,
+        "peak": true
+      },
+      {
+        "range": "2.15\u20132.19m",
+        "count": 2,
+        "throws": null,
+        "percentage": 28.6,
+        "peak": false
+      },
+      {
+        "range": "2.20\u20132.24m",
+        "count": 1,
+        "throws": null,
+        "percentage": 14.3,
+        "peak": false
+      },
+      {
+        "range": "2.25\u20132.30m",
+        "count": 1,
+        "throws": null,
+        "percentage": 14.3,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Achieved a personal best of 2.27m in 2026, demonstrating significant improvement and consistency at higher marks after a period of steady progress. [13, 19]",
+    "peakZoneLabel": "2.10\u20132.14m \u00b7 42.8% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2023": "Bronze (2.10m)",
+          "2025": "Gold (height unknown)"
+        }
+      }
+    ],
+    "beforeCoach": "2.12m",
+    "afterCoach": "2.27m",
+    "coachImprovement": "+0.15m",
+    "coachJoinYear": 2023,
+    "coachImpactData": [
+      {
+        "year": 2021,
+        "value": 2.12,
+        "period": "before"
+      },
+      {
+        "year": 2022,
+        "value": 2.12,
+        "period": "before"
+      },
+      {
+        "year": 2023,
+        "value": 2.1,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 2.27,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQGcNTelEBErjVdeeqNYbx0DA_KBF1Sm0elm8fR_h8cNQp9CqNNX6XEPutL99otSDTHmWj9CKyFj_M1aOGCj4cQaN4nV_ZbQk0_i8qiEjO6qcZWbUavU-eMBTFSsu_70VDY9oJ1Uiho0lx8XJuXHCHlkCzZDm-4vPCzCaYEMt6EvhulkzA2tU4_SGFmJmt8FQ2bMKR6Zj68ZVI7l2W5s9A1aY_-vjqZjUnLpR7lupJ-li8iJ9CtEXaWiINe3jjTkIHspQ_mOPSQnWGmcxnQk578R9LYz-KmyB4OVVTolBIF0hMCcypjm2kSJIm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQjWES1ZlUtNPPnQzY3MHH-sEXeQhMk6y6t9dURf0RhD4dSwfJhWMVi_Yl4_0N_JhRF0_pEILMtV-Uhdz2ZFDBw_da2iPw-O2_rIi4yvVSCLP-OW9NN9kx9kw4Gtn560fBkKNt9JaEz5rnRC6ilkLpy_q5St8F6ShZdA8Wn9TKDczebG6RMTKHbwPq5uL5UP1Qe_KDVANRPyNGImzHcwhJx0FQjbBPDj3yKCsUgkLLGY-TqE938tL-B16WL5gabEbhyM6RDwnTdbJJUS3IX2d16QehL8pcZtDE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIcpJe-qbPzlclX8eQlJHqFYqOxN3NUCXqGQumvrZMueK9LRu0-ISbM92KzUloYoZPB4mVv-h7QzQWIQq_EmRuB8Xd4YZLSZNFRk3-iBuYMgsPFYvV_T7ssPRybN7Vr6dUZpmIYMNin7taapjrd4mgoiLix49rfFBT8ULFbuq83QuQCD_3f-OnXUN-NCQTHH1pnsXwQr1132M2nw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9H0Dvuolmq8PTeD9Y_knIlw1CSSZHXAg-BSv4lhZ-QX9aGrSpWhr8cv5W2dBzDL2Tf7lfK5AH9lZiQOdhzsBv5RBbniT22NGN7OQzimM5cuKx2i1g36Xqar_KiAjtTRRHyA6_A5EXKiSYR8JiMj2dZQhXrIJHnfsKQ8OKAF6P1mFanr-crBAzymimqnGVRSnVx9xlvXyzZcCwYxpicLYa801g5v-RJb-7InU7odRlQqzZbICpyFzCCzQDm4Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtMs7ho89SFSat_RQaEwHkAvT3CNNrD428fWttWNJSK21g5iNQOi3SXzk_XTXyfDqy3TuIfZJeTH0AUIzLUCuAzEELUZQCfAcTOceCI0bA_1CwOPR_LjS7-2ZcB-XrMLKRoSvkcbzMW-YgN-JF_nCuoLQnQYMh4Ju6X6dO5go77p98nFkz8AJqME_7g1Ta6jJPZ4QwtJbU2N-v7wXxqfuEHZhuuzHijky-DpBbTXABH_ImEddwc4xWO3vxOV4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4CG-iTF53yerghLbmeRMLZLpWcNlKKwnIcdWmiRVcklpOUsC0b3JxXXtq8SfFUoKMjYHNZEqk2aVf0yTEtWh4pPyB00pVG6isdH3h1EijVOusLSzlQ3RpJgBu7hJnryWZ1pShge1A9sEFgGpGBLPihVwjDr8d8aqYriMU25JDtl3TBv6AiBiUIu0HlNT5vHL3jbW64cxDrPXSMyPn_sDeKpJeeE16TLRSuhvW45UCpi_oxH2jOmTLqtEG0DU6TA_727oMeg2_seNJLPQUoGNB2tbhRFZST-hXk-oWLNgIkKpRoyD24Dt6iFME",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVWx_-FK264eQexN7DM0CijR45jDreb0mKuYaCvL4WC711t0uq7_2h6SgTV4TnWDue6FqmkosR5bvF1RauTrT1Pd4447_Yw2JAV-spMGuNf-6-P5bzckfFiv3WV_2MOXWJkvjJAEwRGypJyWHCQ949UT1Vk6IEUPoNKBiaEk5dzB8h5MjVPlWZZiPOwJO3tnjmU3RJZ-UB7dZRobc1k4lczqk89M9qvQJFbjhQOtNYhNwSwTl32WQvj0f3EPBUr10EE5RkuHqlgvq3LKeyPLPqBOLedDPb7OR5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHITvrSSSEkcTdxx1YyMaR6puE-GnVldIJO1ygw_njzB7cUkHUhFiLtQl-bAj5R58_s5GsttipB2nDAcn4aW49viRjRztOgFbelA9PknFz-UmHDT6gR3qFiSE_Vhsy63LzMOKzKvWLXOpqL4K02QGEKccFbOSQ4IdA2jLMNeHAoxvUjXNZL5L0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T10:43:08.246855+00:00"
+  },
+  "performance": {
+    "primaryEvent": "High Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "High Jump",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "High Jump",
+        "medal": "SILVER",
+        "category": "National"
+      },
+      {
+        "event": "High Jump",
+        "medal": "BRONZE",
+        "category": "International"
+      },
+      {
+        "event": "High Jump",
+        "medal": "BRONZE",
+        "category": "National"
+      }
+    ],
+    "stats": {
+      "personalBest": "2.27m",
+      "seasonBest": "2.27m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        2.0,
+        2.35
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

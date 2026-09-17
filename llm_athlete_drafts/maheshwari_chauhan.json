@@ -1,0 +1,291 @@
+{
+  "athlete_id": "maheshwari_chauhan",
+  "sportId": "shooting",
+  "coreInfo": {
+    "name": "Maheshwari Chauhan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1996-07-04",
+    "heightCm": 156,
+    "weightKg": 47.0,
+    "profileImage": "https://backoffice.issf-sports.org/media/athletes/portraits/SHINDW0407199601.jpg?v=128260",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=Eefw0Q2a7WY",
+    "bio": "Maheshwari Chauhan is an Indian skeet shooter born on July 4, 1996, in Siana, Rajasthan. She began shooting at age 12, inspired by her family's passion for the sport. In 2017, she became the first Indian woman to win an individual medal in skeet shooting at the Asian Championships. She secured a quota for the Paris 2024 Olympics and finished fourth in the mixed skeet event, narrowly missing a bronze medal.",
+    "birthplace": "Siana, Jalore, Rajasthan, India",
+    "coachName": "Amardeep Rai",
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "Women's Skeet",
+    "result": "121",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Qualification",
+    "date": "2024-04-28",
+    "city": "Doha",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Maheshwari Chauhan set a new national record of 121 in the qualification round of the ISSF Final Olympic Qualification Championship in Doha, securing her spot in the final and ultimately earning an Olympic quota for India. This performance highlighted her ability to deliver under pressure in a crucial Olympic qualifying event.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 121.0
+      },
+      {
+        "year": "2026",
+        "value": 111.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "121",
+        "holder": "Maheshwari Chauhan",
+        "date": "2024-04-28",
+        "venue": "Lusail Shooting Range",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "124",
+        "holder": "Wei Meng (CHN)",
+        "date": "2021-07-26",
+        "venue": "Asaka Shooting Range",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "124",
+        "holder": "Wei Meng (CHN)",
+        "date": "2019-11-10",
+        "venue": "Doha, Qatar",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2024",
+        "2026"
+      ],
+      "scores": [
+        121,
+        111
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Precision",
+        "Consistency",
+        "Finals Nerve",
+        "Big-Meet Performance"
+      ],
+      "values": [
+        80,
+        70,
+        75,
+        80
+      ]
+    },
+    "coachImpactData": {
+      "note": "She trained under Italian coach Riccardo Filipelli, who helped her re-learn techniques and focus on enjoying the process, leading to her Olympic quota in 2024."
+    },
+    "consistencyData": {
+      "note": "She shot a national record of 121 in qualification at the ISSF Final Olympic Qualification Championship in Doha 2024, demonstrating strong performance in a high-stakes event."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2014",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Grand Prix - Porpetto",
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2015",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Grand Prix",
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2017",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "tournament": "Asian Championships",
+        "seasonBest": "68",
+        "seasonAverage": "68",
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "National Shooting Championship",
+        "seasonBest": null,
+        "seasonAverage": 112,
+        "currentStreak": 112
+      },
+      {
+        "year": "2024",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "tournament": "ISSF Final Olympic Qualification Championship",
+        "seasonBest": "121",
+        "seasonAverage": "121",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Asian Championship",
+        "seasonBest": 116,
+        "seasonAverage": 116,
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkOYa0oEAZSusd_Ah7xdVIQkItLLrnN0mDIn20ewalce9Mz6z-7xDhl10p_gcNkkfcxGNKQ0QpJcDO2V-6T1CPTtMAjDbNlCr7aVBh_cmVTYFp0KoYGHjlPpaIJVEXPr7dYeDdt5pl4WLEuIxXq3QddSJV7VZx6cIJjxTL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdoHp40nfJArMp8Q9zkhNscHJASZMuyKNL0BmYjQxeMg6qpQbecL6BGTZyjWtw07mfLNFvnlAPlZc0TtME4jgIZMi0r1mR1kLY48dA3VVzJ9d1BxwOhlyvaoPr-drClYUhUZJL0IptzIj3Lg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaMxmEFi8P8MAN9KrXBKu1YwtFNgnz7O_XC_B4oBuAuOzroHlTZ9BpXvuHq_60b7GwBnjRgjkpvvcQVDDJgjGsKRxDNYgVTDG2nTTmjE_QBxkvvR5qcvsSO0D6BZHdO7VjAFUJekRZYg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcGWhZLmiXErfGGnM3BHf90SiT5vUgpXKLYr3tRryCxwLPRNzC78yMOp_yk8FeLUPcCpo5YT1p1onkWCFyJ7i05iLENHMGvjU5T-IbPJGAsJAVNRrJI-90MFEQ0OKYPzGGxGeIPtJ_k6B-fa7a",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJVXpsTMz9HC-YMqVGF0w_CC0tN2hFy6N-ewHEGYNAaZqRlSKvVYjW12BfboTMG_Evl5kwVO2bVwI6XNK-XYRvnG1Pi7UgTO5xEe5qVV3TjcbiNp4zYU_STg3mo6Dsa4lgHPVYHJy4rPsBxUuNcOgIvC7ohL38DqHS0ANElqBssL-EiBzQWhdO_L4nR09bBoLewnUi2L8aziBhIIXyGuGDaDgpZywrV8L6n1tbIEzpnGS_-fTfoYATjA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFmazGg73vvdPHto7YB_zX6i0KEauLfP5c06-_03sXSHWy-w3gkR0EEyP3SYO3Q1Xvi7K2F3zwjSVmBPzIqkqI1KTIZ5vxNLVUJxj7WWFz25Q03Cg168qbduI2zet6UjTceFlDSMBOwP0FQEY67536TETsKnNbUujHmkPA5SLQEPG9qG8mn9JdF3dRhJzTrg7szQtwnTof62seR2JdM0MG",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-sbHWg5eii63PqeN1TFgp-MRLOICoOBhnhgYKz5umTUEYJ20Y-zaL4OVkw01v7cWrQDdDIxIGUcAOPR-jUBa47Qv9Lezix6_M7nik-pnpN1uZzeg8XvGeMd3uOP5312QVKj2SWMh6B9AoUq0UGJr2gFaEUoenWPlsziD87KQDbq23Q44IoWTPLWrHHHUgq8o-WDXR6122aXoxjHWcnPUqhORLtyn_K7894dMWPI4gXL4sWAYbzeeyjhQ_vgmImeNintpKLgbDfSYbxiGQhLUno6abuVbXspQ-_0FSMl_7X2du0-9TqiI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiGeeaHZcl4zRI4sUXXj6Y1Am8A6WYmtNiWAhpfoEnVt7RMy1pHfAlbU22NUoz9sLlm5zFSumqsDnE3CsUvCxfDvHOjxGFsBm_utOeY7gwfzmnddVNTyJjKD9XF2cgic72P-8Be_Is1RXq8WTvpFYJswen9hbtWKsd4mdQIpAIZSh7nlCY4P8GJoFcDeOiRnVnSkR8S93axcePl5g-c4RYKveUMsyR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ6LD_qs5sjDYpbvAl-yamWP8lYcLR_cSQdpQ0JH-rsSBylis77j4slSOhcAioGlZA6syO66XH-HFueI2yvYqZYtOv2wUraQTOP3Bx9wnuiT-5vbjDHa_AEVqCpvqGV1yCMKaCvFbIogdBTKuEo2Lfez1bac8SEp1a5M293lJbuBqFUsQletob3nTNwer451VIyK12FvU065lDs2nm9lTKpSEOykR9jXS-d2ygB5fIQiPSf4PbS1wVOti-UtFm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ5nVV0lk2QOxuX_cgpvfmNjK1C1w1KWEgFMq8FlKzlCnhm0INs6j3ec8hiqzlOU9nvw7xu5BD1lg9_wP4MEN1p9oQGb8CmjTDblE3rteo_m9YtNdAXGarHEXUKQP59kX8RKKnPbfLQiLV2lLoSdAWWXFHfmueEP13lVPAIgoKUFtsLehGl2NKcMEr0bJwyNCm8__-vWwW4WS1_Q32ZdmObra0SQdiW_FFBCjs",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2pa_rsgj8iy4XgsdVa0j1BkAgSTFYGgcQ04iucWp90_Men7OOFNDzZ7epKoTTamqfwzT9jNx5N9bA5w_A4YMXQOeyDJh1CBudNI9KP9VtFr0XtwmrgHI492M7rhy-XIN7vYlr39QrKyEVK7s66-kWNJQPFkD4p6hB3llRFQ2yzPUBG_0wEZXSOeystJtR5BbgXIhnruQ0wbFvw6IyNnQIgOjNJVpuZJtRxJJE-Dbg1rr-ShEwxzkRqZxmD_YP04aDQ1M5jnc619aPSZSwDED6nvQ7GC8f2M0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoARoJh4MjAdq81TP1tV48zo2_paN0ZliZz3ItfrpVG3inLXbxXLzILDaUIt0T0oxJuuJjb3uz5GBy4msLzZO3Hg730TgOXfQClJCd7z2VXUUVHk64L-tE3RpMIsxSTK5Pjje8Hanl8K8ns8FQefdDQ8PJKUNbE1nY5l8WHWvo-QExMPpTXV-gFFZCCnuMETA-y39ONIokJz-BnHRCpQcLezL2g6lAV0kDjPcSi_TNlkvi9KwP",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdFk9EYAkbWO6vcX8_XkaASrqi66GmrnQU4rw27R4JW5mCkgl2CZCLClE_ZYTE9U3-yaB2Gc8C1p3rSp5tWamGgtgzonWmzOm0kevq29Iv9dtuEud2JIo5b2MOaI8wtNaWUgp8uSA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqGYfAER4KHQPMSJWK4TKP6HAjWZjkG4lsEoNgD04JrkURV2UnbB_OYT2Oy0Y1lQgVxESC-zioZj5LyaS8M8JLv0RNe0FYkd3em05QlVVa5I371pZIVrLAArB91xaSLy3Tuyj5JGPL_7y6d5riMUhlFaOEBsZKbP825j_T",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF63avnNX6EtFBmP54lQ1g1HFd3NgosPFP8rT8g2kuZrh1ggKA2k7qnLowIGWk-fe6CGIkfzbDtXgdTxFfUG-UKBUKqS3po_iUpXsNdmciU2dLFPZccZphmm2YxJ5_BEEbqBSQ_X4-K6Oq_Yg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKJ-Mh_dzwEMUT8p4AGHXH_9BKVDCldAn_5h-uOe3Ekw8fnor3HjAjuw48VO9Z3cMckc9Z0jhcszxg0krHyM1TVczZ8PzlTjQpE6rFKXcLwNJtJjxNNkMW0wOvvyqUN5hMsqzPK7kaSg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN7prLViZDU8s2kky-ipWtUk_0DIRipaQ03inSwZX4lU_PWTogMRcZNDmfczqTeUYMIoZoOV7bDD_ZPP8EE20QoAZAiKLKc49AtVUwjZLCTVMg_v5X70cfeye5vlf6tZu6_q_UEy5AzSxu2h0TZORi7l_OYnWjmzeaj2twXoQNaN9X4JX2UN5aPf8qRp0u-XFMWiu3g75ImleU-b61Seh-a39rECU7r10cmBULIFajRHjvAtGo0mj6_Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHada12xC15WA7cdLZZQtq09oTu7yBZbNk1VIc0YTwCZmimWf3LsVX7dMHkTt20Q_Sy8vPS6AVDwUFkGAkLjFjmJ6FE7yL0P6Fj2ijD8-f2_mqxtk_YkyewnH51mOuher9TOXkSMYBkxwPdFGUUTCTAXqOZdZl7uRNU35BO-M0fwac9zvWtD19SCMp5KvPBqK3zBuVKn3EI--dLSDbSlc4_kJOgtUSW5rHSiqPzeZc33rD7EdV5r5T20oaN9j5_7wXNB3JijKIy3zJ6XLWeNW5ffk84jgKjFhA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbslnmiaJ3CAeZjpR8k6neZwZprIM6J5qRvFboV8CDClkezwCQR4QQ5Y2KTNud1_Z83eoWTBrNY4mindtglF8Yod_QTrPoZRM1dEnmb43xtmxZDyn-14s3r0h5U3LGgYgumKgPtYpPk2Q6F8iuQ9guccTYx8zxH9P_oESsHv2HvcTUxY1AqPei6ZWfmFC1f1L0sDAszKyRtQ75ZYRUbdrl",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe2gc9RJdZz_1md2PzOChsm0T6r-zmIQeWF8fuUlir3TOV5mgwQOwOuGC7Ali4Ds3sgNWaksMNnIwFxjSj1W0Wrg6Hak4bsf7Erdfk9KQN4-C_SeRHcyMwPlkp27D5CLF_SzGJO785b6tWMO-eqj3jf5QBRUHvsBv15juZCW7oitgnQGmVy9amMBlkoHLcU9MK1401JbjJw3P2lUtYO5lF8oCDnDzn5C5HbW2f",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxVIjp5MEnwyJaWe2oTDTzIAeaoqfM3uq0Ntx_UlcFs0t3wW8jvLvh0HRvfoerPkkAsyfn2LJmALY4lZr7YNEJVUapALQHIKsHqgBGFLqhR8EJ_BD0Gzng9SCiYaPtTlzFBI6y0GUyvoxzHFIU4P-NIJozCm1dQtQM3xRp8RKKqEbQVAoVofSnZJL1khkr6exRQ_p0IVXNw_9dKaf86NPekCVBy3shQUgGhRA9b4vv3QmQBl4784fMq8etucYkY0Jda7PO-Gc3zXLOHgWTh3hpUcIYtpLe9n7SdAUyWdE1L9fj1S7GKs-3O98=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3L8hFTfT6N-5XVG63JvMBDoNQGAyypex847PXZ0oOc806JC6idemliyxmGJK49inxUCnz5fiFqF7aHDF57n5oKTmUM9fFi2qZsj1l_M1Je1hs9svJtPnqNRqpljPegwBu3nu3MXXYWp2LVIt_CzNrkA261GDzHx022LxfgiVyVYZ5uWI2G7faufPE_xYus10ke3pSXN6AuY6ro70WSuftG3458Vrx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZgOvKgh7eNBN3nZje9PDu2oaubkgEz5KeZL9Ce9VcjhBs-6Wl9Y3IqWyjWmg5LuF7up3a1YqXJAwwnoL6-EwqUDqDUjGnPBA1bgegzHFp2_NWn0C1jAF0u4mZdlmKLJ8Mhv9GxYDtMM9sZgeFei3t0odrquJ0zv634V9cemvbmKM8ZAwVfIBOiGXXuQDLbzGkGFKrcYzxrloIdPNfOeTpxLzcyKjgX4Jp54UTpzkqwaLUSwj4lGF3NZzwOcuRLkwT7O5J-k6qn3KDvCrZLmcHtIJ4-En7V6PPeLWvT_yIIaLxLzLg2Vk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFJ6WJkUq4clsazcWEgu5OhYbc5Sh0waqXGW_ILMtd2Xz9SLrp753chbSn8NOxZthNB8eVVtqOPGxq4DRqOJ3vXQrAciHsdVxiVYXDTcS0Hwo3x46qij2rOf07eW_rN8sqb_YrqQsI3IfosN_WrL7UmuQcy3yq-emeq5GAq3dDeMOKp6Y_46CHmHEqmYt6A9_BNU_3c7sW09T_W12F9QrRUmvsHT1iaY9y4aM7IgKnPGmCouYQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYqgk75zcAgpR7VFQ8LyPgKi-CMY6SfY7UPnsai6E1_yhxfO-nu2RvDyE5yJkp3IAQ1mvsQduPaw26OUFkmeXIcg7OwFLcBSOO7nWqBMrOpWPQJ29vr0Vi9KhXgswZF9Jw3CdJBMLUa9ovugw855mX68NdS1_6ysjYfP8pB_T1HRnmJMDBtImV6B2owOfY7TWdwpS4v6huoqW0RYtTBXVjYrEHX6wuY0oh1DYIu5RnB0YAE1WB8oGJ5aKXtGzx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO94WVyOEqNBSoXYkwMI9FH3-IVsylyeQ9b8n-Ya6UT1Dbm7-txkQYfCH6E1UxxkKiGSTrUP5aoO9oeDcbYFHVX0eoSpl5KHITXk4mj-DX6VKc2nsoOnjyxTmqz3SRTkfK3vUG2lWyZkEApm8DR1M60U6-p8OhNkipOBzi5L5nkkgbNrPGDrC1K0CvlcKA5HDU97OaRpJLiTVcDcxUiTd7EbUwKG0SFCMYhvI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm0bnJQEmMd60K3Esq3QfkJK6GGaNdEGZgGm50t9pQq8gOe9WiZ2nL8a-U2STjmxBILFp-8kG13ZALsWgM5bWtbTQr3mAJOx4jO17LkM7UuU27Y4jfxYSxM-zKYECMvm3Tfi4JE-5FTZ2l5lldI3XpuzW1cgjn6k4RIre5vAUkulacndHGvyCHGpY7xlV7ayJGE9rybrLTPUlYDsDeSvJ_0XOYS50vZ5BIDbY_xxgcP9MVmph2QziwinsCew==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXGiEWwxx7zTur1BLR4rWRIaC4Ra22uyQrlmaH5dQf-fsI5Io_MY0lkHhvxDo23eM4V5Em3IOvAMlH_wvIef7sV0smFoWdIZ0u3nsS6nzXoXPI10fL6z0HG5lcy-OS41s1YvqS8Xb8tO6-3VfD8ZuGoYqxwcCWVG5FKPfIgRHyQQeQGA0lDmr029yImLM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFWXkxNW534oR3SgVRZZPe9IHtuBUjs79n5jCLDY-LDCRGfoRS5eBa77Ki1BK3E0nwcfCd91iFI8US1vyVb8PU3yIcWxUa-L3CwDGB0DAGcEhmBVK2dCP4V5udqaW4UF2uIh1mgIpBsXDr7o-UmyNk3H2jv9uW5VP7TNzfAp9hMIgckVpHdlwq_QjdwxRV67r-tda4j5rMu5W8I1qO20_O2uBB",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFytGKjwRQFysSfOTseAuDdN7gQFX1KvYMZIYf7zn9RAeB6xFlpxGbozRAInz0G1b-qOgvMZRCNghwwAeP7OpQH8BHGM4gksBBpGTG-Y4Bo-_wFjmRTvCHykkAXSWbDqQdgrL72n-Q="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-12T17:40:23.328447+00:00"
+  },
+  "performance": {
+    "discipline": "Skeet",
+    "category": "Shotgun",
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "ISSF Final Olympic Qualification Championship",
+        "medal": "SILVER",
+        "category": "Skeet Women"
+      },
+      {
+        "event": "Asian Championships",
+        "medal": "GOLD",
+        "category": "Skeet team"
+      },
+      {
+        "event": "Asian Championships",
+        "medal": "BRONZE",
+        "category": "Skeet"
+      },
+      {
+        "event": "Asian Championships",
+        "medal": "BRONZE",
+        "category": "Skeet"
+      },
+      {
+        "event": "Asian Championships",
+        "medal": "SILVER",
+        "category": "Skeet team"
+      },
+      {
+        "event": "Asian Championships",
+        "medal": "BRONZE",
+        "category": "Skeet team"
+      },
+      {
+        "event": "Grand Prix - Porpetto",
+        "medal": "SILVER",
+        "category": "Skeet women"
+      },
+      {
+        "event": "Grand Prix - Porpetto",
+        "medal": "BRONZE",
+        "category": "Skeet Women"
+      }
+    ],
+    "stats": {
+      "personalBest": "121",
+      "seasonBest": "121"
+    },
+    "recordStats": {
+      "olympicMedals": 0,
+      "worldChampionshipMedals": 0,
+      "worldRecords": 0,
+      "finalsAppearances": 2
+    },
+    "chartConfig": {
+      "primaryUnit": "score",
+      "secondaryUnit": "hits"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.coachName",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

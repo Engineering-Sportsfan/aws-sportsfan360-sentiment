@@ -1,0 +1,138 @@
+{
+  "playerId": "auqib_nabi",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": "jammu_and_kashmir",
+  "coreInfo": {
+    "playerId": "auqib_nabi",
+    "name": "Auqib Nabi",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Medium",
+    "dateOfBirth": "1996-11-04",
+    "birthPlace": "Baramulla, Jammu & Kashmir, India",
+    "heightCm": 183.0,
+    "jerseyNo": "24",
+    "debutDate": "2020-01-03",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/9/91/Auqib_Nabi_bowling_in_a_Ranji_Trophy_2024-25_match_against_Meghalaya_in_Shillong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "bio": "Auqib Nabi (Auqib Nabi Dar) is an Indian right-arm medium-fast bowler and lower-order batter from Jammu & Kashmir. Born on November 4, 1996, in Baramulla, he made his First-Class debut in January 2020. Nabi played a star role in J&K's maiden Ranji Trophy title win in 2025–26, finishing as the leading wicket-taker with 60 wickets at 12.65, and earned a call-up to the Indian Test squad for the 2026 tour of Sri Lanka."
+  },
+  "record_highlight": {
+    "category": "Best Bowling in First-Class Innings",
+    "result": "7/24",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "opponent": "Rajasthan",
+    "venue": "Sher-i-Kashmir Stadium, Srinagar",
+    "date": "2025-10-25",
+    "aiInsight": "Auqib Nabi recorded career-best figures of 7/24 against Rajasthan in October 2025, complementing a half-century with the bat in an innings victory that spearheaded J&K's historic Ranji Trophy campaign.",
+    "progressData": [
+      {
+        "year": "2019-20",
+        "value": 15,
+        "event": "Ranji Trophy"
+      },
+      {
+        "year": "2023-24",
+        "value": 24,
+        "event": "Ranji Trophy"
+      },
+      {
+        "year": "2024-25",
+        "value": 44,
+        "event": "Ranji Trophy"
+      },
+      {
+        "year": "2025-26",
+        "value": 60,
+        "event": "Ranji Trophy & Duleep Trophy"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "7/24",
+        "holder": "Auqib Nabi",
+        "date": "2025-10-25",
+        "venue": "Sher-i-Kashmir Stadium, Srinagar"
+      },
+      {
+        "label": "National",
+        "value": "10/74",
+        "holder": "Anil Kumble",
+        "date": "1999-02-07",
+        "venue": "Feroz Shah Kotla, Delhi"
+      },
+      {
+        "label": "World",
+        "value": "10/53",
+        "holder": "Jim Laker",
+        "date": "1956-07-26",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 43,
+      "innings": 58,
+      "runs": 999,
+      "average": 18.84,
+      "strikeRate": 56.38,
+      "hundreds": 0,
+      "fifties": 2,
+      "highScore": "55"
+    },
+    "bowlingStats": {
+      "matches": 43,
+      "innings": 71,
+      "wickets": 162,
+      "average": 18.63,
+      "economy": 2.90,
+      "strikeRate": 38.5,
+      "bestBowling": "7/24"
+    },
+    "seasonalData": [
+      {
+        "year": "2019-20",
+        "matches": 5,
+        "runs": 82,
+        "wickets": 15,
+        "average": 22.4
+      },
+      {
+        "year": "2023-24",
+        "matches": 7,
+        "runs": 145,
+        "wickets": 24,
+        "average": 21.8
+      },
+      {
+        "year": "2024-25",
+        "matches": 8,
+        "runs": 280,
+        "wickets": 44,
+        "average": 13.93
+      },
+      {
+        "year": "2025-26",
+        "matches": 10,
+        "runs": 325,
+        "wickets": 60,
+        "average": 12.65
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://en.wikipedia.org/wiki/Auqib_Nabi",
+    "https://www.bcci.tv/articles/2026/auqib-nabi-replaces-jasprit-bumrah-in-indias-test-squad"
+  ],
+  "source": {
+    "source_name": "SportsFan360 Verified Database",
+    "source_url": "https://sportsfan360.internal/verified-profiles/auqib_nabi",
+    "fetched_at": "2026-08-14T23:08:10.000000+00:00"
+  },
+  "_retry_log": []
+}

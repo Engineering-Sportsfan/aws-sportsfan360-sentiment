@@ -1,0 +1,158 @@
+{
+  "playerId": "arshdeep_singh",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "PBKS",
+  "coreInfo": {
+    "playerId": "arshdeep_singh",
+    "name": "Arshdeep Singh",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Left-arm medium-fast",
+    "dateOfBirth": "1999-02-05",
+    "birthPlace": "Guna, Madhya Pradesh, India",
+    "heightCm": 191,
+    "jerseyNo": "2",
+    "debutDate": "2019-04-16",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/36/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Arshdeep_Singh_Family_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Arshdeep Singh is an Indian professional cricketer who plays for the India national team and Punjab Kings in the Indian Premier League (IPL). Born on February 5, 1999, in Guna, Madhya Pradesh, he is a left-arm medium-fast bowler known for his accurate yorkers and death-overs bowling. He made his IPL debut in 2019 and has since become a key player for his franchise, also representing India in T20Is and ODIs since 2022.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "5/32",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Rajasthan Royals",
+    "venue": "Dubai International Cricket Stadium, Dubai",
+    "date": "2021-09-21",
+    "aiInsight": "This maiden five-wicket haul in the IPL was a breakthrough performance for Arshdeep Singh, showcasing his ability to take crucial wickets and restrict opposition scoring, particularly in the death overs. It solidified his reputation as a promising young fast bowler and contributed significantly to his team's efforts in the match.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 96,
+      "innings": null,
+      "runs": 32,
+      "average": null,
+      "strikeRate": null,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "10*",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 96,
+      "innings": 95,
+      "wickets": 111,
+      "average": 28.03,
+      "economy": 9.19,
+      "strikeRate": 18.31,
+      "bestBowling": "5/32",
+      "oversBowled": null,
+      "ballsBowled": 2032,
+      "runsConceded": 3111,
+      "fourWicketHauls": 2,
+      "fiveWicketHauls": 1,
+      "maidens": 2
+    },
+    "seasonalData": [
+      {
+        "year": "2019",
+        "matches": 3,
+        "runs": 0,
+        "wickets": 3,
+        "average": 36.33
+      },
+      {
+        "year": "2020",
+        "matches": 8,
+        "runs": 0,
+        "wickets": 9,
+        "average": 24.22
+      },
+      {
+        "year": "2021",
+        "matches": 12,
+        "runs": 2,
+        "wickets": 18,
+        "average": 13.78
+      },
+      {
+        "year": "2022",
+        "matches": 14,
+        "runs": 21,
+        "wickets": 10,
+        "average": 38.5
+      },
+      {
+        "year": "2023",
+        "matches": 14,
+        "runs": 2,
+        "wickets": 17,
+        "average": 17.94
+      },
+      {
+        "year": "2024",
+        "matches": 14,
+        "runs": 4,
+        "wickets": 19,
+        "average": 26.58
+      },
+      {
+        "year": "2025",
+        "matches": 17,
+        "runs": 2,
+        "wickets": 21,
+        "average": 24.67
+      },
+      {
+        "year": "2026",
+        "matches": 14,
+        "runs": 1,
+        "wickets": 14,
+        "average": 38.64
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe1ViV7UI3W8HFtIvyfUa_LGodJ4GQjsT0tRceQQSriE7UAWqVXz7GDGeMylaLpIiwRinvEi2YPgLFhojyV683jiFzcXpsKImalhcsf1Thc80bF5_DGZ8RFI6s1rFQOEljkuskgNFA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDXVHn5J5_dgFeU-d5gTbfeQcEFQ7xEPyE_47KkAuqz3o0In5rf5jBK5FAMGEAWUlBbYjvj_nwv_wxxCL8DMfwx2IsSbk5MedK0i0SEhAzTGChzrCvzg1vEnVH81eiwCnFgY1kYmzltcgLA0A-U2YCaK73VjJ_UWGp8dQi",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGozDG1g6BEfZshPDBSrpT8XQlf4aCEKMa9np_M9tgdBmegpO0ZrXa6iy995p5PEax_AY8oHvEvohnHd3WVh71_mggh7fHktbjsNF0RTHL4vCQX4z_wMnUaho-z4lPLAS0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4ClgmRyiLqsnyiNjIfQ6ct16-qiQOpjGfB1IGVz2jzVpGzkqX4-YN3CoKVC4klwa0n_NuOgptVGr7zc3Q67U0986DK9LokOL_AEZ91U5WZfUzPXZ2cCjVKSSKTVHMxF8PW5RtrAFPnqrZcsuDWjfnXRw0J96zyrQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkCEIzFt_Fun3enljsatX0PzHRtQkyrqMhmTZZ0xBjy1c1tMydl3Sz_3bwXNf10_t6gma20Z89nHy4R8woGICPE_xgdW6mQl3T45sg3ZNAl2XjuMTFl0PAd_yzJpc1ThS25riRwwaiCzigsC29mA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCndxwDkVVCGkFhO5Lzv2Sr-WX_WjEcujaagQIjYHJZgqNKmmTmIjHj-9PAPN-j7KJsmB5F_V3A0FCoJ98fnAUasmax-dWoZpXDKiQJI6z3SFvu3v62BVilmuXKRty-Y_ISB1m",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC9B6Ei9lnvlE86EmrCWiPbpYUhitRlHBaxKbTet7YWiuDT21cLmveS2aTd2YfkoUVBL0NrGw0gUW1Q-Z5TTdyh16WB-A4lpD1bCQVH2y_VW8t7XA9-mdOVTlp0SWxpNpCJpOijVZ9MB8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlrjl7m8RsF7OT_3T3Wm9t49Yj4EGx-jpCTomhXuRqxMGqnC7RuiDePt1AHOYKntxz7dARly6K-BUnVKdZBNTWS2MjF4wPZiv89svO5Sa5J_0IP1BqAI98AHOnarTJC_Qpy-ybrD7Nwg7N0FdlF1imAcjSvA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzz-ts-z0QCSvgNgIm0y_7h5q95b4hbh5oj7UtdAJGa7sMqs6L2GtULLthyBCEYvx9TyKDNnq9fuwoAhl6cSMSKe03lu9yKJtpudwkbtwYCqPfrrGEExXmD1mRZBCsFNdiw8QE1xLV5bqXYxrA7gAn4zs99oyryBzADn2TR0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8z4qT2RmzfQCBIZ1R3EO-omdaci8WjFGC_zcBymm2DTait35R-sqlNxr-V_CLA5sfUNmZ9AOkOleAfRYkimOxzBwA5j_vI8QOsga9k0BMbkH6gaq_89G-8jPQMtmdpdw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi_k-4pb1qX_thJweluC5Z3WKMn26aFtPAHgA0IAdTO9w2JYYh-DfXJk-ZPL5H3iOBoKrXmIPyUdBZbhZ5N5NZzAxI4Rd6qGw_rQ-DvhGMIlYgLMkS34IwdgaDQYzr_LajXloWzKZ-_uL3-fqDV_9O-glsAExNdw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrV3TT-JC1KwVxy8-NKRfTjWlDIr6PE9L_ttMwEo8flnHQw8erBIx_A6kZ1d8uaq4aS_8q4KQb6HqYVRFJ5zRNTBe8KMjposFQ8XYzjlmzlqTR1VzqRQtJynkUi2lCqc4OG-4BGkJTxxtBCaRXKmXlXcfxeGGPIybyLCG9gyeW-m2HXo6cYtHckmCMAHKz9DUuInjjzMwVEmKc4DzeXP6WqjsFBtjAbUfEZm1Vz27rsrwz0h1rMGPqWztu1VKmRIRAhvUfiJZVEo7-lAR6KBQ4J1vZ6y4-ZsWOcg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKXt1WEW4iBQ6bsvJ6ex6pZ0cgDwOvuwEwOZu-3qqpGBF7oGiLbjbdWPcPtvL4XqW6LhHtGK4UAJ-WEhhyqg7HZZIx9a9QPHKDkIeEWuOx2hoJu78Nkhn8YDKoW6vSJIuyGks5Tljox6ZCdp8iJ0B1p1SrRrdDt2MZoQU4TuvgQi1g9BmQEBVVMbhtUYykWYynzGJ5s3M4fhj8dIQNW5wnp-M_JQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcZuguSlP0wlqjywlDxn5jzDJS5TQI3qf7gs9onuP-UL14xi3znMV6YCbQ2dygRdSgDYti8PgVntpxLGKC-ZrN4aVJ8tC0auVh-yVQowH-vT33VAhlVtQSLr7Jshqnc0rYJckxbVQw8SSp1j82x1-Ktmj4_G6DBshfynm_KO6_nh3GftQgl0nttMjAyVNwm825VG9nOCQyuhpoZQFsGekRL_CuXqN3BHYujcwEMf8ePN-BI8GBrg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoeVdUKaMk7-qeJQ-LCC8CCHHtNrBVr_Tpcg6JwLtI1SWjm9FYJdiKXGE-m1-APZngSnWktivddksUwSfS623A5jOJw-d6s5nMEQCjfRgDjRNgOA2J__Y0YhRihcR8dtAbkb4k-WULQwMxnKN2g_cW7hecxCcXYore-zVPxoPlmnDZQanU0urGpqk8zz1i_eysU-zBTQXvLOKN3vG83GSmT1tFqmPK37gKLHcmHKhA2oSZME4MlYLDmuOQZoEy2ep0-TlRindLls1yEevgTE14LWubHOBbcBqeY5W3V2xlNmixvhPSQCSljj_rAOk="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:37:50.534745+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "arshdeep_singh",
+    "arshdeep",
+    "singh",
+    "arshdeep singh",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

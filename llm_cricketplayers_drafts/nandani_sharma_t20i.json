@@ -1,0 +1,90 @@
+{
+  "playerId": "nandani_sharma",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "nandani_sharma",
+    "name": "Nandani Sharma",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast-medium",
+    "dateOfBirth": "2001-09-20",
+    "birthPlace": "Chandigarh, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2026-05-28",
+    "profileImage": null,
+    "bio": "Nandani Sharma is an Indian cricketer known for her right-arm fast-medium bowling. Born in Chandigarh in 2001, she gained significant attention during the 2026 Women's Premier League (WPL) season, where she played for Delhi Capitals. Her standout performance in the WPL, which included a five-wicket haul and a hat-trick in a single match, led to her selection for the national team. Sharma made her Women's T20 International (T20I) debut for India against England on May 28, 2026.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "3/34",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England",
+    "venue": "Chelmsford",
+    "date": "2026-05-28",
+    "aiInsight": "These figures represent Nandani Sharma's best bowling performance in T20 Internationals, achieved on her debut match. This strong start immediately showcased her potential and ability to perform on the international stage, following her impressive breakthrough season in the Women's Premier League.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 6,
+      "innings": null,
+      "runs": 0,
+      "average": null,
+      "strikeRate": null,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "0*",
+      "ballsFaced": null,
+      "fours": 0,
+      "sixes": 0,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 6,
+      "innings": 6,
+      "wickets": 7,
+      "average": 24.71,
+      "economy": 9.03,
+      "strikeRate": 16.43,
+      "bestBowling": "3/34",
+      "oversBowled": null,
+      "ballsBowled": 115,
+      "runsConceded": 173,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg6tSG34ZkJ0K5aoiqkS1J6zXleK-_Cvm1FRRpoidauprJwICgI8Y1sFq1Lg0Bflj7SYQU1rxp5y6j-vLlFW--lsLIwMsT8BcgU3qg8q-kNpGs3XwZw6SkR4QQHvTSV26cNM2DG2c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6t4-onOzqKAjYinp5zLBPVOOpilHNA0rNuOhyYAKmNG_8ZX3CYyv8hhYOOFimLK41EeowxfjN_ZFfwuaNPh7pfWkPIfTbivnoF7P_zrXHsNj9GIDV01tI7Fmjm_vQ4dRuv2rhXqtBpQiU7MPfXRCcwRqt",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnyYgBPxBNlyA8lQs68H-76JVsdwcjW6Q15fBYw90ykFYzKeaXJoqOF7AM4m2aOAq3-5BNYVY8VLB5X58EMW5BE-1tz5EgxJZ9rm66WGyEE9CKua8to-ZaZcCWtUXfgQSNK4xPgdf2pm0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU7xmBFBcTuoYLKzR0akxbYmE_3Z7WSzH7XTkq8ExQcd2bcELVVt-yrDAh3H0KouPRAq8AWsADMEoQdOtHo6VkWBYUWsuxpsbEjJrlyDMgSR5mTUEme8Kf5P6ggAReoy57viD3HNACAQ-pJyXPP79pPX3KJjxL0y-eg_U-yT4eDNFC6cLdrmJMp4EDDQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:51:49.216122+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "nandani_sharma",
+    "nandani",
+    "sharma",
+    "nandani sharma",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

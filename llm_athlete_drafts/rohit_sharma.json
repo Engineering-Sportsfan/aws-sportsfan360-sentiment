@@ -1,0 +1,125 @@
+{
+  "athlete_id": "rohit_sharma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Rohit Sharma",
+    "country": "India",
+    "flag": "\ud83c\uddee\ud83c\uddf3",
+    "gender": "Men",
+    "dob": "1987-04-30",
+    "heightCm": 173,
+    "weightKg": 74.0,
+    "profileImage": null,
+    "bio": "Rohit Gurunath Sharma is an Indian international cricketer and former captain of the India national cricket team in all formats. He is a right-handed top-order batter known for his aggressive style. Sharma holds the world record for the highest individual score in a One Day International (ODI) with 264 runs and is the only player to have scored three double-centuries in ODIs. He was a member of the teams that won the 2007 T20 World Cup and the 2013 ICC Champions Trophy.",
+    "birthplace": "Bansod, Nagpur, Maharashtra, India",
+    "coachName": "Gautam Gambhir",
+    "yearsActiveSince": "2007"
+  },
+  "record_highlight": {
+    "event": "Highest individual score in One Day Internationals",
+    "result": "264 runs",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2014-11-13",
+    "city": "Kolkata",
+    "prevRecord": "219 runs",
+    "prevRecordPlace": "Indore",
+    "prevHolder": "Virender Sehwag",
+    "improvement": "+45 runs",
+    "improvementDate": "2014-11-13",
+    "aiInsight": "Rohit Sharma's innings of 264 against Sri Lanka is the highest individual score ever recorded in One Day International cricket. This remarkable feat also made him the first and only player to score two double centuries in ODIs at the time, a record he later extended to three. The innings showcased exceptional power-hitting and endurance, setting a new benchmark for batting in the format.",
+    "progressData": []
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {},
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT7uVV2hCZ71uUqTpeTbH6z8cgkDL_nmEjNO_bymIYGED98dCwIlujSvLxw4p8ps_eyq76fr2-1R6ewhCgWPshK891Bd5X96RZpN45XncNsMvLf-_kSOj3mY-uQWn75TirzSuchA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3kZ-M-Kg-1YTiwslC7dN1aBc5DDq6iNGLPWNsT7dM2mx1T6ojaAnNQBgb9zYRKWookFssBtYJldDq9ZDGFnbKidxEbqrer-FMeS19N0nv6Megq9x3nY-b-bs3xyATdiy7NCgG2MfFgntm0U4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHavov-Xa1yprp9Q9avuUiPHYSC_0NL_FC2ioWTVi7bIjohI-9ckiUidvvlefojKGcxaZNkR-eQ-8BHmKgSEAjmLrtwTsm79wGEpJel44rwHes_rZzRtCRcgHIOQ4blonIobc4HnV6Ar9Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1pPMDwiN3vU6OmmK-YVmo4cL77qAVzcb88O8oiPw1jjoWe28xv9iLviF7Ry984MkZHE0-pqJ7H2Z2rKsyE9S9GqFh8KAf3QYqWeBP7OWsUSwrwANPzmq73YwR0Z-sBPQcmCCTjg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYUbllsJcu_FYLyh5SRb2YgmW979ZuQOuQj8lYPgP2WD20U108zk7ngU3MWZuDi9Q6gl_q2pV3G1L2ORVcQ-5X-oAUG4FGSFYLc6lgO2RuZ6DGIaPuwmjwT2eE5cg69oMgMlPg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpyhVcBZhzJreeDg9MN07CX39Ilgv-tS9hT8caug0JrWQuNuIQ2feOgolRbMgopWWbgQzZQhpsSs_3DWzksL7G86deP7bRUgbTuzXqwYXomAY2NAQZ2VYYQYMByc8NWKreaKXjuKiyXS5h59_zO2T_Vg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4lfNsuTSJIJ7n-W8IYZmVJexmN1IZpYOh_eaKbyVSToLw2QNmH4De6j36Mhf4FpfR1TM5KGelqidlWTNa8mHBTN8tSEmUj5jLEKUmJ3UbHOGSUeDqU3-luMCV3wC5fSddXNguqlEMOmWpXKXL6FfZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeOU1oO0agug4CpxC0dAM7PEFTyyDmad0uuRP7NNxdyVVCuw0zxZadziEPuTypi90VKGTkmVNgzydO8HenNjUCNmnwbWVHD7Ubsolu0pG5FR-s_HObpjOWFwxmjkfx-uiftVxBA3UNUds24mJnRL0KtC5IhzOIOInctZRa63CNetQhc7d2EJTS8vnHwZUk96_t5p8iJwMoS0r1gQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFREGwVowmhCUImD5G-Vh8xDe_vvbmUeL3ZW23zD0A_IvuHN7-5iJ1fFZx0ErThXKNOctdafxtqEuyKKntS_8TVlbG2aygxUBtLYN_kBk-vK32k4zjxhasXQho1pgncPVOcr82JzfS0KzbcmUiDuafZi2wcRLNbfknTYY1TFCic7FWA44rb6VZn8SBvldpBL5bcfnLcACx4Tg3-Fi4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQL9CXOOSx8jCxDiwPGr8iuQENT8t5sSyGhDAiTy5BmgNVewLzxFBsV65RvoVVPcTL_xgyd3BIZvoRTnn44shdPARCE15cVXULogY_9zbhavurjdz9zbzqiMNUaTWy8y9VYgKqgvKRYRtarJsBj3C4d9hrSgr9RP3J3Egs8I4s9XeaDLox",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJfiqstF_GxhRzNWylmHJmARPq04r5taeMbyMSaNzZIFL4W6vmE23OOMsVgzxiTSsQhGzC4vupdW6bh86aUasGcOTj3QpymIWrCQlFbmy4t7KayG3aHoBHg7BanLwP6g40p7dG6n0lAyBdq7vrdVxZYLxcoYwYTNHVgCx_Vc1GSPl5-5y7sAQGcG_TK5DYNJBWxCUnMplwjbK0SXSjxIPgIvAEJHRlORdO2aeLqWuqHF3cFvBXMpYEkqf5hBJU-AHxMgKpUYehA9ysT-cyE2qkgo7AerHmxW9wJk5ZquapexJa3Ea4HJTL4Su1kGTC-es=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKNgQrYCwKf6z65754t20_uMFEb_Y2SllUe28VJs8x12YBK04_Xqph_US_NVG8W8fJKPBwHuVTXS18uGrF4qUZBmT-aOtvkUj9_HzCoEGTr5tK6Plyl6ga5MztAnpAjn5nyFL4dh31INMs31w=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0FF5-bn67uSkXkEcfxtCPSZfJ4LAbT9ehd5y240y1wUDs-NnpRt2ov9_3LgerksWVRVXzvCICRE5uSznRTQf3uIUAxPUhhjxPC_7WXKedcx_lYmk5w99UqGd0kZDxNrgaAZXzQh_M_omoE96p0J4YgybpMUZTDMmNsH00Xeys",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUeDNToIer4r6oSjvSBpWdc_p28pXJkTvnFv4m7UhXNGjIdvEp6NrG8s3Vs1Qv3rwak7dc5BZc8y35yIM92Ggtjef7BO8_d88786EUMDdrPDAx2pLvUHJqWctn0vjMcIan4suTQg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6S-T3zzaue1lLooqQq5H862lWMNH_YCMZmqh53N-BZRWVB6dq2LnPFKO3R1nbND7rNkLPtVpqB0YLr5QJBp7ObLEgWnN6EVRivCZwiU5fsQqT0SpxSuoaHqnTIukXeFdCIxT4DNO4iVEql4c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs0nO_Je-c9aMMCVjMAWttzaBTsRKawwtoIqnjpl-PST4mhtcKr3bFkzOFTJTE5pZm0YQbWIAtK0SgjAmZ3QXMFFAtgdPMOdU7N1k_XPjb6-2PnnVIttAAj0JciZ6X-J_Xs86KTKZL7ybKwmU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEih9hpdBKuoP8ZfkkCq3HE-PC1FUCYtynjIatf1SPGjx6VoAHE0KUCDuChd7FfrX7dDGp8gcisGfJlKTX25vvsxNZDFFMP7nh8Wv7WCNd9-gmALjhkigU4-lnRoSe_6UyRweTzt_mOO7M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKp_8exsibkIwl_UE9YX_sS5tBeLjvvzlbyqoHrtW5_W6HlaiY2VSzHmgXJA6sQ6hzhQSSe1JXWuwqDfa8OJuVrqJ8bZ62oFezogk3y9jq2j34EriGF9PydowdzrvTB0sKIxNGIiyCqCGw50A4tHnEgw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVNnW7OvOOBFFHdi3wag1WgO9dv4bSzX5tlmQNcbvVQqJm_IDGfyOMZ1hmIA8jk_LwPmh0BUd38423lFmHfK4AjTDIxohJS8blGyHZOcrk6qF29FzMXCX8YcArfmibnX80czdG",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBPEHa_oOU0ZpNtIcu-FA7_Lq5IvQuyrJG6HuZhgmN2PvQNMHgwEj9o74r1Se1HVZNh-WnaGtBJgRm4ucTqV8s7f4L0Mf35tzrrQU699krIVQDEwGLWtIpMwqGiWGWsZxaPBPdUyL-4CEoaxqJZGBYd3Wo_rCO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqyAun_-0w3cfXbgWjPcM9J-Vhig7fQA1gVuAOnDWRFMuj8urtPgUOKua_XcH9pPoSzUB7PeScRPJUgY2sbhcuTJvpmZBTO8TGjCmotSClsKI0bbXIsSUl8XWv8ixLh2VwWBHxhFFKkC0iX-X3ANN-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa4SEIXb_GJ5RFAB11AXqoN7RPRnKu9TGah9KbFNNJx6Fim1B0-L5aiPbzC25ysSOlpfgrkQOKLYFEN53DKLKaJNnhoQY5wB03AvywFxoufwdhSpA28mdhGExgZZyG-uerZzvJf64G-9bTJCE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb6UqIEqlFH0hiruJswU1qXi7pLzEQ0ay7hQQEEjgmQffZ-CEX2Ojo7KIQ7Px8H_6hC_5q2yh-RO5XLmjW9aCiDU-CBcNQ8pTEdgXy9lxRFZc8hUlonDpdFYGTVN-NBzgx2P9DFOzSLxk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZU4jIp6_drfq_nvKkytJ1xCXloqLZSrD6o4e9GlOFoyxDpG3UYTws2UTu7Omev6aAFUUBt9_6AwDMgiowjf9jJ46dFbXQFPgHsLpqsbZn0qP8z8ljSOaF2fHsLT9vbWfq7vKcbUAIrB59egA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvi2ygyi47NcdtJSOEzOJLlzIf_PcYnmQAcj-Aph8uGm9AqCjb28aE_UjuXfWZVYo9JkYm6aqIcQIMY34vA1B66odiTozADMGPoAFn344Jlf7ZoHhPYdvlrUPPWU2qR29DBV6T8w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxmwFeiuiJptboAPa3BX-0wYnoE_gjNhsX0foXQzchSLH9oiJUY6TjtOwRxcEqEV2kGd-ZhUAXYbonuameI28EKSzPiVDgkyrI9-CgfshvjQDcba2FM56xBE6z3SnFOcfzSY18FlHaZ4G6hek=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo4dVbXixwevjbHLPkbdzkkiA8wpzknI6ukwKowII2gLnKDy_EYoK8iueduqfKT8-f6e7XOYYMdZoUVeh4BwJR6S403dTIL18PZewX_igKZZ_yykH2qfvJEmIQAqI0Ey-LHg6d13qnfsjTJU0CF8HSCDYAA4r3AwLCK35USBWrc7LkMOuzrYRLiQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfQTo7jvnFcoT04xrn3JI2u_W472AijgobAwGdRyh6SR-r29svDrcSBFsi1WNvc66oYXJxKvRRVuqx67t5rn3iuplPCa3RTV2UYTMQrLYfi2ggISQ_3v9J1MQ132_kqwrDCRe0hUdV2VIFvSHZgLJg1tLI60SKPzeqYDp5A2bJVwGBj39fXPgNhp2EjAX6nbY="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-03T17:22:25.717420+00:00"
+  },
+  "performance": {
+    "format": "ODI",
+    "tournament": "ODI",
+    "jerseyNo": 45,
+    "battingStats": {
+      "runs": 11895,
+      "ballsFaced": 12606,
+      "battingAverage": 48.95,
+      "strikeRate": 93.05,
+      "fours": 1126,
+      "sixes": 369,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 101.4,
+      "ballsBowled": 610,
+      "runsConceded": 533,
+      "wickets": 9,
+      "economy": 5.24,
+      "bowlingAverage": 59.22
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "performance.tournament",
+        "performance.jerseyNo"
+      ],
+      "filled": [
+        "performance.tournament",
+        "performance.jerseyNo"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.coachName"
+      ],
+      "filled": [
+        "coreInfo.coachName"
+      ]
+    }
+  ]
+}

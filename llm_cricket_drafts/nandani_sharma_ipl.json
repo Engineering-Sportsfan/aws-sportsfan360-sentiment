@@ -1,0 +1,129 @@
+{
+  "athlete_id": "nandani_sharma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Nandani Sharma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2001-09-20",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=G3KSn34jy0A",
+    "bio": "Nandani Sharma is an Indian right-arm fast-medium bowler who plays for the Delhi Capitals in the Women's Premier League (WPL) and has represented India. She made history in the WPL 2026 by becoming the first Indian pacer to register a hat-trick and the first player to take five wickets and a hat-trick in the same match. She finished the WPL 2026 season with 17 wickets in 10 innings, earning the Emerging Player of the Season award. Her performance led to her maiden call-up to the Indian national team for the 2026 ICC Women's T20 World Cup.",
+    "birthplace": "Chandigarh, India",
+    "coachName": null,
+    "yearsActiveSince": "2026"
+  },
+  "record_highlight": {
+    "event": "Most Wickets by an Indian in a single WPL season",
+    "result": "17 wickets",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-02-03",
+    "city": null,
+    "prevRecord": "15 wickets",
+    "prevRecordPlace": null,
+    "prevHolder": "Saika Ishaque",
+    "improvement": "2 wickets",
+    "improvementDate": "2026-02-03",
+    "aiInsight": "Nandani Sharma's achievement of 17 wickets in the WPL 2026 season is significant as it surpassed the previous record held by Saika Ishaque, establishing her as the leading Indian wicket-taker in a single WPL edition. This performance was crucial in Delhi Capitals' campaign and highlighted her ability to consistently take wickets at key moments.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "17 wickets",
+        "holder": "Nandani Sharma",
+        "date": "2026-02-03",
+        "venue": null,
+        "tournament": "WPL"
+      },
+      {
+        "label": "Olympic",
+        "value": "Not applicable",
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Cricket is not an Olympic sport in the traditional sense; this refers to a major global T20 tournament record."
+      },
+      {
+        "label": "World",
+        "value": "17 wickets",
+        "holder": "Nandani Sharma / Sophie Devine",
+        "date": "2026-02-03",
+        "venue": null,
+        "tournament": "WPL"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        10,
+        20,
+        75,
+        90
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Nandani Sharma consistently delivered match-winning performances in the WPL 2026, taking wickets in crucial stages and maintaining a strong economy rate throughout the tournament."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6o3pm66MT4gdiGnmQVy0earaffe1x_nW6rO3R1NAsyF8M3aVd0Pn8A53XstGOanSSFmSLdxSqvVEsMbniQvUbum4xiLNdYQiq0HLdLs30v7kIeFCvSZHs4UFl_RLhP4nFwevqk3GfKGmVIN-bcaGLwQemE2WyFuxGCaWr8YUDxriaDIIAH0qrNYDcjyjKqnsGNnVrWP7ssQl2BHw1Ji7C-skgbUZ0kMcW5ykPH96Qg0lOmA7kqw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxFUOSn5GacogbOqPWQnjp5u1XE3wdtfABhuzzcrmjwQoSNugtAAvrSGF0X5tWSpCoaTVbionxSomWmTykiy4pAcYf_zb6kl0u0XfVSOm6_AJLW3CfRJqGoaInGqxtEiCS61C1tw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYmSaQ8RG9cvh7YKvQYu_SdHS1TG6Az-xK6VAEabbq9YpTNoiIGPu--ejvqbD60IC2KkmrjT9Z3VCjT4n6xsSq71-w5TEiGv_H5B3Nm46KUSfeRfUqsC2yBbcSGRmC5Y9ksjo0A_w-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOG0KWw3qz7p7tRmkuurSKdGXQC3pJfPjIcCXqKxhllmsBDolFLFfTqKcVyKpFFhmPqduUM9syytvjeKHq07fFbpOII1ktjmQPLhdvppyjRLQF3m2xyM4rgbjdDcowN537g2_0XWE2OKepQVlS1_GhMpvCp08PXkCmUDoghU16LGpgSDdzL-pbxVXSl1HbuiVT5_0Bb4ecgJcBGRMy7SjJpn-pZb5NhiPc9YurRaD3nIJXiJ4uDIG3yxzTlAbLjpgsCJ0swc86rK2Xf93zCL3H0oxhJl-AP2ivXzY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA4yp0K2xlhfkJA59klPiNRNbM4RFrQvPnZhLJgSKDzeBmd5dbC2xRj2YlDxWNIAkDfq7C_s1AgpVcXeTbMrPxvAECpKid6WN1f147cntQm1OrpwAMrVY9XWzhUucr8cR00O_hu8rmbVmSS10rNcuVGU3LcVOZz07YY3xdg1CkOT4TtphClgyrbeNJ0J7w7MFOxdsr_DyHCuGPjED3kk6I-tuM-ylGq8bjf4lkkiS_DhnImQeBgj2OlaGUIu2inYRdOjE4tvJy0C8YWrV4weVuaw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:56:07.887845+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "WPL 2026",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1,
+      "ballsFaced": null,
+      "battingAverage": 0.5,
+      "strikeRate": null,
+      "fours": 0,
+      "sixes": 0,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 38.0,
+      "ballsBowled": 228,
+      "runsConceded": null,
+      "wickets": 17,
+      "economy": 8.24,
+      "bowlingAverage": 18.58
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "nandani",
+    "nandani sharma",
+    "sharma"
+  ]
+}

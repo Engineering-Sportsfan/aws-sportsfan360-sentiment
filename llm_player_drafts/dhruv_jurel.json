@@ -1,0 +1,130 @@
+{
+  "playerId": "dhruv_jurel",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "dhruv_jurel",
+    "name": "Dhruv Jurel",
+    "country": "India",
+    "flag": "IN",
+    "role": "Wicketkeeper",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": null,
+    "dateOfBirth": "2001-01-21",
+    "birthPlace": "Agra, Uttar Pradesh, India",
+    "heightCm": 180.0,
+    "jerseyNo": "16",
+    "debutDate": "2024-02-15",
+    "profileImage": null,
+    "bio": "Dhruv Jurel is an Indian international cricketer who plays as a right-handed wicketkeeper-batter. He made his Test debut for India on February 15, 2024, against England in Rajkot. Jurel represents Uttar Pradesh in domestic cricket and the Rajasthan Royals in the Indian Premier League. He was also the vice-captain of the Indian U19 team at the 2020 U19 Cricket World Cup."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "125",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "West Indies",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "date": "2025-10-03",
+    "aiInsight": "Dhruv Jurel's maiden Test century of 125 runs against West Indies in 2025 showcased his growing prowess as a wicketkeeper-batter in the longest format, coming in only his sixth Test match.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 90.0,
+        "event": "vs England, Ranchi"
+      },
+      {
+        "year": "2025",
+        "value": 125.0,
+        "event": "vs West Indies, Ahmedabad"
+      },
+      {
+        "year": "2026",
+        "value": 19.0,
+        "event": "vs Afghanistan, Mullanpur"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "125",
+        "holder": "Dhruv Jurel",
+        "date": "2025-10-03",
+        "venue": "Narendra Modi Stadium, Ahmedabad"
+      },
+      {
+        "label": "National",
+        "value": "224",
+        "holder": "MS Dhoni",
+        "date": "2013-02-22",
+        "venue": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "label": "World",
+        "value": "400*",
+        "holder": "Brian Lara",
+        "date": "2004-04-10",
+        "venue": "Antigua Recreation Ground, St. John's"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 10,
+      "innings": 16,
+      "runs": 478,
+      "average": 34.14,
+      "strikeRate": 56.7,
+      "hundreds": 1,
+      "fifties": 1,
+      "highScore": "125"
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": [
+      {
+        "year": "2024",
+        "matches": 3,
+        "runs": 202,
+        "wickets": 0,
+        "average": 40.4
+      },
+      {
+        "year": "2025",
+        "matches": 4,
+        "runs": 257,
+        "wickets": 0,
+        "average": 32.1
+      },
+      {
+        "year": "2026",
+        "matches": 1,
+        "runs": 19,
+        "wickets": 0,
+        "average": 19.0
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERBl0ZdzO6X2wmVPYhSFyIMa6C1pNVNa5SI6h1wCFK4m_K8WRjqahXZdnHIWlFxGUPn7fDdLQMNJSEsYfuOgkai4uqAi8Cs8dbbtFBKT3sAz3PdAKe0mNMTthIxJQF-ALP9X4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoBdxi5afsNTC2YQwtdCQ5llJ_oP8fsNtKh_PC0SnTMye7rrm6OiUN7z6vPH-L0waiq8KfaBAYHy_9HNyAd46C4AS7xGwWxp9cYLQbkjDvmktj43VIMuRUVb5QgmApEXf0TJAxrDSjNTQwvCJSwHV1",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-zxn1aW3t_L2PLJhgQno-WvMdZ1NOTfJLfipuwO-ZCjVWV-MCcQ3x_F7SR4bbro09I4tFLeyqvx-5Fb6O8_MvbXGyCdJxeZOj4zgwdRFmXzkhjjW-ZhvGtjKvJ5Y7tNIBiw9OshIWf8fMTnkGwuhO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHjxYwicyoQlB9QH3CsQt2NUsccSd4Qd7BgmQppPTN7oh_mBwT6YEO0CZgD7OPvICCveCPt16YNhwOPNRqmFC5iHRAKYLic6ELQtXi3ZpOeo-BuMN1-i_CTpVYD2zmZwZhnQptGsjqis0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4mI0HHeUORpPtJZ8rWnZHJ6gilghIBTf_vF_rUgGWMb233OCa-CQBGzVNRf6UsmhYMIr2F0rHnq_Gf3Zm2CO23twp6_CABoJrQM-U02cpswbNS1XNilurSVi1HAGGqPFOrC0gFRW_CWfWyG8lunL3OlcV8wOSxQ0EZ1SjK4rQQQl051ZK1qWH9AryzLaqp4nkk607",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgey0aTsYFYs8s9HiBGisFi5L8GPR1F5HZRA3X5KyW3bFb-klE0qJE0Jn-LmplTHAc-fkZ7O7TxAS4YF7Fs7lwEF0lgPAfKDZ-e_UB-eUMaSIZvxydouibrJKP8843DI_RfgVA5npeyKHpJjahBgKbss-1vAIwfZWDwH9MyCesvNOnFlgBviNoiReFXbA8M7Z-0GJXwUhNbLhmaoQumnzysUs_P913ZyDsSrVq0SuBupQnRMUKBjgOrcR3kfj5fLvT66Z-Akeyo0heu0JLH4jk5zkBvBK7PW5GvBmyEvyX9o00DRGlaBs102IQ"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T16:31:31.398866+00:00"
+  },
+  "_retry_log": []
+}

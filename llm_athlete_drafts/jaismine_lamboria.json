@@ -1,0 +1,283 @@
+{
+  "athlete_id": "jaismine_lamboria",
+  "sportId": "boxing",
+  "coreInfo": {
+    "name": "Jaismine Lamboria",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2001-08-30",
+    "heightCm": 175,
+    "weightKg": 57.0,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jaismine_Lamboria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "welcomeVideoUrl": "https://youtu.be/JjaWB_-4jUM?si=vztRxpdodHSQX-wp",
+    "bio": "Indian boxer Jaismine Lamboria was born on August 30, 2001, in Bhiwani, Haryana, a region known for producing boxers. She is a Naib Subedar in the Indian Army and represented India at the Paris 2024 Olympics. Lamboria has achieved significant success, including gold medals at the 2025 World Boxing Championships and the 2026 Commonwealth Games. A southpaw, she is known for her height and long reach in the ring.",
+    "birthplace": "Bhiwani, Haryana, India",
+    "coachName": "Sandeep Singh, Parvinder Singh",
+    "yearsActiveSince": "2021"
+  },
+  "record_highlight": {
+    "event": "World Boxing Championships",
+    "result": "Gold Medal (57kg)",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": "Final",
+    "date": "2025-09",
+    "city": "Liverpool, England",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Jaismine Lamboria made history by becoming the first Indian boxer to win a gold medal at the World Boxing Championships in the 57kg category. This achievement in Liverpool in September 2025 marked a significant milestone for Indian boxing. The victory showcased her resilience, especially after her early exit at the Paris Olympics.",
+    "progressData": [
+    {
+      "year": "2021",
+      "value": 75.0
+    },
+    {
+      "year": "2022",
+      "value": 77.8
+    },
+    {
+      "year": "2024",
+      "value": 75.0
+    },
+    {
+      "year": "2025",
+      "value": 91.7
+    },
+    {
+      "year": "2026",
+      "value": 85.7
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "Multiple National Championships Gold Medals",
+        "holder": "Jaismine Lamboria",
+        "date": "2023, 2025",
+        "venue": null,
+        "tournament": "Elite Women's National Boxing Championships"
+      },
+      {
+        "label": "Olympic",
+        "value": "Participant",
+        "holder": "Jaismine Lamboria",
+        "date": "2024",
+        "venue": "Paris",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "1 Gold Medal",
+        "holder": "Jaismine Lamboria",
+        "date": "2025",
+        "venue": "Liverpool",
+        "tournament": "World Boxing Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "wins": [
+        3,
+        4,
+        1,
+        0,
+        5,
+        6
+      ],
+      "losses": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Power",
+        "Defense",
+        "Footwork",
+        "Ring IQ"
+      ],
+      "values": [
+        75,
+        80,
+        70,
+        85
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Jaismine Lamboria has shown strong consistency, winning the World Championships in 2025 and the Commonwealth Games in 2026."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 4,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Commonwealth Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 3,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "World Boxing Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Paris Olympics",
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Elite Women's National Boxing Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Commonwealth Games",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "tournament": "Asian Championships",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkmtC5E-3Y3SXOZRJ8lYYpg6C9WvXegasiuw9iO2YeNNVVYb0QGMd2crQk-OMCifYC7t5GO0NZDrwdLLcNrp08wLiWvzp9bZzkHCcKcSR--qOJxwkHmwugNkmiAFWeSv3UHxg0b8yuMw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQwyrdjMdAo0C81zo50D98SJKfmPt9sznZ5QaPAkcqSn-mZmCFk8lIL6elhABSXfbyd-mC8-mwq89hc8kryt2t-GbyimSaakJTDjz6YI6RYGRBMxbPW5l0Y3jbHIGi97xN49AfXKiebBjdiRddIaVhI3a_B8TPPQosbDg7a2i3wC2AxLh0uIRNJC4CB4E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaOutdLRTh9BuErwIYGyrQHctF9u_tvL-XnujdvB3ynErK8i0TvrJjOcFKvBASobkMy5Rn6CwJl519hgKlihnbm_77F5seA5-a2VpVBwkS93IH3Oalp8xj893LdthKxOPJkMCkzndmDb2Z",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO936YkYB3Sjv9GKkcjsNqmsEZ7C-YHI0BTw1Q1Fkz0sEoOgGPY13f8coabFiP6sKqIxob1Q3kRbjS8zI_EGHIdQlscnPFHlPxO7q7dSY5G-nyleJhGQHktV4ms10KxAf89jCQIGrxbdy77eaHxKZwFt1BinWoC8AmLb_PHNKsE5URvAxye9c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGugAN8AoV-NZCudEndaZOuux9SGSsz7yHQuUbkdKoxkSOoS0jMLLR0_CxKeyuKTYzXnCofec6j---o-Snax1LvKUlgocEMEERoSrD87qWqJO2L87gJm0DuTxrWyJt_NQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELVoECtolY7jW2aBtJxzw2KFXDYPqDkDiU6zIApRc4_L0m2XbRsqQd6UVXA-m9xV9KLoMWl7c25p4iA0M1_zGcWCWOYteVMAapwSJ5k3waQeCXLXE-Ibhxl1lzl_GCmpQTY6VpoeqMjXPnQgqe-iw4K_VRNXVng-Fx05jlJN4ETljf8tMvHMk5CIHrcF3oq3kksttlDLzYLiNwZAfJPezZS3SXXk89L6tUk9wgQDWIMhI9ladBfjcnF7xwPxRqwJbjAiFfcuIEOaHcKDKJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6IETrxBHfJqtITDs6zoL9ljHyFuYDmAgNpX_fOVYA55MSxXjUaIUKZ7oj5mZaVTUnBX5jO97fa-QgE6uQHu8MOzfDqZ3QjuggFS0QzZ1IJZrNyQWjIijbrbv2PnJi5QvzLdHSA5K6WCAtX-fbWKDTOilYoLHqOoZkFUzKDkzVnQ2If3rWf-detEVCKqC-Jd6lt6oqHecC85KBlQDX8GT8ThkY5kd4RruCoa-JPi3mIn8GDXGfRTPYz6gz7_GEVBzRWw6A3Z7UPjKCHxxGFhGts36p_X_OG0nmknuMuO79Ow==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAa_HZ7h8jgvCjVJ9svqO7Ry8rirfjFhabojr38o50Sr-tNFQXkQxi3G83rRUMYjB8dl4STsI_j3TjTaQoHBKkuLubr-szDmn2S9i1FbeMHzr-Skitd4sJ9P4YBU0vKhzfR1XYpWIF",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELQP6X9GY0HvjaaWi524APsjamQCLcCRtPLiiuu9Iv4IMVRyK0oEJOmjQMvzFLZr9vmDzykxpYMkrfh9EswX91YrS0BVUkSyGV1R2dq0Jt-rWuywrPTPSs31WTkUfzJZr1oXlMeYtRgDo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsP1T2NL3pSbE30ZkHIAkXqtbpOeinZD-lNpKlJU_8pAjfDiUnh1C_tN__nHJh9TwFm6qbvvxC6Sdow3n9KiyzfVyKl9L4mYd4VoI8EXiU2D5S-mpn9DGSMYZ14zQJQspkvF4OhlKj4yakn0bfgoSNqI3OHCoRy1UUjiIVxuwbHDB9v0M3eDuaG9op6Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3CtZWBJcDZ_6oPC7nS8GXvGfjbEaQd1swpdHafhhi2YhjhTGFcSdYyIpwpVuctQDlBhh8tSg_qcMu2m6fS-htcaJC8mDW9FOCrwabGejpvK4L-DjW5pw_FHbHor7tHEmOEQ-jJfB5JgkF_rmE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDJQ6aw7VUFg6BNxD47imNXz63WXakzaKGaTkcoGSAaersLrgzQxzHGKTSnSK9LTzD6NzVG61GdBdzR87HIRs-GNNdc53nrA1lnRgGo7bK1GNGFFvZAaJnfHZeBwGs-m4XgU8KOKlMsKGv9OLXM58t2I94O2g-E7RR2Mqhinrd985hC0-uRA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI2hbJrAS9Rkb01J3JRFQHt900XELt2500jHsaJilivic-kFht69Z4bhbYhR_93GQKueaHXfarXPcCcOZWHyAlNJRCS4nlthEZG4y-fb6g89STqi5zMTLGlFIMRZsyGIwVfgcc5RL0iPQlW0oFERY5gU38NS_7E8mR9afLwuZwnE9Tmh_gvwHi8bwXT0-gD1sy44zPmTvUM8keOOBPz-u5V9BbIPQfiPzdCONx-ouc9wv2wwz_9LpPUlpvBfm4QRnLuNYbH9BZFsuzSR2Kz8MF-bjo6NMZuzDr_dBH308y3w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcMJfy2q8N-DI4vQ9WLTKCdKTq6dQ0sZbxAhqp7i7FaP23V2M94qRdPw95XWrHGddTY6pPFI4thQBvAS5O08kiN1567cu9BbYV_Hn81ITgU1YDoFhkxWKxh89yIRa3L6aB8_FLdvVOUAk2ZQVwUgrQKpnXnyZatVmh4WadzExXoR5lrGqNFXxn22jKLBt09JralfYH9iuzcQG0GN0BXHEfaD1Xfy-RuGVnp5Kl6bsd308zrsbXxNBYHXdnRenvsd7g0O8FsAQIt0ziOcQllrL96PYWI4zXiLHOvcMtlqws",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOt0tpq39iyuoqV0JCBBfeNjUUvYbn7W2GuIUcpL1Cs2VpOHN_h26YcjlDfWGyiaTTIrNKV5Own1x6N7voeXULyo3QFVBUiWkkEirObvBtbxvZot4m2VvL_Skpc-6dq0SfS8iBAhvOMxJ2hoauRh2MD_NXg44CWmZaUAGWsuzAmA582CdrixlAS31bvGsIi5lP0yDaiufZYaXbRN2LMEFkFocKn0wLMPw1gVE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK3CvD8Q-xkrFRO7yEddnXw4B2zKICvhAWaeHobIcJH4J3TyHx1E0tJhPGnzRStQETM4FezkfMAbDYQFt_dqK8q3in_1gA0bdVYxO66IUpbkwNs08Pf5CxRP-zEHa68uokLKT3miynP0bR0dTgq01APBllcQIlJ-RzsjzmEN0dLV0uB3vjMX4viHTkGWCpOYK-ALdx8nsvwVMqsviRkEYJ4Iubb6XSPfDkEuc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw5_r6gY1SwE0N2VinPgSyvPjZK-ZJghcVqEJ8w7fwSBpjAaWEFjhVCmDMxBJKvGUys8NR0l8fW-Lv41f3jC9xpYEtKK2h6vsCEzuWrqzamOLPIp_gZ500jlZJOAq_pkTxH604TPqzMQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjhzmaj6CthMTcgI6qk6xq3cjpuDfjj4unKbi6IzdQwkDbHn8wgNtQDv3ulOfY_0t9eB5No_V_EZQ3BvjbyT177EWiJdq-3selRXNvUYh8cyRp-hPr7ppRQDH0iy7NUARyzig8zmr1AkCS",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH15Mp2opsCbDbPGxLbM6MhiTRdomUzpKsPXIG5d1WAhanJ_ldlvWzWZ9clGkUlJUBaGpjH9Z_VJUeWcp5cSHlTPSYQMcPolsR0aEW0bTKo7QsU8vZKlJgt01kgtTeAvlZtiSkrpF9Yv_v1BZFIL4nwSWaBWKnHpGaL6vSllaB2IhIUb57bdUnw_Xdfol4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9MfcsVRc5nViQXuU-bmD-QmafaEzmOjqRLC3-Uv9TiFhElTLhdYvtyjd4VOOknSlw_W-pKJdGldXXDbyAKlHmeFrcFVmCn78KR8zlTqfAWPnEZwOgJi9m4teCr5kbz0gkclvu2uQNzBdeM1OAqzuMWaVuKRkDmtT7p74BTPGj-kn78vzAo9w=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm26K2WAs7C4_BMx1cqlQWOL-s78fRM-S4WO6CucD079xHxF0WN7RMLqXKrTrLDuWlVYzcW-j9ezyfXCowMXJklxceu5pm4Wt24XBsFa3Nj33RXUInC5eiEiHxHuFz80T-gKkDa98biBSGZvxx5f4UTTEYBa7ges7SnpSAQBw4sZQYgRtGBL_mtfiffaqEB4dIeryGgW-f_NN98Xmv9ZMeJN4DMAXmsv_Yhy7R",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS9KcsriJpcG0F5cKpMRIINXUtrqM-tjz8vY9DL-nl8r93fZp_Gx6pEO57BGZzHMhJntxbX1M5xj8AqM67wRTPN5RpUvYOu0f1IwEu0crf4OfYOTKdoUjKsBA4SxCzbtOIiUSColo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXbo5htFHvLfOeSsQpjGKCNvl7CHe5QxLlNAYlrw5A86XnQ7qz2AMIkamqDY92kY9dkEz5X5BftNX02P34mF_jWr2gGDhjZScM9cdlS25ff6MkIk0YKIUFT4LtMJX0DMxWfjknUJn9mriw4WxUoN2GR2MmVrbhgPEdYjdK__iXFVd259BsJAgr7lulIsx9IhxuQSfsn36MAQ192irFlHj2QQxzib_FLG4FDJj0dj86Z2cWXZI_skErziIhvdjksEJ3a5J62gQlsKg0BRqv"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T19:11:22.401891+00:00"
+  },
+  "performance": {
+    "weightClass": "57kg (Featherweight)",
+    "stance": "Southpaw",
+    "reachCm": null,
+    "heightAdvantageNote": null,
+    "tournament": "amateur",
+    "titles": [
+      "2025 World Boxing Championships Gold (57kg)",
+      "2025 World Boxing Cup Gold (57kg)",
+      "2026 Commonwealth Games Gold (57kg)",
+      "2026 Asian Elite Championships Silver (57kg)",
+      "2025 Elite Women's National Boxing Championships Gold",
+      "2023 Elite Women's National Boxing Championships Gold",
+      "2022 Commonwealth Games Bronze (60kg)",
+      "2021 Asian Championships Bronze (57kg)",
+      "2021 Boxam International Silver"
+    ],
+    "recordStats": {
+      "wins": 27,
+      "losses": 8,
+      "draws": 0,
+      "knockouts": 4,
+      "noContests": null
+    },
+    "chartConfig": {
+      "primaryUnit": "wins",
+      "secondaryUnit": "knockouts"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.coachName",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight",
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

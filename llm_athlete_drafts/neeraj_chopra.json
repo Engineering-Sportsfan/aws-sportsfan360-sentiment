@@ -1,0 +1,412 @@
+{
+  "athlete_id": "neeraj_chopra",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Neeraj Chopra",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1997-12-24",
+    "heightCm": 186,
+    "weightKg": 86.0,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=KfYDK6l00BI",
+    "bio": "Neeraj Chopra is an Indian javelin thrower who became the first Indian track and field athlete to win an Olympic gold medal at Tokyo 2020. He is also a World Champion, winning gold at the 2023 World Athletics Championships. Chopra holds the men's national record in India with a throw of 90.23m. He is the first Indian to win a gold medal at the World U20 Championships, setting a world U20 record of 86.48m in 2016.",
+    "birthplace": "Khandra, Haryana, India",
+    "coachName": null,
+    "yearsActiveSince": "2010"
+  },
+  "record_highlight": {
+    "event": "Javelin Throw",
+    "result": "90.23m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2025-05-16",
+    "city": "Doha",
+    "prevRecord": "89.94m",
+    "prevRecordPlace": "Stockholm",
+    "prevHolder": "Neeraj Chopra",
+    "improvement": "+0.29m",
+    "improvementDate": "2022-06-30",
+    "aiInsight": "Neeraj Chopra's throw of 90.23m at the Doha Diamond League in 2025 not only set a new national record for India but also marked the first time an Indian athlete breached the 90m mark in javelin. This achievement further solidified his position as a world-class thrower and demonstrated his consistent improvement.",
+    "progressData": [
+      {
+        "year": "2016",
+        "value": 86.48
+      },
+      {
+        "year": "2018",
+        "value": 88.06
+      },
+      {
+        "year": "2021",
+        "value": 88.07
+      },
+      {
+        "year": "2022",
+        "value": 89.94
+      },
+      {
+        "year": "2023",
+        "value": 88.88
+      },
+      {
+        "year": "2024",
+        "value": 89.49
+      },
+      {
+        "year": "2025",
+        "value": 90.23
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "90.23m",
+        "holder": "Neeraj Chopra",
+        "date": "2025-05-16",
+        "venue": "Doha",
+        "tournament": "Stockholm Diamond League"
+      },
+      {
+        "label": "Olympic",
+        "value": "92.97m",
+        "holder": "Arshad Nadeem",
+        "date": "2024-08-08",
+        "venue": "Paris",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "98.48m",
+        "holder": "Jan \u017delezn\u00fd",
+        "date": "1996-05-25",
+        "venue": "Jena",
+        "tournament": "Jena Grand Prix"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "90.23m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Javelin Throw",
+    "achievementLabel": "Tokyo 2020 Olympic Gold",
+    "stats": {
+      "worldRank": "6",
+      "personalBest": "90.23m",
+      "bestYear": "2025",
+      "totalGold": 7,
+      "totalSilver": 2,
+      "totalBronze": 0,
+      "olympicGold": 1
+    },
+    "seasonalData": [
+      {
+        "year": "2016",
+        "event": "Javelin Throw",
+        "value": 86.48,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2018",
+        "event": "Javelin Throw",
+        "value": 88.06,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "Javelin Throw",
+        "value": 88.07,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "Javelin Throw",
+        "value": 89.94,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Javelin Throw",
+        "value": 88.88,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "Javelin Throw",
+        "value": 89.49,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Javelin Throw",
+        "value": 90.23,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2016",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 86.48,
+        "seasonAverage": 86.48,
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 88.06,
+        "seasonAverage": 87.26,
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 88.07,
+        "seasonAverage": 87.82,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 3,
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0,
+        "seasonBest": 89.94,
+        "seasonAverage": 89.46,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 88.88,
+        "seasonAverage": 88.77,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 89.45,
+        "seasonAverage": 89.45,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 88.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 95.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 92.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "86-87m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "87-88m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "88-89m",
+        "count": 4,
+        "throws": 4,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "89-90m",
+        "count": 8,
+        "throws": 8,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": "90-91m",
+        "count": 4,
+        "throws": 4,
+        "percentage": 20.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Neeraj Chopra consistently throws in the high 80s and has breached the 90m mark multiple times, demonstrating exceptional consistency at an elite level.",
+    "peakZoneLabel": "89-90m \u00b7 40% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "2020": {
+            "value": "87.58m",
+            "holder": "Neeraj Chopra",
+            "date": "2021-08-07",
+            "venue": "Tokyo Olympic Stadium"
+          },
+          "2024": {
+            "value": "92.97m",
+            "holder": "Arshad Nadeem",
+            "date": "2024-08-08",
+            "venue": "Stade de France, Paris"
+          }
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2022": {
+            "value": "90.54m",
+            "holder": "Anderson Peters",
+            "date": "2022-07-24",
+            "venue": "Hayward Field, Eugene"
+          },
+          "2023": {
+            "value": "88.17m",
+            "holder": "Neeraj Chopra",
+            "date": "2023-08-27",
+            "venue": "National Athletics Centre, Budapest"
+          }
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr6IPLUrBd8CSlA3svrg72ULy-0bCohDXX-5zdHqolEc06RndHviKwlCaMxQEVDLWp17tmvz6M9gzX8NhitON_8ghXzQoEiI-4W8OaV2MMqfq7wYx9rfc0G04a8zkglMVv0XjzPo4OfyT_qpD3BWgXH30y1_4ACNLhthgo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc2mCB5cGD8m2zqjcnzsqVks6dWKDWCX3StysitDplnT-RoZz5sWfnF1aIJ9iYu3b72gBaUEvmploBs0r0SsB96UnCcvpxVoEmw2CTXLmOntZBSyH4GJWicstHJRm11xYVP9gfnBWPImIdLlwV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDcTsuTS2BL-9goHaIka-caMa2cr4uigJnxSg6W9zGWM-LGjMLEh8ubUosX5c-kzcQXH4zru673fYFk4mLNtcQ8CpdRIALED5pwiRMXL5Co4-1unaPbaCyFZ8fBd8kg9B9TCZQEVg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCrshd5dqBtYrDyzWlfC11NB7gYXez7A64s3-S-1ybRNAdWz7NMem124FxvQ_MJ09-ZhCFSBgj5icNPUx0I2RdEqinceeolPLTyhXsjB3QfgKGAqK7UK1zAYawumzAXOs8Pi1U0Hq4qoTW0t7xIAPTmsdLQWvEndVzskDRNx35ftODUMOfRCaS1ymw5IRC-2tud7lJRMTyjJHE2smjay9Ptg6E2O1T1-Or6BNg"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-09T06:00:05.303534+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Javelin Throw",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Olympic Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "SILVER",
+        "category": "Olympic Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "World Championships"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "SILVER",
+        "category": "World Championships"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "IAAF World U20 Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "90.23m",
+      "seasonBest": "90.23m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        80.0,
+        95.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,370 @@
+{
+  "athlete_id": "lokesh_sathyanathan",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Lokesh Sathyanathan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1999-12-21",
+    "heightCm": 185,
+    "weightKg": 66.0,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/ME1i6o4QYUo?si=JoWTiA0r8mfZu1B0",
+    "bio": "Lokesh Sathyanathan is an Indian long jumper born on December 21, 1999, in Bengaluru, India. He is the indoor national record holder in the long jump. He has won multiple national and international championships, including the 2018 South Asian U20 Athletics Championships and the 2019 South Asian Games. In 2026, he won the NCAA Indoor Championships, setting a new Indian indoor national record of 8.21m.",
+    "birthplace": "Bengaluru, India",
+    "coachName": "Bobby Carter",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Long Jump",
+    "result": "8.21m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-03-13",
+    "city": "Fayetteville, Arkansas, USA",
+    "prevRecord": "8.01m",
+    "prevRecordPlace": "Fayetteville, Arkansas, USA",
+    "prevHolder": "Lokesh Sathyanathan",
+    "improvement": "+0.20m",
+    "improvementDate": "2026-03-13",
+    "aiInsight": "Lokesh Sathyanathan set a new Indian indoor national record of 8.21m at the 2026 NCAA Indoor Championships, winning the gold medal. This performance improved his own previous indoor national record of 8.01m, set just a month earlier at the Tyson Invitational. The jump also placed him third on India's all-time long jump list across indoor and outdoor competitions.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 7.37
+      },
+      {
+        "year": "2023",
+        "value": 8.02
+      },
+      {
+        "year": "2025",
+        "value": 7.92
+      },
+      {
+        "year": "2026",
+        "value": 8.21
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "8.42m",
+        "holder": "Jeswin Aldrin",
+        "date": null,
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "8.90m",
+        "holder": "Bob Beamon",
+        "date": "1968-10-18",
+        "venue": "Estadio Ol\u00edmpico Universitario",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "8.95m",
+        "holder": "Mike Powell",
+        "date": "1991-08-30",
+        "venue": null,
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "8.21m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Long Jump",
+    "achievementLabel": "2026 NCAA Indoor Champion",
+    "stats": {
+      "worldRank": "38",
+      "personalBest": "8.21",
+      "bestYear": "2026",
+      "totalGold": 13,
+      "totalSilver": 1,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "Long Jump",
+        "value": 7.37,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Long Jump",
+        "value": 8.02,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Long Jump",
+        "value": 7.92,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Long Jump",
+        "value": 8.21,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+   "medalData": [
+    {
+      "year": "2026",
+      "tournament": "NCAA Indoor Championships / Tarleton State & CWG",
+      "events": 5,
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0,
+      "seasonBest": 8.21,
+      "seasonAverage": 7.98,
+      "currentStreak": 2
+    },
+    {
+      "year": "2025",
+      "tournament": "NCAA Circuit / Michael Johnson Invitational",
+      "events": 7,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "seasonBest": 8.14,
+      "seasonAverage": 7.89,
+      "currentStreak": null
+    },
+    {
+      "year": "2023",
+      "tournament": "Mountain West Championships (Clovis) / NCAA Circuit",
+      "events": 9,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1,
+      "seasonBest": 8.02,
+      "seasonAverage": 7.76,
+      "currentStreak": 1
+    },
+    {
+      "year": "2019",
+      "tournament": "South Asian Games (Kathmandu)",
+      "events": 1,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "seasonBest": 7.79,
+      "seasonAverage": 7.79,
+      "currentStreak": 1
+    },
+    {
+      "year": "2018",
+      "tournament": "South Asian U20 Athletics Championships (Sri Lanka)",
+      "events": 1,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "seasonBest": 7.52,
+      "seasonAverage": 7.52,
+      "currentStreak": 1
+    }
+  ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 95.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "< 7.50m",
+        "count": 4,
+        "throws": null,
+        "percentage": 16.0,
+        "peak": false
+      },
+      {
+        "range": "7.50m \u2013 7.70m",
+        "count": 7,
+        "throws": null,
+        "percentage": 28.0,
+        "peak": true
+      },
+      {
+        "range": "7.71m \u2013 7.90m",
+        "count": 6,
+        "throws": null,
+        "percentage": 24.0,
+        "peak": false
+      },
+      {
+        "range": "7.91m \u2013 8.10m",
+        "count": 6,
+        "throws": null,
+        "percentage": 24.0,
+        "peak": false
+      },
+      {
+        "range": "> 8.10m",
+        "count": 2,
+        "throws": null,
+        "percentage": 8.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Lokesh Sathyanathan has shown significant improvement, culminating in a national indoor record, and consistently performs above 7.50m.",
+    "peakZoneLabel": "7.50m \u2013 7.70m \u00b7 28% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": "Gold (NCAA Indoor)",
+          "2023": "Gold (Mountain West)"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBdZoX7aiCT0swmA6unQoMfJNck1XLjFAei1YxzpOEca8IiljRRhiGtemr87BWg_espxO3fXdhKB4SZ-MZGJzVaDZqZUlHndtvPrtjLTS1QeA60Wl1hpD78CQQBXcmqReNWUarG90VLMvFSfs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMWXpHf_FymPUt1itRSLMnPo0oAQhVTbucdLzcMkWNM6Us5Gml0LQhsvdQYT_Q1ApSOE_YMfr7yziM-YFAupruba_JYIdEcBA29CkRn7_JgzN2D487wS6sAN69sLShrrTdjiJBnUfQeRfcFOKaUeSbTJ43ppWSuKpQb4cDmbrtO2AvWl0dha7_ePNl9OIojV9EFomy35rOqGOUVhX8jck5LJHias2j85E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2tE-Ni0xo-abpe931xH345WFydKGWKwU8YjdoupjQGGQ0iCfdQiJjrmcPNFPlJUKX4K1bJpcMBVxySyb8LFts2insBaKByxxtIJwYv7pULrWefrgDXhnwpE7o6iBYSlQcvPe2XvzuD3KUKSoo4KpjMHgx8UfrOH1SWYWSV7l6HZbMKmEwyfgS0JYN1wzlDYJaVqswQSz8Daft",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx3u4iP0oV12WbQcXfP9QrXlPqHk0kaHIt6V5chbL92twMQ87sTBx9nN48Yodhvb7Y-dLBBc8y6dVwrQiNThZWsMDfLdDf5JcAg-sHkKYIj9fgC1QbxasLfoMt4qs_zef8BT6bXi32BHnogA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA5d3HIpV9vZ1gdW9-3fBxzwxrptoKo7eiJZXI4VHLQQ5YPzQKbkKngLl_IMnCwsYoi-URePLoKDToDleAx8yhg9lLa8iMr5sZpJ_RiHfcaSp_jdFGEBrLwY0NAO-yl9Us8juFrS0o6E-qyAqh1oeQYauprWWBQgJ5VAGi_ivgf5dw6VKXmsrAY7Z_iIvapMrImwhGDlW1KwSc6Zd4qNFzP0c8frWYEQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBLih6kRuOsPznSZ9q57A1Q79xgEiPiE5NgauhkiYaYQNDatYScs6TcRyPNkqQRNkz6AO6HCFxtcqm9sgLifDVR3dSC56VLftGkSYk7lRrHFRdoi0DqDgfBW908yffD1o5kEX0rQKxqnX3YkJ0SRvkR0dqpqH2VMPXvPgqmRjtu4dwq_SeFR3YzG_Uux6hpjycvGC_gR0I-1k=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHscZO44sxSScrTZU092_NpOAcDoMefx7Q_eKHxkov05hdEmu5UEdma8Gh0VkEbQUl_WEALDKJ4uUi0P3sDNdhKtBtd1hN9ZT8AmFo56tY2JYXSR1JkqmAYD4UoXfBFo-NuSmNu6Df4jBLQbeZ2tpjhSLwWh7e5JSvCHhwTbaHCb2t4SH6Cq6-FqFB0baSsBe6hlFskzP1sftqFc4pFBw29jXmLLfLQpRjrdL5aHGR-9AIpfE0lzyX6VmfTO2z1ctpn_sxa3Ju7hP64pWbA0z78kU-ikCDYW8v9rz120dwr2XPQ01sbnpwOEoEHFpai",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF6sTa9ABVoJ2qXqjlsmUZJ5U-iENLfwUUoY2BGiBNWfKFl1nYVzK-VvX5Q2MlFVFDC8dCSt_tArVUs2ACZmjdvz0BzUosa-sWqgJp8Yl8Oxo9i2NDOBHvKHmyl5MgYw2XotXikvG-T3SBYxdlrWj5uyybkums_57T1_Fz6onaWIkASFcglBORppEN-ZuwjWbjt6kgqZu4rlkXEVOkhYuHIzxT_lD4kA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6LhM6fQFpA8joCuM-imBWrlSMGccdLa-we9t9faei7eLZ2NFGpEyMawxzALrI2nwcIZFk1waNxLnEBUZQQ20ku5Q0Y9CA4WWhxZsl8O7W-YXC5kw84AGU4Lo-OrAipOMMhlBB2_5jpZURMauulULAolUi9wtQqek7IuOZ-Kj_qK2cejttS5hGUxTO_N27pmyRJ4ECsEnFE81AGfxSOK8gNOW8rfswnUv5yRCGNM62rV0921TH5awL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG25lE8qvR3qhvkKogkKDj8IU7NCxxBX_B_MVgbamCReQgXL1-p3JvetbN2Dkya3vqhNRwGKHypXrHE_J3FUrWlNhPjrld8-Pru2eSxOi3Rpo-9T6LOWhlKTc0n67Uwl_NIY8_TL3OHY1E54A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_tTebH691xBKo46RVrs9DRhp8FAkVa1irWRhmOumUzKOcSxJBlj9jeokomlphPZJF3YmzyT6pdbyhEzpC9wbuUIwtxOzQ_gIutY_hb1-T7A0vZzXdf63NtG_oLE4wMkZuedqo8uBUaFOIrqpUQPSyveAxFza-X3GSkhekqqp-K6bZ9EG0IsQMj-R6-FjXbWDaEeCSd74LXnGUI8Fvu2XApk7AOxJOpg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlp-bOVt5ao8yUyZp3f7CH8hWRoF-B399qUi7krpJ4Aa0o2FEHrZzaGj1oEbq6kGVaN-jROcNWkg2BIpJWsPih10RDLCxdyRrUyweYmLFZAB8GTCpqFTX_1JZXUl-IcvVRhJ5RkYBjsIAe7l9T-vKxH5dft3N1RCKXyoOMqMSNCQ7lX1U9eRNBTRApkeJ4kuxuydDQvaHtlM4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgozdHaWMuN4uvaQnwzQxxzpfuulZXX6CAa9w--bBxY4DtyQphG5QpHoyA0xxpp9CpFTYiNCLskJk7puw7ONdIAppXjjJmgWnM0MNfPfEevmQADGtNzW3ScpkZWyf1mMDXyALQm11V_N4-sAc5cTQP5SEQZ9ec2Ifj_QSV8FyLXkA3Pj89V5gNPgHt8AAxBmQtIt0G7AahmQm3oUmYO4-9GGputJZuuM_Kq6ZGxmlXeM36rYBWCFMSqWTldH3Q5YZ2HhWja7doiwOFLCZndKF7w1D4Le2tc-fKu36ufCsXg62sfsXYDAfNVWe5hKSv"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T11:16:32.776960+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Long Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Long Jump",
+        "medal": "GOLD",
+        "category": "South Asian U20 Athletics Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "GOLD",
+        "category": "South Asian Games"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "GOLD",
+        "category": "Mountain West Outdoor Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "BRONZE",
+        "category": "Mountain West Indoor Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "GOLD",
+        "category": "NCAA Indoor Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "WAC Indoor Track & Field Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "8.21m",
+      "seasonBest": "8.21m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        7.5,
+        8.5
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "analytics.medalData",
+        "analytics.heatmapData"
+      ],
+      "filled": [
+        "coreInfo.coachName",
+        "analytics.medalData",
+        "analytics.heatmapData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

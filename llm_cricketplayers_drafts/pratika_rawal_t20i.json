@@ -1,0 +1,94 @@
+{
+  "playerId": "pratika_rawal",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "pratika_rawal",
+    "name": "Pratika Rawal",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "2000-09-01",
+    "birthPlace": "Delhi, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2026-08-30",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pratika_Rawal.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Pratika Rawal is an Indian international cricketer known for her right-handed opening batting and part-time off-break bowling. Born in Delhi, she represents Railways in domestic cricket. Rawal made her T20 International debut for India on August 30, 2026, against Thailand in the Women's Asia Cup. She has also been an integral part of the Indian team, notably winning the 2025 Women's Cricket World Cup.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "T20I Debut Performance",
+    "result": "22 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Thailand",
+    "venue": "Dubai International Cricket Stadium",
+    "date": "2026-08-30",
+    "aiInsight": "On her T20I debut, Pratika Rawal scored a brisk 22 runs off 18 balls, including two fours and a six, demonstrating her intent and ability to contribute quickly at the top of the order. This performance marked her entry into the shortest international format after a successful ODI career.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 1,
+      "innings": 1,
+      "runs": 22,
+      "average": 22.0,
+      "strikeRate": 122.22,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "22",
+      "ballsFaced": 18,
+      "fours": 2,
+      "sixes": 1,
+      "dismissals": 1,
+      "ducks": 0
+    },
+    "bowlingStats": {
+      "matches": 1,
+      "innings": null,
+      "wickets": 0,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcZTpKKmqIz0s6UYwT1uw0y5RedNAL18OfGAz5WDpqVXhoksBL0bZYlbzCukStofQRgLjSS8zT7mLamGUzWoElPt4VE0-Bk7v6NuLC7RJf45Lz_tzxNDCkBalBUVNqBZ4H1PDIXro=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmXiFS5vnU_F3XFejuxHJSWSMEjBAmz4QbBq-hXJPl3YrQMRbYoaP7TTjjomKemMtR_5KauiN9kc7lKRmRz8CbeErMZqhg11c7dAtOKE-dxE2dRcpw522-kM6-9sRxgS_opSkPSPtqzMqr5VTRZLYqT_nw",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFatBb_kqBeuXj1N0XHIFFqe4R6PBAC8Z0GMLdM7IWQmWQU8uateq5nCbIM8VWXH4kqvt8OASJat6pKbQkYanSeEZFsqZc6CwfIzqSfcdzqoP_UNuYfgD52FfA1E4V9vzh6Jt_w",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOXMR71PeQaQGVIC76aL7hV8r4VtO_QPtPzN-bGSHbMVFmw3boSrZRx-poDRL0u_Tu7SqeTLOBsyJYa7MuoSIF9yo8upP0qPfmjfdSjH85KZ9u5YQw_wugW6kcHYF73a6XTPgz1eRu6LO2ILFT6blcFgIiXw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsvt1wAwOWlXPnqd2m81NdoG6MkqUwW5vQ1dQeCyFojMnqNAKODj42EGaqmlavBrVXp9A_hEqfE9herXpKiusdO-dMmPzKFDPiI5tvjxrVDwKNtDiUdHsCWtT80mpN_9Xt0UTL-bs6n1ULnCBn_dzGFofWcy3vKA8ifuSrrJmTMBcRbMVKknvX15aWczwaP3saX8MU4n0A8OgP2Gg31pRiIJd6tl8N3lgGeH8SbGYvKu2IwRS0EVCsA46FA9LVLxFX4HEi5-R4SzUwSfoi9eH-T2PGKIm_04EfPA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESoQY7xZu1aCS6sIGzllAl5I7N_pcrdLhHZ1WKujcoV_svQGHuZffAwUmrUb2zMeS4WQAGqFMXKlV-K_ZNM27_f6329LfrFVkC8s89C8NUiCkB9IGaSTzEG8QMqlWlEktUhOvTvcJ4mVwFZ6beKs-DLvKg0aaT_V0J-LOlZ3q_4RDgpv_O5IE9C4pHymVOQUYzwzXLcOaUAFHZz_RJuULXfR1Rq7KFhv25FVHPdaajgQRZUH4eVAt0WAtLzbsCGog4hSW12Lak",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZNvEyC4QDuVGFbBFBUkcYweAGV_pncR9Y8UJmUQnLfdc6zJ0KbjtTN8x0PThJ62_7E487L_ryjbKgTJR-19xbQMe3xVnNczTgf-lLG5yDHPcuRQ30_wtKMPz810VrjVtBTaSxTvCgC8hIbFvTlwiE2NThePAHilyI4-_W9dhuRTyMnG3q2uMhNEyWkAQZfeQSqZXjHvnGq47kf2v-rZ8vjPTIUyXlVQ6jShh-s-UqOqhxu7deRk7UUs1VUZ_3hGdxtrxy87I9w4GfvYOF9xH8-XjAWJJhmzxx5-wW-SV5DOzohmxQKJd1l_74fBtHxTH0UWIL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_2494PKQf3ExKAcf_PB_IMnla4gc3L86s4FaMS_rIYz409817yeoUL9ys7_bYRkiEVbwfTy-X-1d0Q9v-f8ELIqMP01dImzBIISZTPB1HjYNpWzaavwwJ3Y_1VHMb_WRpO1euu87RHlpwQUpIRB281MAR93LazC74Dl4R5Yl_-w-RUVxUL0oxm_HYiA9drO70t6rb15AxlqEBu44PBhk4b9u3pQUNUlU-l2igIslOoYWxBgy9ZFz59wTmUgTA1HZrSZsCwxI="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:47:34.266312+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "pratika_rawal",
+    "pratika",
+    "rawal",
+    "pratika rawal",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

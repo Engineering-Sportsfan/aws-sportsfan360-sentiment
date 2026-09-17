@@ -1,0 +1,157 @@
+{
+  "playerId": "prasidh_krishna",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "prasidh_krishna",
+    "name": "Prasidh Krishna",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast-medium",
+    "dateOfBirth": "1996-02-19",
+    "birthPlace": "Bangalore, Karnataka, India",
+    "heightCm": 191.0,
+    "jerseyNo": "24",
+    "debutDate": "2023-12-26",
+    "profileImage": null,
+    "bio": "Prasidh Krishna is an Indian international cricketer known for his right-arm fast-medium bowling. Standing at 191 cm, he generates extra bounce and pace, earning him the nickname 'Skiddy'. He made his Test debut for India in December 2023 against South Africa. Krishna has represented India in all three formats of the game."
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures in an Innings",
+    "result": "4/62",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England",
+    "venue": null,
+    "date": null,
+    "aiInsight": "This represents Prasidh Krishna's best bowling performance in a Test innings to date, achieved early in his career against a strong opponent.",
+    "progressData": [
+      {
+        "year": "2023",
+        "value": 1.0,
+        "event": "vs South Africa, Centurion"
+      },
+      {
+        "year": "2024",
+        "value": 1.0,
+        "event": null
+      },
+      {
+        "year": "2025",
+        "value": 4.0,
+        "event": null
+      },
+      {
+        "year": "2026",
+        "value": 3.0,
+        "event": null
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "4/62",
+        "holder": "Prasidh Krishna",
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": "10/74",
+        "holder": "Anil Kumble",
+        "date": "1999-02-07",
+        "venue": "Feroz Shah Kotla, Delhi"
+      },
+      {
+        "label": "World",
+        "value": "10/53",
+        "holder": "Jim Laker",
+        "date": "1956-07-31",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 7,
+      "innings": 10,
+      "runs": 10,
+      "average": 2.0,
+      "strikeRate": 15.4,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "5"
+    },
+    "bowlingStats": {
+      "matches": 7,
+      "innings": 13,
+      "wickets": 25,
+      "average": 31.5,
+      "economy": 4.58,
+      "strikeRate": 41.3,
+      "bestBowling": "4/62"
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "matches": 1,
+        "runs": 0,
+        "wickets": 1,
+        "average": 93.0
+      },
+      {
+        "year": "2024",
+        "matches": 1,
+        "runs": 0,
+        "wickets": 1,
+        "average": 37.0
+      },
+      {
+        "year": "2025",
+        "matches": 3,
+        "runs": 10,
+        "wickets": 20,
+        "average": 30.7
+      },
+      {
+        "year": "2026",
+        "matches": 2,
+        "runs": 0,
+        "wickets": 3,
+        "average": 14.33
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJWOd_YnNprwxZCm3775XeItlMaLQZF3dH4q1R3dDh6SAbaAN17mACRx6s-iio965W7s6D_x8NRrd9V0qWCjGIAC8tdSRrnV0c9h36DhVuFfxgb5bP4coXdL55tpRhQ9S3fjRBy4-7g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhp642gPjdofZLSX_iXNhWVVvTRorbYJSxcnKib0VK_JufEHACm4h1dxO3XUzADqStu5pPcarT5qPneIL7pLZ_edcxT9yNDoRHZ1KnAGARaNgzYaETEJ-LiQ99SK5nPGta7wqfRsVIJQXDuGrbXA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcGxnO-bSit648s6adooxyydye7VKU8Jv8-tVyJAg0TGQPK0hAw2NNBC6F1p-__xWKvlSUoZ-U3mZP0YiS6nuI4LeZG9EXNXmqjHVPWfnXd1xsqPUgRTjAW8frk8bHa218bWygDFStedFTAhuD6tGEm_2xE-mCQiVqpw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBwQEnFpTmKVrfQXcmh09oDocgNNa8eihuMwn7hjmDgW3EP_n6Nn-0Sb7RTEnopzAh4wWkf_ZPXcK3KxYBUK3oPYxnF7ZrZ9DLgbDMiAOnoNcIxomA__3QRO_ow5y8rFIhuwy5W_RiqItGDx4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYoIe6R1-k6EZy9fiUPdWVlmY0Z9QxGQgSS__885ynEM-v-ejFqQiOrLHK2ODIi3trjdpnEFPqLdiBQxqbd5ySPl22WH27Tga7f6q9wY6LifcNzqWYj8OmDey7M4UL4FScrjcR-pfzXzQGpEql4SAtNtbDLaEK0c-QnsIgYPl-j-_-EVBCTNNakvBRoOEx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBmzg3FfC1ocbyikaI5DlCThy2xVRoaK5gqX9M0KaGppFzzg3ofk_QF3P8h37vNei5MAXZ9nAOPpYKF7cc66VqmYRKlGokaCP_RqAquarc8cDuDaTBtXs4jOsJJQO1-YUlOaocMRPC0Tdpn8RP59sUsO3qXhw0ILRlCcbR_is5jsos_afb1_yRfjD89iPQg-M5Pw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIMVr-N7Nq3HC6v0_RusAmyRwkpObg3rsi4t8Jn8Tq_xv-rKfsDD7PZHONpAblFVmW4A9qkmGZdweIpE5M9LBskW3dtz8NlkYTC8_k0vTDJ9SVJAwCxKiE_uqa05g96jlWIWK9RBzaPQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYE60MMfPIH2hPa31sS9BJhhiVlBWmfITEfL6dWpd0JNGJleQ9cMLJRaDYJl-6asTvQcqTk0Sz2n5aUBk6kLClIbbSsWhV-T0vLrxfy0VUBC_2G9k0bqbrNn2Ic7kwIdAjyVDvLHUYXyVQJxXFxDCdYzJZyWs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEkv6d91aarfMXrmxx5N-69wVDJV4SPlbLzokxZ7Rvk6UP2I2caE6MuAx5WGtVmTNpbYLuRKd5bHzI6pZVFuVaax2wRcbEoxkjIeN-fC7kTRGqg7p_LnjFOQw78ZmdgWdtw4IQEzcQ12hP-zKAgQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjd7hyKcNACvmiJvj32zgfU3Z_jHwKqNOdRQwgHqL2kSji7oLJ8iuUZrtpo2W1X-fD22OqTK8R0CytnB4R_E9sDVvmcy4KeZbTtijsqkHZ58gonNnSYRFTvkb3H7MkuL1hCE0WjFn4TBMNmpaH1TsfXhxlXn66uibeFcOWbAhtOqRpM4TxhYF1VUnSSKnoI609",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfxrqbjU3wh3fNSzPBhNSrtfNm9WwrhSSvvv0Wwm6GIbdZuM6B6ubSYH4-A5a8Gnx1c3SNz2AatNq0DdCyKyPZNTYwqAERBG7MUcTuPPbTTiwcQdR_QM_TDtF0QeiH9UFIYsPk2PWPqcCf7zGT0WxC6X8MRjaaz12Y-TjVuwzAPVBkdgWFoE98WcZyn65_"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T17:04:28.330612+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight.progressData"
+      ],
+      "filled": [
+        "record_highlight.progressData"
+      ]
+    }
+  ]
+}

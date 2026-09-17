@@ -1,0 +1,254 @@
+{
+  "athlete_id": "mohammed_ashfaq",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Mohammed Ashfaq",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2007-06-26",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=Xvp6Ur9Gvq4",
+    "bio": "Mohammed Ashfaq is an Indian sprinter specializing in the 400m and 4x400m relay. He holds the Indian U20 national record in the 400m with a time of 45.81 seconds. Ashfaq has secured multiple medals in national and regional competitions, including a silver in the 4x400m relay at the South Asian Athletics Championships 2025.",
+    "birthplace": "Kerala",
+    "coachName": "Ajimon",
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "400m",
+    "result": "45.81s",
+    "type": "NR",
+    "typeFull": "National U20 Record",
+    "phase": "Heat 5",
+    "date": "2026-08-06",
+    "city": "Eugene",
+    "prevRecord": "46.05s",
+    "prevRecordPlace": null,
+    "prevHolder": "Mohammed Ashfaq",
+    "improvement": "-0.24s",
+    "improvementDate": "2026-04-01",
+    "aiInsight": "Mohammed Ashfaq's record-breaking performance of 45.81s in the 400m at the World Athletics U20 Championships highlights his significant potential. This achievement not only lowered his own U20 national record but also secured his place in the semifinals, marking him as a rising star in Indian athletics.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 46.56
+      },
+      {
+        "year": "2026",
+        "value": 45.81
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "45.81s",
+        "holder": "Mohammed Ashfaq",
+        "date": "2026-08-06",
+        "venue": "Eugene",
+        "tournament": "Kladno Memorial"
+      },
+      {
+        "label": "Olympic",
+        "value": "43.03s",
+        "holder": "Wayde van Niekerk",
+        "date": "2016-08-14",
+        "venue": "Rio de Janeiro",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "43.03s",
+        "holder": "Wayde van Niekerk",
+        "date": "2016-08-14",
+        "venue": "Rio de Janeiro",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "45.81s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Sprint",
+    "achievementLabel": "U20 National Record Holder",
+    "stats": {
+      "worldRank": "619",
+      "personalBest": "45.81s",
+      "bestYear": "2026",
+      "totalGold": 2,
+      "totalSilver": 1,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "400m",
+        "value": 46.56,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "400m",
+        "value": 45.81,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 46.56,
+        "seasonAverage": 46.56,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 45.81,
+        "seasonAverage": 46.55,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "45.80s - 46.00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": true
+      },
+      {
+        "range": "46.01s - 46.50s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "46.51s - 47.00s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Mohammed Ashfaq has shown consistent improvement, breaking his own U20 national record in 2026.",
+    "peakZoneLabel": "46.51s - 47.00s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "43.03s",
+          "holder": "Wayde van Niekerk",
+          "date": "2016-08-14",
+          "venue": "Rio de Janeiro"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKAugSUtRM-qTcaaFuggthsPfrSNs6o50pDUJKIcP-BhQes8SKxYrC13t3P1o03kLcGIOaE_rcr_p9pA3tPIi6ISYRv7mx8qyx_8f4Bo60cPyfK8JqjtutGdqoLXGsopdJLShNZQL80kUvBKy5NLM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETHGOz__RA_oLnjYQ6vpjBMKl0BAdwn2oElHIGSgixwC4Jc_XOOB0vnFs20Fa6RCicfz-aucUH6bC4M3NdWlwGK9X_m9R7zmDtf3CNdXld324pt5NA3ePd-5plzxULeWVbmEe9LROxAlvPJILTDS11FP11khQiqqf-62ILGg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJmRPfmZct3LoiRKBH75Yo-kNnssCe18n2lYN3YlFelUtllcQKUHwkAUwieRQrBKi8EeXP2aTTofmMTjxUHntXc9VGqntTJVGilQZODiP3QHJe0O-Bkh26mt6hsgXTKy6UleFL3b0yYMABNabpTN6CeT4GwUQrdNG3dkngqupVOehUxvcjI2EcV36tA6pVGzgroGUZ09YQoZyfEkdkq0RA766g20qEn0_U4V60obRwSfXjKti3cCne-As6stdJpcD8DBbNVbbaDKYYBw0yIXgR2w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPAmXeCCmk7yF06n9ZXG59LCKbRVgKO5kyDmMFY8iSYUL6NEywxKT3U52TS3h3CILejaE2s-ODbd7fJRt2GxMLK9veJhDtQL64M8c2eAxei6WBRNxEbHQL3CQ_djgh1_QHWwaIh8u8MEzJrrR7FcssJS3tNcRfp2ztf7zaYdiv8UvXlribX0hTHPxVpHRY7RaqXH2hkEsq06SiU2PozowDpWOXiBCVaUyWAiOtTng4TzEU_6s3cYXdty-YnYTwK9iQnW7gkwNHlVh7hjCBGKU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8p0CGA8-8356_oiDOzY0UmqSTUaeM6V-eoUVeEi_WHp2HpdlUCfGIFOftbDMxMTF69Hp3zNdnr62ar4Lganw28HGOME_yCHPu0qRDuSN8UFhLPtwtH75fxc7xplv0FG4Cm6ILqcV6wsc0f8lQ2pjc8H4b2aDk2qzHki65QD2gaO0FDUivLWlVsbFbjZu1GSyzlJebiACAlMTY4nMX72PXzQnzjyzfOWMOHh9yM4wVFbOFrW0w1DS457WpmXIl92JV6H4u6g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvBCLctzAIfevwboQ76sniXrNySnD-ziPJ1seyxPWBtKNgJcAEzbWWU00_ruezndvgXItyYSuW7tLI-39ey_wvQnuWC1ECbRXnbiOJiT_IQewrfhP2XtDEmzCf8xNZDfW0m_5g9dGka0tZAd3r8B1wki7KItmECT0riPEgmcSOxfTJWzzX-kvbNyyPLLPTQg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:04:06.985826+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x400m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x400m Relay",
+        "medal": "SILVER",
+        "category": "South Asian Athletics Championships 2025"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "Indian Athletics Series-3 2026"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "40th Indian U20 Championships 2025"
+      }
+    ],
+    "stats": {
+      "personalBest": "3:05.38",
+      "seasonBest": null
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        180.0,
+        200.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

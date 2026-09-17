@@ -1,0 +1,158 @@
+{
+  "athlete_id": "ishan_kishan",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Ishan Kishan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1998-07-18",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ishan_Kishan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=Wyt0pQcOvwU",
+    "bio": "Ishan Kishan is an Indian international cricketer known for his explosive left-handed batting and wicket-keeping. He made his IPL debut in 2016 and has since scored 3,600 runs in 134 matches, including 1 century and 23 half-centuries. Kishan was the highest scorer for Mumbai Indians in the 2020 IPL season with 516 runs and won the award for hitting the most sixes. He also holds the record for the fastest ODI double century, achieving it in 126 balls against Bangladesh in December 2022.",
+    "birthplace": "Patna, Bihar, India",
+    "coachName": null,
+    "yearsActiveSince": "2016"
+  },
+  "record_highlight": {
+    "event": "Highest Score in IPL",
+    "result": "106 runs",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2025-03-23",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Ishan Kishan's maiden IPL century of 106 runs off 47 balls against Rajasthan Royals in 2025 was a significant milestone, showcasing his explosive batting prowess and ability to dominate attacks. This innings was crucial in powering Sunrisers Hyderabad to a near-record total.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "175*",
+        "holder": "Brendon McCullum",
+        "date": "2008-04-18",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "IPL"
+      },
+      {
+        "label": "Olympic",
+        "value": "175*",
+        "holder": "Chris Gayle",
+        "date": "2013-04-23",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "ICC T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "175*",
+        "holder": "Chris Gayle",
+        "date": "2013-04-23",
+        "venue": "M. Chinnaswamy Stadium, Bengaluru",
+        "tournament": "IPL"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        8.4,
+        277,
+        275,
+        101,
+        516,
+        241,
+        418,
+        454,
+        320,
+        354,
+        602
+      ],
+      "wickets": []
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        65,
+        80,
+        0,
+        0
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Ishan Kishan was the highest scorer for Mumbai Indians in the 2020 IPL season with 516 runs from 14 matches, demonstrating significant consistency."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX8mupa_sgraw_epUXd3vyh4EiFaYmzYcVs0p4gHldoQlJyiEnJQTJwlX5NcQol-hZ55Kb8tTZSO5mF6huxUPMHNIWl-EvUppHy6UNDqLp3iaLTtFkNeiAKe5iYLEnpzXTTI8pOg5gWM_ifqRftsk6F1WbedmCgows",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8HimR-lKSrsMotaCDxjTmRfEXB-vDl94LIQMnV5w7qn3v1mzYKAhATn4axTaEMba1r7MGhYD8NIlBGyZhBpkwj81kt2WbXfCBNeyvmUwKV-5Qok7D1XvVl9vbmU-IqdUq7JcsEA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdeautcx8HkoWGz4RN-C6AT0lGrb2zIf7nahTuy9dINL_le_086j_9f3BN27mjOAwklc4gI4VRpYgjNkJKzVHBfelXUvM8nH2aBpSXEcGK5w2w-7H4uVvwcJZswPx_-U_wVVUXnf3w5K6riz4Q_hLqzC90utOHUNkxPsOvqe_vV1rzs22_VdcM9QgQoC6ax2D3CbzDDjtn",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9GBnMr4ETJpaHcwh-LlsXBkPG4k4ib9Ou8cof4mDrVmlHDIBUdY3wdYmV_YaNawnjUCOuhP0uTzbl3CaPX8thzbpPxrdLAh2psQtgib1shyX5FZck81wT9ilvruTdzwa3QwE_5hZd2Zjr0BGRzj1FlGgfXWghd9-1BW-2fh-V8dicz3QMKIYCx-vwI4PCeXeLwslG4n7H8zIQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEVt6E6L1pnHfgJyprIkzpNSIVzfXPtfl8xKDgw0So8uB3CVhnZjTIit389K5OASqswPXbRX-jm1DaS3Tz2jDdrPr7xRI6RrXrlYbGq1ZFzuhdLeTE4sVokyfNMW6-Zbx6O6iVXJqUW-1BwV-Qj2kwkJMlN8Inqto90DxmzpH7XSoCDEnsrK74m4dYKPM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfg8ieIqH3cSGyKKvjn5y2c8yv_jpwJLO8QhZKcXMVXZSk8_gtpjsJHoDyaS9fvvITwJuktefOFvRLKl5I3EuxPPluZiWFKuThm2eseU8Aj767prYgHNAp417x1aYeJIruBYDgUGx0-b-IzdxuonBKBfHgNYwAJKn31oHbcxofupcaCGFoQy8eGTqgtQPo2UVDRXKN67WC67yosX8NGY0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:44:12.851860+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "Indian Premier League",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 3600,
+      "ballsFaced": 2508,
+      "battingAverage": 30.51,
+      "strikeRate": 143.54,
+      "fours": 348,
+      "sixes": 166,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "ishan",
+    "ishan kishan",
+    "kishan"
+  ]
+}

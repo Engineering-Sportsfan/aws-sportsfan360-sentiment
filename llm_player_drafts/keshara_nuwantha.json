@@ -1,0 +1,104 @@
+{
+  "playerId": "keshara_nuwantha",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "keshara_nuwantha",
+    "name": "Keshara Nuwantha",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "All-rounder",
+    "battingStyle": "Right Hand Bat",
+    "bowlingStyle": "Right Arm Offbreak",
+    "dateOfBirth": "2000-10-21",
+    "birthPlace": "Matara, Sri Lanka",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2026-08-15",
+    "profileImage": null,
+    "bio": "Keshara Nuwantha was born on October 21, 2000, in Matara, Sri Lanka. He is a right-arm off-break bowler and a right-handed batter, known for his all-round capabilities. Nuwantha made his Test debut for Sri Lanka on August 15, 2026, against India in Galle, where he claimed three wickets in his first innings."
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures in an Innings",
+    "result": "3/175",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "India",
+    "venue": "Galle International Stadium",
+    "date": "2026-08-15",
+    "aiInsight": "Keshara Nuwantha made an immediate impact on his Test debut, claiming three crucial wickets against a strong Indian batting lineup.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "3/175",
+        "holder": "Keshara Nuwantha",
+        "date": "2026-08-15",
+        "venue": "Galle International Stadium"
+      },
+      {
+        "label": "National",
+        "value": "9/51",
+        "holder": "Muttiah Muralitharan",
+        "date": "2002-01-04",
+        "venue": "Asgiriya Stadium, Kandy"
+      },
+      {
+        "label": "World",
+        "value": "10/53",
+        "holder": "Jim Laker",
+        "date": "1956-07-27",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": null,
+      "innings": null,
+      "runs": null,
+      "average": null,
+      "strikeRate": null,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": null
+    },
+    "bowlingStats": {
+      "matches": 1,
+      "innings": 1,
+      "wickets": 3,
+      "average": 58.33,
+      "economy": 4.5,
+      "strikeRate": 78.0,
+      "bestBowling": "3/175"
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "matches": 1,
+        "runs": null,
+        "wickets": 3,
+        "average": 58.33
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRFnF-aLb12h2vdnuo8ENddba8ewfO7IfOSpOhYxHLlxOTgrq4eLQFyNdUiFaKwK4h9gnnhwFViTLboIz2rsH8ov-DgXc6tRB9xBJdgr703-dqguYTFKrBAkhvnBMVTT5rxCJhHmV5YDbymc-tnBcoRPV9DimD5DpSak7gPswi-zz2ROm-phosZdm_RPcCdytFZkzOEVwkGoRsNGhqLTX5pZO5CRnSaSph_skc4KXJ66ZoCwrme5YY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhx3l8bGgnq_9egNmIbpqHdOnYMqCAQvy-9SAw3Pwzn9WwpN68ozBxPn0yYXckn3cHmqiKTr0i9hIQTEoVnL8qE9hMhF4Z3fm95owXjES2RSM-bDE6Zwpyps5uS9zKCY5yrWgofE5H4HRRLHYd0Q0LVgh5A4lsSh5G1emUpSqF5G-ogGrcFHiQPN-HVz8vg8XM2xKIkpDNF3f5FNClfuI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7_N56w6zySwa1mIWHCfUsUoXqfopYNUPdegkVCZSStKDuRTGI4Hq0zLmpaNAbadMWwC0BpYRTgrukZIGSdpXJ2NuPgmM2cWyQf7h482aBaK7hS_UkB5iHKDXDA6dVoyLUgMjRVMksg4xfb7DCit9RbwZ9vgRkRXZCaC_58yuO5jGebnUq6qby",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYJ9pMpxJoMwSkYIQAlW2GbR8eVf8r1JYPNXcKuTer1cWXEXSZK5UtbmDvrMo_5O1pIqZTIlhzL2-enmSIUoocD_H5yfZPRe5dyO12PgnhjIGDHRN8Skp60vAn_pl2a6jdlmE0yu7EteC_mAZMvYIg8zkReudlkA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHngBI2-tNk_pOn1-N38tD3_f_itOKpY6SDr9P3gWnn-KiuH_EV9Kk7FH2oqvRQxVeOId2vdazfl7BBETt41A8Sep852CNl213gZN0cwxcA56lxX-nl6TtiZAmeijtW8e8evzA8uM00nM2zaUi6p9V77dtsKaeNVX-u0mV-XvES",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ3w-tLWDX8M2VvvY-BdDEDnO66k4wS9HMZ7qYHuX5pEucN4OBGuNU0u96yAl0_X6ME-h8yrqzQQSwwm28UXhEl2HVTNbkqkMfkZMZMkRSkhjfntV7h5TftSsSK8rqr4XNaQJi_62emN8SdwOhqkkcQiKRe2zT6JUFUyiYuvqvkVgMjXjyehbGP-YYdW599OHxlA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5uw95vXJVUIF2M0qF6tokJKHqUDylOkiV3sf9WWoeqOhTjLUMU6tqKRRirOgXGzmdUkGrl5foHYsI5yp7RKJXGXzK8ZqO56vft0gfELdK9T-EinlbRiR85MPCltENn7v_0BS7fBnLPtfoCDcbqmanRPrP7dGaPrZuIyVqqYD-EjBm0ZoPsAwO-Y2rcYmZtAVoWcxFFYxjH4_sSlhNktgjfpElC6UwxwCpZsakuNjlMCNlDLx041Rh_l-Ry1azkgM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0gkzwHF6ZreMm8Ufoc-VvSyP7UR_IdtocY03BKyos5G-jaKpva6SdsBOgzR7JfGsLVff8f65ro_5Cq4nGse9iBdPQfWA9nstOwiq1Z2BUC5sOGY5aqvQI3FzFonxuTfqqwPG0OaUYTC9g6ITnDPE9iwgNHOXI1K5TTMGiYHCoW7JTSDZwEExNBdSnlz5Rpiiuuguz2hI94W35Sd0WGeS7",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhF4HyCNCobxJvUjJu3D78hvIp9IKyogk8FDyk1tvx0ttYcIx2B1TsxQgJpmzoWV328TE_EhtHJB9V6ylLLfh0Bl5c42SayfDaciAC4cBh4HibSuxbQ8xxoVIer2KMMeHynlwP0mcDzBcVy-WRQ1J7z542CZIm62d8hxeak7BTswPDhTh7d3NDnDeVIUpx4KhptYCeSnY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtaeATmD6nt2HdMVu6V1ppXTgvXjRdHammdTdaZ35syRdyQcQe6DNR7ouzfMogTbkXsggHg85dMI-LUVwSgW_Yisz3jFn6_jascDT2S-lTlNikPaRvD7Ui5A-CuQ70pz9TkVDUIUVcfHf3fns-A7f_09XBf2YqEgxj5QL_0xxhDFM3jvxm3aTjIgmiYpPbzRAzPyxcMs48iiTIkQ18t17i3JhJMrT5-PGJkBz-tq_zb4otcbTA5tA="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-17T08:15:51.900285+00:00"
+  },
+  "_retry_log": []
+}

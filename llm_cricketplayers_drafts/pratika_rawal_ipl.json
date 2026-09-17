@@ -1,0 +1,94 @@
+{
+  "playerId": "pratika_rawal",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "pratika_rawal",
+    "name": "Pratika Rawal",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "2000-09-01",
+    "birthPlace": "Delhi, India",
+    "heightCm": null,
+    "jerseyNo": "64",
+    "debutDate": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pratika_Rawal.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Pratika Rawal is an Indian international cricketer born on September 1, 2000, in Delhi. A right-handed opening batter and right-arm off-break bowler, she represents Railways in domestic cricket. Rawal made her One Day International debut for India in December 2024 and was a key member of the squad that won the 2025 Women's Cricket World Cup. She has also been associated with the UP Warriorz in the Women's Premier League.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score (ODI)",
+    "result": "154 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Ireland",
+    "venue": null,
+    "date": "2025-01-15",
+    "aiInsight": "This innings stands as Pratika Rawal's highest score in One Day Internationals and is also noted as the highest by any Indian woman in a home ODI, highlighting her significant impact as a top-order batter early in her international career.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": null,
+      "innings": null,
+      "runs": null,
+      "average": null,
+      "strikeRate": null,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": null,
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFETJ2sLn1CoVzLC_AVr1riXG6Nc3JiVgy6lEXMix56WyTPQGxwxDjwWXLldikNetn4qCHXLUrsdszoR00DoQSUy2YoNfEe_W0wrsoKGIQRGUg29cUALOg3g5ZsWKGJoRe53LK70HU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeGsEHyV7dJwKXZCOF5LzFMiKKViJTpwWNDhSzRGCqsjgSfFZhBceBibIzE5hk46RBsV315_FYS4R8bbImp1IggS-WzHvXDpGSIsmgKGBv7QjeIdyfe9fsHKtowOtaw1gtx_9hJI1eC5K38h2B7SkFW0cq",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1UlEE4yv9q_O3SYDr5Buyi0PN6zOi-94cDZqJT_qwk5Vj-tEUvHZib5W7zC_p_SCfXb4r5jv_RgvaDqogCe7fWAHrHkaBnwT7oIPpntIbmOWOJucC1ffP83OT1sUaDl74ZQHA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_HqgWfE35drDho-yguJYrOfnBGZUIZqhGu7U8W6nlvyX8UwsE15-91QhC6g5an58GuhiBDfe9Ku0tF_vY6_AYIHV7KmSQbCoUP1MIoYxidpMgokk0k-GwOp3kWnM5497rrKKzQVl5v9hGfYHAZFDO1aYfAZDNrcHhpkDCXDcHY28Pqw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1XL6lzJQwRJ0QmR8fjXwSAJBJKoxrGe-myBAZmEM2_dMFtR4qGAVab8JXQepUzMM6_HDbsKYvkldI6PMFEcJE1KRDbvSY6sCvYZ_TIu5uYtw0feg1QPLfonP2fiwY5lqSii1FLW6lmS4G25EjkeR6qJ15hk41CnAe4zW5pbrdvbOiKJyd-AuO1HUFdegoi6a9LA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqN0ZcXxgwVs3fbSRySCAjMUH2K-c5K_-OYMWK7DFY0jV6ZXufHCYb9YuSCYV8aLk7FPXD_6hfTEhuU81hns3gIAKLxBxhz9FT6gAGNtNkVqpYAEBOrkeod6KL6ufXQXDUdem-8ys5IIKBRZkAtJ8K5LgxJrMMyLy3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-RnIdX9EJn0Q3pNyipM3SQu1IsFDEXAiHvKEeHGWPFQohD-Q4-tktGAzCZIVE2TVfES68BsuGZtonuzSGYNZAnNbClQYZ-80JGouKsGSAJa4FdVntN9b7_ZqE7STMfj-BM1CltbmMQlYk4Hxx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Tkywrdnc0VF4qLazMjaUU5oqMZEuqYcZlcIkT6IGEgcGZtS-vgEwxTdH_XdS_n-WNtKOwcH3ONbc7IXTFO5kUCiRzIjHyk6jbG6WFCW3Ih_0HsBEWSoc6HxQXArxQwec9nyjwqTS1M_TzLpY6OE="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:48:13.253074+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "pratika_rawal",
+    "pratika",
+    "rawal",
+    "pratika rawal",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

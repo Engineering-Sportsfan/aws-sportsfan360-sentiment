@@ -1,0 +1,349 @@
+{
+  "athlete_id": "santhosh_kumar_tamilarasan",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Santhosh Kumar Tamilarasan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1998-01-01",
+    "heightCm": 174,
+    "weightKg": 67.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14675336.jpg",
+    "welcomeVideoUrl": "https://youtu.be/NOBwFAVB40I?si=TvH-NS_Ht1rZHjsc",
+    "bio": "Santhosh Kumar Tamilarasan is an Indian track and field athlete specializing in the 400m and 400m hurdles events. Born in Sakkudi, Tamil Nadu, he has represented India at various international competitions, including the Paris 2024 Olympics as part of the 4x400m relay team. He is a multiple-time Asian Championships medalist and has consistently improved his personal bests in his primary events.",
+    "birthplace": "Sakkudi, Tamil Nadu, India",
+    "coachName": null,
+    "yearsActiveSince": "2017"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "48.80s",
+        "holder": "Ayyasamy Dharun",
+        "date": "2019-03-17",
+        "venue": "Patiala",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "45.94s",
+        "holder": "Karsten Warholm",
+        "date": "2021-08-03",
+        "venue": "National Stadium, Tokyo",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "45.94s",
+        "holder": "Karsten Warholm",
+        "date": "2021-08-03",
+        "venue": "National Stadium, Tokyo",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "49.06s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Hurdles",
+    "achievementLabel": "Asian Championships Gold Medalist",
+    "stats": {
+      "worldRank": "65",
+      "personalBest": "49.06s",
+      "bestYear": "2026",
+      "totalGold": 1,
+      "totalSilver": 0,
+      "totalBronze": 3,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2017",
+        "event": "400m",
+        "value": 47.4,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2018",
+        "event": "400m Hurdles",
+        "value": 49.66,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "400m Hurdles",
+        "value": 49.52,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "400m Hurdles",
+        "value": 49.09,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "400m",
+        "value": 46.02,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "400m Hurdles",
+        "value": 49.06,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+   "medalData": [
+    {
+      "year": "2026",
+      "tournament": "Asian Athletics Championships",
+      "events": 2,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "seasonBest": "49.06s",
+      "seasonAverage": "49.52s",
+      "currentStreak": 1
+    },
+    {
+      "year": "2023",
+      "tournament": "Asian Athletics Championships (Bangkok)",
+      "events": 1,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "seasonBest": "49.09s",
+      "seasonAverage": "49.65s",
+      "currentStreak": 1
+    },
+    {
+      "year": "2019",
+      "tournament": "South Asian Games (Kathmandu)",
+      "events": 2,
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0,
+      "seasonBest": "50.16s",
+      "seasonAverage": "50.55s",
+      "currentStreak": 2
+    }
+  ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 50.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "49.00\u201349.20s",
+        "count": 3,
+        "throws": null,
+        "percentage": 43.0,
+        "peak": true
+      },
+      {
+        "range": "49.21\u201349.40s",
+        "count": 1,
+        "throws": null,
+        "percentage": 14.0,
+        "peak": false
+      },
+      {
+        "range": "49.41\u201349.60s",
+        "count": 2,
+        "throws": null,
+        "percentage": 29.0,
+        "peak": false
+      },
+      {
+        "range": "49.61\u201349.80s",
+        "count": 1,
+        "throws": null,
+        "percentage": 14.0,
+        "peak": false
+      },
+      {
+        "range": "49.81\u201350.00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 14.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Santhosh Kumar Tamilarasan has shown consistent improvement, with his recent performances frequently falling within the 49.00-49.60 second range in the 400m hurdles.",
+    "peakZoneLabel": "49.00\u201349.20s \u00b7 43% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "2024": "4x400m relay participation"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2017": "Top eight finish in 4x400m relay (U20)"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": "400m hurdles title (49.91s)"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNNO8BAEVIoeflhUNspiKwYU28uiI4-ChfFj5U_Mkk3Gc9YS9IE-V-dqhaU6fbxIYPL77QhNdoN8lpvNBlOoodW9O5Ukj1fdT3e-KXeRwhIljur9w-xNmPBVB-gXzhIoEXtmya7f5-vebw4w9wWrKU6BM15QgML21V4mVlfnV8HcGeqXkmQKPJNT-QG-QdReHTMknsz7byQS1R6_pLIe1v0MHVVMBlzzyutU7dJVjGFx-yVZdd8EAYOLIkukBfFyA9P7m9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh4QeFI6Xy6gQnDH6uHudSLw344VlEpW6xTH-pxmUroP_-JkooxEAW5QHlevgV6JZk4KDNarrB0IYEnRTiAWNThLJzGgmYjiuje98p867tKvK2Kxj-I9_SlseaNsVp_sHVJmX64YAnH7YPggmhqRvjvXg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCkDKJnhxh62KGyfte_X27waao9hytcw4i_DBkAcQF0av4-I1tRtifdG3Fi-V10mATDjZF7YqVvmPBzUxoM_mE5hF0_SzVox0PTy6srcTO9s4-8u-GawaPR9a-neH1bMhsPig9sDqMUX12bZ10miaQC9OH5Iocx9pP8OXaUjQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvj3QeZbwYKDVuJ-4P5ct6Tg3ndQMy2fvLonkmF6yk8NgqtpNd_Hv1G3JM-Ygw0RFmuvtX9AtuksIRwEieB2qymqTC8OG0ym4Kt6zyHWmXcocn_YctGE3YebbVUU68cqsjkT3FFM4QGBgfwlwlXpiwECcx9uAeNNzDuGdPMy-2f9GjFZU788fs67VEj2_PrpEE6Jxazmq7F7WZkQCjOcjlxw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfQdarqtKJypbtLvtsGrgKQwFPle9HQXC6H1i6FTyKqA6LttqIbexfFeUeX5rcC9M-jOuau5Ir_feKFzHH_XIhF6sTlRxYUHYGsl2q2lbZgTVdnDkMmEmuI0ZQbXwBmdlKk1KLLyertIczi2158X7wwtqxmJASk2HJsaXg_NPKkJIohMRgm9UlFUqfRYE18CJ4s_CPcQbonQtruITBpOfr7CmUeK_iO3pAuIqNRX3hwe1uDrZyHmmnSuZzf_lRpVvlw4A6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQxYkUvtgwOyjl5tmxFL4F-aKnW5i-DK3zVVadSRwKMS448ageTSWFasu3qOyL7ubOafPVQriKFvGT6-knPr3Hn0ga6EvDlrB6DfWmp8o7XDXSdsFtbftv9i0hVmAXmcqGV5cnqgP2Z7DXwBf7qQ2vTSs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0A_LgUH_f7jihPBkLsfH-BpR7dgVs4ohm8kx9Od_9DY0QSangs6Qn8MbFH6s7YGLWSmPZG5cF8QnXSXCD7BnVkacKMlcrGl0bizIIQjFHfv_J2_2QPkgDwZrW1Wc-ii9NXyvBwE8Gtl-1LSkVnN4qQb6yXKIEOFgeYq-LzBc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMMUoF4w3TwSjRY7sjrSt4EyC0DTo1a4cay8Ktya4bty7CcM0untCb3elF36hf3gZ4RhBUG172jdllNx0jLcP7KEhW5PR_eu0VDwt_dy5lDtTAL-1k1WQeWFwmYWEcZ15c74vig264Rl5skN_ixAFMW2ZHDNP1hJIIWN07zA03r_HvTYCzqeKIy6Vner7P-T0qRsX6K-5BifLxGRujzfx2DCNwRgN3tWcXmACVdHGPtq-GMLlhCg57T7uci2HsnNkTjBWg8fzSN5sakbrvHB6SgwGajbt8LnG5kOs8SszNREry9JrbTri2FI22",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx16udEq4jEa07AaYeMPmwEkfAs-2Hhv4JKj_CvlzxmepF1kVLvdacWWFfoErL9epXi-9QrPydgRcbCs_x_5aClSD1HBFYNarzVFd-4BsM306XpWtKIRjTATqYZh3I64dXRACEasm9RuObxhIrBOukqgYhb3QvBYhkvnTL2jam0H_qABn6IHEbHr1BMlcCKnbML47xX1Y6c3y3ATwXSfAWMbafSjKx8mb75Z2EzUI_i4ZqSTphLNXSRn2dmIHtAYaQqtNW0iezBdy8AWEYTg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEISmR7IXPewv6HrCzzRT7kPRciM7mjGxp7IznAe1dmUeytdMNFWEijEoSuE4Pj7zzpYg4MlKCLpwGi3V35OnG4ej4rtyz-2wnvsxkjP465HmS0Cfd7z8DlreN6XMIFNkO7Mjoy4JzGXq2rduImvud780L4YljpmZm5c8rXGGhSXfeb7rDddRc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMxBZHD52rAJVgwoZaVN51FmkDi571CXKxFNbGBBiG8vZvSyK8M1wcsKZlzS3uSvXKNc1glZ7NcnaAULPEIPEYBTy7u8q4ZBh6-ohpbmQrK048QRPwAGynd47sBjq0nZFKXyNlrGZA-ubN8ljqd0_-nWF-y5YQZcWUQ9qzq2sluuMGM5rSBEGgzTXpP2LHqJqWycSuMOUVq6D3_ov-tQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-kpeiUGErZgys1_NU5b_p8WGv_yI4oCDVhPoOKnv5bd0I2d5t9kUchC8kGGinr9MUSLNgFkyv99VMNPsTVDgmuue1dxySY2sLD80zCCQ9KLI4eOuvbDUm8cDAdV_eKO0t1kDlma59JLB8pSjAlSbCWiWIciworAGg-aCRMCn-w-RLpshRcKuy51qJdE7LCZTaIjKV_CE4KUxTlt5cqu5D-Gh_9mabM2ajLWwJnV-5mpMJZH5CA_Dog8BCodw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRym4frtZQSP1_qMUchTM9HONUf4eHUYfa7z7NCWBmBwpDI4mLXrX_S_c_Rw3B-IAIh3i9Xa6wLBpNks3L9IhYCQa-sugaeSwU4y5xZ0L2Mh9Sg7I7S1yxIIT8Eay2E_2Jd3jwsTu546oExAdiLoobyocYwY104_XTamoJuy7rhCCxiLr_BOMNx-OovC9bQL2Qw9YDY-hwaOVt2T4uYg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDrfMpCyiIieE6L_hsu99ICrrdJFZ_MZcgLppdluLRsLfvXHYNnly1rgGa_Fc5DYjw8sZ8sFxuv5s-hPlteAnoIKi-ZM4J-nQkjjYzxKwwlEMKWV_77Jnk6VBEsGQJqgRK1tY_qGnkZk2ERckKimsuakBZLjZl1kh2jlJuAXo4NFJGZK7RWVa3EPDTfEl5VtVSenO0dVhWOjO4VmQdSmygOi4rdx6OHyjZCmNeIilyJ8UMoW8UP84ChDlowo5ETjDjqiPVO5Oj_AHGEGWQdRxdhIoUwqgeWc10v2c3Zl3PdU85HxOd2uZmhXLX3g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbJe9SV_bouDD0WcwfvSqxFqokQXeoDjBob9-jfGmdw86hM5LS_-x8MBW7zblj9rTk35vCZ9q0iOPv_rmSsh5JGQGhbgamc0AdW4zHnF_-_Qgpx_QYWzqcyNlYUkU3UaPvOogNGOSY2sKmZG1VTuRrQbw6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQX3gkDvDN8OLNZ_wuW9fZYJGekNPJuA6RUiUmuZJ06Fq4mqmV2dMPT24o1d_WDKJVOPIK7ZLTifgjf2rgrht91KP2dJnDb1iNMfmX0xhTG0dep03vSHKG5tK0oo2t4SFIzslLucBQm2kp5D0s6YpWA5RlFnFN4OoSMH6e6RWbb54Gpe-gsVOFrErgaG6grkmurs8j79ltuV-sbKf-ibjLOPajtYAJdoO358LAzzR_Kh3bQ3CoTBSz2tVKjM6C5s7Ux2vXCQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGwcY74JxBUvOB_GO8nVXO54IOP4dN1sSRiPXsdIok_TJRD-40jnbwbRcVzdhFnYDo3xg8ppCoUjXoGi5yzMf4yQhqR5iyuyBnpi2eg4baqgr6fezW7oA9g9353s559jiWd6khZw6UV2mVhO_6dBkCFLx8xtAAkA2ddzAePpdy"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T10:34:52.096130+00:00"
+  },
+  "performance": {
+    "primaryEvent": "400m Hurdles",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x400m Mixed Relay",
+        "medal": "GOLD",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "400m Hurdles",
+        "medal": "BRONZE",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "400m Hurdles",
+        "medal": "BRONZE",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "400m Hurdles",
+        "medal": "BRONZE",
+        "category": "South Asian Games"
+      }
+    ],
+    "stats": {
+      "personalBest": "49.06s",
+      "seasonBest": "49.06s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        48.0,
+        50.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "record_highlight",
+        "record_highlight.benchmarks",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.coachName",
+        "record_highlight",
+        "record_highlight.benchmarks",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

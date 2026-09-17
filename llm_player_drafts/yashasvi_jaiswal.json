@@ -1,0 +1,124 @@
+{
+  "playerId": "yashasvi_jaiswal",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "yashasvi_jaiswal",
+    "name": "Yashasvi Jaiswal",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm leg break",
+    "dateOfBirth": "2001-12-28",
+    "birthPlace": "Suriyawan, Uttar Pradesh, India",
+    "heightCm": 183.0,
+    "jerseyNo": "64",
+    "debutDate": "2023-07-12",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/7/71/Yashasvi_Jaiswal_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Yashasvi Jaiswal is an Indian international cricketer born on December 28, 2001, in Suriyawan, Uttar Pradesh. He overcame a challenging childhood, moving to Mumbai at a young age to pursue cricket, where he lived in a tent and sold street food. Jaiswal made his Test debut for India on July 12, 2023, against West Indies, scoring an impressive 171 runs. Known for his aggressive left-handed opening batting style, he quickly established himself in the Test arena, notably scoring two consecutive double centuries against England in early 2024."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "214*",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England",
+    "venue": "Saurashtra Cricket Association Stadium, Rajkot",
+    "date": "February 2024",
+    "aiInsight": "Jaiswal's unbeaten 214 is his highest Test score to date, achieved during a dominant series against England where he scored two consecutive double centuries.",
+    "progressData": [
+      {
+        "year": "2023",
+        "value": 171.0
+      },
+      {
+        "year": "2024",
+        "value": 214.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "214*",
+        "holder": "Yashasvi Jaiswal",
+        "date": "February 2024",
+        "venue": "Rajkot"
+      },
+      {
+        "label": "National",
+        "value": "319",
+        "holder": "Virender Sehwag",
+        "date": "March 2008",
+        "venue": "M. A. Chidambaram Stadium, Chennai"
+      },
+      {
+        "label": "World",
+        "value": "400*",
+        "holder": "Brian Lara",
+        "date": "April 2004",
+        "venue": "Antigua Recreation Ground, St John's"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 28,
+      "innings": 51,
+      "runs": 2511,
+      "average": 49.23,
+      "strikeRate": null,
+      "hundreds": 7,
+      "fifties": 13,
+      "highScore": "214*"
+    },
+    "bowlingStats": {
+      "matches": 29,
+      "innings": 3,
+      "wickets": 0,
+      "average": null,
+      "economy": 6.0,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWwER84vNj9hsLRbAIi_VbTnjgTUa-mWNkLxr3K6thWfaeETY0f5SSQ8GOad6BXTw-I4WsJCyHvFu4RhvpvzKy-bc9vgwZiRs27JF1_O5dXZjuwrJ3z9QDaR9wu7N79sI8jCJhZXp9kA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI00dR9txKg-8f53o_PtEBheNFgMUKv_9Pwp57LaYM-BvcVXvU0Som56rOQkGn-12nhzp0yNvB3UuM66dPoNg6TAQPnc5CT6g5_OYWe7C6QM2IdYGGjblnyokGMDwDwxIetDynWd2mbrmHLiFSfjc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRuGDa3gN1fnmDcJktbYZVYkj5W6O120gPoo0F7MfqR8mB9UpRsdRKljgAr_iwwSQzR0iNkMoKPSt1jWDpjgYbqpCu00ZxDfvQ0qEPrYoOa0oPhXGMFichdVqwmxFWkaOKRdcVs2xX2mijRJx0jBY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnfdPXLBUNnW33q58Z6Lde2nYHqvwApfanUzTkEBcQxHa8fPRE9U-VYKTejOiz6A91hoHweUN59WkJcvnElLKDOTuBw4t10rIohWPiaZJvoNqcusU88YmyZhFiWTg_WvZLYs79b6ACeWBUhqrJlJCwnTbXyfkT_BVM6A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE--TEPinROw6EygAR0LN0QdviyLk3F14Ljoa3dOF4lINblgMVo7NGTZyz1A_jyJxC6Bdx--78_DOUxhGaJOTmWWiPCnz_S4qih6GQIYVI9CeqhRCBukA0JhFTVDWfQ4r02eZMrKyfWdv3lw7OwIf50VeHVQWhhpLPw2lU4uG-Lu4zSo5UKUiCy5g5LJJtE5_Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1URUcqsQxBigCMlbGD5FrSoruFtpz3MAPDLQavEAlxGRi1R-D45-l_O_XtvUnj8_Nml77c2soFm2jILSVzgHHMH54RiC-r-B0MpI4dAGV3B-1ztX5aQIjaWIvQqtIQVwJNKIpww==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXbof5U0mjTpNSE2t_Yg2j1K4H46FyhkwQHrWzRAa1z-JPy9oTqNLgBY61kRkKN65NBJNlZPkHoilCZ_UgiL5gknSHaljJro7XqE20mTCu0rxj7BZRkrT7nJ3FYSpvJasoCiTH76KIGwOMPNXMTZQlT-aKiTLM7UWTKAMD1Z0AOGK0aMDP0VWTYeMwRksXo9NHHtQCRTiZ3qLps1_lhhsCGw2pptb4vxsM42QnfHmA61reNNbktZl0mXLIXcGC-8iN2zjYSnvDJ7ZDofvt",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF1_GpGwmkmZPO3xKyzZcyFYgVvZZ-Oyz47SNyiWGTZxVSfPTRvPSXYvCVUgysatWvcRLn2AMa-j1sLniHpPWO9dv11kLaRpKdyHA5U3NHGcmMxD7bUcJIKBTif_b9wXXdaR-fXRq1_JuspDS7w2NIv-CxWjgRTNdwj-gqfsoUb2ZLDOWTCKTWcJqzTO0DrIq27q8zHZvDFtHFRuc6t_7qtc-bKnvhZb69ZmiOXZt1ucGUrqJG8Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf_rF-8pMOOFZM3UrVKr6RMUjkf0GXnFep99D5t7npBpI8LOp4JBgjC4aW5GeemyYuJ9SgE1c3WVxNINlAnKBaLiSd345-Oh8SFaa6j8BLfIvw3oqGhW4Mi0LBFRP7TB_f_vmhU_Lr-4TOaihmh60HJl4DmwTaDIKHLuZR40pWzf-1AgxsNzuf4myiHlzJUl-q1I5BujQYyeTVjpF3THVtJuCqmOoSpBCbqjI-XKs7LUebZaYzl7uHcQogJrXjdsw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfLhx9t1c0gHOg-1uuNxTuF17Gwfp8wx7YE1lE4_CKt5200Ib0KmWdwR63XN2BIsK8BT5rK6Ktw8UE_jMHXEc1Sg2Mnj7IXE8dvh-kXp8pyTEIUHAfExbSW7qXe4bdX1QNGcuHdee2lz5EUII-flkGgxbgQi03VY0vkQo6dIS5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzTIfegz89TSq_p2uRNDUGLJHS_POBN2rf24t-StBdkf1I-vMIQlUOEQ2Lqj3y4wf5yRW7-MWZHHJneG9zYpB1ZTyr0xj_Im3ePzPp7x9btgcuMimXwaohoa3SQL23MkD934GV841scQcdEzpZcKfn1g1L-0U5FNDlOAGgU-TBEb0dcAc6VORLtDVIav7r"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T11:15:04.682965+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "analytics.bowlingStats",
+        "analytics.seasonalData"
+      ],
+      "filled": [
+        "analytics.bowlingStats"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.seasonalData"
+      ],
+      "filled": []
+    }
+  ]
+}

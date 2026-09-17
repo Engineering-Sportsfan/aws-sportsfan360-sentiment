@@ -1,0 +1,287 @@
+{
+  "athlete_id": "sudeshna_hanmant_shivankar",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Sudeshna Hanmant Shivankar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2003-09-09",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/VE-NL_nd1LM?si=JI4ZZm2AQarjCFpD",
+    "bio": "Sudeshna Hanmant Shivankar is an Indian sprinter specializing in relays and individual sprint events. She secured a silver medal in the Women's 100m at the National Open Athletics Championships with a personal best of 11.64s, earning her a spot in India's 4x100m relay preparatory camp for the Asian Games 2026. She also won gold in the 100m at the National Games and was part of the Indian women's 4x100m relay team that clinched gold at the Asian Relays 2026 with a time of 43.85s. Earlier in her career, she achieved a hat-trick in sprints at the Khelo India Youth Games, winning gold in the 100m, 200m, and 4x100m.",
+    "birthplace": null,
+    "coachName": "Srinivasan",
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "4x100m Relay",
+    "result": "43.85s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-06-21",
+    "city": "Shaoxing",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Sudeshna Shivankar's personal best of 43.85s in the 4x100m relay, achieved at the Asian Relays 2026, is a significant milestone in her career. This performance not only secured a gold medal for India but also demonstrates her crucial role in the national relay team. It highlights her consistent improvement and potential for future success in international competitions.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 47.0
+      },
+      {
+        "year": "2025",
+        "value": 45.0
+      },
+      {
+        "year": "2026",
+        "value": 43.85
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "43.37s",
+        "holder": "Indian National Team",
+        "date": "2016-07-07",
+        "venue": "Almaty",
+        "tournament": "Kazakhstan National Championships"
+      },
+      {
+        "label": "Olympic",
+        "value": "40.82s",
+        "holder": "United States",
+        "date": "2012-08-10",
+        "venue": "London",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "40.82s",
+        "holder": "United States",
+        "date": "2012-08-10",
+        "venue": "London",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "43.85s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "4x100m Relay",
+    "achievementLabel": "Asian Relays Gold Medalist",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "43.85s",
+      "bestYear": "2026",
+      "totalGold": 4,
+      "totalSilver": 1,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "4x100m Relay",
+        "value": 47.0,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "100m",
+        "value": 11.64,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "4x100m Relay",
+        "value": 43.85,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 11.64,
+        "seasonAverage": 11.7,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 43.85,
+        "seasonAverage": 43.85,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 88.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 92.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "43.80s-44.00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "44.01s-45.00s",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "45.01s-46.00s",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "46.01s-47.00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Sudeshna Shivankar has shown significant improvement in her relay performances, with her personal best of 43.85s achieved in 2026.",
+    "peakZoneLabel": "43.80s-44.00s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "11.59s",
+          "holder": "Sudeshna Shivankar",
+          "date": "2026-06-27",
+          "venue": null,
+          "tournament": "65th National Inter-State Senior Athletics Championships"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcFz2elohXKKy09W5It7lMtDQVucx0_XqhcmuEPiV6aAm3XiisfivvD5ClB2_vajd4MOwRInRcEGkd21J7IXQuWht4Jv97OwlgfIFLLZqrCbMPn0Qb99g39MCiPwru-t1QqS7X54g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLTmMKyMHGOjpxcwgYKx56IiQ-Of8im9gFu1KmrV_CrGfMEI-Cfwaol7tNZTqsS8btn_HGFEeERtZSUeLq-bBcGljderO-HKzuJ95LhpYHmvEdPDaDGLn1v89MFxZRUQkU3nrEEhHjI8AVH2dBsEJ7lZ5FmIh0qkmPun7OGgeyEKdFczbi7OWUottA9t3Da3KndirmnWYfCYzopOFQ3384VhRHE2epNTVi0nFmN3u8Kvnd3w_X9EUI-YJMFXyP3fB_5kAKCfOD4qCpLNs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcdJSVlI_vYnfZ1vX1ivrj4iedMmW1XkziSC3Ujioac1gCpje0ETvQK4f1GMFgO6AcLZjTt3rzJOnlPNWlQTySSPBjiWQrd0B7KJVm2dq22F1yB2IIbGst9utbIKsNSCbVaMdErFqly0-0oXE3j7q5NXk8GfDRKrQH7g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaXaPLBQmCGn_VflH9MxLz3M0UgnIRgU9gAqeO1Ajp1d0dZ2aoJegSUxG9eLFcw5y8SvO2mNJwTGV9uKEmQQdTg98VPXBMHz-RNSUyDTfUKkcxNzhXTf1vl3o9xVrT4-mbFoIEPA6IX293xinr4mGfKbz5FtuF2rSeYFE_ex1rpQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T06:43:42.709507+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x100m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x100m Relay",
+        "medal": "GOLD",
+        "category": "Asian Relays Championship 2026"
+      },
+      {
+        "event": "100m",
+        "medal": "SILVER",
+        "category": "National Open Athletics Championships"
+      },
+      {
+        "event": "100m",
+        "medal": "GOLD",
+        "category": "National Games"
+      },
+      {
+        "event": "100m",
+        "medal": "GOLD",
+        "category": "Khelo India Youth Games"
+      },
+      {
+        "event": "200m",
+        "medal": "GOLD",
+        "category": "Khelo India Youth Games"
+      },
+      {
+        "event": "4x100m",
+        "medal": "GOLD",
+        "category": "Khelo India Youth Games"
+      }
+    ],
+    "stats": {
+      "personalBest": "43.85s",
+      "seasonBest": "43.85s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        42.0,
+        45.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

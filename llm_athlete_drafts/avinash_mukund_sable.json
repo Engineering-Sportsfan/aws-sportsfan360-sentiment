@@ -1,0 +1,388 @@
+{
+  "athlete_id": "avinash_mukund_sable",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Avinash Mukund Sable",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1994-09-13",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/1/17/Avinash_Sable_-_3%2C000m_steeplechase_at_the_2020_Summer_Olympic_Games%2C_Tokyo%2C_Japan_%2851352521594%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://youtu.be/yeNYrE6r1uQ?si=UjoxMpHu94t6w3SY",
+    "bio": "Avinash Mukund Sable is an Indian track athlete specializing in the 3000m steeplechase, holding the national record of 8:09.91. He has broken national records multiple times in various long-distance running events, including the 3000m steeplechase, 5000m, and half marathon. Sable is a gold medalist at the 2023 Asian Games in the 3000m steeplechase and a silver medalist at the 2022 Commonwealth Games in the same event. He has represented India in the 2020 and 2024 Olympic Games.",
+    "birthplace": "Mandva, Maharashtra, India",
+    "coachName": "Amrish Kumar",
+    "yearsActiveSince": "2015"
+  },
+  "record_highlight": {
+    "event": "3000m Steeplechase",
+    "result": "8:09.91s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2024-07-07",
+    "city": "Paris",
+    "prevRecord": "8:11.20s",
+    "prevRecordPlace": "Birmingham",
+    "prevHolder": "Avinash Mukund Sable",
+    "improvement": "-1.29s",
+    "improvementDate": "2024-07-07",
+    "aiInsight": "Avinash Sable's national record of 8:09.91s in the 3000m steeplechase, set at the 2024 Paris Diamond League, showcases his continuous improvement and dominance in the event. This marks his tenth time breaking the national record, demonstrating his consistent elite performance. This achievement positions him as a strong contender on the international stage.",
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 8.494
+      },
+      {
+        "year": "2019",
+        "value": 8.4205
+      },
+      {
+        "year": "2020",
+        "value": 8.302
+      },
+      {
+        "year": "2022",
+        "value": 8.1866
+      },
+      {
+        "year": "2024",
+        "value": 8.1651
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "8:09.91s",
+        "holder": "Avinash Mukund Sable",
+        "date": "2024-07-07",
+        "venue": "Paris Diamond League",
+        "tournament": "Paris Diamond League"
+      },
+      {
+        "label": "Olympic",
+        "value": "8:03.28s",
+        "holder": "Conseslus Kipruto",
+        "date": "2016-08-17",
+        "venue": "Rio de Janeiro",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "7:53.63s",
+        "holder": "Saif Saaeed Shaheen",
+        "date": "2004-09-03",
+        "venue": "Brussels",
+        "tournament": "Memorial Van Damme"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "8:09.91s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "3000m Steeplechase",
+    "achievementLabel": "Asian Games Gold Medalist",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "8:09.91s",
+      "bestYear": "2024",
+      "totalGold": 2,
+      "totalSilver": 3,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2018",
+        "event": "3000m Steeplechase",
+        "value": 8.494,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "3000m Steeplechase",
+        "value": 8.4205,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2020",
+        "event": "Half Marathon",
+        "value": 60.5,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "3000m Steeplechase",
+        "value": 8.1866,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "3000m Steeplechase",
+        "value": 8.195,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "3000m Steeplechase",
+        "value": 8.1651,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2019",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 8.5031,
+        "seasonAverage": 8.5031,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 8.1866,
+        "seasonAverage": 8.1866,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 8.195,
+        "seasonAverage": 8.195,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 8.3486,
+        "seasonAverage": 8.3486,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Pace Judgment",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Kick Speed",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Endurance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "8:09-8:12s",
+        "count": 2,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "8:12-8:15s",
+        "count": 1,
+        "throws": null,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "8:15-8:18s",
+        "count": 1,
+        "throws": null,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "8:18-8:21s",
+        "count": 3,
+        "throws": null,
+        "percentage": 30.0,
+        "peak": true
+      },
+      {
+        "range": "8:21-8:24s",
+        "count": 2,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "8:24-8:27s",
+        "count": 1,
+        "throws": null,
+        "percentage": 10.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Avinash Sable has consistently broken national records, demonstrating a strong upward trend in his performance, particularly in the 3000m steeplechase.",
+    "peakZoneLabel": "8:18-8:21s \u00b7 30% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "8:03.28s",
+          "holder": "Conseslus Kipruto",
+          "date": "2016-08-17",
+          "venue": "Rio de Janeiro"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "7:53.63s",
+          "holder": "Saif Saaeed Shaheen",
+          "date": "2004-09-03",
+          "venue": "Brussels"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "8:09.91s",
+          "holder": "Avinash Mukund Sable",
+          "date": "2024-07-07",
+          "venue": "Paris Diamond League"
+        }
+      }
+    ],
+    "beforeCoach": "8:29.80s",
+    "afterCoach": "8:09.91s",
+    "coachImprovement": "Data not available",
+    "coachJoinYear": 2018,
+    "coachImpactData": [
+      {
+        "year": 2018,
+        "value": 8.494,
+        "period": "before"
+      },
+      {
+        "year": 2019,
+        "value": 8.4205,
+        "period": "after"
+      },
+      {
+        "year": 2020,
+        "value": 60.5,
+        "period": "after"
+      },
+      {
+        "year": 2022,
+        "value": 8.1866,
+        "period": "after"
+      },
+      {
+        "year": 2023,
+        "value": 8.195,
+        "period": "after"
+      },
+      {
+        "year": 2024,
+        "value": 8.1651,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT5g-yfocELfjRJON2gWc1H3N7rt7xZfXS47j1xDEVcCBr9uEE_XNLGOAEnLkHQC2UMgfljmAIRpwux-l1lbyaDvAmx1-dTiCs38nUA3FU5wSBz5YHoTNtWE10gj_Ht-bXGrxACvVjMA6RuOLhTvY-iwLShmr2B5pSBvHOKCJXOkEooTR1qIZ5aFE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqIM4BG3CzAHDv5VVFqzQGDNtoypaafoyE9b9FXFeIz4p_uHeEp9wrqRzlyl7SEvuST7BJOyOEY283jI7n1OuoScoHiX3GzC6h-a6lcDe4LkTbm7Wgao6qxszZun6J-AHFRaBJdA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgywi_fUbqlhhD049fRptzSumzxgug-n_pRlPIGLaP5XdaD8GMWY-0vIgA7WLKuchDrYfb0QTNLdkmnUfwkXvrHKmdZfXm6r86OypQZWpPb820oHw_o2t2nGbFDG-3QrYA22w4HNsX-6Yn-JfGMylbHA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDwaknT7dzoXhpFh2MMoThRxpDUmbhgj5KUSiHe9aotGCDtxlDdgE3D8DeICKI80CcSjPGxm_k3nn5fUZ75bdNgD6m3Mh3s7U1gn5C-VVVMu_SoZQEjGJ44ETkIXUYYilebzyAuFftFpK6PhikxqE3iJNaIjYIog9TGyV09UgFc3G3NHK8M__F8TN-WYO-lcnNocDKrGnrleNBU9Gim_zssHLFMQm92pONJ0UYPuXnNF35HBL5UgMEess3UGl5fbDsrccV6PcM0f4st-iF"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:56:58.353185+00:00"
+  },
+  "performance": {
+    "primaryEvent": "3000m Steeplechase",
+    "category": "Middle Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "3000m Steeplechase",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "3000m Steeplechase",
+        "medal": "GOLD",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "3000m Steeplechase",
+        "medal": "SILVER",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "5000m",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "3000m Steeplechase",
+        "medal": "SILVER",
+        "category": "Asian Athletics Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "8:09.91s",
+      "seasonBest": "8:09.91s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        8.0,
+        8.5
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

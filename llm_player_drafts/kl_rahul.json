@@ -1,0 +1,159 @@
+{
+  "playerId": "kl_rahul",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "kl_rahul",
+    "name": "KL Rahul",
+    "country": "India",
+    "flag": "IN",
+    "role": "Wicketkeeper-Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-spin",
+    "dateOfBirth": "1992-04-18",
+    "birthPlace": "Bangalore, Karnataka, India",
+    "heightCm": 180.0,
+    "jerseyNo": "1",
+    "debutDate": "2014-12-26",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/6/69/KL_Rahul_at_Femina_Miss_India_2018_Grand_Finale_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Kannaur Lokesh Rahul is an Indian cricketer who plays as a right-handed wicketkeeper-batter. He made his Test debut for India on December 26, 2014, against Australia. Rahul has scored international centuries in all three formats of the game and has also captained the Indian team. He is known for his elegant stroke play and consistent performances."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "199 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "date": "2016-12-18",
+    "aiInsight": "KL Rahul was dismissed for 199, agonizingly close to his maiden Test double century, making it a memorable and somewhat heartbreaking personal best.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 100.0
+      },
+      {
+        "year": "2023",
+        "value": 101.0
+      },
+      {
+        "year": "2021",
+        "value": 129.0
+      },
+      {
+        "year": "2018",
+        "value": 149.0
+      },
+      {
+        "year": "2016",
+        "value": 199.0
+      },
+      {
+        "year": "2015",
+        "value": 110.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "199 runs",
+        "holder": "KL Rahul",
+        "date": "2016-12-18",
+        "venue": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "label": "National",
+        "value": "319 runs",
+        "holder": "Virender Sehwag",
+        "date": "2008-03-28",
+        "venue": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "label": "World",
+        "value": "400* runs",
+        "holder": "Brian Lara",
+        "date": "2004-04-12",
+        "venue": "St. John's, Antigua"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 68,
+      "innings": 119,
+      "runs": 4153,
+      "average": 36.42,
+      "strikeRate": 52.08,
+      "hundreds": 12,
+      "fifties": 20,
+      "highScore": "199"
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "matches": 4,
+        "runs": 315,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2022",
+        "matches": 1,
+        "runs": 50,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2023",
+        "matches": 2,
+        "runs": 209,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": 2,
+        "runs": 161,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2025",
+        "matches": 3,
+        "runs": 375,
+        "wickets": null,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExLyiif5XW8hlVXRikkpVEpDE40iJIhAg4mn9dx4-IMGon9woeoo6mQjUD0q4oTblbsv1nmeHscdoqP99Y-6y5p-5ZSg_SQe_YZd5hqZdLHNt4obqEPuf2nAUv3RlD1p6c2OvzNqfd3gTrIAPve5qwb1saNThsrByXO2ohxKbTweq2B0p6knU-26iq2txS8A5yIdeZZ-uTromOvSFJyiax1LtoVvIBhk2IzNufrMSoRxJu1kK1oxyInOuD9Z7FGlo6eeDAq2WGEw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLY0XqUAtZXgI8opgnYARgGYlLbhtrBhIVKC8mBkINu3dJktWMe3xki36y1NUQ4azV3dSDMgSN7mN5lRGmXKZZj_rkepB_l1eGTTiFflhfw5ahA_1_g7Fzf7539JpYzJiphKsiOway5Xf_o1ur9AEFEgkRoHN-lZyN3yJtHrNYzxYkWQD2aA5lzP7W9Br3Qh-tHomk_zFFQ79liBpaxPAqVSzB60bbxRlkzQrk-zPYlhQd-rgbVA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8oOlowwtJ9D3adA2YFOIwPW8c2Aqpe7tPZ5yIPB6I6gE-sKHq3mvq9VV04J3qIUI0slvFMkZoRCNQL4UywTArbGFBCxuCp0H5qsD7WMwlrkrsNHhYOb7DPiXXEFdRlvBVoVpu00cORkuCzl9bucAQMUjWNxbuLGr5ZCmetrjxgyo__hiywQGqDStHjncIjVKCl_FsQPsxxacjNw1QeRwyQYKFQ1ipBcd3q04Lca7QeWazk0gREEJJFHan3EKa7wpZ0yL6up_BZytl",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgGu8cT9lzxZoYwlYkBwirY_I3mOFPodtLTRrAFBsRrQuoWyocZMiG4ibjO5pz8wagPf_l51cj9jugi60px-T6Pq5NhkvWHHlAN1fvZVQyWuf1xqzhsoMecIzRCg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T10:25:13.287518+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "analytics.bowlingStats"
+      ],
+      "filled": []
+    }
+  ]
+}

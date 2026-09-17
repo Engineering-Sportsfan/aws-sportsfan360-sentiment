@@ -1,0 +1,288 @@
+{
+  "athlete_id": "yoonus_shah",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Yoonus Shah",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2001-05-10",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/hcO4Y9mEg44?si=865f9Ys_d2W8HNbN",
+    "bio": "Yoonus Shah is an Indian middle-distance runner specializing in the 1500m event. He is a one-time Asian Championships bronze medalist and a two-time National champion. Shah set a new personal best of 3:37.55 in the 1500m in June 2026, qualifying for the Asian Games.",
+    "birthplace": "Pilibhit, India",
+    "coachName": "Vipin Lohit",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "1500m",
+    "result": "3:37.55s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Final",
+    "date": "2026-06-27",
+    "city": "Bhubaneswar",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Yoonus Shah achieved his personal best of 3:37.55s in the 1500m at the Inter-State Athletics Championship in June 2026. This performance not only secured him a meet record but also qualified him for the Asian Games, marking a significant milestone in his career.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 3.4591
+      },
+      {
+        "year": "2025",
+        "value": 3.4193
+      },
+      {
+        "year": "2026",
+        "value": 3.3755
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "3:35.24s",
+        "holder": "Jinson Johnson",
+        "date": "2009",
+        "venue": "Berlin",
+        "tournament": "ISTAF Berlin"
+      },
+      {
+        "label": "Olympic",
+        "value": "3:28.32s",
+        "holder": "Jakob Ingebrigtsen",
+        "date": "2024-08-06",
+        "venue": "Paris",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "3:26.69s",
+        "holder": "Hicham El Guerrouj",
+        "date": "1998-07-14",
+        "venue": "Rome",
+        "tournament": "Golden Gala"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "3:37.55s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "1500m",
+    "achievementLabel": "Asian Championships Bronze Medallist",
+    "stats": {
+      "worldRank": "204",
+      "personalBest": "3:37.55s",
+      "bestYear": "2026",
+      "totalGold": 4,
+      "totalSilver": 1,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "1500m",
+        "value": 3.4591,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "1500m",
+        "value": 3.4193,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "1500m",
+        "value": 3.3755,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 3,
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 3.4193,
+        "seasonAverage": 3.4193,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 3.3755,
+        "seasonAverage": 3.3755,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Pace Judgment",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Kick Speed",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Endurance",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "3:37-3:39s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.3,
+        "peak": true
+      },
+      {
+        "range": "3:40-3:42s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.3,
+        "peak": false
+      },
+      {
+        "range": "3:43-3:46s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.3,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Yoonus Shah has shown consistent improvement, with his personal best falling within a tight range of his recent performances.",
+    "peakZoneLabel": "3:37-3:39s \u00b7 33.3% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "3:35.24s",
+          "holder": "Jinson Johnson",
+          "date": "2009",
+          "venue": "Berlin"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTW4LH15feIM1Y4YGG51mWgJHJBgyV13VSUt23qt2X4tRF8MNo283gg9WODKT0Wwjmxx54nQfmRD4FTu_kbvzeCB-YhSILgv0VM8yfejcsmp63qo0cDrZb359zDPBcRQy1iV6InChsm2G9Gyh5NR4i50m0J7F1ZOxO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-3kd8dtJ1c_5EhpoFRfwLvCp20FQt6xbssQP_Guu5K0UHVlHxdgxmGrKHBBtp-9F9BqFKa8zqoz30eCYNnVMcRjrOCEgK4p8nqqnhM6DJY-iHLRgSQMiJM5fKnJrI4nZgMStG3owy92A5TfLJEfc9MFf1Mcb4f_7EhJXfXJ0Q8VOHyn3-jzqrx2zfpiDaMQ0HrdWIYwFykPcGAc1coiQVs1QgNnPrptpg4HYiPEJiLXnjx5qoyMfnUna59LU8-CXbizYhT5ldrUR92h67NCMFkoOOp21oj3YdqlYg9OhkXz8xu_QaGzE-bqMOxtc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUME6AAEfkc1hDrRM0q6RWeNnDvHuyegFJB_UtlT4d-BobCzXf3H50-1Mm-VvPdceagas3h47cUBu1c2oSy3zOg8CnBeTkVheTpmG6kKYvEvI-l0ZfoDQolSxuwwlfTLFkWcUtZO1SQtliulbJkIzZvXQZ1E9EVfs-IF7Q2kqOV7QgM0W2w6LC9b5lnNc28AqzEoAGA660nSbtPRQCF8AnVm4QZEDVs-_-Otg1GxBousVGI2mB978xLUBh-8jcPSMbFG5tj_gK_yMJWnmQnw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:57:20.882865+00:00"
+  },
+  "performance": {
+    "primaryEvent": "1500m",
+    "category": "Middle Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "1500m",
+        "medal": "BRONZE",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "1500m",
+        "medal": "GOLD",
+        "category": "Federation Cup"
+      },
+      {
+        "event": "1500m",
+        "medal": "GOLD",
+        "category": "National Games"
+      },
+      {
+        "event": "1500m",
+        "medal": "GOLD",
+        "category": "Indian Open Athletics Meet"
+      },
+      {
+        "event": "1500m",
+        "medal": "GOLD",
+        "category": "Inter-University Athletics Meet"
+      },
+      {
+        "event": "800m",
+        "medal": "SILVER",
+        "category": "Inter-University Athletics Meet"
+      }
+    ],
+    "stats": {
+      "personalBest": "3:37.55s",
+      "seasonBest": "3:37.55s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        3.0,
+        4.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

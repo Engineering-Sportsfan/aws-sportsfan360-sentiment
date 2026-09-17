@@ -1,0 +1,241 @@
+{
+  "athlete_id": "pranav_pramod_gurav",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Pranav Pramod Gurav",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2001-07-03",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/T0imjgzZlaY?si=Dde5fazq4zZtM3ro",
+    "bio": "Pranav Pramod Gurav is an Indian sprinter specializing in the 100m and 4x100m relay. He achieved a personal best of 10.27 seconds in the 100m, winning a gold medal at the 28th National Federation Senior Athletics Championships. This performance made him one of India's fastest 100m runners. He represents the Railways in national competitions.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "100m",
+    "result": "10.27s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Final",
+    "date": "2025-04-21",
+    "city": "Kochi",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Pranav Pramod Gurav's personal best of 10.27s in the 100m sprint is a significant achievement, placing him among India's fastest sprinters. This performance secured him a gold medal at a major national competition, demonstrating his potential in the sport.",
+    "progressData": [
+      {
+        "year": "2021",
+        "value": 21.8
+      },
+      {
+        "year": "2025",
+        "value": 10.27
+      },
+      {
+        "year": "2026",
+        "value": 10.32
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "10.20s",
+        "holder": "Gurindervir Singh",
+        "date": "2023-10-15",
+        "venue": "Bengaluru",
+        "tournament": "National Open"
+      },
+      {
+        "label": "Olympic",
+        "value": "9.63s",
+        "holder": "Usain Bolt",
+        "date": "2012-08-05",
+        "venue": "London Olympic Stadium",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "9.58s",
+        "holder": "Usain Bolt",
+        "date": "2009-08-16",
+        "venue": "Berlin Olympic Stadium",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "10.27s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "100m Sprint",
+    "achievementLabel": "National Federation Senior Athletics Champion",
+    "stats": {
+      "worldRank": "376",
+      "personalBest": "10.27s",
+      "bestYear": "2025",
+      "totalGold": 1,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "event": "200 Metres",
+        "value": 21.8,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "100 Metres",
+        "value": 10.27,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2026",
+        "event": "100 Metres",
+        "value": 10.32,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 10.27,
+        "seasonAverage": 10.27,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 80.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "10.20s-10.30s",
+        "count": 1,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "10.30s-10.40s",
+        "count": 1,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Pranav Pramod Gurav has demonstrated strong performances with his personal best of 10.27s and a recent 10.32s, indicating consistent high-level sprinting.",
+    "peakZoneLabel": "10.20s-10.30s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2025": {
+            "value": "10.27s",
+            "holder": "Pranav Pramod Gurav",
+            "date": "2025-04-21",
+            "venue": "Maharaja's College ground, Kochi",
+            "tournament/meet name": "28th National Federation Senior Athletics Championships"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbM6g5eLCirpfq0Sg2-eXrX8SFUxLX3CiqjP7HkBw6fa4A67hf__PuT_1gYqU-vjHCndJuD9LLMpm9JrLdxKuU5xQhGAqlkhGsalG15GDuEWyfZcSqNWiNjAxuEEH-KaRBbOVT0ELElbZUc0rRBznoe3X_FXkDaM1DC8UPsLFXvmvxeXaO4u9l3x4VDNcaBWt17UgVzZVxqllqoMKSsx6kNs9SJH8rPFu1ZKb0fgiRMq6Ali0p__e2Vk0TvG0EiSEymSgL13Zh8g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvGTXiSdRepi38T4OTnsShbbp_-VIGMTFVMvpvDWtJTM-K-QF3lcU9rjxQdIZjK1KIgeielayvxh89xah-xCOAWPHmx447k9XJUsezLYVRQ8_k8ixAHIkv8PKxKwI8P6GNTpGpNHFaiQOHmCqSCX8G8wj2_BDi4in3wFAfNNEqfnI1tHRNbY-Rx_nn3fwS-LRy-maIPUY9MhDrPOjdtj6-KSmrAZFJdGBNHNrxVu3Diq3_z9E6As26zhHKcQFQeJ8Nhc4O5ifMAffAzBb8k75CzejhPlPQiut_K6o_0dioxOEO9w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj7eB9zIIHfl10mu0v0ddImSlnt4Uln7TUviF_6juAhljb7RaB5FXMOkCNCilbPtAYQc88-QuN55N_O-Mfti5o7emCULcV-ppkxQ7WEDHFI3Po2FKbBZmaqzpCD9pCNcgaUhAMHC1mdhakaMJzGXFH3DFPDtl8a5Ug6KuWbUZ0p9fKqGeg0JOdQmxD0Sw6q8U3-EUtAa6e79mFLR_zNjBazCvrCYtnzK9_REm6Pxzjwk87WwI4R6BcylKQknJHFUc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbMXUmTIfCN8vUjjX0P82tHTfOSJuNOm-puTg9h0hugTgzT-BXQWFy67c1XcCpJ6_2OCq79byDGkscBDxm6E4abe-aeqRu9B8Unudb4v5mMZxfhvTAPh2Ot2iqYziS9qz1yM2QPQq65qAvl9bPco5wtBmxpMcUFoU5Ag==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAhUgWuBkfM5TaNb7r3cMR1GjJHEDMVF5wiWbNRwFfgcBX_iQdp1TFjuiMVBabu-41jsoFNa7HEY_DGDJyq7tLKFzZf5fzuxmyzzKQxdy5KtSbzGfvyD5AqSoUiuTaVdmctZ9FgMLZ49SySkyQyELeL-x3cMWGVtXuVuKQOJ7A"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T14:08:49.855664+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x100m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "100m",
+        "medal": "GOLD",
+        "category": "National Federation Senior Athletics Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "10.27s (100m)",
+      "seasonBest": "10.32s (100m)"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        9.5,
+        10.5
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,99 @@
+{
+  "playerId": "harmanpreet_kaur",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "harmanpreet_kaur",
+    "name": "Harmanpreet Kaur",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "dateOfBirth": "1989-03-08",
+    "birthPlace": "Moga, Punjab, India",
+    "heightCm": 160,
+    "jerseyNo": "7",
+    "debutDate": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/38/Harmanpreet_Kaur_with_2025_Women%27s_Cricket_World_Cup_trophy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Harmanpreet Kaur is an Indian cricketer who captains the India women's national team. An all-rounder known for her aggressive right-handed batting and right-arm off-spin bowling, she has been a transformative figure in women's cricket. Born in Moga, Punjab, she is celebrated for her powerful hitting and leadership skills. She plays for the Mumbai Indians in the Women's Premier League (WPL), leading them to multiple titles.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "opponent": null,
+    "venue": null,
+    "date": null,
+    "aiInsight": null,
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": null,
+      "innings": null,
+      "runs": null,
+      "average": null,
+      "strikeRate": null,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": null,
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNSg7CwsgMc_70ku0Uu2IuIfFtVq4kYPFlIj6grw5RxXuzL2nEtjynebCLww6OQs3Kwv58knIve97YZmC_pyRrUuIxKY42ey_gq-6Jjnba-4m7cCTnbzX_50CqfL3w0Ckx24EXcAF-XcM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLtFKSsoEZ_3zKnKHY1WA6KpUDrM5QgMqYgBiywiGyq4EYVF1PKogDjE7HUBiOA5b2lvdD3z26c6PTNzIJ3HO9ysFDJi7YZsAsdBkHFO2W2OGUMpwKRXnDFhaGC5tO2wMDSbmwosTDL7QrjBi9mdY8LjiO-L7e9iclXbKWQFXu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoq-yW0eXzJhMfjut9tntuZqUcuVOtD1HzALzu6d9CeLBzGRW0hFIOLuNypHoQMdefPHcqXDVzOyxJ5fBItpLgpIa00smTc8T_bj0C1V8cPbal0Ol0Z3HeEadzVJzdLgitJR2zk__NYI8h09YnYDxDPvQ5qQ6d",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqESP2dowXAXy_7XWQIeGjhhcwHv-1M18ry2hOAkdFIv35fMlc_KNxNMFuNJoZbtFGfgzZqd0i86i4DxfxeEBNWTKH031Uyzm_hxEZVkVYvu9fQ_r5naFpEtzryawKwUzCXUmJ09Ol7QsjnO5qpuV4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV69sWTYwb5SfTZbBL7BfLyzBhB5fc6kfFknD2Rom-e_QJqO1mdMF8Hh-_X8GPMkhNwZDEPU4ApoQKIN93IA2fEkd_OAyLOCtgmBGKSojL_WZendQ58RVuaCGBoraE0qGhPS52x0Urm72ZddBAnPiuMa4GjHE02cUYfF46QnMCSa3ZHzcHjA9JallCTpBHx13kqbIDdQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyv11TSrfaIUUrnOEm3c-jBQas3CA8WtCEPXY9Pz1Dg4hoam64I4QsQrd600j3ArvitdtTuADaRXoTgMTDGCkRf7_YinKre0ID9m1vbG6kymMbmvKDPYk8dj5BVkzRLRfM84JUSmIdwXzjZ1vAmDjbx2qT2JwirQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxUkV7T3hBwxgphUE2e1uVyxF0U7N0rtZF25gSXe_XjZvkCfRS2Sl0zruVyKck9IblQvg7EWGxN6M68_9Fqz8PI9eMspy8P4RAEbXCk-cWrmcicxHM3blAr-cy_JChOO9VfBMmoIiSawcjK31Pqg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf6RI8QwJFGcErCUcIFC-SeceubyCPWKsMUt41--2-uj1PGnF5Wrdd2oPlaFOq28G0HsKrYeib7SOXpVdFBFfNP46nNaLXWeSW0k7WSMbeQF0BidXU6vWETOnoKslGVohsznrNF8bm1fMYpmlB",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJdyehh2cyS-pjAYzsq33NR1UhZ1ZI9aLve_o77ZkgKllPBybQrS89zAXdON2RtlbYrNoTmInakNcVTW5Y7DMam8iFRci6UrsRBojG16LRnYQklfvw0DxP6QyaMf6SE5QcWx8QN_zBDNLIRlj9vMS3IfhWEOaeRi7s3Pi7z4U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmbtVKjyiRc90_4n6o6MriOcmTlYS3Wd7lAJGDgeZDSMRXjcjc4IOL2Y7H0M2Xfu_HivgABw6V3Z5rkgT-j8lAY6iZonOTNjQK2N1Bp6rz8vQI_O8pcbhPmzSOwMka_UNMoHS2UdC6O2zxOLG2EMbJcclEaXZa3frwfx9y4Kk9OCqcVZ_2sG5U_qKACuew4p-xSALMbm6lpqWEzm4j8grnNuefQECJ7rcJLA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXN3ewfZmYdj2qNIJ-t931kaelVHgnAr52r4QlKJdMFU1ZRJQHsci8QUkE65J5MGxJDGoAxj53kXP-p_b7K6Z5QzUMADPn8KotDCGvJsuehnd0eiH34QJOt4xrxu27ue42xLWFHWPBr6hwcCvhOSBft-9dKuRhLHgZm9_BXA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoHyv6HOqsajM72cd102uS8zoZ21RDe7YerxqycCaOQes9qqZXWFYkB6UQvhz1RUTonDPWuEkFmel9U2dJ79Dzx1eGvL62qE64rR-7j9C6bOKClvTK2azl9p5tN-sH4XNesd-4IlqmMA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRnXpe_-MUfP6mgnFTXKyAl2DlBNa__T1z786KV0aZqo9WavABnTi5FahE3biu3vWsFkpREkALFteJt9BtmcXtIlLWhG3wss09rDRhHioRaFCqhVOMHYK6PgTasd_zNy9UJpu4xbXzJBqHfTVNiVz_Oe2OiqNN4DKKMEwwMiz09wo="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:34:42.422956+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "harmanpreet_kaur",
+    "harmanpreet",
+    "kaur",
+    "harmanpreet kaur",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

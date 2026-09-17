@@ -1,0 +1,166 @@
+{
+  "athlete_id": "jasprit_bumrah",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1993-12-06",
+    "heightCm": 178,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=eCKU2O5ZxZM",
+    "bio": "Jasprit Bumrah is an Indian international cricketer widely regarded as one of the greatest fast bowlers of his generation. He is the first bowler to reach the No. 1 position in the ICC Men's Player Rankings across all three formats and the first Indian bowler to take 100 wickets in Tests, One Day Internationals, and Twenty20 Internationals. Bumrah was part of India's squad for the 2024 ICC Men's T20 World Cup, where he finished with 15 wickets at an economy rate of 4.17 runs per over, making him the second-highest wicket-taker for the team. He also holds the record for the best bowling figures by an Indian in T20Is, with 3/11 against Sri Lanka in 2016.",
+    "birthplace": "Ahmedabad, Gujarat, India",
+    "coachName": null,
+    "yearsActiveSince": "2016"
+  },
+  "record_highlight": {
+    "event": "Most Maiden Overs in T20Is",
+    "result": "11 maidens",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2024-06-05",
+    "city": "New York",
+    "prevRecord": "6 maidens",
+    "prevRecordPlace": null,
+    "prevHolder": "Nuwan Kulasekara",
+    "improvement": "5 maidens",
+    "improvementDate": "2024-06-05",
+    "aiInsight": "Jasprit Bumrah holds the world record for the most maiden overs bowled in T20 International cricket. He surpassed Nuwan Kulasekara's record of 6 maidens in 2020 and further extended it to 11 maidens in 2024. This highlights his exceptional control and ability to restrict scoring, a crucial asset in the fast-paced T20 format.",
+    "progressData": [
+      {
+        "year": "2020",
+        "value": 7.0
+      },
+      {
+        "year": "2024",
+        "value": 11.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "11 maidens",
+        "holder": "Jasprit Bumrah",
+        "date": "2024-06-05",
+        "venue": "New York",
+        "tournament": "T20I"
+      },
+      {
+        "label": "Olympic",
+        "value": "11 maidens",
+        "holder": "Jasprit Bumrah",
+        "date": "2024-06-05",
+        "venue": "New York",
+        "tournament": "ICC T20 World Cup Record"
+      },
+      {
+        "label": "World",
+        "value": "11 maidens",
+        "holder": "Jasprit Bumrah",
+        "date": "2024-06-05",
+        "venue": "New York",
+        "tournament": "T20I"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [],
+      "wickets": [
+        28,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        15,
+        null,
+        null
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        30,
+        90,
+        95
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Jasprit Bumrah has consistently been among the highest wicket-takers in T20Is, including being the highest wicket-taker in a calendar year in 2016 with 28 wickets and a key performer in the 2024 T20 World Cup with 15 wickets."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPyNvbIAecucC2XzCpc0lfVpUk8H4pJLNK9oYZXfV85dOH23keU5eaWPQ6lvU8lwvcxxfKOiAwf-xQf_k-7-z_pflGKW7-0xWOCQrbkEYJOG-0pX_0pwLIOAXyzJ8w9dGhnSWdIgo3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFdYoquy9HbZLfi3u48Z9bApx_HP4vFxWRxYqTe-NKsM5WhL7GSRmvSLwzdqkcDDMSgBYv8yvnau-5R--NspzTbcFJdsZEtj19ZKkxIT9-AwMOgF5ev68qfGq3y51xq8Sug6uGvRa_RS7IXK7TKStGPF0Bm1dup9o9KoGMbw9UKzdbDbnjTjydTlQCrlIEDjYrcfp3zwXeXJTazA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Saj-nX5v0NYIxUDW3ry7bDX0ZlfEvEgpv8s9WAQbfJOq5LTwyc2vpwahHBLVWy7mLCeY-4-V_xYAQYIB5BV3ZUNM0-CeA83V1kuzd2x0jJ6AO8WvM2yT5wFz3NPVYHvbRhGwBZ9ZyxA_KygFqwvQykOU6FJvvdZfZKfPDJteCG72Fko2lGaBw6zCYRjJLJHZLD5d5_u5xf0Dv6Z9lsOvKM8DdfFMlmlNiwLV2AuNDTRM7sDg7HwQcCZ02PV34-1wlHMVvmj0eQFPe_9poUmFWKNeB3JaH9oC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcMjNHR3R1XoMa0-CJiJKzAwbdO_ZjeUH5oqfKCiRsIwOnD1QrruZoUtzZHP0_y8DVeggiTl75VHttHzlF4ho0uuwfKBhW2Sr8fQQHOYTRF6U7MwwpC4STCzXWC4u4mLqjb9YSu-pFrOB6m2Wa5xedNHfejbwK2CfevUs9l3JJVNmgR8_aedc970JmUCDRyMLYjJlAKL-shW9tzX79jcFB4IRbYlCvVzk_WI3KAWq0BugSNY7EsVCzmbfJT7nxUy7EajiFRys-T0ISxFLm4cw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHn6DN8DMR4j3sKQEPKSxSmLWx4pfudy28JW_ngqBfSB1Parh5qTPc1Idq03GjaScMo2nuEeAW9WL_Sr1ppSiLR1Rn_RYZlJII-_qR3snH9LWnYIg7eSjz8e7KgyeGk4nRtGU0UKecwvFL7yWLBQWoB-dkrOw2SIwnYCeMg1uczW8mil_HzYfap-Mmp8jUuQJEaG7LJXF0Hs5lK-9IkiRGD7ZWb07-INb7-qKvsj6zprfJ5FiQSAZodR9aAjq-c1X11sxZP2Azeq82D50cC1KqIT5reEMQqfA="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T08:50:53.673975+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 101,
+      "ballsFaced": 112,
+      "battingAverage": 2.0,
+      "strikeRate": 90.18,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 335.0,
+      "ballsBowled": 2014,
+      "runsConceded": 2188,
+      "wickets": 121,
+      "economy": 6.52,
+      "bowlingAverage": 18.08
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "bumrah",
+    "cricket",
+    "india",
+    "jasprit",
+    "jasprit bumrah"
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "athlete_id": "ankita",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Ankita",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2002-02-05",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14818406.jpg",
+    "welcomeVideoUrl": "https://youtu.be/eKU4X15IXP8?si=gYS3QLDVNeW6GgMJ",
+    "bio": "Ankita is an Indian middle and long-distance runner specializing in steeplechase events. She is a silver medallist at the Asian Indoor Championships and a bronze medallist at the Asian Championships. She holds the Indian national record in the 2000m steeplechase.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "2000m Steeplechase",
+    "result": "6:13.92s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2025-08-14",
+    "city": "Jerusalem",
+    "prevRecord": "6:14.38s",
+    "prevRecordPlace": null,
+    "prevHolder": "Parul Chaudhary",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Ankita Dhyani set a new national record in the 2000m steeplechase at the Grand Slam Jerusalem athletics meet, surpassing the previous mark held by Parul Chaudhary. This performance significantly boosted her chances of qualifying for the World Championships in the 3000m steeplechase.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 6.1392
+      },
+      {
+        "year": "2026",
+        "value": 9.2791
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "6:13.92s",
+        "holder": "Ankita",
+        "date": "2025-08-14",
+        "venue": "Jerusalem",
+        "tournament": "Federation Cup"
+      },
+      {
+        "label": "Olympic",
+        "value": "19.30s",
+        "holder": "Usain Bolt",
+        "date": "2008-08-20",
+        "venue": "Beijing",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "19.19s",
+        "holder": "Usain Bolt",
+        "date": "2009-08-20",
+        "venue": "Berlin",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "9:27.91s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "3000m Steeplechase",
+    "achievementLabel": "National Record Holder (2000m Steeplechase)",
+    "stats": {
+      "worldRank": "42",
+      "personalBest": "9:27.91s",
+      "bestYear": "2026",
+      "totalGold": null,
+      "totalSilver": 1,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "2000m Steeplechase",
+        "value": 6.1392,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2026",
+        "event": "3000m Steeplechase",
+        "value": 9.2791,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Pace Judgment",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Kick Speed",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Endurance",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "9.0\u20139.5s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "9.5\u201310.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "10.0\u201310.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Ankita has shown consistent improvement, particularly in the steeplechase events, culminating in a national record.",
+    "peakZoneLabel": "9.0\u20139.5s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBuSmFN7-2Si30Rm0URV-f1yvwGRlKlsmh7sE0B5L1ZzlovTW4grxDLt3IjGLd9YuLfcRVXl5ltKERo7EVK_6DNPbgftwKzlTZIVT_VMQ3u5LiaXoszgmtSTYiXBEDuv9sVGvLZGZQPW-KW0JV26AEK5NxP_o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEalNGVbeROMx2-j2Uh3Rcx2Dd-JMhMrw9Deef7W1Hd6tPxfvAkvfGD3fZs-B-TJeBafb3AzAqlwUzGiBLmpUL3hfB8bXvBDuqqKNuvl6pz9UyEB48dlmwkFZwkZHSvNEhGctKl9y5ltfYI3RyWBmqT07lCeA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBynYhND6UNCc6MWzDy1aTRacNu0D7IBwENuEEBTcqb3s-qwvqfsvOBhKtsiCAwVB-hfWpu1Va2QfqXbZo9qbLJlkeMryWKEFEoBIueJ09jKRxrlLo0PzPbB04GE2UKvh4kV6xRGsDwy15pE-VJ4Mk4mNbWY3_lyNFhjvhHVKOQtvSqx_pxu0qlk9xQsyxlyS8DZSm0gGhWKrDTBZdmDv2_A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFncC3OlPTjQR5P0g2QFWEKPrUO54_nXffhj4pbXCEmhawivC5ohd0ZIuqYwD7O4hywQCDPfJrC7lZNsF4Syqk5BqaLkGkI7uuVL9C-mOOKf3rLWkHpZHQTeY5e4tQ4m3hDLXWjsWKUpo3SoD7k0nBkXCqnb462gqNCX3jF_6CmaIvrG8WN3fJSMjcKSiliyNz7piX8VE2y109zsnE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoVyCzI0fpBoiyZyFDSNNxDgFODNCTBACjfEDnnC5LuYJspAvWwi1JuXKlj0DEfW1fkQNJZBtr1dSCvVIl930gq-jTW5T2nlPkOiLVbrBDDaBFnIERhhUgh4dUCrnoClD9WpYaz_FClHsBOO6pjvq_SP3IigLe2su5q5pRYkLcftIslykRYZPYAmlOixMgW3HlRJjVZtww6sbOkNUGF0eswjnBqwbDiTgHvzkA3Wh-WE335XTgJK7lFcBYLfM11JoUsFkwok0ULEpMAm4q6z0k01_XS0r30Z2pyPtfvjU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3sdKJ727NnRo18fI4rJ11rSASadyc-9L4hbUbKQDy-Leheo3Hq0bjhkAY9V6VU-zWx8wDVLLrYTPDzrSL82Ge6ozXxH4-wZLCJ9vqDo17LkOmaU67yYmS5DKjicSlbukEibusky34RiB_F_rXxegfYdPFHEFHLQpkml37_4oxeaBexXWDNBOWkOjmzz9qRoUWOpk795tYt2mK5n4OkHU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhBA-yAaDEIksz6dDxcTKEJfDknKlTQDauf4o7GVsTvK3klhvTYtqoAmobND8TWLFiIK39O_g0xTPXnchQwL44oS7LJdcUSLSwHH3cKMvQ10KZZX9K0HPtezKVwZC3ff3yurDulQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T14:17:58.935641+00:00"
+  },
+  "performance": {
+    "primaryEvent": "3000m Steeplechase",
+    "category": "Middle Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Asian Indoor Championships",
+        "medal": "SILVER",
+        "category": "3000m Steeplechase"
+      },
+      {
+        "event": "Asian Championships",
+        "medal": "BRONZE",
+        "category": "5000m"
+      }
+    ],
+    "stats": {
+      "personalBest": "9:27.91s",
+      "seasonBest": "9:27.91s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        9.0,
+        10.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

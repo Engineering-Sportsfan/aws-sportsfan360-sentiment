@@ -1,0 +1,362 @@
+{
+  "athlete_id": "priyanka_goswami",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Priyanka Goswami",
+    "country": "India",
+    "flag": "In",
+    "gender": "Women",
+    "dob": "1996-03-10",
+    "heightCm": 164,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14477764.jpg",
+    "welcomeVideoUrl": "https://youtu.be/TMZwGO7kPjQ?si=3MnvwhlYad7whH3B",
+    "bio": "Indian race walk athlete Priyanka Goswami was born on March 10, 1996, in Muzaffarnagar, Uttar Pradesh. She is a two-time Olympian, representing India at the 2020 Tokyo Olympics and the 2024 Paris Olympics. Goswami holds national records in the 10,000m, 20km, and 35km race walk events. She made history at the 2022 Commonwealth Games by becoming the first Indian woman to win a medal in a race walk event, securing a silver in the 10 km event.",
+    "birthplace": "Muzaffarnagar, Uttar Pradesh, India",
+    "coachName": "Ronald Weigel",
+    "yearsActiveSince": "2012"
+  },
+  "record_highlight": {
+    "event": "20km Race Walk",
+    "result": "1:28:45",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2021-02-13",
+    "city": "Ranchi",
+    "prevRecord": "1:29:54",
+    "prevRecordPlace": "Ranchi",
+    "prevHolder": "Bhawna Jat",
+    "improvement": "-1:09",
+    "improvementDate": "2021-02-13",
+    "aiInsight": "Priyanka Goswami set a new Indian national record in the 20km race walk with a time of 1:28:45 at the 2021 Indian Racewalking Championship. This performance not only secured her the national title but also qualified her for the Tokyo 2020 Olympics. She surpassed the previous record held by Bhawna Jat by over a minute.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 5995.0
+      },
+      {
+        "year": "2023",
+        "value": 5330.0
+      },
+      {
+        "year": "2021",
+        "value": 5325.0
+      },
+      {
+        "year": "2021",
+        "value": 5556.0
+      },
+      {
+        "year": "2015",
+        "value": 6004.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "1:28:45",
+        "holder": "Priyanka Goswami",
+        "date": "Feb 13, 2021",
+        "venue": "Ranchi",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "1:25:02",
+        "holder": "Elena Lashmanova",
+        "date": "Aug 11, 2012",
+        "venue": "London",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "1:23:49",
+        "holder": "Yang Jiayu",
+        "date": "Mar 20, 2021",
+        "venue": "Huangshan, China",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "1:28:45",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "20km Race Walk",
+    "achievementLabel": "2022 Commonwealth Games Silver Medalist",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "1:28:45",
+      "bestYear": "2021",
+      "totalGold": 4,
+      "totalSilver": 3,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2015",
+        "event": "20km Race Walk",
+        "value": 6004.0,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "20km Race Walk",
+        "value": 5325.0,
+        "rank": 1,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "20km Race Walk",
+        "value": 5556.0,
+        "rank": 17,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "10km Race Walk",
+        "value": 2618.83,
+        "rank": 2,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2023",
+        "event": "20km Race Walk",
+        "value": 5330.0,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "20km Race Walk",
+        "value": 5995.0,
+        "rank": 41,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+ "medalData": [
+    {
+      "year": "2026",
+      "tournament": "Commonwealth Games (Glasgow) / Asian Race Walking Championships",
+      "events": 2,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "seasonBest": "1:30:12",
+      "seasonAverage": null,
+      "currentStreak": 1
+    },
+    {
+      "year": "2023",
+      "tournament": "Asian Athletics Championships (Bangkok)",
+      "events": 1,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "seasonBest": "1:28:50",
+      "seasonAverage": null,
+      "currentStreak": 1
+    },
+    {
+      "year": "2022",
+      "tournament": "Commonwealth Games (Birmingham)",
+      "events": 1,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "seasonBest": "43:38.83 (10,000m Walk)",
+      "seasonAverage": null,
+      "currentStreak": 1
+    },
+    {
+      "year": "2021",
+      "tournament": "National Open Race Walking Championships",
+      "events": 1,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "seasonBest": "1:28:45",
+      "seasonAverage": null,
+      "currentStreak": 1
+    }
+  ],
+    "radarData": [
+      {
+        "metric": "Endurance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Pace Judgment",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Race Tactics",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "1:28:00\u20131:29:00",
+        "count": 2,
+        "throws": null,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": "1:29:01\u20131:31:00",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "1:31:01\u20131:33:00",
+        "count": 1,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "1:33:01\u20131:36:00",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "1:36:01\u20131:40:00+",
+        "count": 2,
+        "throws": null,
+        "percentage": 40.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Priyanka Goswami is a national record holder in the 20km race walk, consistently performing at a high level, with her best times around 1:28:45.",
+    "peakZoneLabel": "1:28:00\u20131:29:00 \u00b7 40% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "2024": "41st (1:39:55)",
+          "2020": "17th (1:32:36)"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2023": "Gold (1:36:35)",
+          "2021": "Gold (1:28:45)",
+          "2017": "Gold"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR2_IN9Z3ZVeyUbkj4pfB-mn6KR1BjsDknhecNQVxkpKfORQEeT1dbgnrjP1Tx_irpEfZeqtjf9lMhFy-zqxDNXxzIt_6qGEpaIokA7gJcmOrvydju7wxKxFsBF93J_YKFG5V9tLyom7Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRD9SGRnZlM0wJFIZjaSyFaFUnH7by72VqBTjkSOu5rFq16UnrZw1JRp12etlLyu3I_l1kPOsaNsZovAwWEPDmzMOpzQuGdt5JPpMqVrQgGMlljZbOh-0GJeqJZTZe3JezP6MN-A_3kCqhVvJZISZ1OWRI6uOcO_MFWs1KaIV__d1l",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgZ9rPWsH3TQ9Ca5tKdQ684DT45b4Sr7Ity0PTzVp7TrjthERF8-D5Vx9hB4vkUjm87s12m-lSdBX9QeXdDtGvMVkHAMiL8bkLSPlhYvxE5XbMxbMHzm2R3wT8deosIqsSjEys8qcIZD9REkCKs5yP1EnHOJo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBmGUcoPO-PRtUKqO_kj55_9uik_CJxRrAaE6LjDHn9Mx8T2E-4Wmj0BAp09GZQ_yLVd6Sh71zQmQ-vyYLZbyxC2sQ8mAN-ycWWZVkRJ3KltMrU2phGudsgi7mY4Z_vTsS5iRa2vTS2e1qumQY0Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_VeBbqmxKKMBYJCJZn-iZwFNEAI5LEnCJ2wuYfve3e4NOB-DHowghqbSs7LAISQ6jheqVNQl6evy3I6kQREiC5rmsDpiMsRtI83IcmZHfanzLJOJ1QauoZvThFEr9lOUA6DCTOuRmpujOHomXy7omDWOx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNzPC3F8gxj_xjqyLwr-U2cdx4e3I1YaETF2CxtcdYRBCZsCSTw3yaW_rYzxrQ92stmA7cwyw6LKMENOXxN78mQqhtal4a_m6rRiumMvakPgcoMYQmlrSqqPScvVaO644NOH7tNkfnLYWhpZn2RhmzEqOu4UIt7TIsMH99Q5skMNiOh7N8DO0_AKtkl8zhhw_aJRz6AwXQtR0jSvwN-UICuxWiRYbQSJkMyGF20U_1xPfTsfRUmBKyPaYNfOluq_OKSI5tUDDRvGGKbhRW-RxThSZDoo-7goN6VckfpurohK2s",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSm7dzbJphTOqcaH99MS0M-cFPEbjM9I99eGMux7TKo_hoIfmXMOlaqKhNFoThETN1FQpXvt_Tm0hiKBs0yCF8TUEI_QDcVht7OYv4DQnY9s8otY0sHGyk3yXfAWgtekHpqsDczOuGyIcX8_zg9VUwRrZujoQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEuS1tAymrJOlbCWx0Mz899ALmkiZZGlHJqWaOJ35luUxl1c2YgBc3TRe4NBTSWzOhqpQU_p4qYDCeh0dvsIbFwYR3M6Hp2EBsyHbvxWclgnpWipVGhvM-xVcRjYzCqpX4XdtXqATuJgbHGS0Zw7xwdsf5wdZUUJKRD19PUK8xgaV8Gh94JeaUNZmExB6C-3vsTLY27orVPqvmPwb36cnXCWCPTLk0-zllUC2G",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNRIsnfXoIoG4jbAimpwokBXBKBh7-HzLiuyicDZJKSObl73Zbk8Ohek2YrCXyUdA0EpTw6SZL2TIe3G5TQ1Ms1zzlWKrsRm6sMMnNfelF7BhVM7Ht4CRZEf1l_fm2zDMc8HFZCrI77qjHhQQDEnTMvZtq9DL4ZMt7-tA0VcYhcXuwG6H0TF_7vV4FDkxObGqbLZJSuOkPNbfRvOf27qmmWsB70Q0-ib90dTvtPWrANM1VezBrbQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnroLxhxOHKQcGuYDmwe5zI4RvTBBmwTpsdgals-gW2iDFqqUwA6hlrnvHVvbcNOBnk1RLAnIfjxWWg6dK7y1pXyAh3KUw1CjEgX6a6-CLwUWFqDw3IE9B0lANlmHQNmvD2IPxGpbdkQgNvhTXCXkHEuL5qRD-ThrgtNRZXvNTvxRvXX9S1YE_azvT9yPGMuBUwgupmJ7QMXxHp1fS3aFgfmCP4Nz4dZlRdYK6IVgzzMXJFLVXfxUvsb2d5JsRwOsWmAMjoa5cdcfxATaCuX6ulG4enN9iQw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5dTmHkJSC9crWuk0uQ9_YtTYv8hIizqXtluc-G2098Q5x3XGCos19L6h-Km2r5DR47J9d38YAV9CJbYaMMz_boeObmwutXCbyi2MaDdHQ54wGcIUcPFmi0fiIgJwuJlBbFtIWDzhcJegmwMEHcJmRy3ytmQXDpHr99VPgfc-DfA-LDkaIhWxJUvu2QsGXcM1jhtvVI1M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4ko321R4D2ZMZ1nuNGfw8HHbaYApLi6QqE-W8I0BXTGe_5_tPLr5-6PcpJKDxD4MXyJInV8wfL6ihhkFtVhldeFvPEtd0YFkVHZ3U7lPgND8YWb_iMtE5_ovMWvpBqICIOp6GozPXpnamez_7BVgDCFYMjlXc00x5leogdTax4cm-S70gUn2aW_h7tzCFAugPNFALM7tieH_kwouzs_bMoZ49WLJmzA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPk3zrhNmtDH9UQWYl6HWW2apurnnBVWKy3XxbwXdvyMHOJBusACdFKe88V4sak-j7yqq4SyWr4nG_FY9NcMrHnEZsSq1FAX9aIqM_DYy2LoPSBlJXuAWjgHrZ-mjo9mZTVQebZEs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxvkGbbjHOhT6ECLs9lLPp_a81ZY5fFpoT9w5jwaftWxjb8s2XDF6cIrNSw8F2BNtflLLxgKEdtS2u-3Hy9jGN-EVSAF9mq1aaAt6Gqga78IByvcJJXMqU7nk7GvzJ0_z08pW30DaWhIJo3iG0giqvjqhVqkxxl1mUPEJ3FAyjDRRiD8xHUm0wPmICf524j1K7-UtQsAvEyXE88Wycy8AMRwyU_HuKo7Ca69GXXjnpnvXG9FUWegLuK1JYqVnxCVofgcCD63dpeXHm3CDutEtyIMjoQEigXw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Ek8GLsQx3gQPSXJIYkPrNv5N_fSKgJTUob_GFCD_-dDEayuDW_S07yVQAKYv9gI-prjFlt_XNGur2YOh3tCHhTl7KIHQIEkQAFs9TeLUHeVf0c7AE7otaY4yQvs0GckMgLX4F5c_ypsYxZmr37oSNbU3j40Qsr--Blgl7EdvnBnxlbdDWjVI"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-06T03:42:13.029855+00:00"
+  },
+  "performance": {
+    "primaryEvent": "20km Race Walk",
+    "category": "Long Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "10km Race Walk",
+        "medal": "SILVER",
+        "category": "2022 Commonwealth Games"
+      },
+      {
+        "event": "20km Race Walk",
+        "medal": "SILVER",
+        "category": "2023 Asian Championships"
+      },
+      {
+        "event": "20km Race Walk Team",
+        "medal": "BRONZE",
+        "category": "2021 World University Games"
+      },
+      {
+        "event": "20km Race Walk",
+        "medal": "GOLD",
+        "category": "2021 Indian Racewalking Championship"
+      },
+      {
+        "event": "20km Race Walk",
+        "medal": "GOLD",
+        "category": "2017 Indian Racewalking Championship"
+      },
+      {
+        "event": "20km Race Walk",
+        "medal": "GOLD",
+        "category": "2023 National Games"
+      }
+    ],
+    "stats": {
+      "personalBest": "1:28:45",
+      "seasonBest": "1:39:55"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        5200.0,
+        5500.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

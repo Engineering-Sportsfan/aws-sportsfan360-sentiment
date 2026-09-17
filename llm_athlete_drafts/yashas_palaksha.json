@@ -1,0 +1,338 @@
+{
+  "athlete_id": "yashas_palaksha",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Yashas Palaksha",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2001-12-08",
+    "heightCm": 170,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=z9ozO5Gg4zM",
+    "bio": "Yashas Palaksha is an Indian athlete specializing in the 400m hurdles, also competing in the flat 400m and relay events. [1, 2] He represented India at the 2022 Asian Games in Hangzhou, where he reached the final of the men's 400m hurdles and finished fifth. [1, 2] In 2026, he achieved a personal best of 49.00 seconds in the 400m hurdles, making him India's second-fastest ever in the event. [1, 3] He trains under the Reliance Foundation Youth Sports programme. [1]",
+    "birthplace": "Karnataka, India",
+    "coachName": null,
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "48.80s",
+        "holder": "Dharun Ayyasamy",
+        "date": "2019-03-17",
+        "venue": "Patiala",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "45.94s",
+        "holder": "Karsten Warholm",
+        "date": "2021-08-03",
+        "venue": "Tokyo Olympic Stadium",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "45.94s",
+        "holder": "Karsten Warholm",
+        "date": "2021-08-03",
+        "venue": "Tokyo Olympic Stadium",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "49.00s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Hurdles",
+    "achievementLabel": "India's 2nd Fastest 400m Hurdler Ever",
+    "stats": {
+      "worldRank": "105",
+      "personalBest": "49.00s",
+      "bestYear": "2026",
+      "totalGold": 4,
+      "totalSilver": 1,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "400m Hurdles",
+        "value": 49.61,
+        "rank": 5,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "400m Hurdles",
+        "value": 49.37,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "400m Hurdles",
+        "value": 49.22,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "400m Hurdles",
+        "value": 49.0,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2023",
+        "events": 3,
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 49.37,
+        "seasonAverage": 49.5,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 49.22,
+        "seasonAverage": 49.3,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 49.0,
+        "seasonAverage": 49.1,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "49.00s\u201349.19s",
+        "count": 2,
+        "throws": null,
+        "percentage": 22.0,
+        "peak": false
+      },
+      {
+        "range": "49.20s\u201349.39s",
+        "count": 4,
+        "throws": null,
+        "percentage": 44.0,
+        "peak": true
+      },
+      {
+        "range": "49.40s\u201349.59s",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "49.60s\u201349.79s",
+        "count": 2,
+        "throws": null,
+        "percentage": 22.0,
+        "peak": false
+      },
+      {
+        "range": ">49.80s",
+        "count": 1,
+        "throws": null,
+        "percentage": 11.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Yashas Palaksha consistently performs in the sub-50 second range, with a significant portion of his best results falling between 49.20s and 49.39s.",
+    "peakZoneLabel": "49.20s\u201349.39s \u00b7 44% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "45.94s",
+          "holder": "Karsten Warholm",
+          "date": "Aug 3, 2021",
+          "venue": "National Stadium, Tokyo",
+          "tournament": "Tokyo Olympics"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "45.94s",
+          "holder": "Karsten Warholm",
+          "date": "Aug 3, 2021",
+          "venue": "National Stadium, Tokyo",
+          "tournament": "Tokyo Olympics"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "48.80s",
+          "holder": "Dharun Ayyasamy",
+          "date": "Mar 17, 2019",
+          "venue": "Patiala",
+          "tournament": "Federation Cup"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCBbR1ub5FuWE9qnVmKOroqvpxdNnfe3zpxTZS8apkL-h3Q3xU75_R1xYUhq_n019tScKNanvYd2em4KZb5XG6DfDI1eLwEzPfI0yt1xKrRPOmRzZKA7UYR6GV8nS9wgWMWtjW3NGbe7Oo-Ql5x7jcK9g0cwPUXkyIgPOGmzUhWbU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyzOphTMMzGc20wHvHnETV5cVvrBpZQsCaAEsNaLCw3u-7wBDHNYLnDs57O9Kxznfb57HhwQ3RnDgK_VSS5AX65pttI75GcPFTtIJ_NHERhRL1vlC9Wf534WAKZnrvgqNMiNIjicJ0DA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3oxC7jEUDPbmd95qIae8eR8V5Ct1ejFH99j3Ed0F9obEt7XQ1cjf5nYgr65DvSYy9ZhByd-QHd9hVmfCZQt9cKoPiPEUBRfimrlvozKXeaQOH7XS-275yCV8kyw1wQ4GHUS5G4gRkNKA4lV91Z9D-G2DxeZB6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKpR7bVVKw3AeNvdG_MWj1ih0pRiFVs2op9uAnhj76C00BnvYfsL80URQR0FDlUa2U40lApTkjVgIVUDHsFwgS9GhHGLe9egOKnssOPT2khuC9sUc8R_jvyCDhp54tL72wozG85yXyVoPFIbXmhU-R9DXrOuv6VLFv_2N_3QGa65duJawU7JL8RJAZy7UleVPwcdjBe9lkkRNzCICj_wxERy5vpdYSaM1PxNdv6TUM-k2qI2wiAkzXNeN0G5jOAqpYeyhsgzinB0eg03zIUNkwS55N9elYridYHNfS7RehT1E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOYJKFl333fJ1XLdEMLTJe4O6tMx_jgQxo_otEH7sybchdoakDt6ZdT-EoX_1ITm9M6RmsYxUN0iRg7h-34aqe_o9WrRv7EGykfsVwJdNpoM-xRkceFDQRzDnbCWOZpN97tRHznYFsscPtfCf_PQE-h_yTRIQ-Se1bBBC33nHrunI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgnhd1UM0oG1TNZy917OjJq1ZkfhYNNjZkMj2DOwTtSOPh_-DzfZ3MpAHmP7qBzU-Rd4gQ1UEEHC_P9ISF1FskNa2qCIbx7Nf9XFoKxQd3XOPigyB4f0yxNEAbG4Pa2iF6BaiEJ8Yrmg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyyknf1dFIYRPslSKVGl3TmXNbqQQ2MkN8_oVJtiEyS2IFppV2eCxjM1NZsBSPAQ2HGjSjgmtjmkIV3OLwifaUAeoaR5EQBR3Z2Y8Gftaq3CDmCOqkcebcc1w9o71y1UxJABlH6OuBkc-GZy2Q4LWMF7knzNCogx4dnwPSPuZ63U5ww6HZ_7_wd-aqoJ7o9giLtM1ayGA3JpZlqXAQ24pb8hdaI_0TpYFPzQ3mLiFARRpeRKuapSvNfZOazjtCOzZVWpvW6qADeqtLUoII0sBQ6k4AgUgZ1D2Y96lxULAgons="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T10:29:23.489576+00:00"
+  },
+  "performance": {
+    "primaryEvent": "400m Hurdles",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "400m Hurdles",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "400m Hurdles",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "400m Hurdles",
+        "medal": "SILVER",
+        "category": "International"
+      },
+      {
+        "event": "400m Hurdles",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "400m Hurdles",
+        "medal": "GOLD",
+        "category": "National"
+      }
+    ],
+    "stats": {
+      "personalBest": "49.00s",
+      "seasonBest": "49.00s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        48.0,
+        52.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.benchmarks",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.coachName",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

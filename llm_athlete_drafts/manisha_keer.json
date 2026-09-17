@@ -1,0 +1,285 @@
+{
+  "athlete_id": "manisha_keer",
+  "sportId": "shooting",
+  "coreInfo": {
+    "name": "Manisha Keer",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1999-07-15",
+    "heightCm": 159,
+    "weightKg": 52.0,
+    "profileImage": "https://backoffice.issf-sports.org/media/athletes/portraits/SHINDW1507199901.jpg?v=128260",
+    "welcomeVideoUrl": "https://youtu.be/TfyDNTOWUTg?si=I47uRlNkfn16eIYs",
+    "bio": "Manisha Keer is an Indian sport shooter specializing in Trap. She began shooting at age 13 after visiting the state shooting academy in Bhopal. She gained prominence after winning a silver medal at the 2018 ISSF World Championship in the Junior Shotgun event, where she equaled the junior world record. She has since won multiple international medals, including a silver at the 2022 Asian Games in the women's trap team event.",
+    "birthplace": "Bhopal, Madhya Pradesh, India",
+    "coachName": "Mansher Singh",
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "Women's Trap",
+    "result": "116/125",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Qualification",
+    "date": "2018",
+    "city": "Jaipur",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Manisha Keer, along with Seema Tomar and Shreyasi Singh, jointly held the Indian National Record in Women's Trap qualification with a score of 116 out of 125 targets in 2018. This achievement highlighted her early prowess in the sport.",
+    "progressData": [
+      {
+        "year": "2015",
+        "value": 51.0
+      },
+      {
+        "year": "2017",
+        "value": 57.0
+      },
+      {
+        "year": "2018",
+        "value": 115.0
+      },
+      {
+        "year": "2019",
+        "value": 108.0
+      },
+      {
+        "year": "2021",
+        "value": 113.0
+      },
+      {
+        "year": "2022",
+        "value": 102.0
+      },
+      {
+        "year": "2023",
+        "value": 115.0
+      },
+      {
+        "year": "2024",
+        "value": 109.0
+      },
+      {
+        "year": "2026",
+        "value": 117.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "118/125",
+        "holder": "Rajeshwari Kumari",
+        "date": "2019-11-19",
+        "venue": "Dr. Karni Singh Shooting Range",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "122/125",
+        "holder": "Alessandra Perilli",
+        "date": "2018-04-23",
+        "venue": null,
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2015",
+        "2017",
+        "2018",
+        "2019",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "scores": [
+        51,
+        57,
+        115,
+        108,
+        113,
+        102,
+        115
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Precision",
+        "Consistency",
+        "Finals Nerve",
+        "Big-Meet Performance"
+      ],
+      "values": [
+        80,
+        70,
+        75,
+        85
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Manisha Keer has demonstrated a qualification score range typically between 102 and 115 out of 125 in major international events."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2018",
+        "events": 3,
+        "gold": 0,
+        "silver": 3,
+        "bronze": 0,
+        "tournament": "ISSF World Championships",
+        "seasonBest": "115",
+        "seasonAverage": "115",
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "ISSF World Cup",
+        "seasonBest": "113",
+        "seasonAverage": "113",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Asian Games",
+        "seasonBest": "102",
+        "seasonAverage": "102",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Asian Championships",
+        "seasonBest": "115",
+        "seasonAverage": "115",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8mwmLn-wHLhCytc7eL71OJymhDU4wvIF95fDd7k7_0aeR4Cuaersms2gykGZaA66DrwrrRKrI4oKVKupVHTpmUoNKd3Jegp3Zwc_5K5u2bHUoFyNLab8l5F3m-eTq96wd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZYTpTIORB4VyUBkFZL4DYf5eMdKWOfK2NwZHi7CX-Cc7lBxW1zpnJB-hxTlLcs79tXRJl_ivB2jk0zNhZQgNzsnp3HAW8Rk-NQ98TvmwBuVFdm7-tOdZ9Bz2iMQ1IHRpVG2LEbSNS4GvtWrePHUjV2JqzLPqlsduRCTRptLESTxS8J0vMq5vaja7kGfRwEO6SqD_LhDnD8PxuRtduqQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmdpGQbaYSji0e5En6BhUWe2NxL-QaLLVVVbpnizzMkpBPc2I9lKlU3hHyHZfJRjjZJjBOzTa-KvEb7j5l8j2gjF2SaWaFo0h3vYhrvvpYqUOOFjEsfuwoE9s-azvq7iU_Zf8h",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7TWJvgwVm5wXnEqNt2hynQbyQycVpDNm_IAz3Cq2Iu7WfvgojZeHueF5uPEx8ycCEdjR13JM5UaMmBN47mNN0eO92yCQQHyzfuX3GAYdGg9Oa--FE5s65nobeydUU_k-8uUNQhoRlQwDo0XtP4W3O7Ds7y4NgHyrb0Lnxum7aYgzF6SCYxmVO_hU8I569LqTj",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYq5XlMBHvyRF4DkEd8f6oxYQsvIziInmrVpQLSKV1gux0SVQtSr5AC_g-8jaAZj-AYH1eUw3KSfUBScPJZCG6uq9aohzjg7l1sw1GlDbowiIOsI1SbtFw54-tUuj6-WyejsOKp7vaYplO_1vwLK9OPTrpKvLpznWfpGT3HOEoKHY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhunmWwpEt6wlwazghr7_YcRr4MtyUD-C1w6ZA-Js4wGP2V5ScFsDAA-aIdqm_KuQmL5QJ_213BnAYa7ABYLYZf_rOuIVfY9ce72wvkIatgYYI7lpa39AawaACyWkpdi9-cPYyFxvKcYc9aYsq4QjNZpflOmd7d9bDtAelXOVCA1AgP2_ni9Zd8KcQJdmg82kt288Rnf_ItcbWYtFeRTiR95SLSvTS7xtI1RgkITALzSCxehCgOqG0OhZJb6msUlAcwr0dYq9qGLRxhOPybbQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkexAk1NZlqPpC9LkSn0hljtNYtj_hGWO-fOM3z42IW6ODG3qyOELusPc6q97BJQ0mRGieGD1UAo9V7FS9VVMFrxaroAN0RjnO9S7h6VCmkuzE_cLHDp0qFtJF4c_jXM9g5DB5KCuhcAk-vUjX3HGpGsvw2l_nBNViXlZrYDA7IYen6hzJZn7xzsEHCRpyPFfL_GHItsZPPquo-_VwswXYgeLeTHU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBIrbajhNiGGm0MTdmKG5gEItXJRLcShK7GAzSuuIJEk4y8Y1ZQ5ok6hmQHro7cMhTLqUbi3jXqkcWeJcgBx7VW20EdOOBOZP9QQxtKVAW1JXK7R56UDBigEIUa8glqmJrmD3a1fm-mogwRjTLErYZFYWpGKXQDKuh7tkbEqEg3GAjDtGbq9eqJr7MejJ9Pk1qIUWB7PO1yxhg48rbVjMmu_unGNK0qK1zGuSpekydO8-on0QZhNZTxqsNirZYOuRyI-gLYy75jWtmSv1l5laXIaG9v8rbjg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMrXvXiCjMF76nhtRXr4lQbPj07WL9nYGwRGcgXgMSQz-LM61PWmLq2uwyc1W159lPN_gnKC7XzFKqlvpHbs4UmySguVMOIGf-zGxtVinpeh5stxCykvGnQhzScCqpT47u67ir3hVTczYIlkWQMfo-V5VtpKn96EvNya1fhWrrkibDFuGjdOgYt9r4m2kDcZicsAsMkEv9YZncEx8NU189HS9UzJQWt0iJae4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2O8PFvsBOXE8jN-EdBS0RaT-lpY7G9xXEssJzinnyiNMvp0YYnELyvFQZ_KS80MXEkk9_7icruDcVTmfxmR--qmrazvsawO3Udy8U9IdXRYeoiy7PnMx4b2rSzCfN9oMWpDbOTNK1-uc9NUD49VHD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXls6w9FtUoQtpbfLkdnzSGgNzEn-HGlp6iEgL3szGZHc7bdW4P-EET8_cs3Ci9-hyUk3qgPBlSPWaAbmlruF7NCP2PHlPp7Pt49Z1C9pc9oLxOHyze5ydW-wM6Xs2tH1_XOYPjw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk_aDSIpiuFPHxEoTJgs3R3LCChKMR0Wl-faDDCAa1BxVEXqpD9U8s9Bwj-41y6x4xvNC-Fn5fz44iV2O03YBLz4q8N7VyMRv3tcG75EmfXdX1jS6Dk6y-8UDIXKHXV4hFwbwHuMV-7XUDwOPKnN19OG4ZEKYA4wxTzTZJ4i60Y-OQd0K8Pk07AKpIe92jmpbIog==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfRFPQf_h2AVnfqV0BgINLCTOqwaF56fS0TuXvGuiyRmqbVDRVoeAtLsGVAYFW75qAk5cy--L-dfIIwMQ--xl2KUNV_9ixB5FVCs-03Vm0j2JHXXpUPePYoVgSBFJwFapTNA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-e1sjHMQlcPtzaDzUzHWmLgtgAod75UG5odGDFgaBVMFtFHfKG7PwUm1tfnxbMHY_ZhXa2GHak_M4_piUo90G8bWGD9r1isv67HBOyeAKekwS4m4k83GeV56kdKiLeV6PUuqMR_fspWN0sgkxZu5Rg-NM1icK_2Y2YUJaUo8M3yGzIR8COx7Sl6pjYcArBuxccSjcROVq-MdK6gsWgZWdKzAmOFvOEjy1JlCK4XUmKvFIxIAcAx6GNKGU0ootC8cgF7RRSCpjVoajhKUEjTRSOg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvVrzqb--VoABeUEQMRTof3c6APwaee1KB3LU6CgnRV8qZLDg3BL80kw1UZ2lqpoPBS7ECrRygnthBdmn8mgqYVmry_DxviascuGuGrtzAdlzAZSK7U1jDlncwoIUHir94llEoVcKqog4iSQ49Q_WRcDB6NkwSVcxqcnXmSolz5TADX6kqBLrW9aGQ_6WVBk1TULo04Q81iyyL0Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH93QbXGIzSsv4vmwwQu2a0-ngFQpSBjP9bTRswP5xStfJEQlG0JH4oY9F5Kx3nfU4pxXMWLI5gXsqZtyixwAEVOiKWzdw-2ThTBI4JCeOmZerHbInkSLDIrY61yHONsot3qLq6inLYwWnDUdYFeJ4G",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnW4cx92FANSwLzNbb_Ai1fNqHnfvqyzciDLR2A9jD9mXj6O0ZwgwNppjI3MOQhoQ04dCzZbM6dy7KbBVoZK0zG8vK9UN7XGCnNsaQg-Avz4uL0XbpnrVgI8A92Rbr2Jed5Xhrag==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtWL4JOxowncYxIKKHM5J1dKPbeil7qNyht0vmgoqCZ2xqh1yqFN8-8Lb-HCAiXHdMmvKxiM_eDk2QlZLdAbjKPFzNgvCese2Jmd1lni-LFR9ni36vhSFSI6pcXjJ7dC7FjQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ3NbaGER3p6FbRkCgfAf9-2wrLIAGaeN52XPPr-pcjokCQYoMT1pJpzsiiCkO5Yxjg_xZNaa0_BR9Vyt1EWwdqaP_eO7lcGbZpxdOMVZf-H-ueffCpJmdVssEpUck4LyRA7B-f2oaVwfrA9T3JYm75IHK3Qq6c8BSXXM5FD_xcM_ZF0KcT9qucHCNtsYlPjZIvw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGymuU5ToJp6sT8cwL0PsBAYrOZFHLMNU3mGhck1tqGLYnLFBw7Z6wMoGYAppfF371L1RN2dTZWHzvCFgw36Jo7QPCbIjXnasx1L_lgpm3IY4-KH5LdoIno_TCX537_P-JGPVULpjyfvlT3MwvBLq_aaftt-XB_VTDk2KSrYKezzNqVxoiEOyt73b5ohdsFMUB9ThScUngQ9cYmpg4Xu_U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbHuO7Mf7sAErFHxMQazH3XyEf0vq7Uml3TyJqjQOXY3YAPpTbabeE7K-aKwlvRWS2dSwrZp3B93QysS_GRbaDtpo6QpsrREnuM1vNdWmN2PW0AXGMN7GSMfqvGgrROkSBc--VxxMz8h2azO1uPGtcK2iGmkjFoByZm2Mhub2FhwlIFVk5ADPz4CZRYAtv8bTkdvNCvUVB3RiSmjhj8b8Ge_XKRuHo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbVk7KSawd_ahSqkuaNDAJztFz5jFAmgiEaOoQqUIPa0-04Tb7HxNjCTynzKXym6Q3ERNbZK9VhPSNZoxnI4KgxermsNTTYzSgfg9BUE8l9MlNVBFr2DoaCIYi9tv0XK487DuygwjN3eZ1FyndyR_m20rp3_khiO0FqSQaKUlNzlCCOaUYQ28UZtIYV3JkTPytpHuLaPZea3pzsTaNgoDne8ViJX2sKKAqVuN7arwqPLlzbJwLaOnzLTgerqOqWgSd9_w4rd5n92eAleVOj_MQaw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9g38C7yAuRzlg9CEJaUAhTtAI5ToqKvDSt0RIeyMTxw9m1ysoj4cEpneIm-mn9xPyGcno5xO9lXHbkJp2EdKpYwWMIDrvrnO5siruyKx6-YYxCaQb2ZzpJq_DsIlTNENrRWUloy-3eqYS6QpZubibd_D_ziAPzQqmRIqQqhBJ4hrHZ3HExZrHqyFJjkbzXPJxe4NIDzOC7NDnTQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-12T16:32:40.853455+00:00"
+  },
+  "performance": {
+    "discipline": "Trap",
+    "category": "Shotgun",
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "ISSF World Championship Junior",
+        "medal": "SILVER",
+        "category": "Trap Women Junior"
+      },
+      {
+        "event": "Asian Games",
+        "medal": "SILVER",
+        "category": "Trap Team Women"
+      },
+      {
+        "event": "ISSF World Cup New Delhi",
+        "medal": "GOLD",
+        "category": "Trap Team Women"
+      },
+      {
+        "event": "ISSF World Cup Cairo",
+        "medal": "SILVER",
+        "category": "Trap Team Women"
+      },
+      {
+        "event": "Asian Championships",
+        "medal": "SILVER",
+        "category": "Trap Team"
+      }
+    ],
+    "stats": {
+      "personalBest": "115/125",
+      "seasonBest": "115/125"
+    },
+    "recordStats": {
+      "olympicMedals": 0,
+      "worldChampionshipMedals": 1,
+      "worldRecords": 0,
+      "finalsAppearances": 4
+    },
+    "chartConfig": {
+      "primaryUnit": "score",
+      "secondaryUnit": "hits"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight",
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight",
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "athlete_id": "ravi_bishnoi",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Ravi Bishnoi",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2000-09-05",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=mx11iWnXQnQ",
+    "bio": "Ravi Bishnoi is an Indian leg-spinner known for his deceptive googlies and variations. He was the leading wicket-taker in the 2020 Under-19 Cricket World Cup with 17 wickets. He made his T20I debut for India in February 2022 and quickly rose to become the ICC Men's Number one T20I bowler in December 2023.",
+    "birthplace": "Jodhpur",
+    "coachName": null,
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures in T20I",
+    "result": "4/13",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2024-07-06",
+    "city": "Harare",
+    "prevRecord": "4/16",
+    "prevRecordPlace": null,
+    "prevHolder": "Ravi Bishnoi",
+    "improvement": null,
+    "improvementDate": "2022",
+    "aiInsight": "Ravi Bishnoi achieved his career-best T20I bowling figures of 4 wickets for 13 runs against Zimbabwe in July 2024. This performance surpassed his previous best of 4/16 against West Indies in 2022, showcasing his continuous improvement and impact as a key bowler for India in the shortest format of the game.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 4.0
+      },
+      {
+        "year": "2024",
+        "value": 4.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "6/7",
+        "holder": "Deepak Chahar",
+        "date": "2019-11-10",
+        "venue": "Vidarbha Cricket Association Stadium, Nagpur",
+        "tournament": "T20I"
+      },
+      {
+        "label": "Olympic",
+        "value": "6/14",
+        "holder": "Ajantha Mendis",
+        "date": "2012-09-18",
+        "venue": "Mahinda Rajapaksa International Cricket Stadium, Hambantota",
+        "tournament": "ICC World Twenty20"
+      },
+      {
+        "label": "World",
+        "value": "6/7",
+        "holder": "Deepak Chahar",
+        "date": "2019-11-10",
+        "venue": "Vidarbha Cricket Association Stadium, Nagpur",
+        "tournament": "T20I"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        10,
+        14,
+        18,
+        10,
+        10
+      ],
+      "wickets": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        60,
+        75,
+        85
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Ravi Bishnoi has been a consistent wicket-taker for India, notably becoming the ICC Men's Number one T20I bowler in December 2023."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjT_G-l-yUKhXVJcpGhHgPqqMxdQx47iXKGvZ6a22C5PAEm9Q_XNA3n7H71P2dz2FmT-ptSdsaG-xUDL74_bPUIehXKGm8bK8rGz5uHc63OqlraBqbxTgn55zjim7_7bzx9JYPTAokg2O5N2ptNW3TNu86BMWsM_Zd-fk0Zy-8BWKdqFbKb-ORtOw9ulDeb11s",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP10h-FoKM5xVzbQoNN8AxPi441DCLbsOmDHmJXpTkIjAeT9vYORvve9NqU8hAKhst5JraKWokYO8s3COgkT6vtsRBp11NZAUv4cI0Q5V5UUTljHP6__RBTai1pyIpUdo6B4jLwkCEcuaHZu51ku00pPQKWOAlgk8j68lPiL9Zq1KdDv7jxcGPAIsqxvPEh2VXT_xO2U8upDkZBEvT6Ger7aOC8uqR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpIA8qRriU-4Sn0atA6JdM50f0_J1zNye8E4s8h7Gkdyt7TDgKP6s2pWb5KkoUHl75qhY7sn1LrxOLiwYXmAvlClMOFurc9XZWa0QAcJesgzpbFGCeuWIypdPmTrO10m5bUU2DTjjbmr-ZNHr91ct_DzRkzVYtoSpCE9XeG5RU4QBKHmohJ4lrVI8NZz568zTA4JGiZTpnGnDvWL3V3-lUYenZIxkUUpm42_1Rn2PCe6fwQBUXX4QRKIJ8_CZVcSM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4kQOZcMZzxNjX-R-9ScLQQDSj_Wz7TsHignJokNne0d0dwBedpcoVYTkxr_pwvgxqo9J4CNEy5LbIogXpIfVYY1FnYWsF_8OYVmqyXFJLdTwK-eL8OsU5qQCTv_qbYI8Z8_YTkg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRvfXrc-2irD5VGw_aTX-4moGA51tLgKWaCIjJpPTXCmFeE-foOXtpvi74iIixIkGV5aNG5B6UCZhaRtD1lSWxxaBsFmYM7xmS0neQZ132JLJ1_3CIFn0x_HD4cEOwO2id_R7imZOrNj_HHyX5rWpaHBTRDOzyAqoNhdSa4hj4k3gQ5GctEzUXQebx3Aej3Bul-tB_GRyn5U5YJ-y1cX1Ds5_7o0vmcIDSZ6OyHFA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW-DkbIl_bXvjDS_wwtG2KQee1XHwDlALVvQkFoEVo7D-qiBXd2-03qIY4TFiQ9K7tdkI12c3egDj_pSe2NazbwQsYixC8y_qT9OX3JqjrH3SjY_7uFdY2cwXO-Ksn7t4Tov2up9j_ab-xNmEVOn_7JxDqRA83HXujvaLB2z9m5pii_fhU02ChISOEmm4MyKmQF3DmHt67LkuzxLjbrQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:15:23.219408+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 65,
+      "ballsFaced": 52,
+      "battingAverage": 8.9,
+      "strikeRate": 124.0,
+      "fours": 8,
+      "sixes": 1,
+      "dismissals": 7
+    },
+    "bowlingStats": {
+      "oversBowled": 184.4,
+      "ballsBowled": null,
+      "runsConceded": 1377,
+      "wickets": 67,
+      "economy": 7.46,
+      "bowlingAverage": 20.55
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "bishnoi",
+    "cricket",
+    "india",
+    "ravi",
+    "ravi bishnoi"
+  ]
+}

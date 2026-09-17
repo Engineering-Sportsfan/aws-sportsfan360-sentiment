@@ -1,0 +1,253 @@
+{
+  "athlete_id": "dharmveer_choudhary",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Dharmveer Choudhary",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2001-02-05",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/15023842.jpg",
+    "welcomeVideoUrl": "https://youtu.be/qvlfAMqPlcw?si=cXLx0GzOYUoRsmae",
+    "bio": "Dharmveer Choudhary is an Indian sprinter specializing in the 400m and 4x400m relay. He has achieved a silver medal in the 4x400m relay at the 26th Asian Athletics Championships. Choudhary has also secured a gold medal in the 7th Indian Open 400m Competition and a silver in the 28th National Federation Senior Athletics Championships 2025 in the 400m event. He recently achieved personal bests in both the 200m and 400m events in 2026.",
+    "birthplace": "Tonk, Rajasthan",
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "4x400m Relay",
+    "result": "3:00.32",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-05-02",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Dharmveer Choudhary's personal best of 3:00.32 in the 4x400m Relay, achieved on May 2, 2026, demonstrates his significant contribution to the Indian relay team. This mark is a strong indicator of his current form and potential for future improvements in this event. His individual personal bests in the 200m and 400m also highlight his speed and endurance, crucial for relay success.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 3.0367
+      },
+      {
+        "year": "2026",
+        "value": 3.0032
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "38.69s",
+        "holder": "Gurindervir Singh, Animesh Kujur, Manikanta Hoblidhar, Amlan Borgohain",
+        "date": "2025",
+        "venue": "Chandigarh",
+        "tournament": "Kladno Memorial"
+      },
+      {
+        "label": "Olympic",
+        "value": "2:54.43",
+        "holder": "USA",
+        "date": "1993-08-22",
+        "venue": "Stuttgart",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "2:54.29",
+        "holder": "USA",
+        "date": "1993-08-22",
+        "venue": "Stuttgart",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "3:00.32",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "4x400m Relay",
+    "achievementLabel": "Asian Athletics Championships Silver Medalist",
+    "stats": {
+      "worldRank": "225",
+      "personalBest": "3:00.32",
+      "bestYear": "2026",
+      "totalGold": 1,
+      "totalSilver": 2,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "4x400m Relay",
+        "value": 3.0367,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "4x400m Relay",
+        "value": 3.0032,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0,
+        "seasonBest": 3.0367,
+        "seasonAverage": 3.0367,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 3.0032,
+        "seasonAverage": 3.0032,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "3.0\u20133.5s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "3.5\u20134.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "4.0\u20134.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Dharmveer Choudhary has shown consistent improvement in his 400m and 4x400m relay performances, achieving personal bests in 2026.",
+    "peakZoneLabel": "3.0\u20133.5s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2025": {
+            "value": "45.93s",
+            "holder": "Dharmveer Choudhary",
+            "date": null,
+            "venue": null
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9kdEeHM_R_z5Vc3f6WRjJYHVkcdW8Jr2zeEXFfHYLZDNOnTx6PsICvGRLNfAj4abwzeRhp7PY9houH-NeM7aF28PGh9zFwfh-mIvxEJgG2ZDVw_KO47NKjVpElp_aEzB6eecEMEcTtBKyCwz4-YrkXkw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCgshYv-rtfpkdO_tjkh7HRelKfyOabJdq2k_mO2QQG4-kv_UMQXrhF0xnx_5M2EkOQaCbBMfCOAekmgbEEEojJpAsRGaaZmNSOL5pb26ZamU5E_k0JmfEmXj-30fV5O2OJTBKpdD5j6OYD8yMNDcPlXApaJa9xOXjE_HUJ4NQLnjoejycdslLSfjZYv_6Z_il7tCVhap9A1g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmOxaNGzI3uweJrFow9z3UE6uSAnYXpQwg55zq6CE9PZw30X71eP2B37aZmEu9xxojmxsSUT6bFaX_yV7M841Oxo7WnXD1ks4zYnG-xiRwEwrvK_IQfDwPT5J9TsBLcwntVK1GFOLxiY6D9l73OqDH6ClEKGLmql8JLeCRJxe7aw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T13:30:06.392162+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x400m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x400m Relay",
+        "medal": "SILVER",
+        "category": "26th Asian Athletics Championships"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "7th Indian Open 400m Competition"
+      },
+      {
+        "event": "400m",
+        "medal": "SILVER",
+        "category": "28th National Federation Senior Athletics Championships 2025"
+      }
+    ],
+    "stats": {
+      "personalBest": "3:00.32",
+      "seasonBest": "3:00.32"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        2.9,
+        3.1
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,296 @@
+{
+  "athlete_id": "praveen_kumar",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Praveen Kumar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2000-12-14",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/Uz4BgDeWAzo?si=5vcjpdjUh3k4myKV",
+    "bio": "Praveen Kumar is an Indian hammer thrower competing in domestic and national-level track and field championships. He is a National Champion in the men's hammer throw, having registered his personal best throw of 69.58m in domestic competition.",
+    "birthplace": "India",
+    "coachName": null,
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Hammer Throw",
+    "result": "69.58m",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Final",
+    "date": "2026-06-26",
+    "city": "Panchkula",
+    "prevRecord": "68.20m",
+    "prevRecordPlace": "Bhubaneswar",
+    "prevHolder": "Praveen Kumar",
+    "improvement": "+1.38m",
+    "improvementDate": "2026-06-26",
+    "aiInsight": "Praveen Kumar set his personal best mark of 69.58m in the hammer throw in June 2026, solidifying his standing among the top active throwers in India's domestic circuit.",
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 65.06
+      },
+      {
+        "year": "2019",
+        "value": 63.30
+      },
+      {
+        "year": "2022",
+        "value": 66.80
+      },
+      {
+        "year": "2024",
+        "value": 68.20
+      },
+      {
+        "year": "2026",
+        "value": 69.58
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "69.58m",
+        "holder": "Praveen Kumar",
+        "date": "2026-06-26",
+        "venue": "Panchkula",
+        "tournament": "National Interstate Senior Athletics Championships"
+      },
+      {
+        "label": "National",
+        "value": "70.73m",
+        "holder": "Neeraj Kumar",
+        "date": "2016-06-29",
+        "venue": "Hyderabad",
+        "tournament": "National Inter-State Championships"
+      },
+      {
+        "label": "Olympic",
+        "value": "84.80m",
+        "holder": "Sergey Litvinov",
+        "date": "1988-09-26",
+        "venue": "Seoul",
+        "tournament": "Seoul Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "86.74m",
+        "holder": "Yuriy Sedykh",
+        "date": "1986-08-30",
+        "venue": "Stuttgart",
+        "tournament": "European Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "69.58m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [
+      60.0,
+      75.0
+    ],
+    "sport": "Hammer Throw",
+    "achievementLabel": "National Champion - Hammer Throw",
+    "stats": {
+      "worldRank": "140",
+      "personalBest": "69.58",
+      "bestYear": "2026",
+      "totalGold": 1,
+      "totalSilver": 0,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2018",
+        "event": "Hammer Throw (5kg)",
+        "value": 65.06,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "Hammer Throw (6kg)",
+        "value": 63.30,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "Hammer Throw",
+        "value": 66.80,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "Hammer Throw",
+        "value": 68.20,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Hammer Throw",
+        "value": 69.58,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 66.80,
+        "seasonAverage": 65.40,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 68.20,
+        "seasonAverage": 67.10,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 69.58,
+        "seasonAverage": 69.58,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 72.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 68.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 78.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "60-64m",
+        "count": 5,
+        "throws": 0,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "65-67m",
+        "count": 10,
+        "throws": 0,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "68m+",
+        "count": 5,
+        "throws": 0,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Praveen Kumar demonstrates steady progress in domestic competitions with the majority of his mark performances recorded between 65m and 68m.",
+    "peakZoneLabel": "65-67m · 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "National Interstate",
+        "years": {
+          "value": "69.58m",
+          "holder": "Praveen Kumar",
+          "date": "2026-06-26",
+          "venue": "Panchkula",
+          "tournament": "National Interstate Championships"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://worldathletics.org/athletes/india/praveen-kumar-14861990"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-06T10:15:55.000000+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Hammer Throw",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": "2026",
+    "medalCabinet": [
+      {
+        "event": "National Interstate Athletics Championships",
+        "medal": "GOLD",
+        "category": "Panchkula 2026"
+      }
+    ],
+    "stats": {
+      "personalBest": "69.58m",
+      "seasonBest": "69.58m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        60.0,
+        75.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "athletics",
+    "india",
+    "praveen",
+    "praveen kumar",
+    "hammer throw"
+  ]
+}

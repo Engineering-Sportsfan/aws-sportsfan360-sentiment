@@ -1,0 +1,122 @@
+{
+  "playerId": "richa_ghosh",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "richa_ghosh",
+    "name": "Richa Ghosh",
+    "country": "India",
+    "flag": "IN",
+    "role": "Wicketkeeper-Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium",
+    "dateOfBirth": "2003-09-28",
+    "birthPlace": "Siliguri, West Bengal, India",
+    "heightCm": null,
+    "jerseyNo": "13",
+    "debutDate": "2020-02-12",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Richa_Ghosh_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Richa Ghosh is an Indian international cricketer born on September 28, 2003, in Siliguri, West Bengal. A right-handed wicketkeeper-batter known for her aggressive batting style, she made her T20I debut for India on February 12, 2020, at the age of 16 against Australia. She quickly established herself as a key player in the Indian team, participating in multiple ICC tournaments. Ghosh holds the record for the joint-fastest fifty in Women's T20Is and is recognized for her powerful hitting and finishing abilities in the lower-middle order.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Fastest Fifty in Women's T20Is",
+    "result": "18 balls",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "West Indies",
+    "venue": "DY Patil Stadium, Navi Mumbai",
+    "date": "2024-12-19",
+    "aiInsight": "Richa Ghosh's 18-ball fifty against West Indies on December 19, 2024, showcased her explosive batting prowess and ability to accelerate the scoring rapidly. This record-equalling feat, achieved in a series decider, highlights her importance as a dynamic finisher for the Indian team, often coming in at crucial junctures to boost the team's total and set new team records.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "18 balls",
+        "holder": "Richa Ghosh",
+        "date": "2024-12-19",
+        "venue": "DY Patil Stadium, Navi Mumbai"
+      },
+      {
+        "label": "National",
+        "value": "18 balls",
+        "holder": "Richa Ghosh",
+        "date": "2024-12-19",
+        "venue": "DY Patil Stadium, Navi Mumbai"
+      },
+      {
+        "label": "World",
+        "value": "18 balls",
+        "holder": "Sophie Devine, Phoebe Litchfield, Richa Ghosh",
+        "date": "2024-12-19",
+        "venue": "DY Patil Stadium, Navi Mumbai"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 88,
+      "innings": 63,
+      "runs": 1333,
+      "average": 27.2,
+      "strikeRate": 144.58,
+      "hundreds": 0,
+      "fifties": 2,
+      "highScore": "64",
+      "ballsFaced": 922,
+      "fours": 154,
+      "sixes": 46,
+      "dismissals": 38,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5XqlDmoZokxeLQ97jgY3glWTDiDYkQJcdlW6x97po1onmApU0r_RQxWe2h6zaNbET_1u1VxQPN3RJM_NeXb_CYy5n6MfgblnLAwTsBRmR_TIrE7FVs9yV1HQTReEgcoE0UxXK",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF16mRyHlKgWktCFIEi06wXXT1UGph43JJR3TTAR2TgRDAvh8BgHv2r7yCKFQlLK6jyaU9KFGgLHpqaihFyH79-a3zdAbd7cxlu72JTGz5nHVQwA-OyY4VpIUZZguPUlZXbLIww8pax-0Nh5SLZpioj5OieTM7RHFj2jtdZgtkCOcVzImdKceiKx_TBIU6-gibg1MQ-wAOIIALhObw8PyebicziluGDgyK8Yf1Qn81oxiSISmbnHJZrcUTEJzaUBi3y5PYdCKhTEw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPUYlqFC6K2T3LkFb3QYVtoaYj0oKEVUbZAebsi0jQwD2gSxesXkn0Q3NCxkDlwYEosyH6EFn9yNgmOpFkyOMjq0C4uKEotAaEScJuqi4t92CJvdnrf_T9iybDyJlJBtPUCg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEsgvhLDzrJBWuUXs9HxG877oSoeWcc2vjRBzmISd4bWVQRV2LSuFxcBh8rZiLZ2_Cqn9mlq2MVLlTTL0aHaG7rOkn6bsth6VuR1e9vJ9JmKiFw7AZpMitHC6r4AW_AOQBu1HjG6pydviKf7J_03Xp_zsBOeCvn0W_SGBT4uEK3Q2GddBAFjAqorGlji366OzkThRqJHZZl4ewbWWEzb_OHWkNXp2FWg0ZTdAsWNKGJurPXBxu4L13ecbipWRcpQ_dxecE",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeTJC5vkhJUzpQmugxpLwPwQlSFweh2Ws3Rqyc_XvlM3Cxe0lby64hSRQCzG1042l1pM9ftQVg0cZnuNiheCvS-t7HYITx-LSMjWiOVNKZDF0cqB3FnwHxHNPYxCEgbrj4mqhqIrmpFX97cA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyOHe2LZM6PRjOCjQhFYIoOh78OKMMmmdA0TYdx6E9YvYitjK9zerYOCrftta8BkYUqUzOVqMieX6ztofDjOQXwTTd7j3pz-99P9QBd1U5IC49S5CFD9z_FZ6FazKqjh9t",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiQ046tnq6llrzoPyBXy1iR94l9Kx2ZjtuX8Yyn8l4p7_I_xR6gibIiV0qoYldKYdgrr2Mnh4YEu9jQsGvZc8V4y86wfPCdcWf-qz0hxJE56uAL-2ELBjX0KbfwpaEdsk3UB7tgl43ji2isz9cCKhpeapSiajKILZ6wA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHji9eQiJdIJZxqFWCkoMtcPKtUocjo22R51BjS51KLfZNBqOAych33INDy6Qu7EI_svRj_AmMpv4h2QVgSlbIr0bT25D_U61CiSyyraNt-c1piXs7gObX7iXGeQnBpUEdsuFwyhovDhZ3KXH_Byv4RYucf84Hzq5iVWGOG4ZCKDay3d9-QovDBgKT_QgZlbdEm_xtqk8ZIWcUbJCIcMJkVaDk3jL39SvHanOFjbulu459KUsRaKVHCzi40EN1rtql2i3Pxo3ChLEFOKxSQcP7pEB5zFpqEiScRo2YmGRKJ0SQKEUif",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx6NuHsInhVgg379QYP-SCMPap9HQB5Y1UCS-BYy-wN5HNILfosLMsg-b5q0U_y8BBK2SL1_3ZOSzwgJFAMu8r7vCl0xb02Li6IcPjbC43pudjhvNYyLMPLUg9rgd7156sm5KMfQWgKmsnHK7WqgMtc2JYmBCfSsRK5PqufA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFizdQjDopSMn26TfYUgIForjbteWdFTMWenSu554GLNNT6Gh7WmURkuQJ3AXqevf3Q5pyGjq4Dw_RKOya6m2pcb6alTICwSSmMziH4tlKOPvUJQ_I98c8g9Pky5kTaNiWrKj3h9NRFoai1QbNCbv7EmFode5x-K6LdUj3tufcjgBR8_g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNz4ls-Cr2Cx7cmxBMc9JGNteP9gehkFoSdGBpDIBr1v_E0tQt7CXLz2lO-mPBMLke6K0XdW-kDwMAh7Tlkktc0gQL5Udx3sWdwSJDdjUGbGS_X-GiqtE8vGblqU5Xct2miNNswKp3SZbo5i8ZfeTds45AqPdedwPPO3Wi0DQmrsdzbkmadKJ1-5QAALn9nJ1t0sZuQzWEm3UibC4Yuo5BgXkLqOHrb4vyFNC6Dt1oxfL5bsQijqUGOdB84gJmLeouoDrrcLt3Ed_5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxsN--q0w9boIcFklBXWVQyXcmSeCsLuNajfd5CrdOj3tteIAUMYYHpl6Ex23oZjMj4Vj3Y1M_LAQ-PRmsIsAH1PlK0ymOpbonEM8Zbsbh-DerfafIl_f53wx0P8GliHEiEc4bGMrmXT7f6apIXjcHLR_Fv29NeLsq0zCLWiHD_Q-cRvngSvpQC2E2qnIyJEKGZhgArJ1NbNjL2XWRAicX7PJ-U3m3ivoMZHsuxAhn2Tg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtRptC5JmXuR5tOGVAPUXbVzf_xWj87kIdsfejjzWk0FgqfnhH1JQ5P7Tb7veeSfyZnLec_t1R-QHl42kn7Phu--OxSEWBJlTNTx3k1yAtsT-mQ9DUKe8IDZEivbD_w9N1wR__xoU_gRT4gE4S10W8rsAll0CAf5v-RQ4KYpXgDv0btd17OQlYFMxwIrPZnSFngci7a8G1-U55Q7vABIdz6YDLcC3KDztf0Hc0U9RaCgmL5LxRInEVwwqbGnduq9a34YR62zY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYSebDq1t5DsNvshAUdHNCoe-lZeWesZs3IGqIX-1g7RxZUIQ5pXMcZj2fuXyNvS3JoHmsjeeUblB2_w4HdfF_Ime6hjNqYyf9XeGYrP9cd3KpN3vPCbYn9sBvGx3sZU2xcdYGX4s="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:37:39.958975+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "richa_ghosh",
+    "richa",
+    "ghosh",
+    "richa ghosh",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

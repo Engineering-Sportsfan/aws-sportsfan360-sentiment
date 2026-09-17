@@ -1,0 +1,124 @@
+{
+  "athlete_id": "pratika_rawal",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Pratika Rawal",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2000-09-01",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/4/49/Pratika_Rawal.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=KT9uasgqavU",
+    "bio": "Pratika Rawal is an Indian international cricketer who plays for the Indian women's national cricket team. She represents Railways in domestic cricket and was an integral part of the Indian team that won the 2025 Women's Cricket World Cup. Rawal made her Twenty20 debut for Delhi against Railways on April 21, 2022. She has also captained Delhi to the final of the 2024 Under-23 T20 Trophy.",
+    "birthplace": "Delhi, India",
+    "coachName": "Pradeep Rawal",
+    "yearsActiveSince": "2021"
+  },
+  "record_highlight": {
+    "event": "Most runs in first six ODI innings (all cricketers)",
+    "result": "444 runs",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2025-01-15",
+    "city": null,
+    "prevRecord": "392 runs",
+    "prevRecordPlace": null,
+    "prevHolder": "Tom Cooper",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Pratika Rawal set a new world record for the most runs scored by any cricketer, male or female, in their first six ODI innings, with 444 runs. This achievement surpasses the previous record held by Tom Cooper (392 runs) and highlights her exceptional start to her international career.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record (Most Runs)"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup Record (Most Runs)"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Outright T20 World Record (Most Runs)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        60,
+        50,
+        20,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsp8s-X9qWPtv90jQK0PG0r_2wqf5rqLUALzJLhtGvuvNc45fVyRfLLDHNB90Rt7GIhL3mPgNZMhK3AO-d5G8w2jjuSjodId3EWbdAl6T5GHYPGOCHww-UeiDwMJ27RckY7LTBPQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECHSaJIGBwmYMfzj6-5WIie4YOBjX8HYDpb95x9FTX_awE_uMwQWCAKbGMWOFgFZIwWz4eGzoNyLJZ71Bm0hXHPhmd3bMnFvn6ja3BdS6imPCVGix0zTISoQS6FuCgqet_jTzpHJGJCiRx6Y09Q6aPpq0pg_sti6k42AZB12TcORnSosNLlHJJcQ03_xbdE_cGjjqqYsIqOrMPLx_peP7EDjId2t_AE2E7ZhRMdgwINnhsioQXpTRmQn8R04CVboguwcpyqerQI-d1OtwSNiOe3u29D5PHihHuhGrvRKLpuFnX4EtQSEH5C8Gyj_8ZDVA="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:54:47.836871+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 574,
+      "ballsFaced": null,
+      "battingAverage": 24.95,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 6,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "pratika",
+    "pratika rawal",
+    "rawal"
+  ]
+}

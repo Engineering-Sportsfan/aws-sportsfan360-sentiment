@@ -1,0 +1,379 @@
+{
+  "athlete_id": "gulveer_singh",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Gulveer Singh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1998-06-01",
+    "heightCm": 175,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/15023839.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=ZQm6a4vKlS4",
+    "bio": "Gulveer Singh is an Indian long-distance runner who serves as a Naib Subedar in the Indian Army. Born in Sirsa village, Uttar Pradesh, he has risen to become one of India's top athletes in long-distance running. He is a multiple national record holder across various long-distance events, including the 3000m, 5000m, 10000m, and half marathon. Singh achieved a historic double gold in the 5000m and 10000m at the 2025 Asian Athletics Championships.",
+    "birthplace": "Sirsa village, Aligarh, Uttar Pradesh, India",
+    "coachName": "Ajith Markose",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "10,000m",
+    "result": "27:00.22s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2025-03-29",
+    "city": "San Juan Capistrano",
+    "prevRecord": "27:14.88s",
+    "prevRecordPlace": "Hachioji, Japan",
+    "prevHolder": "Gulveer Singh",
+    "improvement": "-14.66s",
+    "improvementDate": "2025-03-29",
+    "aiInsight": "Gulveer Singh's 10,000m national record of 27:00.22s, set in March 2025, significantly improved his previous best by over 14 seconds. This performance places him among the top Asian runners and demonstrates his consistent progress in long-distance events. He narrowly missed the World Athletics Championships 2025 qualification standard by just 0.22 seconds.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 1734.29
+      },
+      {
+        "year": "2023",
+        "value": 1697.21
+      },
+      {
+        "year": "2024",
+        "value": 1661.81
+      },
+      {
+        "year": "2025",
+        "value": 1634.88
+      },
+      {
+        "year": "2025",
+        "value": 1620.22
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "27:00.22",
+        "holder": "Gulveer Singh",
+        "date": "Mar 29, 2025",
+        "venue": "San Juan Capistrano",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "26:43.14",
+        "holder": "Joshua Cheptegei",
+        "date": "2024",
+        "venue": "Paris",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "26:11.00",
+        "holder": "Joshua Cheptegei",
+        "date": "Oct 7, 2020",
+        "venue": "Valencia, Spain",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "27:00.22s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "10,000m Race",
+    "achievementLabel": "2025 Asian Champion (5000m & 10000m)",
+    "stats": {
+      "worldRank": "#13",
+      "personalBest": "27:00.22s",
+      "bestYear": "2025",
+      "totalGold": 2,
+      "totalSilver": 1,
+      "totalBronze": 3,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "10000m",
+        "value": 1734.29,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "10000m",
+        "value": 1697.21,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "10000m",
+        "value": 1661.81,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "10000m",
+        "value": 1620.22,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2026",
+        "event": "10000m",
+        "value": 1695.38,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 1697.21,
+        "seasonAverage": 1697.21,
+        "currentStreak": 1
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 828.33,
+        "seasonAverage": 828.33,
+        "currentStreak": 1
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 779.77,
+        "seasonAverage": 791.80,
+        "currentStreak": 2
+      },
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "seasonBest": 783.93,
+        "seasonAverage": 804.87,
+        "currentStreak": 2
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Endurance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Pace Judgment",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Race Tactics",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "27:00s-27:30s",
+        "count": 2,
+        "throws": null,
+        "percentage": 33.3,
+        "peak": true
+      },
+      {
+        "range": "27:30s-28:00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.7,
+        "peak": false
+      },
+      {
+        "range": "28:00s-28:30s",
+        "count": 2,
+        "throws": null,
+        "percentage": 33.3,
+        "peak": true
+      },
+      {
+        "range": "28:30s-29:00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 16.7,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Gulveer Singh consistently performs at a high level, with multiple national records and a strong presence in the 27:00-27:30s and 28:00-28:30s range for 10,000m.",
+    "peakZoneLabel": "27:00-27:30s \u00b7 33.3% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "26:43.14",
+          "holder": "Joshua Cheptegei",
+          "date": "2024",
+          "venue": "Paris"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "26:11.00",
+          "holder": "Joshua Cheptegei",
+          "date": "Oct 7, 2020",
+          "venue": "Valencia, Spain"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "27:00.22",
+          "holder": "Gulveer Singh",
+          "date": "Mar 29, 2025",
+          "venue": "San Juan Capistrano"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyNM2ywf7pMXMg6sgyTIhyTJ3uU6nXVue5VPCyg4UQnxAgXDuSD8JcCZ2njkPYpGpY6ExNuGxmHAkyuP5t2l7yQw7atzWbXUBeQJmvJUnJ93YSnRBx6jTtfI_DO-YZ4148r5VW9ksRbCW6gQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP9SIjhIu4RrB47tn-NO89ocxYvrYX4DYz2QRJGob8XxZ9u33oCnwCsPz0zTfSeTopRZ24QlsdywIjU1yWEmutPXzPxmKNShhTU9YeZ_WOGKUA-CQ05se1D75GvvPRLWj2Nbqp2Be05DGIOZj7PgWGOoryP1bNC5hVce4fCMCeNXvm8VkSPhJYLevAvQoBonSGhPY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdWRfJIqQvucWJPCbZW2JB6SK_QuQli6Zv97bKKHIY89nuQb4n2Q2ZBGxnGSR2st4yrn1lAXM5_Bk132GlzqJkxh8BXWUK9qcV16OmOtNygIlBmopTEO4v6hWGKS9NDCZoHwn3JEA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH1SoZujceL0WWYI_OTJAVu_CCo7d-W3nEot4FvS8PKKv9R2F5S9LlqQVPOsUjtAEMltrvNQ3rupbWXav2HPb0hKSHqeikmwzJpoLSuvGH-8rGjHMPDdltlDiqLVOV9QlABuKG1psz2n4z",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjsjP6zmaC8CnJRRQHtsA4sjSu1MtXwRWuSJrqFDC04k3p0oOOpjMrSc1m1i-ykW9aEnkWT6g883hdsiQ3Orcu87lO8xMad2HoFImCWuEaaea37oMFukzz0C6ZOQg760gFLgopgM6gX3yqQiSlb5wThUcOfJMPw1zI1GraSJyGrb9RGEAexyjo7pzx5i5E1roG-frNIdvqMt_WriiHzvkgjU0efl0TltpATJeCAi_rNTeFK-0PRe9-iMD7m01mgI-buVvQceIp_VMwQgsc3ZmhgqUvucrdFsYeyJdM_TWOi-AslcKk-h3nLVNyBxi2N_2qCjF4CXNST68=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlWJxHjppp19EO_1pM0arXA6_v-2N4OFhwA7YqDu7TnqPOd5-hIc-44ns-z4fr8j4hzHLuSpH_lcWFFHBDz5x3nQmFTdkWAIe5iKjYKj1-vlW9L_aaLVWIWCv9gW_M00K5r1OhSwG5FHO7ZBy9OTHTIFjotME7uu86XPSVjJ26Ixhn3TthxjoNS5sRH0pTJDwPC6Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiArCqXsGqJGmuporJkRdahRgh_D65BPvckZbK_9L_bmoxc1l3fSm4ALz3SHXVy9LGyDKMIZjR0MMruPb87Hgj31pQ50S6GAbFfRwebehQhjniboIzhmuC9kHblwq71vO5BYlE8Ew=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbcwxKNp2Khj0GbREX5S5zBy5oCZN8isjB0jOfUhBcSxeWBZ0xsw7ypkiXoWn7sxrzxC0Kuy-t4d3-RFiD6o6fPA4j8zAMBgOdf6lXOAWdiN2TKIkutNMyy8pOFgkQ7-Qoe3QBBhIjOSDqkA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU5jFrDzK66JkhIBZTsp-9ZV0t7gvsbgRPww-eyTu2z8qJwpcegYqHQGp64f3TapafWR9ISeyk4HtmvS0-xbkcrSFYtcfK3v_kKCgnBZ4CWaXuYtRaBj79ecMZKZAVPIrLI-a-dwxugqyY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZS8bk9CYOKLMSyUqYdTjGWn-8MuQTwXLzlWTXkxdMpv35jVDD4f8Ti484LGTeKDkOxT8sfDEz5aUkWEj79Nw60XTADaRCykxvxSXFb8DN9tZSDu9lYRSktkX4WzwhxU4zMIYhwd7Knl-0vX5xNQ9rEU82wWpA79V4GUncuA_g_1mmE6n2d1HhKWQ48FRO1jcNYjs4MU8q2uJD7b71s03NDu5DFA9cgDE31QqiCdAPEhGKyAQgbIbCE8bDD6K2MPweV4-nM1n5VH1ACoO8SvWcMSyzpxjf5Zg43CC4MZImMmZubTpyv3Gfmy1fRWecDzemi9lAq2FvCBg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9RCPR92aa9bpXFrCrOz4g3xpkDZLY73SsRUxtaezMxGMx18SdADhn0eaVUt9x2OBImBE5zy8H_69Jv5b4nsMSI81AGsBMjfp7HfNLO8vcvkhbOeOvW80iPmmZlmu-CUeGTsyScbt6ZXDtVBgMFi0lYGpyCym5b3POVetjaUv-30P1Mj2ZVdG9S4-E0o6Q3VL5CzUXnYm1S8ixSs0sHEDEshKa23OlMHEglsfDXjp0XrK8kuuUzj3CgUhSKMqzd-O6xB_hljy5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvZWN8KRh7r-OP0BEoGsgdrTLBBcHuhnory5SwMCu_PpGE9H4SDGpQMiDoai0YI0mTRYpeSmQzIKPRAFHqXcg0-fKVpP34HMt5GclrYN5HrrX-cFRjkvLMQ5EONIhPKp5qqTDT2Fo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD96Jn2_vq2VgUxxQQrsmi7q2CimsL2SC435lKwL1s_7xlBPtIPhtZ-S76ccJrScpd8YcHYfLY-_Mb2ppIT7sZuY2dKDKlbUbCtibmOc_nme9oV3kBIe9RxhhsnJcWg1qU6BwZ0vEm02eLfuS7vLD3VX0lr8uwEXsU3LCZxlVl9Bd8NCIWdCdBX85ZZk3bUV8LIak=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgs-cXiBf11gxKkUytaJyVW9OXLpbYsP_4m5HfJhsNpRB3x-d5rcORw6GndeTQIVPG3JjYCjGNTGON76v0AoDwuZNF4mM9Qa-4rUkrgdQqu8W7JN5AG27nZdKDdY-BSGGnytlK5fr9EAK2lvWxAZR5hIzgFoIv5JKdX20CidPvYRmDsySxcfNjx2-6f2xPZw_NiQPgJ7Cdp1wi_VQERanBQs0Ce9o4FipKoYgOO-A3qA8G0NY8LqZp_zShWvIicQIjFpNEXQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi3cNSwEJQ26oVvJtWC5phetMgxAvnPXM20Ha7kx9CJjaejYSlwPQyuTQSjHOCV_-vhZj7atWTsfN1lB1BXYc7GkDuyxFcKqaOjEJxCToYY6rjAg6qTJ3kHapOZnF1AvJN95yn4KWJvNP-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbqSm4Lw26tAsWBSNuLEfFqbLFjTa3nUrSDDlbFaxIluaMX9rCDHrlfKMNdfamfF6_F5Si3Vss2k3Ab52R8nppxXEyrxdBAsEAE_UeBm3B09EPehsR8xS6lFczShmE4nBnSTO3Gp442gZLJEQeMcfDv3o3nUw7P4LZ1p0cw4k-zPw_0LIllJZqkgIxQZd9-AbgNokYjJElqLzq9P7XDDMbLc3elCa9fkA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHODq3GcESs_OWN3Qws-DnYvR9WmOniSViZwjR1NqIxStTDeHRE_vUyxrvw0xfTQ1qox00phJTFm_2347PXU8wC6HzYaHxbLdHKB1Y3-NkXHbLHbw13peIN5t7Ll3pk2jmmVQuUGte0DeT6_FCRjrtLqWMi8rkgScn7ZDDgIniyg1Z8OQpYNbQLwhJBhBMVYqfsbvAWSDyeXhaNbgPrTvKispNGyg35C4piG4QjzgV8Psd1cZiQhaQzkliP1z8MmeRtXJoGB20XkdbZhTomgTLU38D1zFA0qJpAnY2vviwJTNTesvvehGemDcLtYp219DpjYZ0U9gxMZ_s="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T10:15:06.469980+00:00"
+  },
+  "performance": {
+    "primaryEvent": "10000m",
+    "category": "Long Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "10,000m",
+        "medal": "GOLD",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "5,000m",
+        "medal": "GOLD",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "10,000m",
+        "medal": "SILVER",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "5,000m",
+        "medal": "BRONZE",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "10,000m",
+        "medal": "BRONZE",
+        "category": "Asian Games"
+      },
+      {
+        "event": "5,000m",
+        "medal": "BRONZE",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "Half Marathon",
+        "medal": "BRONZE",
+        "category": "New York City Half Marathon"
+      }
+    ],
+    "stats": {
+      "personalBest": "27:00.22s",
+      "seasonBest": "28:15.38s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        1590.0,
+        1710.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

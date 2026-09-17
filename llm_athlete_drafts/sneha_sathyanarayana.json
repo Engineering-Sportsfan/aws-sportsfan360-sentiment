@@ -1,0 +1,219 @@
+{
+  "athlete_id": "sneha_sathyanarayana",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Sneha Sathyanarayana",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1998-03-27",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/YsTmH4-5WMg?si=YLmI6TPBSLyTWJ-3",
+    "bio": "Sneha Sathyanarayana is an Indian athlete specializing in sprint events, particularly the 100m and 4x100m relay. She has achieved a personal best of 11.41s in the 100m and 43.85s in the 4x100m relay. She has represented India in various national and international competitions.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "4x100m Relay",
+    "result": "43.85s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-06-21",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Sneha Sathyanarayana's personal best of 43.85s in the 4x100m relay demonstrates her significant contribution to the Indian relay team. This performance highlights her speed and teamwork, crucial for success in this event.",
+    "progressData": [
+      {
+        "year": "2023",
+        "value": 11.42
+      },
+      {
+        "year": "2024",
+        "value": 11.41
+      },
+      {
+        "year": "2026",
+        "value": 43.85
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "10.23s",
+        "holder": "Manikanta Hoblidhar",
+        "date": "2023-10-15",
+        "venue": "Bengaluru",
+        "tournament": "National Open"
+      },
+      {
+        "label": "Olympic",
+        "value": "40.82s",
+        "holder": "USA",
+        "date": "2012-08-10",
+        "venue": "Olympic Stadium, London",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "40.82s",
+        "holder": "USA",
+        "date": "2012-08-10",
+        "venue": "Olympic Stadium, London",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "43.85s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "4x100m Relay",
+    "achievementLabel": null,
+    "stats": {
+      "worldRank": "411",
+      "personalBest": "11.41s",
+      "bestYear": "2024",
+      "totalGold": 0,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "event": "100 Metres",
+        "value": 11.42,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "100 Metres",
+        "value": 11.41,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2026",
+        "event": "4x100 Metres Relay",
+        "value": 43.85,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "medalData": [],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 70.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "43.9\u201344.4s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "44.4\u201344.9s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "44.9\u201345.4s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Sneha Sathyanarayana has shown consistent performance in the 100m event, with her personal best improving over the years.",
+    "peakZoneLabel": "43.9\u201344.4s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnY4FfitdYi1rhWS6AWktpW8uli-AMRphbO0o1uDwqcHymaP9W-kiMH_rHONpWdu7hQdsN92miQLe9znZHqvzsIpKCwbMCLq3nOzm8bQX2DLQviKbI65e2OrPsbfCvvkPKgNHL-CwruApPvXXkH7mi-HjzW7_v"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:06:10.768307+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x100m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "43.85s",
+      "seasonBest": "43.85s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        43.0,
+        45.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

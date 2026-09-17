@@ -1,0 +1,102 @@
+{
+  "playerId": "arshdeep_singh",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "arshdeep_singh",
+    "name": "Arshdeep Singh",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Left-arm medium-fast",
+    "dateOfBirth": "1999-02-05",
+    "birthPlace": "Guna, Madhya Pradesh, India",
+    "heightCm": 191,
+    "jerseyNo": null,
+    "debutDate": "2022-07-07",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/36/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Arshdeep_Singh_Family_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Arshdeep Singh is an Indian left-arm medium-fast bowler who made his T20I debut for India on July 7, 2022, against England. Known for his accurate yorkers and ability to perform under pressure, he quickly established himself as a key death-overs specialist. Singh was an integral part of India's T20 World Cup victories in 2024 and 2026, and in September 2025, he became the first Indian bowler to take 100 wickets in T20 Internationals. He achieved his maiden T20I five-wicket haul (5/51) against New Zealand in early 2026.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "First Indian Bowler to Take 100 T20I Wickets",
+    "result": "100 wickets",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Oman",
+    "venue": null,
+    "date": "2025-09-20",
+    "aiInsight": "Arshdeep Singh's achievement of being the first Indian bowler to reach 100 T20I wickets highlights his rapid rise and consistent performance in the shortest format. This milestone, achieved in just 64 matches, underscores his importance as a key death-overs specialist for India.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 91,
+      "innings": 89,
+      "runs": 89,
+      "average": 5.93,
+      "strikeRate": 99.04,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "12",
+      "ballsFaced": 104,
+      "fours": 9,
+      "sixes": 3,
+      "dismissals": 16,
+      "ducks": 0
+    },
+    "bowlingStats": {
+      "matches": 91,
+      "innings": 89,
+      "wickets": 135,
+      "average": 20.0,
+      "economy": 8.0,
+      "strikeRate": 14.0,
+      "bestBowling": "5/51",
+      "oversBowled": 317.1,
+      "ballsBowled": 1903,
+      "runsConceded": 2715,
+      "fourWicketHauls": 2,
+      "fiveWicketHauls": 1,
+      "maidens": 4
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1vYulMNN0KyVCgmzaA1XecGV-Nbp59oCJhLWfBtX6lJu65IaLUPUBROeTDKzJw9hQXkVeGA-hq3gdeM2MIVhshUOAMtOklzpjML5TCCg95p7G5E4fw8LyoCTMRCoFF_pjSDCcivt5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBcrrK9WqLk-110btd540a7GyIA2wYD3_-yfkhpTRCplMp2hGl7s4vx1bJawjMx5C4Ly9L1yJbJIkeXCI63auOt_r_QcfZ6qU2L1gq1TBZmRwJE_e92zUUk2EGIYTIf8x1rEhpdyprUVH1uQ2nerPRDUQVqA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO9clQUQdtn-Kn9V_Of4FE2ri9QxxkpWnFH-1Zu3B8Ey7C-WC8bomcHb7wQF8u-jHTqBlJDkGQZ8SKATYmyj0Tlb0dod-xbsNQUNVQPu_bleXXgnMqEkokLbHW0eR60Go=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECIg8Ae03LrVhI4xzZPPEAWkuAG6K8Tb4AFgYYvhKOmDSj8fRFBYcbl8QA6ay175_xlJf1_3kruEbGLSmgrH696BnHJfYRXxSTgC0cE9MWEdfxMP53vQnN_e89W2fv6tK3H279lQ_fCMDwuU5KEw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrDbNS8Oxp6XjHNVa4rfJbv-S6BlGDQIVUt7uNhzgAOgJv7nM37t-nfYcwWfDOtH3HS2iUSCvyofCsAVJei66-roIsGvPQtbuOBBr_cC0e6NvaLUAV_cMN8DeJ5K9ZT2k=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErC22aRSJlsxWEmn1zSyrMaM83XBeehv4IJGaAa-ekKYGV-5POg2Oh1Il7OgEKptTzVpKtsfhsG_QymhrU_QfIPtXwivgH-Ecq_uzxHRgJUhysm6ThSCIAZ9pSWtU042VGb_fNd1PfMbDe0yJO3TJQsWZqJolkXxE0cTTUzBP6Vs4Pf-VAJLmx5LVC4E028FCsR4dKZu7c2xe1NBIkd4jyTSmhDX6O5ZbETaXboB0-0ooqsulpxukoTf7jxsOI_Pz0QqqWnsGnSkfhG0POCuG_pTANkN48cUEYBXrL2GUlc8BU0JlhLs-F",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI6uM_qNkhpPWgCItpc-oyXl1ygoc1VcPj19xdx4J4jNJtOqxoMuhYhPH6so9fI4kdX7CTz8IrUEWqmZbuDPlWJOp-K0PP7eHVSLLkSu4e4xIqmvGBnmnjwTcoX26Rv5uSyGSl3JY5DpU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBmBNFoosJ0mSLmkDeCFhTkbglKtGMzjroxgr3sglr9J-E73CTN6qRcaCxImB-1oft4FVWJc53l7PzysoAUEilIVMtVt_tnz13Bcgq7u7sdFsV8EJr7Py0wYzl5-uayK74DFjEHlUdGPghWNK7YN-LzytU4xdGYQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRhUhQvcYv16JXdXnVbuRSR6MJTEKc9luQgiBqNG0pz-HpA1nwbRjnMxeqoh8VFX05LjWaP55lDOqRtqZ7OAjrYEroqtPSGei48gDVGi0PUgQHXEEfd9OMFZxvFfAQf2Y-ZI06VaVEa9IUMoaDEPLbw74FQA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3WziAxYyTz_pvLvdGAr3-RH2_BVC73GMtcnd0qe9iOGOB3TSpkPK4a1_SoBLxWF6CJQJ-K_ZXgLyrSU7HfbAQos6AGKG51KfUVReMm_-t8nw4ECY845Um10n2QDTG_QBTiK9D",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO38Rhfw5HEt-TpG-KSbi5EfYQSokrIvr5bVm6FKjGV-Kuf9Ir1Wyjllre0O6v7OS7XIFrd1KNePqWQW20K84vQI_pD-HFjmYaa2JSjqPdHL2xwyuGGtxNpJ3spqZuIMHD0hNYX8s=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVQcNeGv07G0l7RlBdhkdx5gSTZcPU49-9YoG3FT5nmWa5H_H2omiI_TmtDbHRjIiRjFsPq8Zk7KrXnthf8sE1xAVm-DXvX-XxwrRjnSuE5Rt3fY4hjoGhSxL5Iig-H1A8jf5d-2Jpln7FiVtUa1FkQrZnUM9W-2d5m-WChIXzTIbRtJLZEJaPuQs4wKsV1ksL86Eah2hoEGxv32uJ4SjSICMHP4YrQTCVb9Mbxbu8DTY9M5ZOVXLG0iWU_Kg6oHFmcIW75g_RGZtHfTHdo8fRWu14Y1y8gakFMVy65J9BF8z6uqc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEburOw536qO2KzskrpzTHVu5FB0qtj5BZL_PWN1MlXpR64ymH85VEakc9GzAG-mwPJaGAS2sLQQunVdlMitAf66xQdwF6s8HtbdN6eeIM7cxPgmhAL-e_vlBBXKYOaktzKNBeNwkHSixlp4vD5B34z4ShYGSlUsp-fW1pNcvQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcQ07KuZDw1-I8Y1LRxdJuqWZSbKFde8eJ0wixwbKbRzADiyU8URGkX7Xz2zUfenKujMW5JVOnbEVQeZXuVfTpypkeGNEIAijB9piPoBHtJWJHbeleXKT1CxG-GxxrIhHqUIAOD4Ow",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB85MDpHX9kPidOaOq4Nq9wPUW8N9jEXO_FM1c7Ok-hk7iwqSSonKtZVqFgByAOyf48NoWtA5PQhobsfwq-Ea-lhXaHloXUOyK7hbDQK0dHwhRefo2uqhfLk741WQWY0HDkrFBRCNLPPq2Da9X41KYYKUGtgWPBW-GUdpNq43HfoA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB02JLwoS5amfzFJm2Nk0OzGYie1JbnI5FoPH0ELz4c_uREdAtEDdo9UPJv4HB9TmtALLw77gDDZiZPZHAos4YF8XyIcjdKd0UELt6zNIWbPmfQhDIqL4Bv3Lgsmrejfpy6bbCATkvY6XJDi7zO3tUg2JkCJhO8fngypiM1bvNjve4GS5MbGmGH4ZuZjcpdv5E_3BhBHSkaaTilYXlDCEKBoXvC24IUqKtYXsmjNrFBX951bDSTq6y_k3MoHwyifLKHz9bT704u_rMKRPZFC39CBdEcVuo2zXyg5M="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:36:45.917258+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "arshdeep_singh",
+    "arshdeep",
+    "singh",
+    "arshdeep singh",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

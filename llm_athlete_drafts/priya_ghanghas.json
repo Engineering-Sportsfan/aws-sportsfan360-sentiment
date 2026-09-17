@@ -1,0 +1,244 @@
+{
+  "athlete_id": "priya_ghanghas",
+  "sportId": "boxing",
+  "coreInfo": {
+    "name": "Priya Ghanghas",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2005-10-03",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://boxrec.com/wiki/thumb.php?f=945467.jpg&width=375",
+    "welcomeVideoUrl": "https://youtu.be/v36G_i9Fnr4?si=60K8oC3mNg8XsZpr",
+    "bio": "Priya Ghanghas is an Indian boxer from Dhanana village in the Bhiwani district of Haryana. She began her boxing journey in 2015 at the age of 11, initially training under Ravi Sangwan. In 2022, she joined the Sports Authority of India Centre at Bhiwani, where she trains under coach Mahavir Singh. She primarily competes in the 60 kg weight category and has achieved significant international success in recent years.",
+    "birthplace": "Bhiwani district, Haryana, India",
+    "coachName": "Mahavir Singh",
+    "yearsActiveSince": "2015"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2023",
+      "value": 80.0
+    },
+    {
+      "year": "2025",
+      "value": 77.8
+    },
+    {
+      "year": "2026",
+      "value": 91.7
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "Gold (57kg), Silver (57kg)",
+        "holder": "Priya Ghanghas",
+        "date": "2023, 2025",
+        "venue": "Bhopal, Noida",
+        "tournament": "Youth Women's National Boxing Championship, Elite Women's National Boxing Championship"
+      },
+      {
+        "label": "Olympic",
+        "value": "Most decorated Indian female Olympic boxer",
+        "holder": "Mary Kom",
+        "date": null,
+        "venue": null,
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "6 World Championship titles",
+        "holder": "Mary Kom",
+        "date": null,
+        "venue": null,
+        "tournament": "AIBA Women's World Boxing Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2023",
+        "2025",
+        "2026"
+      ],
+      "wins": [
+        3,
+        2,
+        14
+      ],
+      "losses": [
+        0,
+        2,
+        0
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Power",
+        "Defense",
+        "Footwork",
+        "Ring IQ"
+      ],
+      "values": [
+        80,
+        75,
+        70,
+        85
+      ]
+    },
+    "coachImpactData": {
+      "note": "Her growth was rapid after joining the SAI Boxing Academy in Bhiwani under coach Mahavir Singh in 2022, leading to a gold medal at the 2023 Youth Women's National Boxing Championship."
+    },
+    "consistencyData": {
+      "note": "Priya Ghanghas has shown a rapid rise with consistent medal wins in 2025 and 2026, culminating in two major gold medals in 2026."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2023",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "6th Youth Women's National Boxing Championship",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Thailand Open",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0,
+        "tournament": "Asian U-22 Boxing Championships",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 4,
+        "gold": 4,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Commonwealth Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvwuOm3v8N98Faco5DFQWMbNm8aXngu6o_tur_XTfPM-Axw-5EYWxusx4_jPiR3V5evza1Fp7YvU8ViiZqNhjuu3C8_inlsIYeKjOEZxMrx3ixl1l78Qv6-2dLE-FAhCoSnlFrAo2e",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5S2mTg_TzAoKfq8luV2e37RwVbvbYs5i0KuERh5aVzr2McwI7vlqpMszpr9hJSFEkWsaw1ObKgDUVMl8iPiJ6M3zHpe2JDk2zPeGcaHkkKVbrbjFNCTcHkn5DInw6HHYpCPk43E5qvw7cnLSs25X9jDcE5K8YzKlvZbnP3CULbC8b271LfpQ3d-5lItO0LPe7wSjWaJzi8zOXE3k__XlDCzL42KJxRWAuKldTxbf80jVZUA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh3BdUL3vr8O55MScNT1gITK5DMANX-PYPERiWqN2H8XLReSfanlYC3Mt5eLlVCz1FEcRrWZ90ggKf5_nd_9KyEzAyTGBwMnqoxej_nfcrR0R-1vsQQo4YywpiTiJ4Z6sRx4MoS6m-vfTs827_XBvTCh5GYNywkTZnv34zOHcDhadFcsM60r1jNmDCH_oh0VBjU8QMYq17DeK-3bytKXXmRHviiXhDzdOyrXfWap4iPK1-zOLKrL2_EKvCPpTbu88lBB5yHmIBPrDw",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZz837BWkjHaEGHc4_2l1Q2cmHbbCZLjPiRv-hYnxMGU8k4VNKwP5xHeuOXIK3CXzE8ru83NePo2Pctxqdky0GDkdTF0PG7LX9i73C2M4ve7Aj1oAtiEmHwMYUAp6Im0h9CC48SWuwOrIpQ3OFWQa4DlKxvuxlwU_1EXrtVHXkLu_p-wmNI4a_IrHc8xHVZIFIpBWOEb--5eaJ2a8sN6uH5xbR69ajB7cUDzYOZYPKMQg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGITGYDbdzJDfIr68OqTHoLJEy4Zuk_KxqsO4QwjQu80XBuLoPP4kPCvWcaorbfX72IeEfLgdzJx7wA4vAyUII2mLASB3cKLre3fIWcrGkpE0_BUBefTHlaq1DQu3Vin6EPpdvC5Uy1Su5rkLRAR9p_Kiojzw9x_vnF3_uNuMa2ACsaV_4g-8BBq9oaArJ6G2VTkmDHDHw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuT_r9EcDBSiJyBGBEaoPqr8pBb1h-e8izMGLsEvfRUbKSOF2nDrr0pmLA6B14q-EN2DC9G92GTUXwTrrooWfyA5Ajk0t6EAXzNF3Fq4W1Q0rUUE47uzPtmIr0nTMNHJ1Pz8600QodM1vjA3F0l8QsSmVcXKytHZJeJu3DYA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA6mHds0dMK2awxtWZwa2hMOthcj161oidbsGj18gnj6Ev-KjImRwIVAGrsJgc2BOmcxsR8QxS3dAHKT_bYpIeBy57D8mTytYf4kqgdjDuzdEXZKlzELmB4qfF7Pl8q7EWZZ2rcmq5QDEB8b0k3oMsresyUFHuHOZd2S7LGYg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkQKs1R6lG_i7A_EpAnXfbxyo6h4m1xoq8X19QiIvxgozddF2cdFtGIMJtm9xs-RXznIKy90yxWZ6al24ZbMeWYrlpHrgx01ZQ9QBdQrAwO6IvI1U_wWbKhRJ1urDdqrH-OuCpB-jW",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJFV5DzCi0Z2q-PO9OqmtM90fRjqLZEzFQVW9OPdPGhAju3lD83G7gEiiPuPJMQBxq29YMJ1ANjAVEUxJ3rP2CNXk4kKgiSpC6RzuxQnRfRixhQbaLuDzhN3ZoUh6aJSzbohaAeH9oFV0_Y2Kexib17tWfmITlZ-DimI_L3ed1r4JXW0kgNKI1-6rLcr3lmY4IyUjpMfxsf3BCEEpoBdJ9RQYDOV608r1uUCaRdYeX_TR4jg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_lMfUSrf5UKsA_hJWBBo1YrMCmTuzD-mLYEobj-IntY5anQYkbEY14yDGAHvmJ9k_DCCWU0nux1yf85ylVKf5LTwpp7Dp6jkdf0vf1bvezKa3y7mIRGGZVyKYHAXkvfBoCYXLZhd36UfrmsB5zK8EXkfqwibr2HdrKPXdgjRgf2xfe8_IHqgE5eZC2ORhu0b8-92i2GcrgjO_o1sACY5JWqwi5wxjJdBrwu1BfJm0XuXcySMeJWBqt_PIrNHR2mufLT1rWC69J8U-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQWSUAvfe1xA_hrFYtjYbI5Di7OC0MxH4641eAPAXdXoE7LncqktYH4zgaVQ7KvCzWbG1CpAVhGBiZRgCAkSBl2igwxFb5MWeSOZzfbdXq-jJ-tIcbuQcKg05XfpAQMkE8tVZ0ygTFwU6PNBFPclCky55QcU9fzgQHE_DGpUlcflT8l6vcM00Eq6o2_N2nAPeeuJJgjC4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG23qlS3thEh5gYatklgU-L75evl6vPFvjQZuV-n4vCRqtXBEQrsK-dfBiLURc80_TEvk3M8EABX9XQ9RaY5fsUyjdH68nkaQOtp0S2uTcnXYtz17PvzCzSiPDbT2-F6vIMBnQ9uXfmn4awOQyvV3IEmX_REEGFF43ksdx1jQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ2Q_iqeyZkO06ZWWhKg2OQ7MiIZ0CEm3j3Kab5zTaiVk4cZPDl_DFqqTwutU0u_bZgvLolTzCrU28ejVMio9yXgNhK1EdPxinGgjsIlZIlZmx9tQvbUFzGig3u5Gpd7y4mHf0NOoZyXWaQkHnxFlhmCYYTcIpLXdonuXOgsu5MgBboyZYQpDQOtm8-yZXEvMhGBj_TYMp5HuR36Q61H8kGyV2wlRB6JwOFFqv_2Omq1Y=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPj8x0zmxKu5K6ZWB0LqEEXj8upMHx_m-L4dZWDjP7_QDYpxXz5fDkjSKOK3YDtTwjfYRCCP7GYev1Z9psR4-cfzyzUWfWmJl79rDsLhYeA9sBS2u10BPfIKnesuIMxhgtwChDAbBG",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz8n9eKEboqRxiYdh-6i1hUyVjRcJ5K2DlhhOKDGeAB3-SAIXYnzT01lQLT8U8RrMgxUoDGd_pTF8XG2-ZdrWEAqKY5WftN4EzCvN8oJrItk6G56thXbR0OvVq_8FyF3WUaaiMPuefokpuaKD8J0C_TwMVsJ3UxQs9bkUBLeA_sCYVvQhbtgvXKMs7A7QbVjBTWY_euRM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxzRIR9axAgXr97TUHV3bfykY8myZKa3i83Mr3ZetTK8yDnJ6MKTLJFYZySXPjyqHx78YHYjSCIPXtTnChOwlFBYB0tWkavVCGIfxj02orG43LcLoi7C0-XPuAtozIfDhHA-j4sJe8IUP-JxAaXGg4UsdC7PXsfFS0KmP3GA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBdftu9adXMpEXS7rdTYnFeL5XWMxct9nBjFczkBRACPVVXQjtJk_ef2_vgMudES_-xSiRgDUEtszwxqzlKuXfmZ8vsAybu0TU2OfCEcVJMwGTMWVLDkFBiS_lk8elJUPwtwmUNSS0Ppyq2U_FpRNHSbkMIicf5oVZMeyb8nk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU__ASadfduBEHfsGfYdCPfT0J5fydDdLIDdRRoxXCeMtAuJFBe0DYNCZ36wGKBMigwACuz1aVa9y35_Iq7JEbWWTpUpzBPZw5sMcuSiIMt-cbRv-DUMzsjq5Xbej8kOoHRX4tuOflRzdtZWbNQd3FEbGf8w95ZioSTkGkHobeSJzr0sFt4A5qV-KfMcSkMyCraHQe0Wva5N6Fk_o-Va71ZLh03YPNspVDTUQD8kvVerDF6A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP3OE-zCDDgu1YA4pQWAJft2VlFSkAPsjRkg8BHOt423lA2oyXqB0Hn4F80tNaVob-d_-iNFATcb-QaC1iuyxkacxZ4P_sqFnZtCQx90FRQ38XD8vFKErFWnp8nKX9Nqm6bonJJpD9EvDkthu1Mp10kIEUscPTshXNRUEIJbUyeb9uk4l2cHr7vc-pehSMuWyWaigdUD8XUXRJLfwhoESLKHhhPrYwKq_ScfgaPKH4_0Q="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-10T06:59:45.348414+00:00"
+  },
+  "performance": {
+    "weightClass": "60kg",
+    "stance": null,
+    "reachCm": null,
+    "heightAdvantageNote": null,
+    "tournament": "amateur",
+    "titles": [
+      "2026 Commonwealth Games Gold (60kg)",
+      "2026 Asian Boxing Elite Championships Gold (60kg)",
+      "2026 Boxam Invitational Tournament Gold",
+      "2025 Asian U-22 Boxing Championships Silver (60kg)",
+      "2025 8th Elite Women's National Boxing Championship Silver (57kg)",
+      "2025 Thailand Open Bronze",
+      "2023 Youth Women's National Boxing Championship Gold (57kg)",
+      "2023 U19 Asian Championships Bronze"
+    ],
+    "recordStats": {
+      "wins": 19,
+      "losses": 2,
+      "draws": 0,
+      "knockouts": 2,
+      "noContests": 0
+    },
+    "chartConfig": {
+      "primaryUnit": "wins",
+      "secondaryUnit": "knockouts"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "performance.stance",
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "performance.stance",
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

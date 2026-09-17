@@ -1,0 +1,141 @@
+{
+  "playerId": "shreyanka_patil",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "shreyanka_patil",
+    "name": "Shreyanka Patil",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "2002-07-31",
+    "birthPlace": "Bangalore, Karnataka, India",
+    "heightCm": null,
+    "jerseyNo": "31",
+    "debutDate": "2023-03-06",
+    "profileImage": null,
+    "bio": "Shreyanka Patil is an Indian cricketer known for her attacking right-arm off-break bowling. Born in Bangalore, she represents Karnataka in domestic cricket and Royal Challengers Bengaluru in the Women's Premier League (WPL). Patil made her WPL debut in 2023 and quickly rose to prominence, becoming the Purple Cap winner in the 2024 season. She has also represented India internationally, making her debut in 2023.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "5/23",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Gujarat Giants",
+    "venue": "DY Patil Stadium, Navi Mumbai",
+    "date": "2026-01-16",
+    "aiInsight": "This five-wicket haul was Shreyanka Patil's maiden in the WPL and stood as the best bowling performance by any player in the 2026 season. It was a pivotal moment in the match, dismantling the opposition's batting lineup and contributing significantly to Royal Challengers Bengaluru's 32-run victory.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 24,
+      "innings": null,
+      "runs": 109,
+      "average": 21.8,
+      "strikeRate": 151.39,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "23",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": 0
+    },
+    "bowlingStats": {
+      "matches": 24,
+      "innings": 24,
+      "wickets": 30,
+      "average": 20.8,
+      "economy": 8.73,
+      "strikeRate": 14.3,
+      "bestBowling": "5/23",
+      "oversBowled": "71.5",
+      "ballsBowled": 429,
+      "runsConceded": 625,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": 1,
+      "maidens": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "matches": 7,
+        "runs": null,
+        "wickets": 6,
+        "average": 32.0
+      },
+      {
+        "year": "2024",
+        "matches": 8,
+        "runs": null,
+        "wickets": 13,
+        "average": 12.08
+      },
+      {
+        "year": "2026",
+        "matches": 9,
+        "runs": null,
+        "wickets": 11,
+        "average": 25.0
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuavr_rBvetXdc6ltvbSbXfvJO5tx6dGTFo5GsM_ZBZZVwKVzaXqQnuH5Sm9ehDCtKhb3GSHSIoC5OHSMNpOnzXnjX3KwgnAb-Q9-yBBnNe_qYg1cJomcbneiBDPat5lPYD4kiQWVz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3pJ-TiLJ3j5ifY3rR5VX3cMxH8dVEEUBND2qkxvcvNFTQkrUt0nQpYuWrRfAqgmd3AsTZIAgAGHC7krAcfoDLRFtgwEDZAEUiK9hQCfZXkw3Y0KrvmpfjpSjbVALGyenvomeJ3eFYc3HVvQx3USaSC5_BuxCumJG2_14KK_VKrRy4rxE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1P2ZyGhv4igJLolg6Plk1kecKUlp0C4yZTOVxN-9YT3zEUc1Ocl6gSDWFPVGlbSFRWxuWLylqVtGB96byjDtU-xJ4YP8qZ41IChKKjYd8X-Z-Fm42CBMiTv6TSCIVBpPL0_cK6ZNSS2BL3FnknszTbVxMQ8c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmpNfRtVoH8btvzepAFp1DFYwy3_xzV_KCUp9MNNokB95mGqiUCBNRzPKwTc3WDBAwztT7ib0ZqBHNuJ_xO5-Pi7rjbs21GPk_zklGIcYFbxO4NFsdvtvlHFpU5iP0M9fIaghJYmTXAHOygBXBY9VEl5bLg00FctNAECzSoona9yR17Djo2kRbNn4JbAuHwtHPm6I=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_eUBAPvrATDtWVq2816_XPMZ42dbkbeImHzsBBgrMaG1rxEJCiyPUhh2_yevB8aLvk3-j8-hpflmPktxERt7gwgntfkS9v_k_tXDeRHhJ_1scGCH7TruDlSPK_FZmQPPnUHyGKljj",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ8lDP0DJsxOmf1fQxW5fDmJWyt3eY7InUKm6X70VRTBDkOiCKh_f66tZxlZO2BPldHWMZTFZ6yBvyimmyf73JrN3FDQsVbFWbIm4HnCYn74i7Gx2zGSRu8Bu0S-q65Y7tdoOhLw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Bjj5qSz-FUzUquN12yDIWi3BmJhiJB06wQgsbvXxneI8uiQcnsY9zsWArKJnv9Yl_E_YhZEwAbdezNrnv4d0iWQgoAJdJYxs4ZfwNHuUFHXKQhaJ5Nz1pO3C5jhyywlxAyO_-5Awtg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz7qXZnyIHK8akYdOUcXMPfo-PtTBFHzEsc0GqUNPe--ttVwHkg9_ICX7tPn5c2WBelAhZINRBATZJ-jJnEiVCkObwQi5F2s7-2KlDszfhbjj2PjuDsMN5lt2GjoU057PE7wyE4afFjAfPmRvUlexe4iw43Rk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAEwJNAApZKoU6euXhKHInhd_nPy9--AhVQCi3kMXb3Pmobl3nhPDeQGVfdMZLNkyo8iA1dSsA_T53yZ3Cj3Bxo3kmk3SSsM0IvavfvoaNap3BUyfV18sn8apnHX9ZLpQT9bLzqxVOTksHKqDDrCXi5HkbOWht9LfGTDqKTWLh0sygOoDNPsnyYlvoCNkpgyz6owmAYyvcjOb6QZCvxbIrv_alCtaIo9jcvbl2zJwsn9qlYEOkXrV_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaKNS4aLWO2FlYYgt3bui2IS6iv20j_kZ1-XZRcAmY4-9KtsM9txmI45e66cVxPgzkTBJYXPiP6bCRo9qwxbz-4XHGSVxMg5l06jO0Yh4pUTvvtbaRWGL-QcFOYmhCHee85okBNrvqlzfReWrq7gMR0faWSq-SI4zh0aadYbCGgfBSNHL_9u4h7-pl4vHnGxefs7L5NRmyuIz7H0fZHbgv_i_9S9U30fBNL12unDbJW_eu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ6s4dA1wFoz6YMQWM5hUdQDbe_kpVuraWVz24QS09aU95EExxonXFOIdHVzcCCyTHYa0bfDmeB1UxD5eGC9R9RhqRioeTkmsIiD1h0qfCcBH6ojz4Pq4OvvwM-V1MhXGUezpo0H-oH3fZDBpOkOGZXiFeCb1U9RfRhtzyONZobeqyqSpBrZJyImTwN0WE-qVjL6GJNIMoP3yMp0S4i2yKIE0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:46:58.853098+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "shreyanka_patil",
+    "shreyanka",
+    "patil",
+    "shreyanka patil",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

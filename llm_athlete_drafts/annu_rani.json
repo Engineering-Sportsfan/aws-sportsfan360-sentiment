@@ -1,0 +1,412 @@
+{
+  "athlete_id": "annu_rani",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Annu Rani",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1992-08-28",
+    "heightCm": 165,
+    "weightKg": 63.0,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/c/cf/India%27s_Anu_Rani%2C_Javelin_Throw_Bronze_Medalist.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://youtube.com/shorts/GtfxeP2jbBI?si=97NBogOH2TkNb-Y1",
+    "bio": "Annu Rani is an Indian javelin thrower and a two-time Olympian. She holds the Indian national record in women's javelin throw with a personal best of 63.82m. Rani is the first Indian woman to reach the javelin throw final at the World Championships in 2019 and an Asian Games gold medalist. She has rewritten the national record several times throughout her career.",
+    "birthplace": "Bahadarpur, Uttar Pradesh, India",
+    "coachName": "Baljeet Singh",
+    "yearsActiveSince": "2010"
+  },
+  "record_highlight": {
+    "event": "Javelin Throw",
+    "result": "63.82m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2022-05-08",
+    "city": "Jamshedpur",
+    "prevRecord": "63.24m",
+    "prevRecordPlace": "Patiala",
+    "prevHolder": "Annu Rani",
+    "improvement": "+0.58m",
+    "improvementDate": "2021-03-15",
+    "aiInsight": "Annu Rani's national record of 63.82m, set in 2022, demonstrates her consistent improvement and dominance in Indian women's javelin throw. This mark is a significant personal achievement, showcasing her ability to continually push her own boundaries. She has broken her own national record multiple times, solidifying her position as a leading athlete in her country.",
+    "progressData": [
+      {
+        "year": "2014",
+        "value": 58.83
+      },
+      {
+        "year": "2016",
+        "value": 60.01
+      },
+      {
+        "year": "2019",
+        "value": 62.43
+      },
+      {
+        "year": "2021",
+        "value": 63.24
+      },
+      {
+        "year": "2022",
+        "value": 63.82
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "63.82m",
+        "holder": "Annu Rani",
+        "date": "2022-05-08",
+        "venue": "JRD Tata Sports Complex",
+        "tournament": "Stockholm Diamond League"
+      },
+      {
+        "label": "Olympic",
+        "value": "71.53m",
+        "holder": "Olisdeilys Men\u00e9ndez",
+        "date": "2004-08-27",
+        "venue": "Olympic Stadium, Athens",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "72.28m",
+        "holder": "Barbora \u0160pot\u00e1kov\u00e1",
+        "date": "2008-09-13",
+        "venue": "Mercedes-Benz Arena, Stuttgart",
+        "tournament": "Jena Grand Prix"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "63.82m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Javelin Throw",
+    "achievementLabel": "Asian Games Gold Medalist",
+    "stats": {
+      "worldRank": "46",
+      "personalBest": "63.82m",
+      "bestYear": "2022",
+      "totalGold": 1,
+      "totalSilver": 2,
+      "totalBronze": 3,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2014",
+        "event": "Javelin Throw",
+        "value": 58.83,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2016",
+        "event": "Javelin Throw",
+        "value": 60.01,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "Javelin Throw",
+        "value": 62.43,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "Javelin Throw",
+        "value": 63.24,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "Javelin Throw",
+        "value": 63.82,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2023",
+        "event": "Javelin Throw",
+        "value": 62.92,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Javelin Throw",
+        "value": 62.59,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2014",
+        "events": 2,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 59.53,
+        "seasonAverage": 57.95,
+        "currentStreak": null
+      },
+      {
+        "year": "2016",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 60.01,
+        "seasonAverage": 60.01,
+        "currentStreak": null
+      },
+      {
+        "year": "2017",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "seasonBest": 62.34,
+        "seasonAverage": 62.34,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 63.82,
+        "seasonAverage": 63.82,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 62.92,
+        "seasonAverage": 62.92,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "54-56m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "56-58m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "58-60m",
+        "count": 3,
+        "throws": 3,
+        "percentage": 15.0,
+        "peak": false
+      },
+      {
+        "range": "60-62m",
+        "count": 6,
+        "throws": 6,
+        "percentage": 30.0,
+        "peak": true
+      },
+      {
+        "range": "62-64m",
+        "count": 7,
+        "throws": 7,
+        "percentage": 35.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "National Record holder; consistent 60m+ performer with a peak zone between 62-64m.",
+    "peakZoneLabel": "62-64m \u00b7 35% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "71.53m",
+          "holder": "Olisdeilys Men\u00e9ndez",
+          "date": "2004-08-27",
+          "venue": "Olympic Stadium, Athens"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "72.28m",
+          "holder": "Barbora \u0160pot\u00e1kov\u00e1",
+          "date": "2008-09-13",
+          "venue": "Mercedes-Benz Arena, Stuttgart"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "63.82m",
+          "holder": "Annu Rani",
+          "date": "2022-05-08",
+          "venue": "JRD Tata Sports Complex"
+        }
+      }
+    ],
+    "beforeCoach": "58.83m",
+    "afterCoach": "63.82m",
+    "coachImprovement": "+4.99m (+8.48%)",
+    "coachJoinYear": 2013,
+    "coachImpactData": [
+      {
+        "year": 2014,
+        "value": 58.83,
+        "period": "before"
+      },
+      {
+        "year": 2016,
+        "value": 60.01,
+        "period": "after"
+      },
+      {
+        "year": 2019,
+        "value": 62.43,
+        "period": "after"
+      },
+      {
+        "year": 2021,
+        "value": 63.24,
+        "period": "after"
+      },
+      {
+        "year": 2022,
+        "value": 63.82,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm5B7lGzI-zJ7LkNEmvRNP_n55T6B42QbwmB-VOo-1pa2xs4TQWgh1CKIoPIX3Cp6dlcj2BHaBQgeMrNp7IyHIPOrkHSWDgWXOho6aJp7za-wGL2Ponb62TCiAHLp2GDW4A-Cr9k3Smt8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl8BcKOlEt3CI0aT_JjbzS4n84dDlMf4VQsKWjC9ruLj4BLj6j40-ClkvIcn4-GygKHE4uuCk9sOCvB9Dqqp7eqffUcTfYPbNB_rWGKvZBrzTwcZG7FNz8urtFp6mFNdfuMHR_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtSP6RcFZNHW_SlNWzxIShenOP28_RUqHZqFXK1uzIOzSxrznDH02iuCzxuyxoi4Ty4DuGOhCBJowlCJ5QhyDd9eFitmOdUIHlgcDh5wAxIPzIfxTAeIeC8-iXdgGE3TD46w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXVCJffWDinn2C7vwzAZTF_tm6Qx35P7k67NHr30dGd5lJKUPQIrC7WTvdwl-cHGvlt04-0UWxw8OrQLUm7kg6D84zl1IbRWycdqTfe-UFgTezd4WHHS00_XQnnj7nOBX9lj30Vo2IvWI2Dp3rnbmU58vlCW1dF8hj1bA4gUNY5J1r2Mus0w-rd0o8zuFR40pEe3OOMTyG7Adqa2JTGlHPYJTxDer-JovtFmjpLTPHqXTdGdVP3TEohqDMShG9x6XZ1I4Na2puGBMJzQTHbg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtKH3-wB11hcLGUs4kJq7RRU_1aiHXiVvvdQ3lTvVj9Hnx0T0BYlzAkntgp1mJeXQuyXS3MG03WMCnowh64fKI00YDnfwm9d36LpAY9q88K7-O-IpA9BAVCMWWHHdGnkElu7N3QAa9i4aQ7wrbqPPdovA_I7Gz-g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENigKR3WP7YR9I2kF4RYr4WGky1VlU79eRT7r-iKoV9bLVNdSxQnVm-onmEXfKfzs02txBrEUP0Dkw9onDIf0UOZvkaJhqZpdjb3zb412PPcDScZt0OOOo3VmQuqI_4yVW_MzOzl0mTV1LdZhTPNIlgYeYt5NI57F96NXTdg0uALuNiX21JO2xTu-0GmkP0g3FHkLSqNzdIOWXO5CAJO-444Wv3G6SwbgzcEoI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE55YC4PagsZ9bBDPU6LexUkEUs30uzKljNk-6AlnLjLTFxKxLUu3ijQycryJnxpiGTd_3g9oIH-xY4z9nU16VJ7ekCxi1vduld-CXyneIw2DQbuz_1CjxX7Uw5vzMpXfVSbDFBh29Ts4ja9-kJew61t_xLzu-a9ketnzzSVO3NnVZxm3oiU_dT41tHItQypNYCi7-s_JXD7TvvDpdD8d7oSZRQgkSqeO5vPVAwxC54u8h8wq7lIDVm2fTkZtK-fT_1SUvc3A1PEw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:59:46.118233+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Javelin Throw",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Asian Games 2023"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "BRONZE",
+        "category": "Commonwealth Games 2022"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "SILVER",
+        "category": "Asian Championships 2019"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "BRONZE",
+        "category": "Asian Championships 2017"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "BRONZE",
+        "category": "Asian Games 2014"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "SILVER",
+        "category": "South Asian Games 2016"
+      }
+    ],
+    "stats": {
+      "personalBest": "63.82m",
+      "seasonBest": "62.59m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        50.0,
+        65.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

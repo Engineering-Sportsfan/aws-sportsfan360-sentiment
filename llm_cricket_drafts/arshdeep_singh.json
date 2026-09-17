@@ -1,0 +1,141 @@
+{
+  "athlete_id": "arshdeep_singh",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Arshdeep Singh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1999-02-05",
+    "heightCm": 191,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/36/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Arshdeep_Singh_Family_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=biibW5U2FD8",
+    "bio": "Arshdeep Singh is an Indian professional cricketer known for his left-arm medium-fast bowling. He was an integral member of the Indian team that won the 2024 and 2026 T20 World Cups, and was the joint-highest wicket-taker in the 2024 tournament. He became the first Indian bowler to claim 100 T20I wickets in September 2025, achieving this milestone in just 64 matches. He also holds the record for the most expensive five-wicket haul in T20I history (5/51).",
+    "birthplace": "Guna, Madhya Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "Most T20I Wickets by an Indian Bowler",
+    "result": "100 wickets",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2025-09-20",
+    "city": "Abu Dhabi",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": "Yuzvendra Chahal",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Arshdeep Singh's achievement of 100 T20I wickets marks a significant milestone in Indian cricket, making him the first Indian bowler to reach this feat. He accomplished this in just 64 matches, highlighting his rapid rise and impact in the shortest format of the game. This record underscores his consistency and effectiveness as a pace bowler for India.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "135 wickets",
+        "holder": "Arshdeep Singh",
+        "date": "2026-03-08",
+        "venue": "Utilita Bowl, Southampton",
+        "tournament": "T20I"
+      },
+      {
+        "label": "Olympic",
+        "value": "17 wickets",
+        "holder": "Arshdeep Singh",
+        "date": "2024",
+        "venue": "West Indies & USA",
+        "tournament": "ICC Men's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "161 wickets",
+        "holder": "Tim Southee",
+        "date": "2022-11-11",
+        "venue": "Adelaide Oval, Adelaide",
+        "tournament": "T20I"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [],
+      "wickets": [
+        18,
+        24,
+        13.5,
+        16.27,
+        25.4
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        30,
+        60,
+        90
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Arshdeep Singh has shown consistent performance, being the leading wicket-taker for India in the 2022 and 2024 T20 World Cups."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF4i4E0m9TcQN9g5VvniMNmKJSINJ2Fn6e3CBr24qj12-UQf6q5e7TiDDl9OX_pgbnxp4GB-NGTHrG7zWDAK5c6dqfLt-xX8k32PF8fAOJvxQyDAPpa0j1SFIfJCvp6qlGHgX32JO--t4cNQAhFW4LkxLV3uz5zg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:18:37.979938+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 103,
+      "ballsFaced": 104,
+      "battingAverage": 6.0,
+      "strikeRate": 99.0,
+      "fours": 9,
+      "sixes": 3,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 317.1,
+      "ballsBowled": 1760,
+      "runsConceded": 2715,
+      "wickets": 135,
+      "economy": 8.56,
+      "bowlingAverage": 20.11
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "arshdeep",
+    "arshdeep singh",
+    "cricket",
+    "india",
+    "singh"
+  ]
+}

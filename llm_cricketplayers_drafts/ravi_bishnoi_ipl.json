@@ -1,0 +1,125 @@
+{
+  "playerId": "ravi_bishnoi",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "Rajasthan Royals",
+  "coreInfo": {
+    "playerId": "ravi_bishnoi",
+    "name": "Ravi Bishnoi",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Leg break googly",
+    "dateOfBirth": "2000-09-05",
+    "birthPlace": "Jodhpur, Rajasthan, India",
+    "heightCm": 170,
+    "jerseyNo": "56",
+    "debutDate": "2020-09-20",
+    "profileImage": null,
+    "bio": "Ravi Bishnoi, born on September 5, 2000, in Jodhpur, Rajasthan, India, is an Indian international cricketer known for his right-arm leg-break googly bowling. He overcame humble beginnings, even helping to build a cricket academy with friends and coaches due to lack of facilities. Bishnoi rose to prominence as the leading wicket-taker in the 2020 ICC Under-19 World Cup, which led to his IPL debut with Kings XI Punjab in 2020. He has since played for Lucknow Super Giants and currently represents Rajasthan Royals in the IPL, consistently performing as a key bowler.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "4/41",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Gujarat Titans",
+    "venue": null,
+    "date": null,
+    "aiInsight": "Ravi Bishnoi's best bowling figures of 4/41 demonstrate his ability to pick up crucial wickets and restrict opposition scoring, particularly with his deceptive leg-break googlies. This performance highlights his impact as a frontline spinner in the fast-paced T20 format, often delivering under pressure in the middle overs.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 86,
+      "innings": null,
+      "runs": 32,
+      "average": null,
+      "strikeRate": null,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "13",
+      "ballsFaced": null,
+      "fours": 1,
+      "sixes": 2,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 86,
+      "innings": 85,
+      "wickets": 83,
+      "average": 29.95,
+      "economy": 8.37,
+      "strikeRate": null,
+      "bestBowling": "4/41",
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2020",
+        "matches": 14,
+        "runs": null,
+        "wickets": 12,
+        "average": null
+      },
+      {
+        "year": "2021",
+        "matches": 9,
+        "runs": null,
+        "wickets": 12,
+        "average": null
+      },
+      {
+        "year": "2022",
+        "matches": 4,
+        "runs": null,
+        "wickets": 4,
+        "average": null
+      },
+      {
+        "year": "2023",
+        "matches": 15,
+        "runs": null,
+        "wickets": 16,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8c--QHoT15EPM2EnYry67Cxl0mbW6RcolyV83G0qT3-QsFIQ34r_6717FtP4yRoUXQ7Dm9yXOZDtcu4pz_-F-02fF6IJUL-F95gdVf-nDFixT694GMWVHZ9UpevFOuHWHcseZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx_Mu4ep8MeB0b7hjnt8gxOMyfNC3gv24l572sybbg0q-qlfiea7LQdlxs8KXTfH-qREYnHkDzuudY_P7QOTkBXQx2rcTpNqfmYAZhWPB94yJrK9W3S_WKEWSxLJW8MRYGHkEJqwDuvee3i3ZcqrY_DUUNne7EJo8H",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKYklcsc63zBkk8NpsyTQbHyGWviaJuMJlkSw35Tq-fDHuv7QVj9akP6TDiBjQXuuLXTp79lLQCrvOOPDoroBv0ZZzHg5bMKc1kC28LVStdhse-ejMo-t9n_GgMv-KT_yXc2ckhjmbQIm-Eie44H4x76yCfKzWX6k4KsCIxdkh8W_mkgWaX569P0A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKV5eNbPGziQxx5erdrGF155xY3SOWH9Mjj8faDrOl6MoU1MFpaUX0kSlUtyzJ_AoJ-m55upkJDxZnmfvyIJC8O1HNJlDO2di9kAjTv_K5w34AHf1bwdQeitxyzaP--aFB11gW6qzfk0Uy6qBo7BaKXHTp5wg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMpO1Nrc0lWDGvrRyKyM7pqVVcMl9BUaF05MWXWb7hKNcr8s6ITwdHcxr6-Ricy0YatMYobZyPdk-n0sxLyopXv7tR302b0s8L_ggcxm95UizHDhrxgJmGVMxR384MhzBsb4XeWngpQTSoXg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt1gdnSvoA1pEzpip1gQje9nMQ2f7Cg7Ygcn-3iiJS3iGNs2bf7x_pRDqehqrxE87uHTAOWkgRlXw4Dam_UI6cA_fG-_NGo6uknEro_3qtP7ulI8hTZDdUeOCIi848aWr7jmkviQ_gP0--HWH1FlXv10y7qT_G-XNS7tg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYNXaJgbboSONEtk6-GBd0jqr0x72FnsrvRKZhqOGrH2porMYzyShPEhbIyeNsMh3NwgjTTRRAlo0cmIH1x4VlJAEJruJ9e2FPOz6Q1eA57XM62wKdLCSXkpiVVMrBY4sGJA4OjO45699UY4IbwTA-mjFHh-hg-sYeFU2gGFLpb73SZUvNz_DXJnMcIVKPoA5AAXyfCVrKBm64AMeG55gIexD4Z-Ka_HGNEcxYezdJhCwyi6jQpe7IQTAfsGahpEaTPmZiflkcl4ty-P8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELBOjxxDrQ5XfiK0bNGoOI1AO8okRc9glbcn1_IGS33_aJXmWfsomG7WQ8dU60fhuxTi8mITTOh2cicEa7ltO1LA231XTRLm56xbMmAZ0ArKxnBkX0TUEJm4TTljFO7DzoH_gJgMtrctwb5KMoGQ19WARyEkSz8ZRZOot_EJIZflDQvHmVMaX2Y5-2T_VVcUM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPZXpr3HW86rdC7dY-5MLpS5hSP7NcEL-__u275ygKA9k-unfgNnqN0GOd8rHHJ5jPt35Qh7VlkI3aFmVYhFKRaWuY4jCrWS6dGqrnqZlRXGQrNJ8mwZMK2hF1IqWOUCIkuxd4Pw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaG0-5BH4DkyJFLyhInkENDpizVVlVyci_oSeoICpnVtaGbr0-0XSVvQgyc_qGjlZEJhTgwSeaxDCzdjFguy3iS2mw_5ihDm1GV0PPLuYDrMRbMDYstHJELJIQsBHGzPZAOYiK1NJmhioU4rzbFnhmCRizXLsIuMVY3KXGkU09Nw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:08:53.860648+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "ravi_bishnoi",
+    "ravi",
+    "bishnoi",
+    "ravi bishnoi",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

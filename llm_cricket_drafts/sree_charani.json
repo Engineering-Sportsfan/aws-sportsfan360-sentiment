@@ -1,0 +1,137 @@
+{
+  "athlete_id": "sree_charani",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Sree Charani",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2004-08-04",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=-IDSAjToIR0",
+    "bio": "Sree Charani is a standout left-arm spinner who has rapidly become a mainstay in the Indian national team. She made history as the first woman from the Kadapa district to represent India at the international level. She announced herself on the world stage during the 2025 tour of England, taking 4/12 on her T20I debut in Nottingham. Charani played a vital role in India's historic 2025 ICC Women's Cricket World Cup victory, finishing as the tournament's fourth-highest wicket-taker with 14 wickets in nine matches. In 2026, she became the highest wicket-taker for India in a single edition of the Women's T20 World Cup, with 12 wickets.",
+    "birthplace": "Yerramala Palli, Andhra Pradesh",
+    "coachName": null,
+    "yearsActiveSince": "2025"
+  },
+  "record_highlight": {
+    "event": "Most wickets in a single edition of Women's T20 World Cup for India",
+    "result": "12 wickets",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-06-26",
+    "city": "Manchester",
+    "prevRecord": "10 wickets",
+    "prevRecordPlace": null,
+    "prevHolder": "Poonam Yadav",
+    "improvement": "2 wickets",
+    "improvementDate": "2026-06-26",
+    "aiInsight": "Sree Charani's achievement of taking 12 wickets in the 2026 Women's T20 World Cup is a significant milestone, as it surpasses the previous Indian record held by Poonam Yadav. This performance highlights her emergence as a leading spinner in international cricket and her crucial role in India's campaign. Her ability to consistently take wickets in a major tournament demonstrates her skill and impact on the game.",
+    "progressData": [
+      {
+        "year": "2020",
+        "value": 10.0
+      },
+      {
+        "year": "2026",
+        "value": 12.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "12 wickets",
+        "holder": "Sree Charani",
+        "date": "2026-06-26",
+        "venue": "Old Trafford, Manchester",
+        "tournament": "ICC Women's T20 World Cup"
+      },
+      {
+        "label": "Olympic",
+        "value": "15 wickets",
+        "holder": "Amelia Kerr",
+        "date": "2024",
+        "venue": null,
+        "tournament": "ICC Women's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "15 wickets",
+        "holder": "Amelia Kerr",
+        "date": "2024",
+        "venue": null,
+        "tournament": "ICC Women's T20 World Cup"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        60,
+        70,
+        90
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Sree Charani has taken multiple wickets in four matches during the 2026 Women's T20 World Cup, including three 3-wicket hauls."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGl9WEjaY7-BDLmzqTRZftEnoJfMuVpvciHYDTHgTvGDWiesY679cuczedEdkPxzsRyVqKw0RI_olLcmadQ04r__b05HjjMiIcrjypnhDOBxaYVD1BB4jHYZl16Itwd-VfsMg0GHgQkA1ByhO_qKWBpu8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8wRSZy3HqBc570r2PLSu4mVy2ciz2hEDklLuzVrZh8J9beRRO1TMD8hhA-JXdMifgaMp9t34nozlWwwgTfYJ2qohhrh30cRkRyO1nHWqGUOP-zNIRjegHAuoSV8fz9qXuDGlToJhUrtxxWGbT14fj1yOMjfGOdYQ0ptBwRnVnoLSzV3381pFCKuXb2FojHSHmlGYg3xWONKKwf2k9b0hsfwI9ashKpZfAtDH_o9NG-SO4Ny5Pryw5UQLWspZC4LVURGeDuxBgIh8-wd-wxxV7WWED6wZdBBTo4Fo2X1FnXYjZe661MD-aoC19NUjD9qAURBAAJvND8aV1kTpHiI7CQWc3cDP2-OIwSNNGUko=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEibRh4lti1_9muXlUWjh00KHjXEdqaf5YHQs9EYJgKbgunD6UaztNjtFCzXICxutcpmb0FyRgsBATnde-IZ2iJniyHTY70jmC-92p1EJOcUMFUEqV_CP76MQx0FQ0Erh7bFpl48HAXlpvskP-uvBc1kTT3nZkDxTyO5JkywdNXUjhQW0sw0Gyer6Sw6SFsTEQo_7G2SSqjWKPES4_5gm-kfTcuFG29SWEDJweV6bOY0ZuDveCL5kb1VaEXatgU_wYgnYhf92VfbyHlLdP-HCSFMHRLaRyMJcg_327UOW3y8WWjxK-fGegMUxaW0yxPWtOkWXeJ1Mk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa1CYa3sxdWRy7S1ZOajpAoOHF3QjLs-uDThbq7ChfiFua5BnObOjwOv_2_DLKiWFtZlQ_cUZGExN9Y1AJbQg6JXIHpJ0aqgYlIrgHdZnK3VgnZkku-dTlmpjQK9IA3q5c0_UIkv7gjfv1eAibdQm91YsbPf8ODXek2Rp-E4YWfpReQkqbAy49XqdlsTG9_c8HpqqUm_6mfmcI5gLqUe1QOjMM3vsIxOFCeIW4Ib2VZD9uFZOfSY4DiVsOPwJvUmSDmSc25l_4n7S2QfimC1PJ9qsfADxNDkahZH_wtfHS"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:21:44.462163+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 9,
+      "ballsFaced": null,
+      "battingAverage": 5.0,
+      "strikeRate": 128.57,
+      "fours": 0,
+      "sixes": 1,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 563,
+      "runsConceded": 1031,
+      "wickets": 42,
+      "economy": 7.27,
+      "bowlingAverage": 16.24
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "charani",
+    "cricket",
+    "india",
+    "sree",
+    "sree charani"
+  ]
+}

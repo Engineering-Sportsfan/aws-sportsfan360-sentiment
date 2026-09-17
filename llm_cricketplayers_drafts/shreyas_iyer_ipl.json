@@ -1,0 +1,176 @@
+{
+  "playerId": "shreyas_iyer",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "Punjab Kings",
+  "coreInfo": {
+    "playerId": "shreyas_iyer",
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm leg break",
+    "dateOfBirth": "1994-12-06",
+    "birthPlace": "Mumbai, Maharashtra, India",
+    "heightCm": 180,
+    "jerseyNo": "96",
+    "debutDate": "2015-04-09",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Shreyas_Iyer_snapped_at_the_airport_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Shreyas Iyer, born on December 6, 1994, in Mumbai, is a prominent right-handed middle-order batter and captain in Indian cricket. He commenced his IPL journey in 2015 with the Delhi Daredevils, earning the Emerging Player of the Year award in his debut season. Iyer notably led the Delhi Capitals to their first-ever IPL final in 2020. He later captained the Kolkata Knight Riders to an IPL title victory in 2024 and, as of 2025, leads the Punjab Kings, guiding them to the finals in his first season with the team.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "101* runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Lucknow Super Giants",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "date": "2026-05-23",
+    "aiInsight": "This maiden IPL century by Shreyas Iyer was a captain's knock, scored off just 51 balls, and was crucial in helping his team, the Punjab Kings, secure a victory against Lucknow Super Giants and keep their playoff hopes alive in the 2026 season.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 147,
+      "innings": 145,
+      "runs": 4229,
+      "average": 35.84,
+      "strikeRate": 136.73,
+      "hundreds": 1,
+      "fifties": 32,
+      "highScore": "101*",
+      "ballsFaced": 3093,
+      "fours": 353,
+      "sixes": 182,
+      "dismissals": 118,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 147,
+      "innings": null,
+      "wickets": 0,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "matches": 14,
+        "runs": 498,
+        "wickets": 0,
+        "average": 55.33
+      },
+      {
+        "year": "2025",
+        "matches": 17,
+        "runs": 604,
+        "wickets": 0,
+        "average": 50.33
+      },
+      {
+        "year": "2024",
+        "matches": 15,
+        "runs": 351,
+        "wickets": 0,
+        "average": 39.0
+      },
+      {
+        "year": "2022",
+        "matches": 14,
+        "runs": 401,
+        "wickets": 0,
+        "average": 30.85
+      },
+      {
+        "year": "2021",
+        "matches": 10,
+        "runs": 175,
+        "wickets": 0,
+        "average": 29.17
+      },
+      {
+        "year": "2020",
+        "matches": 17,
+        "runs": 519,
+        "wickets": 0,
+        "average": 34.6
+      },
+      {
+        "year": "2019",
+        "matches": 16,
+        "runs": 463,
+        "wickets": 0,
+        "average": 30.87
+      },
+      {
+        "year": "2018",
+        "matches": 16,
+        "runs": 411,
+        "wickets": 0,
+        "average": 37.36
+      },
+      {
+        "year": "2017",
+        "matches": 16,
+        "runs": 338,
+        "wickets": 0,
+        "average": 33.8
+      },
+      {
+        "year": "2016",
+        "matches": 14,
+        "runs": 69,
+        "wickets": 0,
+        "average": 7.67
+      },
+      {
+        "year": "2015",
+        "matches": 14,
+        "runs": 439,
+        "wickets": 0,
+        "average": 33.77
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf3YlkJMqDGX6jRaDO45JTXK8hr5jV8miERX1eWDyl0Jo58cpYMNx75Rvasya83cZ33gGRn4erYZzXZB1muuz2M9l20DmeqAjvgEAWacGOb6fLBg74ha69poP6SeDBq99PUqt9DA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9faogLcGUMgdxmwRM1PgcsUnL1F-i6yaW1VyW0yU93M9HxqiqolX8IguffwkG1ZDqRI-ZlvvGUdaDDkqXjGaMH2OKw-CvLe2Av8zAeI1lTvKyOHpn4QDZBWa9waUCCIEV64isND5Majhgka3KrwaWJXeZxnwCED88",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg4xsYdpCe0zTlkb3TGWl0R8x8tG6N6utpqfN8-jCJjYsXF_5PmO7cDcuKFls6OzEMghwtgp1gVx6Gp2LVqnQzf0hmPPsgbA8wCP1dGlFKSp1IsF55_X1YbsDX8x9zpVWV4tn7kYLjIlRFEG8Bn3kAIRnJDLJz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcraXne8EYjDbPmjOE2E2BJQQIQY5O8tcdPkDfrM8VEznsHKIbV0Vl64DOOu0bOhKA43wsm9Pt2SPz8g9mjRCQqangpmItIlzynhIwF7xeQaavU2TwO9kjEV4dYfinQ0OJPCp_mBmmQyviR1LS1zOOHEYcYg0Lsb2s48belnY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd8PZvoZwQrJhiRxAe-dkA_hy7p6CI-6aZ_id4zNL3-Rt60AEOjuZzi0n09C-keBczXDSdapFbPGX0bB-R70YfqLYUeW7V_8uDYWvx8Vx0_YWcWmPzscAqWgq-9qoJLuj4YfhOaAnZgAAy7qCDdnVIdAdbwmcB15YA5apaPwIWoEWZISypmheF_9AuDX5YZAK-u0cdHjl3lilolUeTkI1pBh6_WRPWlGcE5ve3Pxk6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJd7byU5Kz41YS_uugHJwI7OcEw0noFKbwaBl09GQEpsjsK_X6rFu0Tu9m0QsPg2zgWXtiB-BYUxMdLQpdqJmermPHgNmP8tS2dabHdnBThP3clX3t2LkznfL9hldsXNZ5mkc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESw6P7eTO38XjQKmH-49UnonceH58BMqghzaccxZQtjh3McFAo4gS-DdYbzjt8pfACEMBnVfgo-fU3EDGq5u881rMeUzehapS79EzD35VFbVZ6SdMnicTtwajR0BY6fO4oCUn1Kv8i1Rc4Zm4IvFEkvHm3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2b99G-dbSbvK6e1t2FWRXXS3yM2q1HlcPxcpGhU5etBiwCQbnanvEQRx4ADsbG4QDr20nMwA8Zu2bJyfLKPpVasI6ACwPRAojKtIEqvIOtXIKwlTPPoFqV3cJrJSRq-e0MKKEcjOt3J74NoM_ps4QrJvieojqjJ9__yl7TVwjHM-IIAlj-CVVDOaHCx3k-9bP_IojOKp03jwLCjoU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGazX_JBXrov9RAfVaX42WYTW99nDFdeJ_UdDkM9LssCTtSsRjMYq3rpbLidGRiYKq0buZRA8NmTRGtTqBPqGTsXW_5QyKNZmaEM-UK1ZWnbpMa5z1r92rwh3S697QIEoHqRITDyPMW70R_LoGowX1aebXLJ9zQnNTE76IQxA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwvfmgzFg4fij83kEId495Pi7D2FAJfd7atiK5ORDaKt79YFxjzj2pKM76QLH73rUW5N3WPUxjbaYe616i-fHeDFkdEKYztOtyp8-_OSScUHui4b6fxw7TBOYaxmXfLkiZgQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAwqdryFguSGqNpSLb9tYqdYXF8Iy_5jZ4wJ9zU2XUkzcpHom-FtbgthHyfbieeCTVNfBy_BCWsQpS-Nl6nojgejC2xXUb1xoc3Z0jn3-A-99lAWM51Fzkg4_wV1isin8DIdDg05dPjbH6YLI6-bpS9eMwNUS95Wmd1Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEimSwnUyZ09qYLFMqwCKhNkW8TVDE-ruKm5qOpVYqrT3lTJ07dXH-M437e-JuCKItOiDIPQLMIwQeGArb9qXZQKaEKK-43wNfQqcZf6edwQC-g2iZbvdW89MgKdDNnH2TKAxMCm9gO9Z0ccv09FRGZ"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:18:24.835193+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "shreyas_iyer",
+    "shreyas",
+    "iyer",
+    "shreyas iyer",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

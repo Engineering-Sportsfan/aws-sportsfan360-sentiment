@@ -1,0 +1,422 @@
+{
+  "athlete_id": "pooja_singh",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Pooja Singh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2007-02-21",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/srVzkk398to?si=cc3D5jAGcgTGcLit",
+    "bio": "Pooja Singh is an Indian high jumper who broke the senior national record in women's high jump in May 2026 with a jump of 1.93m. She has achieved significant international success, including a gold medal at the 2025 Asian Championships and a silver medal at the 2026 Asian Indoor Championships. Her journey began with humble beginnings, practicing with bamboo poles and sacks of husk as landing mats. She is currently coached by Sahana Kumari, who previously held the national record that Pooja surpassed.",
+    "birthplace": "Bosti, Haryana, India",
+    "coachName": "Sahana Kumari",
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "High Jump",
+    "result": "1.93m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-05-29",
+    "city": "Hong Kong",
+    "prevRecord": "1.92m",
+    "prevRecordPlace": null,
+    "prevHolder": "Sahana Kumari",
+    "improvement": "+0.01m",
+    "improvementDate": "2026-05-29",
+    "aiInsight": "Pooja Singh's record-breaking jump of 1.93m not only secured her a gold medal at the Asian U20 Athletics Championships but also surpassed the 14-year-old national record held by her coach, Sahana Kumari. This achievement also qualified her for the 2026 Commonwealth Games.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 1.76
+      },
+      {
+        "year": "2023",
+        "value": 1.82
+      },
+      {
+        "year": "2024",
+        "value": 1.83
+      },
+      {
+        "year": "2025",
+        "value": 1.89
+      },
+      {
+        "year": "2026",
+        "value": 1.93
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "1.93m",
+        "holder": "Pooja Singh",
+        "date": "2026-05-29",
+        "venue": "Hong Kong",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "2.06m",
+        "holder": "Yelena Slesarenko",
+        "date": "2004",
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "2.10m",
+        "holder": "Yaroslava Mahuchikh",
+        "date": "2024",
+        "venue": null,
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "1.93m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "High Jump",
+    "achievementLabel": "Indian National Record Holder",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "1.93",
+      "bestYear": "2026",
+      "totalGold": 4,
+      "totalSilver": 2,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "High Jump",
+        "value": 1.76,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "High Jump",
+        "value": 1.82,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "High Jump",
+        "value": 1.83,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "High Jump",
+        "value": 1.89,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "High Jump",
+        "value": 1.93,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 1.76,
+        "seasonAverage": 1.76,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 5,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1,
+        "seasonBest": 1.82,
+        "seasonAverage": 1.78,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 4,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 1.85,
+        "seasonAverage": 1.82,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 3,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 1.9,
+        "seasonAverage": 1.89,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 1.93,
+        "seasonAverage": 1.86,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "1.70\u20131.75m",
+        "count": 2,
+        "throws": null,
+        "percentage": 13.0,
+        "peak": false
+      },
+      {
+        "range": "1.76\u20131.80m",
+        "count": 6,
+        "throws": null,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": "1.81\u20131.85m",
+        "count": 3,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "1.86\u20131.90m",
+        "count": 3,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "1.91\u20131.93m",
+        "count": 1,
+        "throws": null,
+        "percentage": 7.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Pooja Singh shows a strong upward trajectory in her high jump performances, with a significant portion of her results falling in the 1.76m-1.80m range, and a clear progression towards higher marks.",
+    "peakZoneLabel": "1.76\u20131.80m \u00b7 40% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "2.06m",
+          "holder": "Yelena Slesarenko",
+          "date": "2004",
+          "venue": null
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "2.10m",
+          "holder": "Yaroslava Mahuchikh",
+          "date": "2024",
+          "venue": null
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "1.93m",
+          "holder": "Pooja Singh",
+          "date": "2026-05-29",
+          "venue": "Hong Kong"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3V22O0O6_TNYQLIkZfZW-q49n0NFkDs06SnrO6xZg9Kza-de7IJ8wOUN48EUyWIy2LGEiu1FDsuiSzEV2uA1u2he9YluporHD1PTmHfVJ9W5AywdHCyFxtVJB8dzGVyqgrwDLYoPoW3l25mUH",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWRdkG58EWMKOGDcER_NsZAUjumgWkyAOwvWxmu9_aNoq8BtDP7ka5Rik8QbZjPXz1t6LRHJ7EFReHak_Vn5syy6-y390U9tzokkUiqw3LUTIlIkb4M8ZB5OWuBzS9SBKoUGeLVYugIeAoQ1kmUvkuoezl5Kp3wcPgtBTpSvkjMnq-h9oVqpBlSxzw6c-3moPe4jV3WjcS0xAOVTRLeu0_KGvIKxZaQw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCz5y6K9VDoRMYQd32djFuh3Zc0K-TskwIVkI9u_CXxX4QPazO4xdCtdzsDx7bdAdAB_FYBAPV3DWFNy96R7B9aQzNGoXW0lpS3NQTcOj_tDZ8zoTq8cYCuPhK10qWFYJcqK7yf8Y2gm6FDMR0jGBSZh8Hs4ZMusJMF21eURZClfAYZrXbzVZ_b2OSR_TEt0Gof7guc-57zP8H-P7F842lGR7OIEGgW1RuHDWFxoFvTPHs7jZm0rzq0rmUKRs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF1t_hWrHNKOWVi2iM5vDUf7HWQAtq6rLsOOQKzlDfth3XzOTy6OzIsD0NgEPYyMonBGKJbQdnOxvB5Tqzq3Nw1xUql1LWfpu_Kqa2TXKEhCQN-zw_PusErHiLInKmULb_rrVlITYipmpLEsHTJGyFy1urDDP1cPVFrkOoaPNUyyA9gibtJ9UDY44UaIzk66DifdZ2cwSBfP2v-k8ruEWcTNnBAASNcgoQoUmeIB0kHB0CcQq-WXbEGqfgo1WSRlVsPaTUwI9lcfaqrbBr-qE9LXis4BNevlU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExsnEVjslUFdnCIeREB7LaUihOle7rHBXQb8FFjYGP7ZhA_IHNYmS3tGNBYcnFHvAg1vlAjRxu-6cFSNUTuGuvteSlViJZrrEls0_39XBvobVlP5Og2B0I01J-nfvSj6U4K4vdps33B5JX3mK0PEnS9GXTQingPsoFmeJjM8txRL7M0zOB7GGwXMkNaOj9SS727597cgQeSo4HEYW8anKl3DemYa5lVdXbws-_ILomTvsSafg2lpaSX3BBmwcbSc7xig2OduUNpN_zpQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTPE2oCzjiyUtlTr49nMj5s49V_u7fHjPArDWUAdkpsN59vKgn4rgpiHRrn7tKahnD32JZlmK18_2aNJnrswfNnS8pZK-r6vTOT6iK-eH-_kJ9PhIZAqAZMkCLn7lHTpUAVuL0ae8kVkkBUOfa0WDWCInemPuROAed1kSQOdI1xR5gHE2KyYwVk-1JLQIWyRJz0q9qvZJH3WGs1lisRoP9Ox7fs9wSGxIgwQnUMXXocB7ndHU8j0f4J100hdVjAVc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQsId-Qm6RH4j1-PKiX4qdUcpefs3D1UZIC9ZQVl3mqp2QNyy7cPj43V4QvKf1bWBb_0NrefvwXRfdLsK-OmA8uzBUBBhyDC8HpzUObuvhOrIlU18n6PvUvVaJ4sXG2oDZgQ8HQR4TS1iwdacuyZ5yIpClHlLV0GDaByi0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRTAW2HClFttFFj-d6hX1me00L2cvBzzo6ExiCdpV50uJL22X7sF8MkykrveWQ0wlsU3KSJQzKon6vhL7G0IlKI4Ao0VKMYfXZiPKcIDxAVXXwGN7DD6OnBmxlMnNb9OCsxSxmfermUl2LHKyLoOC9MS6JhdGSercRQkCgdFokfN13kb4Lb4IQzgGG6Uyoh5LxrtXDWidxQxz6Tf_V8mr6AHdxj3jn",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFznoR8FnfyOq99GVOTGgtSu_ElxpzH2Dm5IiTASuO_cp2X2NLLhgAwcl82HK5vmUTkVrU5SYuJTvecbvtRfYarauXCGFWcLBWTGtjOFT4rH5A8R6FxLMgCBXEqdGfTQSr5aRIIq_U0wgityRNK3Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOUZDC24WMjzKFKwk1FddE8U_O4OC3aTMO39qY1n1dAVtmnI-Y2aN-Cy1kzopmHH-1g8Srwa4q1UyKc5YTttiPYg5rRje7x8jg3cMQXaUbfejLAFudT_cFCSanPxvXwW-QByw_UPkhjoA38Wh-tneUH1U8YuRGFtGl2aaqBafUJlgikjT8QKnhSm8-3l5yAjseM6OzhI7J_5slcWlOJwIFO4PknyFO1ZhSqgjHIymkKEApGzdGqbcUr0RbBDeVMKe8BLrQUzMPsCOZc8ykyQFE5xVmKTi5GZ0pzG0x",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFakeKcP3I8s89REdpGnwFKcEX0XQNy6A14AcF6Dr04TSg1zg_Rw9mRmUeqe0aqcCDAY8L7OpNz7TtcCg93Ye6nLCegKxHq0ciXHqo4saZvpwP8_pp1MrXyn_yyPz4cq61cw6RSJhcDGL7RfTqs4pT2Ivvw-eqokFNsWD5W5kiTQf7XmFGhZA70XweRIcEzNd2wHSTnZp33tB0RnZLVD3g8VT95bOcPIe2JoosUu6sqq5Pa8gbcc-4Ou6MOFLLC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpx2x4WhpoTe1oQtAggaF4s8E911_ErwexyP0C7X70d8zEyzwHeVxHyv6Q5L1A2aDM4V9W3kiOAVcW_w4BKf94fS2YVaftT7Y4xqlKLLIrVVku6sjphtMP7sYtPilPla9i_cQnCZK9ub6SM9x7SG5xgbYXw71ze-Yrrj0XnTJYmSTX8JxCdzTf6DxN2r9dMRqQw2HiIDOmbf0eUOL2tuJVgXuZ91H9ljmvKzSpAay2xdvdaLepZaduUvhyKJsFxW_t",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_vdq6HkZqVD1oeMmXH47rdioL3BtmPWt6iidiIUxcEKsRTnm4FebV8ExsrxCF77tYVyP6EWbbaCbNYpzYiIogcGT0nem_EiYT18oRkgZKMNWQaUzyyRpYf1K4jtq0rc4G5skAZbeZz2qJXkuESoHdO6FLxPwgUMB4PY3ERQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhBpWoJKp_3WchZ_GFntbMBbrqQCGrl7dyrK6vGIWWiDxR9jMdL9n5VGfhBq1tcbAkGGmDEMpWfP1jcyOESr2lIW71o1sMhGnqc9ixns7dhaeBHRJgCxJ-dAfp3QMv_HBcYjQq8VrA9QIVjasnVZ4vkPUU8f5F-7SOYEridepti3br4RcFI6XTr4R8HhOVBNVaXJFAW-E6ZobaCBCZxl62ib0SvuXzldyemhFRMyNOUC9vhn4_fmMpp3acLC7Hj8d6Wk-XSSVoe6cejw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxJXHrXlv-od1uot4Vmx184Ye_5f_QFnEIjrqiejeDC3z7juZw0WyjBr3ts9H8dXyS-CGa_d_7yuIAuZiEDPy98EZbexlookRsjdUVdiCOw8IYvdiGckUJuIt8k9OlwHjdkugiqmh7wiDSuFE-_53HTFdbSR8nX02zlJ-7te5zEwhoF3NWKuRnyFbywPaw6_BWpyLzsUQJvL5xXhqtndNJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2_ne3fireqft-PCTb8A3YL3C6Fo9-pWT6cHh_OtcvY0m0wbLyNyAHqwAubywvB_IcgrqhJIpghVxV3ibzB0VegUGywDBaBbsi18h2iQkxBYLKvxqtWIOsgwZ-dFjfjH3np3jfYc9fSkm21ctaNYTXgRKb7LHk3UF9FYuo0xuR74052HQrt6c4t1VzDkR8L30G3lDYEF_im_LCt6LQGbQ4kd5erRgXrY_OAGAZ6w5Omk2S2V65-_PTQpMabmajKEY3IFu9YK6WbHQIDBwRDPSK6pp18AsiQqHV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErRa0eXXXwgGTbN3iFZULS6i81T-vfwIAtr6INYJY5yGCgfWbfs4CtCXL4sJwRU-IDvmUPTwoFIk_7mSouFIfhAU7D6cVLMQEG7qBrlo5X2_r3qfLxia_AAgWzXA0VXjp1eICKI-e0lTx3BSWVNYLuUC1yozKeB-VKYSxre9w-8NeB9XH3THB9tOCP3mUpW060aMZNoN7ddp6Ip8NAxBna5qt-Qo9FNjmVTT8oWmkFaSHjBG1ObhT1Sg1sRRVUOxZjar2EpqrgpMUhWyQcnGgMfdodzg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE--q8agC7koumRvW6cE3si6LH8C0HOZSLfH9E4Oh10LuLVTXcZ--5kIViJB4M_33XNE4x88kwNjaKpHRGgXdVljxAXnUZvi-9FKodYni9rsE-njqKdCsmRnyzFGQAp4jcXY8ZlYyssZRhf12OlvXnZbCwadzlvCkzQjxipfi4LKKL8U7tv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEuzaf6q3l2AFUHzzMkqgmy-ChHo4GZxlwrw7Br3bYwQ45405NdZ6ES-9TqPi15an6Ww0zn0UQl4RKh09GmcLHgzWH8Y0kO6PKWB2NqGCj414ZXrVUOUkFMbkPk9R_kg0BKub4WxJxYbvT1aRhx5pGUlmhIFTIDWgNv43ktDBjLh2IXcKTMWARy1S1hiTf20s1PIiLOA3jZAg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMt9myCuXhr5c31l2o7-2dWcmwJGvp6XwDaGVdVAZnhmmJ5Q_HU1GZUSANdCKqnG3XCtRprXK7H8O4l6VnB2afLt_WubRJws0Cq_u7ahR83-9X0ODdEvwQXaAQTvD2i7Z4j8yFcFd8TWKuyzC2-Gaz4ZF4KMcguO9uLWt0nrgK8vLRbwu2ibPGivhMfdlBKnMDedOKcBamhCbxLoDsqe1SUqQfQcBabU8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERBl-GkQ_VIEeFRHxbBUqGKBIGayZB1FYE4vZ0HbjhO9yksi9dcjoZyHscc4lQf6rdtul1ChiAAIU86WMNCsST7uKyxV4QwkhHqIeQNW2_t1gomQJfEPj-iD0XGYfmSDxndaDyk7uoTzKV48CLSbw5R6px_bK089uDm36ZW5ZYZLqN9YoB7Ga1S-kA9EcuDFUKUfwPpiaoV2N_fsIxIi4Kkk-DD1vneNnp1ap_jfpKFziZSqJoLZNq1HN1X8GghSItjMkniw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFikQaJ3mpbEi5J9krhTtZaL_2yJoKMY8ZgjyUu46aFBpmnlkLZbHegZzmpFOg7MeBl4CnX1fA9IqOe4gy3cP-O0_ib6qWE7Qfps4L37HDr1USIUB1-njXXZ-4ZqvllydypBlpWn-FlEP_p0YdmljNjMazTa5wyzFznyo6gSepGLiaAq-uocub1pRRuhzXIs40owXwpaDota4WX-d_5WGu6zvOZ1nudO6NCLWbXtJbuf2cUHY4ZP1AZ1PTupcYzbFMNKxoa8CfJmRjN7WA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlFGO1PQZvkYPNCkPEWdLaHC0Df8dcJMgw7SHv-mXFWUCURX_-9PfpiWSHw51BM29asWg_foViNR9XzEeMuSmz5HUfAeIDZ47r_wuHnLnx6Ii6xy_ClRyOzRlJAoMhirLS3W-dE2ueq9oaJLoAnDJvy-vzcG7EGU787mw79hYr5YhCBwlSFGwl-WTpdQfFRwtGcknj",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA2hH9bFEN5g0FASRygOMw_T6Z6AR8Rnkh66sgCN7MmMjrS_B3RxSPKiVNdmCpBtjwzF8OQyQNtJeVhze_qKcKqfN8HHxGitsSfqFVCOV_9xOhYw-GtuME_V8l_qS-276q0VZhNbvIiaf5Z8rQ39JjHAZ1_3iqj0eFMtOuI6Ab0xUqmvOheQMmsegc2RvVfuB_d99IsQttR4buUnbETSWUXnfpvcGiqv0vMiKsTqsNCNSCGDXYKOD6foDv95PvmTWb0ZJltlgTaTcYu-ZJJmP2fO8L8YU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhkHarbI5WbwF5ySmlbWhFE-djYmRh23K4iIDSWIBzu067gl7DpUsxUZxwu6fFnaT7HXeM7MC45A1MI1QtJ2j_DF-rrI6knZo68qOIaJI6xu9ER7qCSTncIRZoOjKYMDkGRvQFhTmag4AjaV94uuCALi9-7-C6V9pfwamGPIlSHhzUUOkw2nYDWjjUIjkyPgIfgWObyyay7oaQ9m20P3HmIDjLUKr88RJu10KigLCHCoLWP_wolMA77Qz3s8Stu21grWA3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyVfVE3jl8sUYT42g9PGRiXlH7GNKpusJ_6WXfaeH4pDclD5sMd9hFvL2nytVFlJND4mONebxdcp9MRzhSbGIMypJyX3Dys6A5kHjxirbvNPZ_cn6UR_y0Rs-LmHogvSP3FKOrc88m8Cpoio-G_g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN3WDfon7i2Di9AmbBk4M3woP-g2_d6jIl_ea5L-QethbR4eNqkwkYN9J-3tzI1qLOP_bzWcOZUiZ6L-2pKQVRwX8nnx4mzNYOtqhq4ihnc2xT7eHf63gJ3hhpvW9TT1dXFGq5frkXtrA1x2saaK15bBtM7dk3nW-aUA_lpAoVGfkPtUmBAhO0x0VRSeuCckr7xbGu8JqhVr-vUpAoaWbbKyLHWf1i958nqPN2mRNYquugdWfi7QgFnk59abTjXMaP8pdEWkTeJXZsYnqw4Jy2-Qju00By7tuKRb7H",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFybV_swz7hxvdnQThPaQ5CFQnyUnwmawMe6AsxZ231VmsrE0alBF2nP650dvjJin2rwvntRQn39AaKnkR4IVcVyGxoLgeRwX0PLAoA7WaqGCMa0dzQ8ipuHLuoO0oiXIC95xQu-p9T7vIRbqZ6-SCbcqgrDBJgjh4TfUyridCJ_vnp2VJ6kIuG2BZ-_OeuYBAaDhtwI2xhPX-QGezJHjW8DIxdUvgY0uQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeye1p3oVxnFNO4cMbE-fTLFuhDaRhvwbrEnR09RLPXx7mBcjLXyj3r5mMWC1zl3K9jJpTAFoKdXQGyecZrBS-8VIMaSYuLApUQOgWfh3jFtG3A8khnpWKlIXw3_DZ8mL4wsxHwpCaBgIR8Tj6VOsfBpR3QaJUMnNJKAmsDskQdB_Dxn4-9SQQ4FPwvrg-eNXrmN5dvKgHcsBVPW3G7-pF7VRAvj-F0XVym4GnEvJs_lRZN_-CCpqcs1yrbpMxOmat",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJomxa5J22evGIufcoFr-wPe3A66vRRQaH0DQiPUNXa2KZ0tzHPtw4W4LFAy136k7ElPAl8NRHwLaLIzt2P9sI69jUzMCCvQl48PSxJaY0TGWYD2IqOtaYILhcPr5Gbayom9P20nLsY7ut5U7xlX-0eFS821uRUaBzAWm385Ew3qN5ukzLG40ukIAsB0ohn7rbXYhZOxIvP-mN0gsXKLRt4CQL5C8o_7UUCX8nVr35xkqWeYX0Op7EShAIlT7_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGENWxqynSPB96pqNySArrJBDGZGqmdjm6BOSyk3cuHNp6d5Bw_5Xwl27h0_Y-78eAQbcvpykadUr3F7oFr28qIhX8MKrBLgX5tCShGgxRksGax-VBZ5k28CGVYbiJ0_Y6H1m4SqsPy_77ixkWWwue2KONMTmmiGORnUJtLQA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsNVdyXy3hSFcckD6rh2KLk_L8f7jYXxMvU77zJVfYavz_ex2orQ4cMu1hvfIXPsw91DvIPBRCZHGsxhClFQE0kRlfAOBilqPKOfcP-WuTN7RKMLTzuyAZYZlVoyxgGmzEFwYq4y1zLBpPAjqNR1EixRNF7HM0kh13he1oQaTNIAXAIRvnOljUZX-9jaolW78PU368tpqrag-2GJ_kmyyaIeiJfToEtFcmova5p7Fxm1L-inLtwX02c71K7Q73A17p1Ja9im1MGQ62lzhQixoMU1gG8_zYB_9C",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbLw0ep-FBbw7M9e2mICH4Rc2uFCYKSBBCCalrZwLZRPyKjSQAUsuq6ETD65ouFdUMRpBXERhd1JiSPXn0K6xH0xAxQDzzhJNJRL0k7zw7xkM2Lmb9FsUqoYO1v10fIOagM-FK_5wP_iJIGSHJmNm0iZ0GBkN46yw3FDFPDUiOub5asJe8jm2aQyuZwUjUsDrLMJLXPwKxsesv16hJlbQlftEQbxeT4PLenhz-T6rnI5m4styLaF3FnOamsjah5GCMSVhMy_KYfV96PPIMWJX9vanyVg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpruUo3SN3Gsh2eGL6QZa7dHiiOYJ67RkMTj1b5DP2pATaSVv7vLVMLyS4tEcfbgRsRD1Ve5v0N1kJPd6j6C3FRDuDh1ehNh_YIFWmPbiMJWI5MXRUW96CK1f6hgubwapfCRyMG-1Va2sPJEzfoQsLV_ctR0jthgXXv_tqlGL8hu4Y3T0hSfBGSUkw2c43r6DpjEYAlKZwtc_TE4EjAtfR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHikcJFsrUY0S1ft-ySqYGhT3_ue4vlemW5cdi7TkLrSituL-oSVjiKwWLabtUTsj0ChcCY1TD9bzRtvFg270zTXpYeCWg97XbNdHik5sDHkmD6hqYzQ-tAf_rDzrAdVdH088qUn95CXTEr_p0hwW5aVlnVA73HI8Hcx8O8QRMBAKBODpLWgEriFv6QigQy49rBi-yVHkWJ88=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8zhTaQjp3F2LLVTYrFxb5T-iN7TOaWWgfn330VIVec7fMmLkl33Ah1OaMOAf9U3F0GZNBcoXP4_KBuX9Y4grLXGe5e3XuDFSY97nZa9WsrQBjlEHdzhk7DVhLgxRJOLsUegBL3dgJAgNphRT5IQ38CKXwlQUId_NBFBYRvBV31Cv8TxKW12yk4-YNxRGcqa-bJW3y2VkQKwjXKe-WM4rTVuYr8fZkzlH3rLHK_TlN8s5FjGxzViIYQaIvWGseTtVUkbL3PBu5_9HJilqpCE93XsiRr2ZwMMN9D66aAQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuLVGvOE7jn0G6kF5gL3nn6IsqbiiyEYpuZnnr2eaw-ZyCMNOwtvSfnjDEEzF7LURtvMpcE6Tf2HWU2oeSx-OtMAIto1Jn18X0MrDQMD4E4j_WPVviciRPxCLCgN-e5LGsbaxQlw0woLqMmAG6h7ZIN3uMQu7trYtnfHs50tzPjJRwdGA58p6PS3UKIlidWDziSIedT_5DpNqHxCfgUURYPJnb0nHfbQzuIj49RKOVf6WQ02ob-3WeYr0Ub8zP-1__j7WRTAxedWUkUasfr6GmQiE-KmE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoyX_X0gZDTKFu__ba4_4FvrvkiCXXFk-LVQSYBY_8A2TUlyc_udJB9p0QPY0gnqMH-6vTl0R84Eay-gJGdEi82RrHF24AZMkNRF5IKCpq__yQZn983dkusamVHMT_ThCaiawk6WpJ_nCw3W_iwahPrr4aD5T1R-zbpjhkxCSQW4_Qwfonshdohvr7T_CnvJBeUZDX",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-nuBJjDn2Y-_60Bm3FzEvho5p2MFjqghygeljVycP8CQEBUvh4Ewbr4ZpJkLZLNyhT8l1RUbN320ptl7WuIxVwpvuBR-nEWivEzPbSX1k7DwwHIPrO4Yzo9GPZ2_euCYVN1wRZ7d14FlEyQ1J3q6--5q4hSOTUGxTGzHSRZvkJg_fMqddXXX7HmxRJ1fjVE9Y4KSSvCGOscLUkyTL4HRO5ru-a5O6Pg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWHy3LMdURi_OtpbFwVSUDUNl4mdhKMPHv7WWvvduGwbVR3uc_lcoC8feW0MgRZqEdZ9eSMIEV1_tj4nvbC9NlxjSm3dhwMhnfibh8VPA6fZ9mlEexKmP6OLxf2MksuknyFEWs9JKf4MICdCcVdj6IVzBLhWw1D0xk8lNozFLW7mrGU3FgTnpBM2DbukcSrRVs7gFDrQDQ3D8StAYq7ZyrI97zN8TkLle958eLbGjfi7wkv7___27UrvR5uVXnSU5_93ibIeKIIThDED0mSkk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBA2oYUaPJLSLnNQahowbmVAinJiYzsv-1f7UVWzAYnJsOUUl4uVMSkLMX1kunAyWZQuvdai2d7h1v8pNCF89i3QxJjE7xuX9YJ80G5BQqElHFYIhLADDzL-gvphRTV5wAE7i62d8x0BwrBGxngE2nflkzr-kik4xDdIMk-YXYazIlusGl5R_zaUmvIQZ9EeBLsko4brXCUGD239GAfHutkBbKqmAAMT4sOOp_46Fq0HZmkZTmeBLj-yHmzPxUhsUxY1fygA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T17:01:38.261836+00:00"
+  },
+  "performance": {
+    "primaryEvent": "High Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "High Jump",
+        "medal": "GOLD",
+        "category": "2026 Asian U20 Championships"
+      },
+      {
+        "event": "High Jump",
+        "medal": "SILVER",
+        "category": "2026 Asian Indoor Championships"
+      },
+      {
+        "event": "High Jump",
+        "medal": "GOLD",
+        "category": "2025 Asian Championships"
+      },
+      {
+        "event": "High Jump",
+        "medal": "GOLD",
+        "category": "2024 South Asian U20 Championships"
+      },
+      {
+        "event": "High Jump",
+        "medal": "SILVER",
+        "category": "2023 Asian U20 Championships"
+      },
+      {
+        "event": "High Jump",
+        "medal": "GOLD",
+        "category": "2023 Asian U18 Championships"
+      },
+      {
+        "event": "High Jump",
+        "medal": "BRONZE",
+        "category": "2023 Commonwealth Youth Games"
+      }
+    ],
+    "stats": {
+      "personalBest": "1.93m",
+      "seasonBest": "1.93m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        1.4,
+        2.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "athlete_id": "shreyanka_patil",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Shreyanka Patil",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2002-07-31",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=ZU5UNrDFlPU",
+    "bio": "Shreyanka Patil is an Indian cricketer who plays as a right-arm off-break bowler. She was the leading wicket-taker in the 2024 Women's Premier League (WPL) and played a pivotal role in Royal Challengers Bangalore's maiden title triumph. She also became the first Indian player to participate in the Caribbean Premier League (CPL). Patil made her international debut for India in 2023.",
+    "birthplace": "Bangalore, Karnataka, India",
+    "coachName": null,
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures in WPL",
+    "result": "5/23",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Shreyanka Patil's 5/23 against Gujarat Giants in the 2026 WPL season stands as her personal best bowling figures and was the best for any bowler in that season. This performance highlights her ability to take crucial wickets and impact the game significantly.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National IPL Record (Most Wickets)"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC World Cup Record (Most Wickets)"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Outright IPL World Record (Most Wickets)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2023",
+        "2024",
+        "2026"
+      ],
+      "runs": [
+        23,
+        8,
+        12
+      ],
+      "wickets": [
+        6,
+        13,
+        11
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        60,
+        85,
+        70,
+        90
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Shreyanka Patil was the leading wicket-taker in the 2024 WPL season with 13 wickets in eight matches, demonstrating consistent performance."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf_ex4esuOEjs4_iVJpHzmQjUSFH2c86aGVOfIT1S7iH7WshKwKiy8YuEFt0iezzEpUQV-pGdiudyrErcjn2oDkHouM8tF89mZ_e9ca7sFBBVabWbvVNAM1EMd0JAL3eqe8Pei-Ed9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1zXfR0yyDLBee8go8LMcy5E9NS1qXKQt8YYb5u5QETjmKjkTb-OBUolwz3SpcM1On-YwijWK-htwyeqHBoDcjANzTp5NyG9XMmHS6z5xC8QtiO8Sm9RMyRWIJ2yd5RSj3oXQXnpXYn7bx0XXEvpMGcII1_r4="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:54:34.886532+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "womens_ipl",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 109,
+      "ballsFaced": null,
+      "battingAverage": 21.8,
+      "strikeRate": 151.39,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 429,
+      "runsConceded": null,
+      "wickets": 30,
+      "economy": 8.73,
+      "bowlingAverage": 14.3
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "patil",
+    "shreyanka",
+    "shreyanka patil"
+  ]
+}

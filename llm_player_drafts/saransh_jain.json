@@ -1,0 +1,177 @@
+{
+  "playerId": "saransh_jain",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "saransh_jain",
+    "name": "Saransh Jain",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm offbreak",
+    "dateOfBirth": "1993-03-31",
+    "birthPlace": "Indore, Madhya Pradesh, India",
+    "heightCm": 177.8,
+    "jerseyNo": null,
+    "debutDate": null,
+    "profileImage": null,
+    "bio": "Saransh Jain is an Indian cricketer who represents Madhya Pradesh in domestic cricket. He is a left-handed batter and a right-arm off-spinner. He made his first-class debut in December 2014 and earned his maiden call-up to the Indian Test squad in July 2026."
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures in Debut First-Class Match",
+    "result": "5/50",
+    "type": "PR",
+    "typeFull": "Five-wicket haul",
+    "opponent": "Tamil Nadu",
+    "venue": "Chennai",
+    "date": "2014-12-21",
+    "aiInsight": "Saransh Jain achieved a five-wicket haul on his first-class debut against Tamil Nadu, showcasing his bowling talent from the very beginning of his career.",
+    "progressData": [
+  {
+    "year": "2014-15",
+    "value": 4,
+    "event": "Ranji Trophy"
+  },
+  {
+    "year": "2021-22",
+    "value": 21,
+    "event": "Ranji Trophy"
+  },
+  {
+    "year": "2022-23",
+    "value": 28,
+    "event": "Ranji Trophy & Irani Cup"
+  },
+  {
+    "year": "2023-24",
+    "value": 27,
+    "event": "Ranji Trophy & Duleep Trophy"
+  },
+  {
+    "year": "2024-25",
+    "value": 31,
+    "event": "Ranji Trophy & India A Tour of Australia"
+  },
+  {
+    "year": "2025-26",
+    "value": 20,
+    "event": "India A vs Sri Lanka A & Ranji Trophy"
+  }
+],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "5/50",
+        "holder": "Saransh Jain",
+        "date": "2014-12-21",
+        "venue": "Chennai"
+      },
+      {
+        "label": "National",
+        "value": "8/61",
+        "holder": "Narendra Hirwani",
+        "date": "1988-01-11",
+        "venue": "Chennai"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 54,
+      "innings": 85,
+      "runs": 2223,
+      "average": 31.75,
+      "strikeRate": 47.7,
+      "hundreds": 2,
+      "fifties": 14,
+      "highScore": "103*"
+    },
+    "bowlingStats": {
+      "matches": 54,
+      "innings": 97,
+      "wickets": 188,
+      "average": 27.3,
+      "economy": 3.01,
+      "strikeRate": 54.39,
+      "bestBowling": "6/75"
+    },
+    "seasonalData": [
+      {
+        "year": "2021-22",
+        "matches": null,
+        "runs": 57,
+        "wickets": 13,
+        "average": null
+      },
+      {
+        "year": "2022-23",
+        "matches": null,
+        "runs": 360,
+        "wickets": 35,
+        "average": null
+      },
+      {
+        "year": "2023-24",
+        "matches": 8,
+        "runs": 432,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2024-25",
+        "matches": 2,
+        "runs": 136,
+        "wickets": 16,
+        "average": 68.0
+      },
+      {
+        "year": "2025-26",
+        "matches": 7,
+        "runs": 518,
+        "wickets": 30,
+        "average": 57.55
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ0d0Fnn7OC7vmKze3237ilcxQLp1d6YpamhpXV5HjEcGqXuoY6qgfOzu1BmmZKtURctEzHuoOOWlyMM2jHsEFWlekiBP5YaTRoAKdkKqqVdpW_mEtyVqoY9cj-vr5FWiLWwpfH7sGL-ivOA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPGyzOMPfzuf2LZiTKKXkdwXmTywwa2IXxcePdJMpmvIqaSyuEUBl8kw2YDcXfmUd7lP2Xs4I-_WJ1vW4SvrF17iTjqS9iJhIoS3kzqyimSW4w5LZ84a1SsIkTeC-smeHUczipviksDF8Pz1FnDr9YsO0UX_88SUDvoD8OZPYcOmfjUANv4VCLP_xNyjMZz8JH435W2V7-4kzbk3LMZRwWwcM0ODOOXTUqIPrvV27_WdCHWUDmtYOmH71YkQpJaCBA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5Ex3hUqA3PbGpATIvvwHFd1phxB8NgFjXCRR6UZYG_OVxb2qahCuDS41R0Z8QD9jwP1XDYeOX8gp8Wsyn6152eYkH5bsdT7re17pCKnD3Z69JxDEUstQgwL-yfQ-bkOEeajGI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtFWKM0P0RqUgoa7C7gemTTTnE5gS8EOUBLRkAHWY7nLlhZu16aPzq1TLMfSTehHNtGBSk0J9xjqk3ibhWOsBpiaSi3i87-OI_ppfLzn5hmRwaZ-4jNY-xe5BaHrL7xz93hw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFI4k9ynw67j0_KQ_PyVF7sFY2azbFXuI54TyC7ycNMYWh_LwZ3SZhKLLND2opFXyEty8dAL1Gf6s0nTqhYJpErE-AnJDnPEGkZdmsBYwH9r4xHGUnMFJdPiqQjAT7qchVL0GfAfXeqmmYO-QM86kfsxxxLhu4gNJd5B0DAojC-9wL-JviBqEC9nSrGp-xAWhP_vzeevvMY8Pl8zZY_9IakZpw3WtoWOrqc63Czie3EjiawgTlHGHVUQzRo_cDvY9eVi2OFEsUlLeDxGGQl_c8R-1Wd7aIkV1h7Vg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS5wKOX3AyI9_vJHFhKOJaGG5RCK5_fpLVo9Wpbm69VKPV8vwI8Spy7KzX1479KoFaMY1Ot_4lkVpu6IqKqzTWVpM2O6wFm15AJ-H7g_naBejOE-mVU6qWenptMC3Vf8TG_zQOUD007WmVTVqhwxYgy6RL_Kwy",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEmyYXTMtNtvxS6tFjhDMbw9fwhJy0vJf4RmYvfeJTiM1qI8Va4TkcHU3iTlrX4tEBo5xA3TjorHG4xeYCGPFRzCaK-Z72T_GyCOs2gZ07I2ViraykH33Doo2gAEqRKDpQs5GWZvKXj7zP854uqVWWqcOh1aZMKBkk40V2OhziKfZFAHPXA2iAdTOLYOuQJFlaY8DEO0YeJ1fSjpJcdjSdIm4AtukWZIzXofjh9FD5Gc-PUATLQdZxB7iFM_I0YkK4XbMOntykvGGssaZZk9cH8RBrn1KIfxGefsx7QJwSxfM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM0TWURyip7Iga7v_xWe0-RjDNEgi4EcDtCBpaQ49VDXY5UR_3KpBHu_CSc16ZOlrf-fzg5OW_CtZXINSKS1asRuN2eRlms8GQbv7XXSwmxrrbmqJiUpIgcsoCODz3TbA8RnFFdprjEMPeG3Dkvsc8VbPmNi9ZWHvh3CvoqECcbzYXOWrGX0lDRBET8gdm2NSEuKkAQgNbRVO8pb0LaIep-1PbBjmvVXGqubkLoBvUAL2bQOvVZU9snQBHVYZ-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIA7qLdxBAwUM_Yasb7yyHNWCZRuI9gkCczLOCHrvLN9hwh_J6rzijuuFLHT32g49jDgvU4Gn94fwGmxl3asLOhJSOVwnNSynLQCRpq9oUqax29M5Cf4GdkE-GZdmlEQhPzrkpZd2T-ocUokCwRckGH_TPqflXy6sHZwDpNOenLMTn8iP9gd27Rj6NadYTAY8vJIKuSb1yUzaWOnJf_nRyIh2W7NRWDwRuSDeqzqu0texOUpXFN-B8EMmIzSpiEaRPyliZZSBRJEu0sA1lWl-O0LziOHLeTex7kdgnoIemkG7SdiTsb7SqFSuANFW_ygwlimMejcoX4pjzhQ1uAXAnOx-h2k0mOOFWZi7xcEBOLHTys0uWYHZDRvNJ4WNB3A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsCU9ac2JQcw5Vd8ztE128qUV8scGP2AE0S7Zzc3xeG-4oL3ujmK9SPw1qSzHp-WDEYDiSJSwDwwFOqbft0SdyI51TXyPohPiZIBKMw4wJRdfZaS8VMBaqJefDHT3Yt8tk2u-d2KX6omUNzNwo-uDwyNaVjl-6gRa8eL7gnHS-8tyYrHcw-15z_QTqiXOU1W5PfoVKP3tuTlvxzneaxRvOjvIuduwrBJKWEFNXYQOBodDqn-FHrT4Bv8UieKWlQtlHqGJjxt9FHrtGh9F5edi-vo_s_BnwnEjYfIxQFRwo0yg1JANjeNe4U74=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0Uh9dQRDFGuOLl-25bTA06gul72YAW6IXZ80EHY8LcH--6pzsQgLfwRqaGr6wgisnpW2FAhqlUiWoFDBM8So5XJU8CQAzTOwpViMW_n0vocsJ88nGucUbpd7_HYx3Df4IvWIy1eAHnteFtLDgCgXkBeuj12R95dwOZbviHPzMF6jFLxha9ceIXvYev0b5soq1kSM-MCLaUBX7ClatvV68TSGFYWGFhEXKCYLpa5J_x7c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9qpYV3m6WAeu0s_UyAM8qV4-xIy4ZjKpEIFeB1XZSBiurGYyhY8_75zFNbsICM5sX6ixY0VVAc_uLNwnBD4KFGSbPddwSzDroQwu5uH_o-MNyziHqX66B25IzKRPYBh2ViAx68E-fGQu7Ih_3qeZPx6Fn7219ycRhkwjtrrbcOYl8TQgfzFFxfAG2Tv-0Finlz4c_EK3IVMk8MZMBf33M2Azrxb-YPTDdLzPCucMsvY9d-ZsQhJ2UzjAx44uGxxEkRg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkPoV1zrxyz5-hP58ZsJRc64qjEMS5OxgBocEM3QuMAxjZ2FZxgJK3yxtu8_w5GoNGHjhDozBzOzpzTb-Yx_tWQl1iQSe4FaVID_ELZu80TPXYBqNjqko-rQgeFHpcQOkTNzhF-JG90Q8TQx0K87FMLQgc4GfyGy6NWmhOEFAEwSwbJlCxGP19N6zs4jufdhALE0cxaDiWc8vCqmONNXYSdO7FXy7wC_S6kUlvGPpLoL_pa2XbHjY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLJ_tsFZvhtQBHzY51h31-oxIoorxWxws0cv56NiUhaqfHSbXwBWDW31O9dWTrM62splB82OpWdEnlCgiesKSzbjWUCwnu5AkI15JxnDcmKERg2Y4JrzN6la_aJpHkPkqiSghmKvbMwT7hSOTCP4JcKze6Qyuc3y52PpZ_8bOYXeAVY8ycyKud84Ik-Vf_JwBpY4IigwY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMUbPOiE1rSeRuUPgNtyiBWonXHCV84MlDheGJog4ZIoFLsU8V2wjbI7koInZMnxMBN-3NN0Pm94qrjyOZ_iF7VAjXyq_MyncpZUfru01EIdpHURGnJQcXYhxopUWxwFju3lW3AeYJIoeKKcVZAVRMvS3VWdFQ2UD8P_2KZcqHpwcij5CkUJzlLsfu17SLQ5WQV7Lm0TkUGv1YOFYiISODQtTp5daPyo5F9ydCK4EcAZ9yVefJloaagPGLinlRS_mevdBqOruuNqxm"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T15:16:52.157023+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.debutDate",
+        "record_highlight.progressData"
+      ],
+      "filled": []
+    }
+  ]
+}

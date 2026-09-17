@@ -1,0 +1,442 @@
+{
+  "athlete_id": "praveen_chithravel",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Praveen Chithravel",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2001-06-05",
+    "heightCm": 175,
+    "weightKg": 75.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14841034.jpg",
+    "welcomeVideoUrl": "https://youtu.be/SQetNfOOTPY?si=AGRIOBvPTrq_cF9a",
+    "bio": "Praveen Chithravel is an Indian triple jumper born on June 5, 2001, in Tamil Nadu. He holds the Indian national record in the triple jump with a mark of 17.37m. He has represented India at multiple international events, including the 2024 Summer Olympics and the 2022 Commonwealth Games.",
+    "birthplace": "Tamil Nadu, India",
+    "coachName": "Yoandri Betanzos",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Triple Jump",
+    "result": "17.37m",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2023-05-06",
+    "city": "Havana",
+    "prevRecord": "17.30m",
+    "prevRecordPlace": "Bangalore",
+    "prevHolder": "Renjith Maheswary",
+    "improvement": "+0.07m",
+    "improvementDate": "2023-05-06",
+    "aiInsight": "Praveen Chithravel broke the long-standing national record in the triple jump with a leap of 17.37m in Havana, Cuba. This performance not only surpassed the previous record of 17.30m but also qualified him for major international competitions. He later equaled this record in 2025.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 17.18
+      },
+      {
+        "year": "2023",
+        "value": 17.37
+      },
+      {
+        "year": "2025",
+        "value": 17.37
+      },
+      {
+        "year": "2026",
+        "value": 17.08
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "17.37m",
+        "holder": "Praveen Chithravel",
+        "date": "2023-05-06",
+        "venue": "Havana",
+        "tournament": "Prueba de Confrontaci\u00f3n Meet"
+      },
+      {
+        "label": "Olympic",
+        "value": "18.09m",
+        "holder": "Kenny Harrison",
+        "date": "1996-07-27",
+        "venue": "Atlanta",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "18.29m",
+        "holder": "Jonathan Edwards",
+        "date": "1995-08-07",
+        "venue": "Gothenburg",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "17.37m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Triple Jump",
+    "achievementLabel": "Commonwealth Games Silver Medalist",
+    "stats": {
+      "worldRank": "13",
+      "personalBest": "17.37",
+      "bestYear": "2023",
+      "totalGold": 4,
+      "totalSilver": 4,
+      "totalBronze": 2,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2018",
+        "event": "Triple Jump",
+        "value": null,
+        "rank": 3,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2022",
+        "event": "Triple Jump",
+        "value": 17.18,
+        "rank": 4,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Triple Jump",
+        "value": 17.37,
+        "rank": 2,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "Triple Jump",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Triple Jump",
+        "value": 17.37,
+        "rank": 2,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Triple Jump",
+        "value": 17.08,
+        "rank": 1,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+   "medalData": [
+    {
+      "year": "2026",
+      "tournament": "Commonwealth Games (Glasgow) & National Inter State",
+      "events": 2,
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0,
+      "seasonBest": 16.92,
+      "seasonAverage": 16.65,
+      "currentStreak": 2
+    },
+    {
+      "year": "2025",
+      "tournament": "Asian Athletics Championships (Gumi) & FISU World University Games",
+      "events": 2,
+      "gold": 0,
+      "silver": 2,
+      "bronze": 0,
+      "seasonBest": 17.37,
+      "seasonAverage": 17.02,
+      "currentStreak": 2
+    },
+    {
+      "year": "2023",
+      "tournament": "Asian Indoor Championships (Astana)",
+      "events": 1,
+      "gold": 0,
+      "silver": 1,
+      "bronze": 0,
+      "seasonBest": 17.37,
+      "seasonAverage": 16.98,
+      "currentStreak": 1
+    },
+    {
+      "year": "2022",
+      "tournament": "Asian Games (Hangzhou)",
+      "events": 1,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "seasonBest": 16.89,
+      "seasonAverage": 16.68,
+      "currentStreak": 1
+    },
+    {
+      "year": "2018",
+      "tournament": "Youth Olympic Games (Buenos Aires)",
+      "events": 2,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 1,
+      "seasonBest": 15.84,
+      "seasonAverage": 15.62,
+      "currentStreak": 2
+    }
+  ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 88.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "16.0-16.4m",
+        "count": 4,
+        "throws": null,
+        "percentage": 26.7,
+        "peak": false
+      },
+      {
+        "range": "16.5-16.9m",
+        "count": 6,
+        "throws": null,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": "17.0-17.4m",
+        "count": 5,
+        "throws": null,
+        "percentage": 33.3,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Praveen Chithravel consistently performs above 16.50m, with a significant number of jumps exceeding 17 meters, including his national record of 17.37m.",
+    "peakZoneLabel": "16.5-16.9m \u00b7 40% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "18.09m",
+          "holder": "Kenny Harrison",
+          "date": "1996-07-27",
+          "venue": "Olympic Stadium, Atlanta",
+          "tournament/meet name": "Olympic Games"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "18.29m",
+          "holder": "Jonathan Edwards",
+          "date": "1995-08-07",
+          "venue": "Ullevi Stadium, Gothenburg",
+          "tournament/meet name": "World Championships"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": "16.92m"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": "17.37m",
+    "coachImprovement": "Data not available",
+    "coachJoinYear": 2021,
+    "coachImpactData": [
+      {
+        "year": 2018,
+        "value": null,
+        "period": "before"
+      },
+      {
+        "year": 2019,
+        "value": null,
+        "period": "before"
+      },
+      {
+        "year": 2020,
+        "value": null,
+        "period": "before"
+      },
+      {
+        "year": 2021,
+        "value": null,
+        "period": "before"
+      },
+      {
+        "year": 2022,
+        "value": 17.18,
+        "period": "after"
+      },
+      {
+        "year": 2023,
+        "value": 17.37,
+        "period": "after"
+      },
+      {
+        "year": 2024,
+        "value": null,
+        "period": "after"
+      },
+      {
+        "year": 2025,
+        "value": 17.37,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 17.08,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWBayTNJ8fr1nuHF-cuV9kxbLdjpfrYJQclR5bt90b85z-S5s9ziF4EvJokYFfJ766hM158aDcj1Vfk1aJnpon3Xq9J4OBiU33ciW8VuL5Bp4cs3MM1LVstg91_GG-cBZ1JCL3DgTfreWicQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_KQDrpw01_5nR0yYUl8agHX2v5PM36U0Tq9tVxZkbLntQt5Ju87sX-yoK1X8NVU7h815eLCe_dwjcVcDYHSgmGWGO7FphyaQnQVluyuxEO88oGgfg8LX7MWmh_SFi9zpTiTwH4pP5ZbZMlGjLYQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1rS_xSLLg7cjNEHmRVSCWd2Avb0kRu4e93yXX8HOIyZUciyFyG4Bs8qSdWkNfaV0UdtXAgmVzMfob6pcN90EHwxhJP7hxt8FjGYutAdL4_GfqpYTSxWl66b24D4_DqFOaLFO7_d-vhZUEsySVaCvcvSeyUjwtLXwYKDVAMhuUgdqzuDck4cj-tXPfQiQk4f4Hecx7cVaAmdwR6DQnxf2mCbn2aeLRic4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjCkBd1ezKWg8JKxD-3J-n_sDOby1_cpWJqfn_uxGnmf0Tzdyr3SWomrHn4Po1UnIt-Xq8UKAUIijfxpUPfYgCVVL-6THc1GFyY14CxpS7a9haAhxh0lUpTKInTJzmO8qtUg3Q_L1aS1GE5R9P47rQMxphXVyodlzTSq7ckj5CgJYnTh4roBeeNjFc6w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJjDaJtV2xEVs-4eHWKEbWZuWgd4W5cDZxrz55SukkOGwlTexxcG3RxESDgLR-QTwmnYVbB3Cx-jhL-hoPfgElF3AeZFp6Wi86NIUZ-3wTD473xLB37oc-GsOszQHUl50pHMglBjSalhbyMZAcYlj7nFFxlnJyPwm19yUoz85GVomDx5p5X9G2Yeap1poek_2S8Rp7CKlJrhzej-qLbCOMtLimfxLNAD7YSt5LpcE6zxqqnK12v8BAgQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTtJ_1GD3TnaFJaC87hscVM18NfdWRO49QVzaNyy2GC8DkUMCs1eZb-thk-0cBFEGNGgdaIuBh4CC9B0BhLI1LVGNmJ8gHfxjPwppWb6sGLcQp4lwOut6H_4QGtbdsgS7GtSmfEwT2yiLmvJWJPsuaEotGK4PYSARfwD8MXwX9DoFDeSwSzyxQkny979_pd94hcy8uJqdfSvcOEA-DPMi5pbhHOdJnwLf6aps_7SvrT2PTovFX4owyuC8c7rB04KXg_z7XTgpM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw57kxifs5KaglJUDd2L-nu1k9Cs2_0AXOVUi7ja_Ix9ylSjYBpz4oc1FkKa31IhA1PPOE2TFfTswHn2K-e5uxcACJkaKaXNyg5w3SCNwEUpaSFXOgUJdkUkem08c-okpm3gQeMUg-Q_jBeA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDPDrmWKokAe0YTEXNLXpUfmdMwVRH_PIE8yhO-cgf_7kIM_BLMUGSXlouuhOZykpeZpZ0u3TuybFJXUyJ1J1dVYbu-nUby0IDaF6bQ145XZJ_qkh3Ec9yFZymehFZ7E1o4MRuON3cdnBa-C_VFN8OrVtwKVh0Zi8ax8cRYlDcyg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdDUuaeHdgQVAmsG7dE3xUIJZKbGYWOfRWmvUD-nKk7BvRLWXgQU2qOiiSa3wFV8eOeBO_i758YIuZfOQewHYtC_p48EY-Rt5ctZ6QrlGipgLHjy6t1F3HNYv5xmdgMBo2LjONBrzIbd564WCmtcj368mCl6dbz_cKapTivxF06QO6ZSWdXfl36QC7SBPOzoYDaTLwECSWuH8Ndi_ey4ECbgurWEKWpp8a6NnAw73u-SBc19pl_VNTaE5wGcS4YSOh98n-7mm8YEqUZ7iaf0LDYFIDM0sZp96iW4cW3lbOsH1ZYTo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk4ZZuvKAek2dYMXIxxgfe7BZ5b96tQou4xLEKU6gPh0peh1H8GqgUt5ynEBO70mrRAWF1Wczr6tISBx-4OJxzh8b3YaFtun8m7yzEG2sQVZ0muM__WlG2QFlx_TNmNTkvgMqqva2YHw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgjsllCwXftGV_EpAWHCQwRds702BRmVsRYWNf0U8gbp3v4Zr9haU9uwn98X4-FSf04AJU1WK2aflo7mqr7EPs__vlWVEPQXvT2W9iDg4-FPDD7OKMKZoEeQ7Ch-UvIihnewhevT7yxLUJNJCsKA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGa8oCjn2jqCQ2vcGUCWhV4jLkwXkxgPNPfr58CXUIJZc7GcChoya1jjRe7rHHYpfV_T1dUI0jiwnHKie2aP8QjdhqYwux8X2ubNXMGrH3GdcsxltUDeX0hWoxM43WILY7p6hAuj7zbqXg7NWcqxaYWu8MYIburtD5aLxBfNy745pHxj2RGI33CXuchkUf9ikhN8oXPdKQdNCJPlBvXLiAYLFMC41qVFoA8vljikxftJYoIKfdmmkjVr4kxgKdVo0tp-2Mf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnnIq0Jre0HK-dQWKlZCg3jjSzoie0KkrR9IZbyCp9KZ4hjI6avCvnR8LqEdza-Jep5sXaqMCDNbqRLA3uVq1V51v09qV0zdecwE8ajrI3qAKrc8k6syIrnPGj4dPnYE_xC6wclGFxnr3v92BJteWWycpN-2pO1uOEmVmM20RDwe_Egjm5nTXfYdU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH74M0IZMiMwQA-MyW9RURSEEJjF8Aj4cHN5vnN0le-epifkvyWVjSVy1rJEW1W4D85NEBobML3QtUryN5z9enqa5UUyuQRQ4hKBQapV27wKZs1y9y92eFOK1kpPU0DzoPDRnR6HwyW180EW8GGAQGd6Wqtoc0_F9jmT1pELIigAsJfcSyTSq2ZX2MVsnmjM6Nr7rg-RaaamXVntUkpUg1Z7tlpmqxj-Arn5Kr7Fjh--WYTaDkimD9fKe_ds6wFqcTg15f6inHQusfEsWrbaba2hkRND3VNDJNicwjo",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZWm90YXsk0m12OhFbcVi3YTSGbDVz8iWuARrZBL05ecZnVk3iOVK8mqWuk8xQAcPeXnNk-PhB_A6FRYbjViemM6iFvE25BfoqmdwLGNnj4uAb4vaOBM0xVizm9I8Tdzoe-g5s_ZgdFV5avw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2yc1LCIsbcSodXkhWWxph_Qik63nDR6Z5GjdyqJkzBXrcr9Ub3zyxBdBUnYemFAFr44AFRTai3DxGD5p0S67FLKpjjD-F4Ehgf548qFdHbUX2-opbLGeOM91spUKqJdrYbroCqdgKdqxz8ry-yZj8hm4tgL0TsfcSCWOF8Adc1L9QYJcSJEHJTyAAKUizS89M7KOHxOqZT_KwH7XSiJJS6QwuNH6aKS6xAnDTtmWBhPVAsNOEcfVGTw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjh7YVYQiCgFhS1i6LPK8mtlE56SvE9FvtshseQ26QcgMX2uZQfI8P8qGGWcrk70yQyQGmjC1I7h3xf4nOj6eEIax8YrSTmruyNpb1Qt9LKrmWqsPoh64MmAqDntfPD1deBfpHpZI6SlvDNaCRDZZmQ_esil3RcYdI6r9ubJoK5JWRXh9uCVzFAabyDf5Ux2GqeA-kzJr7V64LdaFKNj7UCRM9PVlQJy4WWriCN_zguJ610m1gfvoHHm1Fb9Sv30pumOGzayqpuFOEs7ZPdPW78L6BY1Nts9QBZu9_7XMX8udWub0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIkyWgKfmCJNQhWlvMnqUCUb_DDrJvf0BaJdDUpEv5bXhbew6mLYPmT7139PQrG1DPmuiG0jkx31AufcRHFzoV4gAIo5yMjPm4y6d3ATolpIQ4YZC9Z4bOryn2rbZGawZQrR1Hg69w_w0Big==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_eCuO0Ch8CXhcTZUwPqT40ZYoQ-iIbKtqPulUjfXntWWNv6VpkOuC_ZvmOew8b2g1OnWFr20dUK125urYvXlFbwODABMi5JK0UCerAaMvDl-cr6L4AEi148GDGM11Yr1Ci7RwXLsWb1mlhRVzOw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5pZygWFdO4l_o14A6vAcWDawMV_e8Kw1ierz01XrUnnKIl-nXetyXBm6sz3-WO__JOmtAG8kuZC9Lb1zmBht-ULawCLSwM_1uPGqk3UuRcwZbq-6GfkvBFoJcHkz3zXTJoIukv5YTKfGZoGopW8pvA-NHuBj7jpME4Ub00EVNrER2ETu0bKUlaGA-3exxng3hmBZGP5eP3AK0KIEloSrZyhtKdkpXqT7jvqpTrD0wfHeYl_enBfhVnIcooxUa6TmNVvdr",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl0iBhyAa3vkVs-6X3p3PXLlK9ppDdibsDjcv28rUcxZfpFfnX6QX4VncqIY0lzmtNvfCIpW4TXdook1J-or4ZPlb7xXG5r9EzUspoYvRNF_snQTYNkc8JXSPbHM-_yKRJSgQc7sElzhh96U_Hy3OlThlo8BALv3ALMxdKamPjUO8CNmu8uxzw2S4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqGKz8X2CkdMLaKCN4pdxLZJIioAJKTHza7ZZnlnJ3iVmX2xvZlvWKf75kEOV93WPwkkY_frcMyd0tdUto3fVhqsrrExJq7PlNbOsxlYdLTLld6w8E6d-1nQ0sPIvKy-fb-ijZe20JiJrddoKCb_QvVtt38R5S_kMGHnko6RKohw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW6JwIw5CIh5ZmDJ6wQqRczoisBS9oaBBtqFWZ7tVoYyUxwZTKK2OBxPRAtIZ5tAkrJTZVSGdf6FPcH9qF78hKU5ga7t2T-9XwoubVHLEN868pJDNSx1vIwb5JVIMhaXuVkEHywRi8vc1hzKC5KYcmQKBMnYjEcGTJ4bPDWJT8nDSu-tbx8n3zbDsyQ_OSkaYNFbIS7SkN8QE3pckKWjNAAV1HvFV3e7HGq-f_wWyTdEBPLyD8ETT0Jw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElTPiqQR2dU9J4hzGHcKUU1itDD_m5cgLv0mX-L6_U8ds1UjV_j5-964iI9OJQePhfE5jIVyjs_Z9YzJt4J-JN6_vUhTIWSYvcXvHvVIk3vhk_xKms7OnvsJol4tyffGWBmZadf_IjFPptC4rWheDooRjyFR_p7god6w0oFRunv0cJLcAqlkXyydcnBYHylM1A6myATu4lo3Zq04t-6SrMLciMmZNXvr4yjUzFJgvEguHuYre8RzfdZ6kjQLJugYe6guwURhGVTTmE86u3eXlA6cmrQrxKEg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNcl1pzAx6_KFeZRMQN0TFJGsZuJ9hRTyq_iGdXwhQ1R4J6Opvjk2xKsy8DxhUU1aZnOzsZ9u0Sct1XylfQfS15XFbrGwsGVXrxBgPdozgXsRBXFo9GA7EVYgeLvA6a6OPGM_iqrA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMUxp_afIOILCxSyKmnoLIQa5W5GFjTDdpYYzZCoRSTSwuqAxM3-luLMAIIHsX_Hd7ZvSrNA8_OQZmnZa8w5FsCOH_a96nkVNEhwzB6O14z4Rl7z3bY8dX90wa5XcCvC_FFoTZDTdTKqpw1OeU0jTLJVz7xH7rCtBNUzySi8UbAx1zWY1m5a7ETeFM-OTFDClWcXXkFT294s4cGglLx962BOROqAIReKzKKRW1ARjZyGMwbYJTxmc1Yuhpss6riRRS",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa53dR8igq7K5n6i9JR714XFxDGok0l0zjmj-lXKyO90qJb-u1IEYJnU3928mX3D7Uv5jtkg5t1_t24NcrpBU3VwbQpJ_sr2thIqUoRcfwtpo7QlEKFlzNe9kGgVnzLgNh-D3Q4YR1iintKZB3uULuW4fDVlSdSfzD-0-lUkZF7AWFPVKT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7yBJYK5U2GoxQMsEnJwdLVUwTIUCtmDsr2opAhlZEkMMWxvvwmmMFQn2h7ibz6JY-C57ksaHy8tIxBDWMrdEWDMPRTripsSZj3KTm2vsBo-gPInJEx8VMq7qc2d4EGnBakPYNhKY7aMsR9PmI6G1RLdEgXfGtvahyBscj_WfwKhRyO_vbE7fVaY4htiE-Bk5r1Qw7xPLeLM2hjNwCKe2tBYJFYD_dqD3X93oqQCVRpNSYc-fX38pqopcus5x-kHOzBthIdfPLGM9MxW1Vht7niT-p2x3dV14wV0Cj57oJ36oVdkPfnZT0yhbH"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T11:23:13.387463+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Triple Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Triple Jump",
+        "medal": "SILVER",
+        "category": "Commonwealth Games 2026"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "BRONZE",
+        "category": "Asian Games 2022"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "SILVER",
+        "category": "Asian Championships 2025"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "SILVER",
+        "category": "Asian Indoor Championships 2023"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "SILVER",
+        "category": "World University Games 2025"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "BRONZE",
+        "category": "Youth Olympic Games 2018"
+      }
+    ],
+    "stats": {
+      "personalBest": "17.37m",
+      "seasonBest": "17.08m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        16.0,
+        18.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight.benchmarks",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

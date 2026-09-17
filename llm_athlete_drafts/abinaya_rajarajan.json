@@ -1,0 +1,204 @@
+{
+  "athlete_id": "abinaya_rajarajan",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Abinaya Rajarajan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2006-11-21",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/l56Z3y564Yo?si=HlbC4rAXath3HmIG",
+    "bio": "Abinaya Rajarajan is an Indian sprinter who specializes in the 100m and 4x100m relay. She holds the Indian U20 national record in the 100m with a time of 11.34s. Rajarajan made a remarkable comeback from a career-threatening ACL injury in 2026 to reclaim her national record. She is considered one of India's brightest young sprint talents.",
+    "birthplace": null,
+    "coachName": "R Seenivasan",
+    "yearsActiveSince": "2025"
+  },
+  "record_highlight": {
+    "event": "100m",
+    "result": "11.34s",
+    "type": "NR",
+    "typeFull": "National Record (U20)",
+    "phase": "Final",
+    "date": "2026-08-22",
+    "city": "Bhubaneswar",
+    "prevRecord": "11.53s",
+    "prevRecordPlace": null,
+    "prevHolder": "Nipam",
+    "improvement": "0.19s",
+    "improvementDate": "2026-08-22",
+    "aiInsight": "Abinaya Rajarajan's 11.34s in the 100m is a significant achievement, marking a new U20 National Record and a personal best. This performance is particularly notable as it came after a serious injury, demonstrating her resilience and potential. It also re-established her as the fastest Indian U20 woman over the distance.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 11.54
+      },
+      {
+        "year": "2026",
+        "value": 11.34
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "11.17s",
+        "holder": "Dutee Chand",
+        "date": "2023-10-15",
+        "venue": "Bengaluru",
+        "tournament": "National Open"
+      },
+      {
+        "label": "Olympic",
+        "value": "10.61s",
+        "holder": "Elaine Thompson-Herah",
+        "date": "2021-07-31",
+        "venue": "Tokyo Olympic Stadium",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "10.49s",
+        "holder": "Florence Griffith-Joyner",
+        "date": "1988-07-16",
+        "venue": "Indianapolis",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "11.34s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "100m Sprint",
+    "achievementLabel": "Indian U20 National Record Holder (100m)",
+    "stats": {
+      "worldRank": "621",
+      "personalBest": "11.34s",
+      "bestYear": "2026",
+      "totalGold": null,
+      "totalSilver": null,
+      "totalBronze": null,
+      "olympicGold": null
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "100m",
+        "value": 11.54,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "100m",
+        "value": 11.34,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "11.30s-11.40s",
+        "count": 1,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "11.50s-11.60s",
+        "count": 1,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Abinaya Rajarajan has shown significant improvement, with her recent 11.34s performance marking a new personal best and U20 national record.",
+    "peakZoneLabel": "11.30s-11.40s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": "11.34s (U20 National Record)"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8top6EPQ7KSKgRccNO7qXkRX_VqKkAQw278Zy-1vLc2qNiZwGlxJH30IO8oiPOsIxgnIy9s5bKQeAD8V3agM-i_IwraFMaXfB2izwiXkWE0r-en8oDUbpZyTHXgv6NrXg52dS8bSZAgzbxLDQOi9UeVeX9Y1KAiQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBXR4uZG1e3q91yNNY9z5v-hadq97X-j92LgkWWl9Eb-4Gu0s2MhtATIO2zQ2yakPIpaxqYV98T3qSIswP2fAkvxIDrHVNkaFm0C7RPvhcWDYvMTO0c8Qev_o_hLwBM3VsKiG8f3iPQjFo9X42MbLLCojNwTCRyZ0HXmEcAB7dihfAFMvQoet6kb7HXfxGyFQqVN4yxMnXY1Wk7kthNhRLjQk4K5OH1ILXT2_42ZKa6cEvzDUFvd4PtMLOSdkGEAwzm2J9AhlEvlZqlmLvaGZhySPLoH0zFfEqvg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc5XpeDiUxLMLO5IXHxK2t-PYglrue4Jt67sTKpiH3CuTqjlc2TFZu7cHCTqQDSrbFFZ9qigV-ZE3DU7qikVGrG6iM6GuxfXSzZPess5rN2OHellzRWPTOe-sxuM71JTDBL-TxdyiR4XN9zJAIlu2wB6N4dJn_zfWLBaa9rrxjEZO4Z217S0PCfTTlGoJId-eIElcrJuM1I8aQw1Aj0LAsy4Ke"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:08:34.802980+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x100m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "11.34s (100m)",
+      "seasonBest": "11.34s (100m)"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        11.0,
+        12.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

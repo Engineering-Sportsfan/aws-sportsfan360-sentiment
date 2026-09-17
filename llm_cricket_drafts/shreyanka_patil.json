@@ -1,0 +1,125 @@
+{
+  "athlete_id": "shreyanka_patil",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Shreyanka Patil",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2002-07-31",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": null,
+    "bio": "Shreyanka Patil is an Indian cricketer who plays as a right-arm off-break bowler. She made her international debut for India in 2023. She was the leading wicket-taker in the 2023 Women's Caribbean Premier League and won the Purple Cap in the 2024 Women's Premier League. Patil holds the record for the most wickets taken by an Indian bowler in a single edition of the ICC Women's T20 World Cup.",
+    "birthplace": "Bangalore, Karnataka, India",
+    "coachName": null,
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Most Wickets in a single ICC Women's T20 World Cup edition",
+    "result": "Record Holder",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-06-08",
+    "city": "Edgbaston",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Shreyanka Patil set a new national record for India by taking the most wickets in a single edition of the ICC Women's T20 World Cup. This achievement highlights her significant impact as a bowler on the international stage.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "Record Holder",
+        "holder": "Shreyanka Patil",
+        "date": "2026-06-08",
+        "venue": "Edgbaston",
+        "tournament": "ICC Women's T20 World Cup"
+      },
+      {
+        "label": "Olympic",
+        "value": "N/A",
+        "holder": "N/A",
+        "date": "N/A",
+        "venue": "N/A",
+        "tournament": "Cricket was included in the Olympics program for the Los Angeles 2028 Games after a gap of 128 years."
+      },
+      {
+        "label": "World",
+        "value": "N/A",
+        "holder": "N/A",
+        "date": "N/A",
+        "venue": "N/A",
+        "tournament": "No specific 'World Record' for most wickets in a single T20 World Cup edition found that supersedes national records."
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        40,
+        70,
+        85
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGffqeOMffLVKJ1__PUHrm8YxR51tUyX2MaqzqsByr8uaQMGoHkA9Rett0pVbd2njmLUYgZRIlsXd1SsomouE_5H65z3ThRCK7cgcytxm_QV47y1GNvnrtLDtK8ABkgquRwBj3GBcXyAQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWdQ7luNyKKxIbz4P1nPzCdkUIN4gvDHXampIjJUwMJMSfEbB7EwgjklOQWlUKlwhbfp9dGjsAWC742pPUJ5NpNhWzsP3e-28IPHGfO3TvL-mNo8h2dx1vcp493PHlQucEVCsQxa2KSNxyliZh9-8r76jPbeMT_Y5sG7m5HgEfriDq8DcUkbFpAxuTI0TwkoCkFbaRzGjowL1Ri75GkSgl3Z84WNStlx8KOj6vB1U9Q9PITgaWKvW_8_UHFQeYbaPF",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiaW5oi3dqhmClYmntN4PGZPLjp25v0tOTvO7Dk6obuLFj8jsj5evzahPWEyp7JyjTtEvbk2qsXNCfnHp5tkM9dES6jta97YIOn6eyqIQiReMw7sCkVGrC6gpbdoE-B7JGbEmxwMTq9JcNddJXjXzHXdyLq5yIzBxtywT6g9ma8SK4_97FsDIB3ZUiMsWrtItx1b6y3PF5zrrytYACdO-OJ55YO-SokqIJs67T0bVfeIp_fS1cRuAlfACBlMzG3d1_POIvDB8ewMqXUm_bxI5YU-HUZHUUkiubTASsZw6F"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:21:59.790824+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 27,
+      "ballsFaced": 36,
+      "battingAverage": 4.5,
+      "strikeRate": 75.0,
+      "fours": 3,
+      "sixes": 0,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 487,
+      "runsConceded": 567,
+      "wickets": 29,
+      "economy": 6.98,
+      "bowlingAverage": 19.55
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "patil",
+    "shreyanka",
+    "shreyanka patil"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "playerId": "asitha_fernando",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "asitha_fernando",
+    "name": "Asitha Fernando",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium-fast",
+    "dateOfBirth": "1997-07-31",
+    "birthPlace": "Katuneriya, Sri Lanka",
+    "heightCm": 180.0,
+    "jerseyNo": null,
+    "debutDate": "2021-01-03",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Asitha_Fernando_vs_Babar_Azam%2C_Colombo_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Asitha Fernando is a Sri Lankan right-arm medium-fast bowler who made his Test debut on January 3, 2021, against South Africa. Born on July 31, 1997, in Katuneriya, Sri Lanka, he has emerged as a key figure in Sri Lanka's pace attack across all formats. Fernando is known for his ability to generate movement with the new ball and his effective reverse swing with the old ball. He achieved his first ten-wicket haul in Test cricket in May 2022 against Bangladesh."
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures in a Match",
+    "result": "10/141",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Bangladesh",
+    "venue": "Sher-e-Bangla National Cricket Stadium, Dhaka",
+    "date": "2022-05-27",
+    "aiInsight": "Asitha Fernando's first ten-wicket haul in Test cricket, achieved against Bangladesh, marked a significant milestone in his career, showcasing his ability to lead the Sri Lankan pace attack with searing pace and reverse swing.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 10.0,
+        "event": "vs Bangladesh, Dhaka (10/141)"
+      },
+      {
+        "year": "2023",
+        "value": 4.0,
+        "event": "vs New Zealand (best innings 4/85)"
+      },
+      {
+        "year": "2024",
+        "value": 5.0,
+        "event": "vs England, Lord's (best innings 5/102)"
+      },
+      {
+        "year": "2025",
+        "value": 4.0,
+        "event": "vs Bangladesh (best innings 4/86)"
+      },
+      {
+        "year": "2026",
+        "value": 5.0,
+        "event": "vs West Indies (best innings 5/130)"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "10/141",
+        "holder": "Asitha Fernando",
+        "date": "2022-05-27",
+        "venue": "Sher-e-Bangla National Cricket Stadium, Dhaka"
+      },
+      {
+        "label": "National",
+        "value": "16/220",
+        "holder": "Muttiah Muralitharan",
+        "date": "1998-08",
+        "venue": "The Oval, London"
+      },
+      {
+        "label": "World",
+        "value": "19/90",
+        "holder": "Jim Laker",
+        "date": "1956-07-26",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 26,
+      "innings": 37,
+      "runs": 58,
+      "average": 2.9,
+      "strikeRate": 25.55,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "11"
+    },
+    "bowlingStats": {
+      "matches": 26,
+      "innings": 44,
+      "wickets": 88,
+      "average": 27.2,
+      "economy": 3.45,
+      "strikeRate": 47.4,
+      "bestBowling": "6/51"
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": 8,
+        "runs": 14,
+        "wickets": 16,
+        "average": 20.9
+      },
+      {
+        "year": "2023",
+        "matches": 10,
+        "runs": 18,
+        "wickets": 15,
+        "average": 34.9
+      },
+      {
+        "year": "2024",
+        "matches": 18,
+        "runs": 12,
+        "wickets": 38,
+        "average": 23.8
+      },
+      {
+        "year": "2025",
+        "matches": 6,
+        "runs": 10,
+        "wickets": 8,
+        "average": 33.5
+      },
+      {
+        "year": "2026",
+        "matches": 4,
+        "runs": null,
+        "wickets": 7,
+        "average": 29.6
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuxFCACesflIaZHItai8EfmkZiR6r5zwS_aR7zzC1X_RE2Z2aiONmobUvQK-Qq68GEkWdHihO8SzGo_H1Pjeh6Xc6EwZblnQlnXkBTQz08t0-tGHglWXlVx8QpbX-5nvFvonXxxyFE1Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeQqu0WleA76F8WL-Rd1EgFLjBhWeD734cQ99dC0vlMnkUpNfUmB3MdXNcPBPt8BhHvA7kFeBQ_x1ZUSBJWW6AZlAOs7cofvSrntw1PxVk1FYsIa2bnhT9Lu8-7SOXz4G2jQxE0dERtIM5dQ34Etm67-B8uj5cpefDbn8eVNvuN43AVl8vzzs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQuvyFhhSqWckxn3Im4W5-gwrx4ADafqyotGY0VcoIClO2mTylGAeNpuWdZTEDTi9Em4JmBsh5s59ZTzz33g0eH6uZblDVEWffM3VmGJSR0hkZ6_hVQlsiN0cfCLLYxgGFudY8KRE4obK_WGbpJvvAwmjFCEs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDPnPCRItAj4uLgJQ2dyQrw12fZeiAUqP3KvMbGJxpgdBeb9LFj_PK0Lz6CRjjDA_TZ1nrGKvXVVckPyGbALdpmGD85ApRhEv0BHqT-aXh9thnEQOfXkN6nCDw5ZDME23v-RLydrtK0NnLV049Uwxb6KmAFQL0gnTL4tWS0hpO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUtGs1htT3KHFv4u1ddM1QfNFpVoLM-A23SFy9iSn7snxslo3yJjHJRyBnRQvkumgd7U2u4wKI8MYvmYPo_xY8VWROKVNJgbaHJXR89s2sNpPnh5W8NnWKs8lZW3HiaxnwkE3KKhnEgq_ag6J0aXulKIvnoqnT0A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJc4YEXk4hZ-ozZL2IZf41abZ5xUl4di1p8WxC48fL9IA1_ZxBsmxFRKVSnERKM3jhgi9k9fTRZrlnOLrNYeKZmqxLQy4Y3N9udlJoLtZ6ceWOe-1no6f2OGYfoPbkOivGkp-0ni4R4U1JjzCPr1QXxcgDwb7xHjx7Da2FGySvhVZC2gD6_I-t_BF3yLqFJXeU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgoI3jCNh765XQRmRWsukxiq6TWNOwONeq7GV43oJgUTPwqnJOHH_hM1N8t-29zApTC-hF8FTmHcoOTmeM1hwQ8OIuwOREHN-IR6P1RwQGqoEx2Y6-tYLHlu09lMvKggRq4PpouGSM-OgN_RAlCEBO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdC1zAm8Pc4v1miAXSRazOB9DD5kMhMaid47X1JU1Vy2Nx4rhjyrmRTTZk-yYVjuVdJVXgoBfrjIR6LuoZ1tYNsALwpF7paUYntWtEN4hSO1AR0M3ny0LpEJuSiDTcPD9Hd9nGWT92FqK0gTqXjuTOKW2bX06eVgb_ETabVeX4EY909-z2t1p9pDC-EFX_u-ojByNbpfHy1kliu6Kqgry5OavdeiivYI1zaPcVztDrIA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQYiJrsXGGCdJAxegB6DMdBOPbb3PFPNc7WQkHnQNRj2DL0knYZwtvZhIsVyU12M8ne0RE6t8tfjKCZ5vyqMt1iJO5a0s5NSRZ8bCd5JlDMGLPU9lUeTyRnk5nZ5xAfZQ6X4jswDRYEGzKEHfaZfb0vRW24Og5haS4jixu38z22Hewe1qzdkEvY1fTXzkxQ9B71EZEtzg617r2nUMspTu6M2XJMXMi0XShC7EbfrCjDntMXNfehOmSysw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0MoHP1ERwj-ZPlRwmfZ78Q2sUyrmXJ2BIE0WnGLtY61-qZwAG3TmmOadEDfxX9w23W6rovjph2WDr0MKg2Y6FNvVoKI4wAO7NdY6P_hrziIt5XKJtchkkFV5brn8GBYo-J9rB0e1vIWwFSVGh3UM7CeQpvivf_yz2TyE3eH3W4iRZTEvUEu5O0F3E-RAFknUF0A1jMgNMLHhjakj6p3gLQy22iyhDMTyaz3dB_erlhw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsMbk1EkMolBb5vMiU_3p5BNXXSJhglp7F4FDEi_F7r_KB7nK1_OYtwLjhBv7Bj9HENxObxAZctMwbASsI2zrOaIAVXHvLhWeM_uyiR6cz5BNpuxjICssUtDRv-azGUl1UVAavCJlQAubiuaEFOgpkadnWCqQMNDO0_Pg_NezCEXE4TytjULv9yACreRvdNmf7ll5aAS5SiI8d9EO-SUt5AOwftdchMn_Wfby3CivvZjD9QwKMYWz7zexMxYZYO2Zs8J3GgZav_NAnAYhxxHY3kVVvcipOAQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-17T08:36:15.282228+00:00"
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,158 @@
+{
+  "athlete_id": "shafali_verma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Shafali Verma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2004-01-28",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/Shafali_Verma_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=jsIN9NJRxBg",
+    "bio": "Shafali Verma is an Indian cricketer who became the youngest cricketer to play in a Women's Twenty20 International (T20I) match for India at the age of 15 in 2019. She is also the youngest player, male or female, to represent India in all three formats of international cricket. In 2022, she became the youngest cricketer to complete 1,000 runs in T20 Internationals. Under her captaincy, India won the 2023 Under-19 Women's T20 World Cup.",
+    "birthplace": "Rohtak, Haryana",
+    "coachName": null,
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Youngest to score 1000 T20I runs",
+    "result": "18 years, 253 days",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2022-10-08",
+    "city": "Sylhet",
+    "prevRecord": "21 years, 32 days",
+    "prevRecordPlace": null,
+    "prevHolder": "Jemimah Rodrigues",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Shafali Verma's achievement of being the youngest cricketer to reach 1000 T20I runs highlights her prodigious talent and early impact on the international stage. This milestone, achieved at just 18 years and 253 days, underscores her rapid rise and consistent performance in the shortest format of the game. It signifies her potential to become one of the leading batters in women's cricket.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "Fastest to 1000 T20I runs (40 innings)",
+        "holder": "Mithali Raj",
+        "date": "2023-10-15",
+        "venue": "Bengaluru",
+        "tournament": "womens_t20i"
+      },
+      {
+        "label": "Olympic",
+        "value": "Youngest to play in a World Cup final (16 years, 40 days)",
+        "holder": "Shafali Verma",
+        "date": "2020-03-08",
+        "venue": "Melbourne Cricket Ground",
+        "tournament": "ICC Women's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "Youngest to score 1000 T20I runs (18 years, 253 days)",
+        "holder": "Shafali Verma",
+        "date": "2022-10-08",
+        "venue": "Sylhet International Cricket Stadium",
+        "tournament": "womens_t20i"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        222,
+        265,
+        200,
+        544,
+        283,
+        531,
+        417,
+        439
+      ],
+      "wickets": [
+        null,
+        null,
+        null,
+        2,
+        3,
+        null,
+        0,
+        3
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        90,
+        60,
+        40
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Shafali Verma has consistently been a top run-scorer in T20s, including being India's stand-out batter in the 2020 T20 World Cup."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-5JTaszoK2HlNFWKxhDAyAQSm8N6U9yJk9lI_q-qqJR9hc69TYM-DM0jfkjjH_Y4dzM7jlGR7cobdrz9KCA2AK0h1SDfdafnDX494PN50YdcP12C9KrzL490142_CB9ez7RRU-T4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5YkN68FS8L_tmeilU6tnocp5oVmCVGsuUy0tIXajdWBgPcn5WGvMg3YR_3LOXUvlvpiA2UM8Q4UPOmnWp7HejvJcrZd71dDTgBqdbsAQqA3uqwlHAb3cBLUyeJ3q7hS035UUO7nCvwBMttM898fOeWgKnZp97Sx82qWjg-eCqy9cdJTgsPFxkhYaR8qc19AFwxA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLv2XTDkJTv8fGcPcVtXyOlfWVaagFYGRTXtZb3zIGrcS9mGHPDk9XaRB0dYQLsdpKxpT4wbcLdMeyRQDY1GNSpuSDJHkCOMY71H1q4UV-kqpEBHtD5Yy6Sx_e4tdqAV5ti33b7CGEK5EjvOA2Rp9oLLbox-fH"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:19:51.829344+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 2901,
+      "ballsFaced": 2127,
+      "battingAverage": 28.0,
+      "strikeRate": 136.39,
+      "fours": 376,
+      "sixes": 82,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 55.2,
+      "ballsBowled": 363,
+      "runsConceded": null,
+      "wickets": 10,
+      "economy": 6.56,
+      "bowlingAverage": 20.75
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "shafali",
+    "shafali verma",
+    "verma"
+  ]
+}

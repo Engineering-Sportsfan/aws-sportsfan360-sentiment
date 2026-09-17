@@ -1,0 +1,121 @@
+{
+  "playerId": "arundhati_reddy",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "arundhati_reddy",
+    "name": "Arundhati Reddy",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium-fast",
+    "dateOfBirth": "1997-04-10",
+    "birthPlace": "Hyderabad, Telangana, India",
+    "heightCm": 166,
+    "jerseyNo": "20",
+    "debutDate": "2023-03-04",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/8/84/Arundhati_Reddy_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Arundhati Reddy is an Indian all-rounder known for her right-arm medium-fast bowling and lower-order batting. Born in Hyderabad, Telangana, she made her T20I debut for India in 2018. In franchise cricket, Reddy has been a consistent performer in the Women's Premier League (WPL), representing the Delhi Capitals from 2023 to 2025, where she played a key role in their journey to the finals in each of those seasons. Ahead of the 2026 WPL season, she was acquired by Royal Challengers Bengaluru. She was also named ICC Women's Player of the Month in February 2026 for her performances in a T20I series against Australia.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures in WPL",
+    "result": "2/27",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Mumbai Indians",
+    "venue": null,
+    "date": null,
+    "aiInsight": "This performance against a strong team like Mumbai Indians highlights Reddy's ability to deliver crucial breakthroughs in high-pressure WPL matches, showcasing her effectiveness as a medium-fast bowler.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 27,
+      "innings": 11,
+      "runs": 106,
+      "average": 9.4,
+      "strikeRate": 88.68,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "25",
+      "ballsFaced": 120,
+      "fours": null,
+      "sixes": null,
+      "dismissals": 11,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 27,
+      "innings": null,
+      "wickets": 16,
+      "average": 39.31,
+      "economy": 8.41,
+      "strikeRate": 28.06,
+      "bestBowling": "2/27",
+      "oversBowled": 74.5,
+      "ballsBowled": 449,
+      "runsConceded": 629,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "matches": null,
+        "runs": null,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": null,
+        "runs": null,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2025",
+        "matches": null,
+        "runs": null,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2026",
+        "matches": null,
+        "runs": null,
+        "wickets": null,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZEI-0gPHXRMS5gFD5LUPBMFdpDtdwH5NWq0NSAkbPLIAeHXXSQmIEbamxUDmI_G2l2S8rciKyZhLwlfWkNA7ZK6q2GW_yKJfpbEqy68KlYoBFKfRi-MrBvqNXcoqC-1wCYjeS8CsyKOsXsBtEmXWim405_g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6p0uyMc3Jebat4wWrP6PUkjGUuoFYhBKacEgircg1dpD_jNoV7XUakp6qIG30DRn5fTvzvniyM-68Fd-SyrOtYhP087SysxlBMyr6ztCk_rL5WCAN1U1Kaxhaou0pvva9T_b-7e2I",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTJJqhkWB2W5ooFaEgwfKpuFcRkfllcP1UTxHJ838X4ofJO82Jcn20EpqOsEGdfvQ_xTWm-RF6_3nrNfl4Vfim5hPSyZkDeCyrRnV76mhZYgaI8Xji23Iae-eIjJVzBxf_E5gfB7_W9Ya1c0ozgg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuvAEKx0IwD8n_hWroNA46xLZwVQEBauX_FIQZYozYmgH6HtjGrrsLNzsajO9Hd7K_e8TbOlEfsZrLYzbeCq0yOSq0F9P8C63XJZahXJm_d-hsh1XmXLcQ0aT4kf9MxRglP3YT_kXFqrsEp4BBzeovKro8dMEfvxwbpAnwZ63R8Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwhUnCjWE6MHX1xBbSvtwKl1rxN66SIfumaIK8Iae0dveVu284TSxFWv3ZbrmqppWHkCqATybr6nzmkNwOK5Ss0P6OWjI6uhZRiNCVkE7yZ5YxsW5sl8whKKPW2mYfMzj9xXsd3RBme1Zvd5ydZfUWU899NpQcQDz-yfTapiduEJHgfnJNF1m4K-s-uAzyTzlxc-hAFiDfYNMqpkEF_eoVgwcuUnLAPDh5qwdldAS_ZnAmD0Y9wOd2zVFkKTzTko1audFmCZf_trvojMcGk5CxBG20FoOt6dpWLSy62hZzSYi_K-h_t9j0QYq01g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUWYrumF9A2DvGEu0OXDgEeuezGmfocaKa_U9kQQ2bxORCal9QE7LSn839QsuYw1CsR2YnWQZETrMS8KGdVHdrUvJecscQwqF1BcaJY2K7II_pd6v6RrAqU_f4AEQsmoTj3D_CS85yaFqeg6SE4uWoaEa9yuJyfLXd7IhMYMjpUBXT0D8v47Io3Aui7fOxHJuJqQ8="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:30:49.324007+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "arundhati_reddy",
+    "arundhati",
+    "reddy",
+    "arundhati reddy",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

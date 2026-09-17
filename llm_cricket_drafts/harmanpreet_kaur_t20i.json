@@ -1,0 +1,165 @@
+{
+  "athlete_id": "harmanpreet_kaur",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Harmanpreet Kaur",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1989-03-08",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/38/Harmanpreet_Kaur_with_2025_Women%27s_Cricket_World_Cup_trophy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=kV8vudJ8ad4",
+    "bio": "Harmanpreet Kaur is an Indian cricketer who captains the India women's national team and is known for her aggressive batting and off-spin bowling. She became the first Indian woman to score a T20I century in 2018 and the first Indian cricketer to play 100 T20 International matches in 2019. She also holds the record for the most runs scored in World Cup knockout matches. Kaur led the Mumbai Indians to Women's Premier League titles in 2023 and 2025.",
+    "birthplace": "Moga, Punjab, India",
+    "coachName": null,
+    "yearsActiveSince": "2009"
+  },
+  "record_highlight": {
+    "event": "Most T20I Matches Played (overall)",
+    "result": "202 matches",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2026-06-21",
+    "city": "Old Trafford, Manchester",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Harmanpreet Kaur became the first cricketer, male or female, to play 200 Twenty20 International (T20I) matches on June 21, 2026. This milestone highlights her remarkable longevity and consistent presence in international cricket since her debut in 2009. She previously set the record for the first to reach 150 T20Is during the 2023 Women's T20 World Cup.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "103 runs",
+        "holder": "Harmanpreet Kaur",
+        "date": "2018-11-09",
+        "venue": "Providence Stadium, Guyana",
+        "tournament": "ICC Women's World Twenty20"
+      },
+      {
+        "label": "Olympic",
+        "value": "762 runs",
+        "holder": "Harmanpreet Kaur",
+        "date": "2026-06-21",
+        "venue": "Edgbaston, Birmingham",
+        "tournament": "Women's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "202 matches",
+        "holder": "Harmanpreet Kaur",
+        "date": "2026-06-21",
+        "venue": "Old Trafford, Manchester",
+        "tournament": "T20 International"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        8,
+        33,
+        41,
+        57,
+        20,
+        77,
+        30,
+        68,
+        103,
+        43,
+        42,
+        36,
+        65,
+        56,
+        66,
+        68,
+        66
+      ],
+      "wickets": []
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        75,
+        70,
+        60,
+        50
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9dY0sN-uP9DW1XcyhDY5sYwR1xZmOoLvAlyPtzEnZGY2dlPXrh49EXFKtEMA2h7_ii2CS_pwh7MkjnvVSBIlD9GqVIHXQJQpvH8tyNLAjkQbyNnpIkYeUpbsb-yMAS8dsUO5h4z83_sM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVV2YF0cal6IGilc2ewVwDUB9kiMbd5UOiWKvZICFeouKM1iqdA5A5suJCb5K92TizUV9RiTzVsuhQbD2znU204pmupFWfXy9nrgTzdBQKbDtlcCtpfp1eUy0ZmDnA4paVWWZqwwxlhn4pSyGgvYuPFo9tiAJjCW1FtbK49XUz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZh8o_Gp1zo24nkBFZRcpyurM1LHWcF8vHFQSw9X_RYaGss8INA1urLWr3jQexnKfEWqTSHH8gxPc7HRE-d9_XGjDH3vXTsMaWf4VWEDShdBwAxs5bTKDRrgeLAiDLx4ALPlfGg8l0gRLwbOuTY18Dd_k0wPV05bAp3v87Xa-L92wE6hJpqrImu1KQUEFB12c_d3H8yjonqCtZJijJFQF4t32cW1ETv8xci4PsLJ4xPpSAPQty2LCvHZo__A=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:50:38.485864+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 4216,
+      "ballsFaced": null,
+      "battingAverage": 30.0,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 126.0,
+      "ballsBowled": 760,
+      "runsConceded": 795,
+      "wickets": 24,
+      "economy": 6.0,
+      "bowlingAverage": 33.13
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "harmanpreet",
+    "harmanpreet kaur",
+    "india",
+    "kaur"
+  ]
+}

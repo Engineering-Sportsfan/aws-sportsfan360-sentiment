@@ -1,0 +1,156 @@
+{
+  "athlete_id": "arundhati_reddy",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Arundhati Reddy",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1997-04-10",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/8/84/Arundhati_Reddy_in_2025.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=_Z7g8Nd1piw",
+    "bio": "Arundhati Reddy is an Indian international cricketer known for her right-arm medium-fast bowling. She has represented India Women in T20 Internationals since her debut in 2018. Reddy was part of the Indian team that won the 2025 Women's Cricket World Cup and was named ICC Women's Player of the Month in February 2026 for her performance against Australia.",
+    "birthplace": "Hyderabad, Telangana, India",
+    "coachName": null,
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures",
+    "result": "4/22",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-02-01",
+    "city": "Sydney",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Arundhati Reddy's career-best bowling figures of 4 wickets for 22 runs came in a crucial T20I match against Australia in February 2026. This performance was instrumental in India's victory and contributed to her being named ICC Women's Player of the Month.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC T20 World Cup Record"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Overall T20 World Record"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        6,
+        22,
+        7,
+        1,
+        1,
+        27,
+        14
+      ],
+      "wickets": [
+        null,
+        null,
+        2,
+        1,
+        3,
+        3,
+        4
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        30,
+        50,
+        60,
+        75
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd6hHTuQ-UwEEUY-fAcZhI_VamTJwzw7YcRW-NVtRxuoPqLFTDrp0uEWgALJMXZHKLFAySboe9Mv_C8wzo0N9irln65i6OZ6oJdKmLDA_gPuNL628EfPBiGT4a75rhMtEaGrCeyPyWISMI_WdpYerQUeqZ27IF_AxP",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRec9imSrsj8odZFpQ0SpSHDxpN4YX6mIVkR9UPeLruyshV5jjiTcxQg1R8DC-DNPxgS1JVABETU-ZGbRtYPPnOvJo4pkIzvur8q4A3ffmdLKqUpIYCEITOykh0CDfmRdh1Gjy5QC0Z-zycSWeDB-1mgL7TEOTmlU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXS9wW2mYsq2PB0qQGpoSW2iqYw1aVYT6d5FLro9U3vwUDZEFXiqcZ1WuKQPFd8mmoosb5AJOYj9_LQ-PiS5XNiIyHVDM0Tc4NWIV3dUeKDzYUG5Y7VAlQ68itmzpeAMvwCWFcSNe8yc-ou4E1TE7QVtH03WWdm-96nvLv4Fb_3eMsfVf7VU5_dDhky2jeQUWXYvy8sxf_fc0jsQi6gxA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPT9XY4xCx93XwHjT9q8LmnunwzTIN5bYcQRmN6V9xyiRyDe2DhPZlFTCd2N1M4kWvj8YOZaBo4zKGNbVYFttPiuMJ5vpbS0NBqGpayN0TOewY3oBu57a8IiJ0XhEDkAkRuzG4VtkA1Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrJNkdIoWm5zxksXXEwcFIglRkzgeY1S8tm7VNdnZ03jXZ4-c2Y9a-rELQd-urJ8ZCZ9lcZzoPJPoVoZNjyQE3PMkDGHlfwqRmvgx_A8NZvnPYXbbDlOUzz1MEmVWz887a5F18wUm4u0PlTgqLggAdhcx17LuMxHTh-_DaERXUkau8hwvLd7aCPFtKq0IXctVCvtPCOPg9EyCcbweF1pklerFXiAUNV_zOOQnpmtjrGRzuU5C0eyqU95jDEYlOoDxSDc8_U_PZ3ayW7mfSTZOFlVK2E_HIcckqpr766Ckq1QT4mVTmAYmrB9VVzq4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSt3RsuWXQQrAhbKMgpgTenkTwMinaLtUvg9IyaRL2lxP8QQ066EOWXgNNVve5QUqEkt2GOkXJH498GrjkVZ1DckLVHT4nBFLGDfd9AvyJkvJyCYfWC6e7DXOVJY3mXMCcWmd_-MXp3yfyal_k1o1T5AP9sn2EyOrs_i7e5UuisFhVovKgxrnsmqdDSzKNO7SH7pS-zKTZIiDS6RhA9mqz81LJhgjO5FbZE9gZo7MBuTvjB8Zotpez3Bfv0Q=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:19:37.223821+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 149,
+      "ballsFaced": 158,
+      "battingAverage": 9.0,
+      "strikeRate": 94.3,
+      "fours": 15,
+      "sixes": 1,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 178.5,
+      "ballsBowled": 1073,
+      "runsConceded": 1402,
+      "wickets": 48,
+      "economy": 7.84,
+      "bowlingAverage": 29.21
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "arundhati",
+    "arundhati reddy",
+    "cricket",
+    "india",
+    "reddy"
+  ]
+}

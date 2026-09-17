@@ -1,0 +1,42 @@
+{
+  "matchId": "arsenal-vs-chelsea-athletics",
+  "sportId": "athletics",
+  "competitionId": "N/A",
+  "title": "Arsenal vs Chelsea Athletics Match",
+  "shortTitle": "ARS vs CHE Athletics",
+  "status": "UPCOMING",
+  "stage": null,
+  "venue": {
+    "name": null,
+    "city": null,
+    "country": null
+  },
+  "scheduledAt": null,
+  "startedAt": null,
+  "endedAt": null,
+  "participants": [
+    {
+      "athleteId": "arsenal",
+      "teamId": null,
+      "type": null
+    },
+    {
+      "athleteId": "chelsea",
+      "teamId": null,
+      "type": null
+    }
+  ],
+  "winnerId": null,
+  "featuredAthletes": [],
+  "highlights": [],
+  "recordReferences": [],
+  "createdAt": "2026-08-04T16:32:03Z",
+  "updatedAt": "2026-08-04T16:32:37.517604+00:00",
+  "sportDetails": {
+    "category": "N/A",
+    "event": "N/A",
+    "round": null,
+    "windSpeed": null,
+    "results": []
+  }
+}

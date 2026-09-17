@@ -1,0 +1,110 @@
+{
+  "playerId": "kranti_goud",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "kranti_goud",
+    "name": "Kranti Goud",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium-fast",
+    "dateOfBirth": "2003-08-11",
+    "birthPlace": "Ghuwara, Chhatarpur, Madhya Pradesh, India",
+    "heightCm": null,
+    "jerseyNo": "26",
+    "debutDate": "2025-02-16",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kranti_Gaud.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Kranti Goud is an Indian international cricketer known for her right-arm medium-fast bowling. Born in Ghuwara, Madhya Pradesh, she represents Madhya Pradesh in domestic cricket and was acquired by UP Warriorz in the Women's Premier League (WPL) in December 2024. She made her WPL debut in February 2025 and quickly made an impact, notably taking a four-wicket haul against Delhi Capitals. Goud has also represented India internationally, making her ODI debut in May 2025 and T20I debut in July 2025, and was part of the Indian team that won the 2025 Women's Cricket World Cup.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "4/25",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Delhi Capitals",
+    "venue": "M. Chinnaswamy Stadium, Bengaluru",
+    "date": "2025-02-22",
+    "aiInsight": "This performance was significant as it marked her first notable contribution in the WPL, helping UP Warriorz secure their first win of the 2025 season. She became the second youngest player to achieve a four-wicket haul in the league, dismissing key batters like Meg Lanning and Shafali Verma.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 16,
+      "innings": null,
+      "runs": 9,
+      "average": 9.0,
+      "strikeRate": 100.0,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": "5",
+      "ballsFaced": 9,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 16,
+      "innings": 16,
+      "wickets": 9,
+      "average": 43.9,
+      "economy": 8.8,
+      "strikeRate": 30.0,
+      "bestBowling": "4/25",
+      "oversBowled": null,
+      "ballsBowled": 270,
+      "runsConceded": null,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "matches": 8,
+        "runs": 8,
+        "wickets": 6,
+        "average": 34.67
+      },
+      {
+        "year": "2026",
+        "matches": 8,
+        "runs": 1,
+        "wickets": 3,
+        "average": 62.33
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH55FBKu56xbGgwH-shwSfeDk3LSILmxMpUaAERGhx0eq-z01XlmZ9SlkPEU3BVrfKB9nITJPnyPbCLyZhtna5WJsC-jcMJK50lS4tprkoLq1PbaH2BmrhtaD1asJNqeoEWIjQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2LjRBeqnZuUayQrhsDCfFpQDMz_FeXGnE_AKU4QZmH6i3L6zL_pOTSb1HcOapynYZpBKV2zt8CsFnQmk3h9VultCpV3oc0kVK6-Dqfs8hfOwop6gCX8h9dSU092ITsVg2a4g8J9eZrSX613QrgU6du0-2TQ8pti6hGWFCyFLNrKyqiKN7JKnyVnVI_N1UbCYU-VVfBWdZ59FW1aJsbzYIrXOhaOnhtN3gZHzWNUtpMMAaRs6nWCBdAmXbOD4Z9PViqY2PhlqRcUpJOwqdngM0TC72D3OWIAl9h4z8XZh2hfBeENaqADGGsJghADNekBrMGIsGigh0-Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPMzVPeK8K1gwbbMztxmmiPPcbuj3Q42guAwIQKU8eT7epdstgPelQWYE4OZR0Y8trHu373A9iCBgDFvgeJJPl5d5bnM_I_g9Tcl_U7hVGqYq6Om9emU_Bf2o3TOekgWWtfjoMo8iQC7wC5Kc6JQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtt-rCrHanCj7AGS_eUEl6WVV8xNTGPzEpcFllO0mSZ3inc1PnR7pOi4CkdsCseNUPKNQykvr2D0ozUR56IloIHYYWerEEcF1INjRHk2mPPe8BH23OfgQsf1bHWKdtzhkk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFngWjvPTS85tOZvhI-T6M2bQ5yB4iOI828432YSCZaYT7skMH9aXwyUDqvIoFonX9LmkpuTSOaGWj7E_pxPZsOUkq1q4raT5pwMx_cwTc1JxQU8zEQN7gx-Eww1nTByXdisAQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvt0zhP6LCoPWyl8BXGoT_CTGUH61aMu5oKMWYp9JGCSY7d7AQrekxKlLoiaBZ8PChTEZ2LB8dkNcnpky5gpphYZkLO_s_5WPxX8zaRNCv9a_anyP80RmDxeNgOE1mZIBTrz34T8R6qWB5CFkCGZgcON-3_fMNyq5R1Mw9tGykZfsfY8DuCchM_Rv99C5D_Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmmZ4_0PdGrbNhIaZ3_3b2CUdwyMBnmMUlfiYgNZzJtaNta7H_WAkHzCYtIKbuD9XZfQ-WaYjQeQ7gPYc0ftPa2mXnAgXVoFPqMhyEYMYD1CydwknGT-QT9QBj26ExlUjdGgGx7CleDMlD_Zh5gh0AQEDG1K8wJc0EgCDlz1XaaTQg9jSZUnEMEVI-HcXDViqJtQc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq2rwN0ZktOlU6SKsq24kn948vhBshJ1YoGRK8IXSbud-tjaWADa_rFge_iJ_k1l4L5J6_GaPXufrBEz7tscNqjajYchz6vvc_zCxOh7TcOPXZtngIegndLyK1BD2obdnUxmwP-yZrTVH32kivo08vKh5Ede_mcs0KOoX4d3GN3GTDED7oiqRHO4GI3qh1",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETWYcYa83iop0kyx1AHKPxKcibB6c9hPhFpKNWCZAleyVrjnueKI7hnb8I-9sxK12odRMvYkshHg2RsvoNPRZuqQOwS2ktGTU-bZcm--ePKOrUrb4qrXQK0dJfuUKc8YvO89b3im9EvR5C2fmeK1qiTEWleZbXTwQuS0qqUZ7yzpSCD6aa5Bfs_RldJmvEtPhIAkBggpH4cC1qFVEPNMYAC4eR7pP64VWCny4mvNIz21R97xP9_WG9pPW_5clpXwoA8p4J22q5pSB9IhB3u2RgeQIk7GbR"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:37:12.003976+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "kranti_goud",
+    "kranti",
+    "goud",
+    "kranti goud",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "athlete_id": "samardeep_singh_gill",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Samardeep Singh Gill",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2001-01-03",
+    "heightCm": 198,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=h7Il4UUmiRc",
+    "bio": "Samardeep Singh Gill is an Indian shot putter who transitioned from cricket to athletics around 2019. Born in Valsad, Gujarat, he trains at the Madhya Pradesh Athletics Academy under coach K Sandeep Singh. He has consistently performed well in national competitions, securing multiple gold medals and often challenging national record holder Tajinderpal Singh Toor. In 2026, he achieved a personal best of 20.46m, qualifying for the Commonwealth Games.",
+    "birthplace": "Valsad, Gujarat, India",
+    "coachName": "K Sandeep Singh",
+    "yearsActiveSince": "2019"
+  },
+  "record_highlight": {
+    "event": "Shot Put",
+    "result": "20.46m",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Final",
+    "date": "2026-05-25",
+    "city": "Ranchi",
+    "prevRecord": "19.82m",
+    "prevRecordPlace": "Chennai",
+    "prevHolder": "Samardeep Singh Gill",
+    "improvement": "+0.64m",
+    "improvementDate": "2026-05-25",
+    "aiInsight": "Samardeep Singh Gill achieved a significant milestone by throwing 20.46m at the National Senior Athletics Federation Cup in Ranchi, marking his first time surpassing the 20-meter barrier. This personal best also secured his qualification for the Commonwealth Games. The performance demonstrated a breakthrough in his career, establishing him as a top contender in Indian shot put.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 20.46
+      },
+      {
+        "year": "2025",
+        "value": 19.82
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "21.77m",
+        "holder": "Tajinderpal Singh Toor",
+        "date": "2023",
+        "venue": "Bhubaneswar",
+        "tournament": "National Inter-State Senior Athletics Championships"
+      },
+      {
+        "label": "Olympic",
+        "value": "23.30m",
+        "holder": "Ryan Crouser",
+        "date": "Aug 5, 2021",
+        "venue": "National Stadium, Tokyo",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "23.56m",
+        "holder": "Ryan Crouser",
+        "date": "May 27, 2023",
+        "venue": "Drake Stadium, Los Angeles, CA",
+        "tournament": "USATF Los Angeles Grand Prix"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "20.46m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Shot Put",
+    "achievementLabel": "National Open Athletics Champion 2025",
+    "stats": {
+      "worldRank": "38",
+      "personalBest": "20.46",
+      "bestYear": "2026",
+      "totalGold": 5,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2018",
+        "event": "Shot Put (5kg)",
+        "value": 17.96,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "Shot Put (6kg)",
+        "value": 16.65,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "Shot Put",
+        "value": 19.05,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Shot Put",
+        "value": 19.82,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Shot Put",
+        "value": 20.46,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 4,
+        "gold": 4,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 19.82,
+        "seasonAverage": 19.63,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 20.46,
+        "seasonAverage": 20.25,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "20.0m\u201320.5m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "19.5m\u201320.0m",
+        "count": 4,
+        "throws": 4,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": "19.0m\u201319.5m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "18.5m\u201319.0m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 10.0,
+        "peak": false
+      },
+      {
+        "range": "16.5m\u201318.0m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 20.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Samardeep Singh Gill consistently throws over 19 meters, with a recent breakthrough past 20 meters.",
+    "peakZoneLabel": "19.5m\u201320.0m \u00b7 40% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "20.46m",
+            "holder": "Samardeep Singh Gill",
+            "date": "May 25, 2026",
+            "venue": "Ranchi",
+            "tournament": "Federation Cup"
+          },
+          "2025": {
+            "value": "19.82m",
+            "holder": "Samardeep Singh Gill",
+            "date": "August 2025",
+            "venue": "Chennai",
+            "tournament": "National Inter-State Championships"
+          }
+        }
+      }
+    ],
+    "beforeCoach": "17.79m",
+    "afterCoach": "19.05m",
+    "coachImprovement": "+1.26m",
+    "coachJoinYear": 2023,
+    "coachImpactData": [
+      {
+        "year": 2018,
+        "value": 17.96,
+        "period": "before"
+      },
+      {
+        "year": 2019,
+        "value": 16.65,
+        "period": "before"
+      },
+      {
+        "year": 2023,
+        "value": 17.79,
+        "period": "before"
+      },
+      {
+        "year": 2024,
+        "value": 19.05,
+        "period": "after"
+      },
+      {
+        "year": 2025,
+        "value": 19.82,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 20.46,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0JdXCTUoPhw6EPk0CAQBXA30WRMIDLJ9kZLdMnXaDnBRpnC7MoQm67yy7opqoTIPF8LEu7vVOqnSjsJGdExsOffoWTdMrNGlWtzi81Z_7TvJaTVsb7ohq8MysuYJiVO604ShZ0qCgWly9Cslj7Jr1lBPi2sdipWyoyqylHw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqTgPTtMk7HEjxVUdZ4dwb1mM4FvgauhSmqhvwItx2d72t3OQ7_p70rV1O1F--3iatfAs9mYAxXXQTYJGsVgObxgMHeyJTw7WyWa6RQpfs_gMsGXACmSysRMSmCYCzbpy-UNWBvIvob1u2uNptjfpwLJIUsg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5oou-aad5Aof7sIrtLzyMv65Y74-cPyoYrVwNaywdXYHlDLl5oakKRJAnW9MlRxo7UeLGVolE7DV-CQ_4tlQwH_pB2dI9jvGY1mZ1FJraWwEOs7mRG1lZ8d5Xm0dU-7EAqJaJ948=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE07E0Hcax9Nq2hUpc7_JlBF3UfFd-w7fcjNeslGXWebraEII4CspEbyraRGZiYnXu7XMXnj4nGL03XNWnk-HNAl56VnZZfUN70IvZo1LSdnzYbd7k43UXovS-jm8suS6D9HjCYM9VsUiQcb_q7ltDFbinKP99MPfEkeSwRQ-v3EgnuoxeMHDx2m8cvBOesmvVrFMiZhbYYi4dOtAh-WUZj6rsFi7092Be1vskrLDI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnPjegbiiDoVAtt7JkVodvqCWqVGZm1K2in3IbEFiDSMZe_P8jyEh0HdoFf5OgKY8CWJq8Rzie6wETQiE58EeHldW-DDV3PaGqYNr-sck-iooP52MjdD0vE-nYfpYUjZ8Dd7IkfPvP7pmznGdCkgwS4ztuofaceegCZqB_rxTrXNf7Z79tz9a0iJaa5RldCA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS5hlFKNsXeXDnB65sIuJ0lgTh8lQrnxxCSNokj5_YvWl7BSw-XPFs9cYJu6fIq1XcbjkzR-oGPjkA0tTeSsh__bb3bM0HGdaMPg7kxOYYG9EtWREJBkYiRyAccKehcjrZTK_NyvdbXe7PipiNmqxZjEzudw476dL2VMh49VwssAPsvv20pmR30MosgiU0jN10gz8UWdX55CnMP_H3j51uyu2sPlRqi9gqMNMGG1Vh9qI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq7TbghBuyhH9V0fhjD_nvRLDiCTxF3sPUikwsFMhGf2Whkkz_7SrHFcYN3PW9oc5pKWPjqpeZ-R89QNwON5c9jDQ7W_Zdnw8LMC16Xa-3XCaHiUY76qfS8r1cIUBsIKlYSG3umDgUJ50lwFCExTUybcqFV_0yVOZscQjNa9FLGb8PQR15PSVZOf59YadS0P9uDK3F8w6qLsVT-pc-3sVocIbF9OHx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEDiRNXwyI2CI3gWkmHjcmUkgF7EqDqw7f1OVsSSGSDtIuCW-ZWMgN6xnqhaJ5Jj0Q9-GAz68jD4cdfs2ZViIPXfLE1MHNoAhmBMr0MmaRh0rN5apnlb2w0KnoailqtlEAWacVDxeMVtPEFpxJLSpCa7T9bks_XhpK5t0MhE9ct6c7pSXZn9_AixKKaVtfMbeds02iy-zkfHz56XwSwiv0uvfGIGMaIu0uEkpGwthSOUaFLSlzp5RrTtIYN5SEUg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrWotscDOBuW07GRUm-mTOhI-jxyNjDl93Me3GUMh2Mj1GqqKamV4tzKA4_Aub5od4RYWkEQVjltvuf9U7K6ZEDLHMUPQPbAmXsw-VFQk-Zxvib4-Ncm4AWMoUEmop0HmV1SIH4cKPIzAA-FL8TygOPHFOyfQpSgngqxDwE3oFstOajgYJxg1cbcZozMJP0m7_kBo2AEUjstKyPDyOOPZc3x6jmyr_bsX-10flrjrRlkuRvZ908bGLCLx3yAFS6LemM9-6NR8DXwDeUiuqZzhhE2n-2gOji7tBRO9XyoJGUyAuhly7T-Iv-ct7gs9CsLxbWGivcJ_H0jcU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrNZ6qxaGp6VFIsunjOA2FAWIaOlnugyru2ez6av0-rRQOwgslaH0tLKD3qDECMbbzsRjSDwiZ96EwPLfEZ5doySjy1y-6-VU5m-eJfJqQZZWmaI8sc2gMFPVlose3zwSLbn19LneBPWMCnihvjPAuAqMb_G3BHW7ZV4n4BQYn47WLBPrwgJs9NgcFyiKoH1i3eqGpwiAymOaRBFc2wT1fGug5alEQCHZqp6RcDhh6uiLRGNA-lS5R_yKKlO5OjJDg4PvqRgJK6TTp9ecy3gvxarA4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1dqXCN1wCtQiPqtCGocmpeSHAcUHzV8ASyanM-QN3pHB0YOHu71YGD_JRucDcsF20qYP3oVxtQedJwnAa07-WhEel4hfa5VJDPdw6-SJdGgxh4fAby-uBcVzX-GFD778Nbfp4DNonwwsKtITqMI6YrBdrhUhjrCvVk__1BaUgll3-1y0K0-keSXqPyEnNY0imXoEpIw1KTJIflMQzJw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWnQ6VrYxb6Dz8ZlCWbgLs4RlLn04_ZaMur2x33bCt0_8W8wE__rvftaCvrc1tQjKyzgDnjWkNPHKaJII1BhVhlVFJuJkBK3jxCmj1Z9r7skOFF8j9qdL8nkA9CsV2GlrjQrnjzQedduZY-q4C1DivtFEVBrXax513yNMPaTx33RoW23FbhA3_H4foHMBF4pmzQZWYrerLhUngjoVpCJYcyrHSnhF4xF2YedQpMS-0igqvYhKRt2r4YNUpsTgp-f33LOKiAqiLxjB8TWzYJ9f88UQE2w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHuKW7_WbSL5Y0fkXNF-PePkgmjUEnoVEx9ifbCjBIVl2BWubp67h3JAGwU2bil2HDj8-ekCevLnZYQJnaiGSXLK8TVmhGrwu4MpegnJ6HOeb_g8zuppL7aViNMJwI15Ck0BMaCadLWOY1-GjcrXzvLcEaSQnAmQtbn2xPuBzfYtrv7Sfgehu8MCE0z0DRTp5WunHsOCVl_2T5Q9AYbDCYui0K_atzjFLtd_NmdQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4mo_mzkC1iVLd43McKqtm4R-nDSQvlyqPeSgnZRtbZdtfIzIZ0jfAyvV55G-VT6fLsav9t7f8KGxrLPbTSlV-I1YbvgL1Mxcn45J5qn8MC9Ldt2EgiIvxzyj5y-rhnyaVyYMs-cgdkX0BminExBRojvy8",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZj5OZyBSvzm0kVYuCCd3Gz2O3-iCRDJCrJGd70l69NRKHRl94KEv__Py_-0Ewafxp5whLKOAswAqTJIhH1FYYkwH1WWViV0XQqLpGjpHTKkF-SV2rgNG0LI0l-WevraKNVChwULJxzseL_ceKQJFm7RMJyRIFiUK8fsDSyKA_1P9k7OHxsLnzmeer1fqfk_yZ0d093wyxDCAuLGO78TKFEoofT44=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpBs-e-GFHAiPljEUbQxuTJf2GQJ0VtPjDrGxSPoEx5kBvpX6_oaMjAqXUK41Kus1xLPzNrpIm6SuZEOj0c2XSJbj1odkf_pjQe50UqheZfNo7QX4xYfBUSu-vdH7LEHFOLSvHODtB2yx7KA6TQ9a7tPO8pu-HY-Vq0TFWX3MFCuA7zVZWdc3FIeZnHN1B",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0vs-cfAvH0yI8PF9S2UqZdX0G8A-0oUTB3YbPadKyD_JFgRTTJpzOI3s0N39-Y5WKFY7x-LcnoVZKmSeesNZMeBr6iKwn8V7g3nAdkZVcVBo6DIhWJZe-Ti7WgLI6B_3Fnqdt6Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnOQvcJGg8blGGvIxbskDxe7y85kwvcrTI6tiblrd4JUXmaFHsvIqohwGJ4U_IjmBQAErN7N9zR0qyBD5Y8NvaAU7N99zWhwYm98-aFWfxprZo6M8Z2JC83WYOE1GwIqWFBAdhst3fug_LDFrryvSKgGSQk9X87M0CzKRi",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEK8rO52_eEC2ZhN16pFjP2xfT3TO71Xlhnmoj-4GAcYv7At0bSNphqBzYVKwe5Y8loRlUrJLArMRyXTn6_JaPr85mhVcIYgPKDHmk95OsVmhSm54enObyhgvdQaIjUi7vo7zJTAxnfQO95o3N4gyXh85obhCUP-76-pzYxTAhHMDrVU0BwpTPzp2j0VdP4sn30tRttwEfZkKBz1XUrn6xnQz8hZjxeUaHW5h3dKAS_eQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYuBnmdw_85ly4aPzypGsGZ_v_neaaplZ4f069-JX2Cm3Tqj6SIOacxy6t_b4fG2rY6ZmDxs6Uqdl89Q-UQl-_Pkcf6TQ4ASlX_em1kCQOYLKzLWpWB5GRD5r9bmTsHtoEnSGujN3bdzKaJcA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXEhl6Zef-EKuTEpO4U89WowWjgQtF3iVk3B0nbkgNO8OQdAQHShYctxeY2qzjskpGUbasnXxImjrbMIYRsA10IFSaMkd9JroGctkmyutBvkltJBcl9q7sQ-gEJvJ2-mzIZT8SplSZoGeq6ucp6KG4Qiki9AupCowBvjCyjma9BNgnTJb1nu-auyy2kvx4Lico5E2KnmqIj6ZB32R7H6617fZQE3Pgf8FeY-ACviD1em_se_XcSDKWdXx59NMX",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6MQBoKerpuDqJuTejTeJrP84aK6jiyeJRnTHmE9ZguJdhY_heHqQyfxk6RyZ9B08rLIIoNJTUvwKU8-xE3f9IPHgvB4FLb4R8ynjzZ0-3NfDQHeENHH4Nch7Z8uHAVqPzLLrFJNFxWYpRim8YRt5qMQYWNnuWKxGrLX731tEnxDmd4sLmVmAe3kgTLUyBLSvsIpuxazaZm7LIWRIRgS7r4D1Lv7TJcQQ5XcdUbYlB4m1KdCes6_WwCfpZYaSVcgRmCl2zhDT89yVPAob41LDnlFaVBBVbVgl2cH0pJOwi_jaIHGaX",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhWb5_xMHvK4NLQ7Uk6qq_CZMAGxCUQf-7xahey4XPdfP5JvwqMXnM1As-g8HqQB0lFGIqI-MK_8xsJqvBNxqKDoPu135TA4WEd7zqrpPJVmpFBw8yFW8yas8ERBSi3cXwBP7GWZ0qbGe-rW0l_SduFGgS_C4wpaiAJISx5W-jdv2-UrVY_HTXGGjnWrzoIgsq_ziZPXnVcxDDZ8bslFSi3TDBAPrfY6lLg_q5iDwMJ3RLsK8BhOia8V65DtFNOOqz6wWSdXfAMo7tm5I-n6mbx8c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgGJ343zBgrpxcdQWG0xzSYpPgueA4lKhGP7oNtx8wWCOjMckyrE4xh_TIxO2fLMqlMIpLxjYsLQNrZAu-d3sY7s4PgPxQXGOeJLrzASaQMyp5f5q6b_KupU4_rnjzEgitonXY6pO9nEc6EXmpL90xXkLoJ2hyGkgc4ZWh82vN9jCeU296pU2klmVgyRL3O9ZobNQ7irVR3bIZ0c2FsPUWjFJBReriGQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4P17qc2SUbzaAHhEpqX4Lw7y-5vjgUZ2YpnXXduQ6wqImXikvPP6nnPC4DGlkL6Olu6_-f5GsTmF3wme6VLWzQFFLOrGDXwy98_5nuVAB2_NpAxqq3Q8COhO756trv4_cUvbIwk0d1Eu1lYgIy13TYgO4X3WKa7rJVSgp76mOj-oCyNSZE9jDdxcpFftCrC0Bu4QuwGOtl3-6_SEhhTvfduSvNcHRGc-UTdNevTBbRA9pAABRNk79Lnvdw6kPF7htcRF2I994JdsBmo_sSjGkp1kp",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETGnm0_d1j9RP0ZEWJqh9ahug5CpH0Tfi-V08w8TLfVEf53EoUM82leBy9eYrJdcdPW6SsGgqD5NCRkK-8RntirJUlfz4Yt_xKVe1mu2GuApEK6TYI2OGgHByQs_uvDr7R8KgaURY4BGj5Qs3EiIJ66lfLnn5YnucZuh3tXUByvFvYQ51tOnE-9YFalfPmBe-80wM86g-spZ44D9pPR9RIlGNEgPwZx4Ir2axZqNVPrj_WoLn5B9yZtuOe-mEeH8H4",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh8tKZVTTnyd6d0ZfKnr-268-azS_AaQQZGFxw9iMu7Vw0wbMQGYsh5Fswpa2ilL2Zd1H4JbThI5h7WAWsCt9F18RsdssHL2qIsuSAMbsWCYWp6BNfs5ztC45TP4FlrjQX2OkSoPDNlZ7utD1bn281kooBCwUrbq-Hf_0kWKFfnvoJwLnDC90cApYIAH3nn09lpKLI1xmFhrNCYWKaasz1netEV5U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH3QgIChkxxP991OvAG4udTrm1QhcafUHNUspyWdDiiMntL0DP2pv3w3KgEhCSeGcHjQ7P6G97ktcliWdFwv5Q95rUFYVJcu7LK0qAI84v_ieagv1KgRX0-g2xK2PTjshtO13PdOJXDnbA-U0Fiah6L943SEscDLJR3njrBxng30rhlSjE_42nN-tGW5mwQ8eTK9RkwlDt33Q5obHibdCWjyw1QkYLqP_lWSsYxQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH5dpzrDGXGbcLcW7k3wSh6gAVn-Upx7NswEa0powS8CbSDzCUge55A9hTlnkAYhRsQv9U4bpwar6ntTWLGQFhn6sTk-6PW6XyHZc826vZBn7GCdM7t669MZOR65j_r8rTlTDBHOX4yaWdm6iMNCiJDaWfqAM6WGpVspTKRuAR3ULCUfckflkKwldWqCxV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaEAIL-EGGJ57LhAdO-7l6dgNdAI9lDhepC9c9qZoRCInuFsq5UB3ZpQgbstAnb---2dJ6MfPpz2egtUbTS6o0ACKTKnSUG7ZxDsi_HiiW1VIAwe1R-6NoxepvSAluYbwx-ucp1de2YGVISMY7MisZnqfOFG0e7lrntsUq-DlpVRJvU_Bsmy1H6qHTT_28O8ww-ovY2YwU9HuLo51ZrwMfunKK9zIVSoqpSfBam5GJ6A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeISmf7XrU4uMf46ql6i7afzbw0SqvlxPAOdExs0CyG0GQaZ--8NXMuBQ2sVaTbS70yBLTy9giZoEuOIgs8t1WC-8BrqRr6WZX4XOzch0K_l58gxbTXwQeVA8HB0s5qtB-3bp4wpgcNIEKjyIGPSGzyO5S9rZLaXhzgaPzygksPMu9n_wDwPWeRMg0nufyMRHG7T00wg33H5-Qdml_j8Aj-MqvplmWDAyD4HdcE0P52Oy6DOOwi29xk9swQas_jLfeWyu4QYJJj8qRggroHWRi5Tsq"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T16:00:53.433922+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Shot Put",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Federation Cup",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "National Inter State Senior Athletics Championships",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "National Open Athletics Championships",
+        "medal": "GOLD",
+        "category": "National"
+      },
+      {
+        "event": "South Asian Athletics Championships",
+        "medal": "GOLD",
+        "category": "International"
+      }
+    ],
+    "stats": {
+      "personalBest": "20.46m",
+      "seasonBest": "20.46m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        19.0,
+        21.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

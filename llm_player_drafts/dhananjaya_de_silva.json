@@ -1,0 +1,164 @@
+{
+  "playerId": "dhananjaya_de_silva",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "dhananjaya_de_silva",
+    "name": "Dhananjaya De Silva",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "1991-09-06",
+    "birthPlace": "Hambantota, Sri Lanka",
+    "heightCm": 173.0,
+    "jerseyNo": "75",
+    "debutDate": "2016-07-26",
+    "profileImage": null,
+    "bio": "Dhananjaya Maduranga de Silva is a Sri Lankan professional cricketer who represents his country in all three formats of the game. A right-handed batting all-rounder, he is known for his elegant batting style and effective right-arm off-break bowling. De Silva made his Test debut in July 2016 against Australia and has since become a pivotal player for Sri Lanka, even captaining the Test side."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "173 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Bangladesh",
+    "venue": "Zohur Ahmed Chowdhury Stadium, Chattogram",
+    "date": "2018-02-02",
+    "aiInsight": "This commanding innings against Bangladesh stands as Dhananjaya De Silva's highest individual score in Test cricket, highlighting his capability to anchor and accelerate an innings.",
+    "progressData": [
+      {
+        "year": "2021",
+        "value": 166.0,
+        "event": "vs Bangladesh, Pallekele"
+      },
+      {
+        "year": "2022",
+        "value": 109.0,
+        "event": "vs Pakistan, Galle"
+      },
+      {
+        "year": "2023",
+        "value": 122.0,
+        "event": "vs Pakistan, Galle"
+      },
+      {
+        "year": "2024",
+        "value": 108.0,
+        "event": "vs Bangladesh, Sylhet"
+      },
+      {
+        "year": "2025",
+        "value": 39.0,
+        "event": null
+      },
+      {
+        "year": "2026",
+        "value": 120.0,
+        "event": null
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "173 runs",
+        "holder": "Dhananjaya De Silva",
+        "date": "2018-02-02",
+        "venue": "Zohur Ahmed Chowdhury Stadium, Chattogram"
+      },
+      {
+        "label": "National",
+        "value": "374 runs",
+        "holder": "Mahela Jayawardene",
+        "date": "2006-07-27",
+        "venue": "Sinhalese Sports Club, Colombo"
+      },
+      {
+        "label": "World",
+        "value": "400* runs",
+        "holder": "Brian Lara",
+        "date": "2004-04-12",
+        "venue": "Antigua Recreation Ground, St John's"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 67,
+      "innings": 119,
+      "runs": 4321,
+      "average": 39.3,
+      "strikeRate": 58.5,
+      "hundreds": 13,
+      "fifties": 19,
+      "highScore": "173"
+    },
+    "bowlingStats": {
+      "matches": 67,
+      "innings": 97,
+      "wickets": 43,
+      "average": 53.9,
+      "economy": 3.33,
+      "strikeRate": 97.0,
+      "bestBowling": "3/25"
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "matches": 11,
+        "runs": 530,
+        "wickets": 4,
+        "average": 58.9
+      },
+      {
+        "year": "2022",
+        "matches": 13,
+        "runs": 343,
+        "wickets": 8,
+        "average": 26.4
+      },
+      {
+        "year": "2023",
+        "matches": 10,
+        "runs": 486,
+        "wickets": 1,
+        "average": 60.8
+      },
+      {
+        "year": "2024",
+        "matches": 17,
+        "runs": 711,
+        "wickets": 6,
+        "average": 41.8
+      },
+      {
+        "year": "2025",
+        "matches": 7,
+        "runs": 122,
+        "wickets": 3,
+        "average": 20.3
+      },
+      {
+        "year": "2026",
+        "matches": 4,
+        "runs": 187,
+        "wickets": 0,
+        "average": 46.8
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiRKheDqC3D1iiQ4GBACp0kF4FXSqKoWvxbumuY3JIaR6Jnhss6aRHMkM0xzMbCEw70ZZlAiQiPcSy9mG6UKUBsm_hWzMFU8EUvyo1l4uyPKAzCxO-0fjFFla52zrSFRNzsAxTshjMoxh4_rQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEEb9u6pSZ-GP9ODpBpiI8XgiLsy6P9tteXp0udspq47-zgQwtOMFA-CsViq0LyP9b73Vc7ucsP9DHqBwPq2IDwuaoOurIzzGuaiVAEMFVn5ZHtrOJT-Cy9oNatKUVkSxvQ1jEAaoXmvnEZkvRS0g1jPZbaL-p9na2",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG88jJdSAyUmRdWHf1l8bVgK6D5lnT5osfSyc4b73_Qtz9_tsa6gR68L4hYxv0dQBjLvbGhD0LatyTewwSboocNNOkCn4ksuumpyCpr-FRRfItbyjwzygo9CsdfMyW3BCH7Tx8y45lqWGQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMYoqgKtlZLM_PARFRZD3136uSCsCb4vZmFrI6TrBieqSfq4ro2xV8Ecn7fjwEh-09ayeEeNhCe0p9MTmblSBlInJZQJta-5VJXSVxgPvRUVYGs1L701-WjkG8PYG2E0_n6s-ovtmWZx9rjnEuILPeAKKTrCWtM-sw5fJSqNTqY-ht9z0t-xzHlClKKGY="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T17:55:20.864604+00:00"
+  },
+  "_retry_log": []
+}

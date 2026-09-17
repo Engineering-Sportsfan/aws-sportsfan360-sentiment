@@ -1,0 +1,96 @@
+{
+  "playerId": "renuka_singh_thakur",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "renuka_singh_thakur",
+    "name": "Renuka Singh Thakur",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium-fast",
+    "dateOfBirth": "1996-01-02",
+    "birthPlace": "Shimla, Himachal Pradesh, India",
+    "heightCm": null,
+    "jerseyNo": "10",
+    "debutDate": "2021-10-07",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/35/Renuka_Singh_Thakur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Renuka Singh Thakur is an Indian right-arm fast-medium pacer who has become a key figure in India's bowling attack. She made her T20I debut in October 2021 against Australia. Renuka gained prominence in 2022, finishing as the leading wicket-taker at the Commonwealth Games where India won a silver medal. She was awarded the ICC Emerging Cricketer of the Year in 2022. Known for her ability to swing the new ball, she has established herself as a crucial bowler for the Indian women's team across formats.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures in T20Is",
+    "result": "5/15",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England",
+    "venue": "St George's Park, Gqeberha",
+    "date": "2023-02-18",
+    "aiInsight": "Renuka Singh Thakur's spell of 5/15 against England in the 2023 Women's T20 World Cup marked her first five-wicket haul in T20Is. This performance was also the best bowling figures by an Indian in the history of the Women's T20 World Cup, showcasing her ability to dismantle top batting lineups on a global stage.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 65,
+      "innings": null,
+      "runs": 13,
+      "average": 4.33,
+      "strikeRate": 86.67,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "4",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 65,
+      "innings": 64,
+      "wickets": 70,
+      "average": 22.5,
+      "economy": 6.65,
+      "strikeRate": 20.31,
+      "bestBowling": "5/15",
+      "oversBowled": 237.0,
+      "ballsBowled": 1422,
+      "runsConceded": 1575,
+      "fourWicketHauls": 4,
+      "fiveWicketHauls": 1,
+      "maidens": 9
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGIcANIzdZ3UJR7A8xRErk4GLhkUZ2itHoBdztLBeHfeOZwtF31LjqgDOsLH68EKq-rfro_g2CmwKZXtXU4q_TmXfNUnC32MxQ3lNu9C8DBNaABFLB0OH7VhxHtOwzHfzg3bVjNlqLFkBTtjzO4eKBkFIe6Ov1pM47",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH253mhOi59KFPNN54hYWCGK55JRCImSaTkgeilAt7pqH2Mfe7Qjpd9RsXZCaGLj_mpfVJJ8DR1vco3Aflp-E8SxPflNK6kQWSh0jPs5WLYqradVlN4vK-ga8S8KK8le_5pQnzzJk5HAZci9l68iIL_jJQUdHzh4LIfqTRpXF523e7yur2AOgbzeyppcDs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUm-_8FvNrn5FAHwTeCDER6LBGWLSpDeK4uDsV6vlquDEiKLexgtzIRKFQSdTf60X80AKonlgOKonKKgXwtcEjhOVX0xQMIVQTNyb7bweQiFsfjXxXY4caGEVwHauMvJmke2CP5z4dmETc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAtfqG9MGwR9EPdfC9pr5yrDsCfxz0ypPS1g4Y2qWBHOxnw1fAQE_shFVP__FsTvA2NvzBVo9WEEUv0rDbOEc0belKPOzwQ50lhoQdoWPJQDDPNyjrn7dxtvKsU_IayLWcYZZpQvSLVClZ4R1TqqlYEfuX2ju6jNfc3qKlYUj5BkIbLsbUUzd4Kuco7ESsWRTf-XE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHRWzMGSpOAnprLrkeL0dC5G3BlHC2Fo3JZ2EJCy-dLXlfeFJ79MFG1tKU7gHwXQs6Dh6etGRyzwdJcxBXDaXp9DWRvARAK_TVcyRFjSSFepeKhJAX1e0rj8kUkQmgGdpEY0Ko1otrUwRK",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEf11knrCNJ81cy5-mB27RhZ38-oYVonNx6YwXNIDHDw9HqveJDRYqCeIWOz9pAdnVlbHgDXTcbeJ_B-BqEIv_u_R3gju96HWl-r0tF71OTgJ0II8xux_tNFudCzt4uGhDP9q9uActyjgbEXWz-kDg7pjIUXQdrr8Rb5c9srtg4jlfhwOswHVcG7sURnbU27EAz6-Y9kjrSoWEmN-U5DuES8zuOjIwi16Q196kzx61cY-3POWbFIHY_vXmv1NNyOZRc3Rr_BFy2w-3k0irbP4ln1GXEThmYEghJ8vOwihtm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDKWE7aTnGnRMovPB0I1YRIz_to-kFQyEOphUBH6Le5DTpnLoHUxET5qG1VpHTKTjyz1J7LtkBon1aEDNnsvz9iTq_vEouid__hnz-j3Xo4AJStr53aKx6Km2YuuwXBfQBsuPfsdXz_mVY6xLwQesyHfXG-cmZFCgsZqsmu4-Afw15LoNx_nqbGDc07sry7B0WTB-L5c5pK0H7ExpE0wImwvqTqdh3aDYabhrDk7M5ORZANQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYZVSouJnwShMuaVRku7NN5Mf8UDxSZ7REUgefSl9MYyCZP1gZ8kF1jbysk8ke0hCFqlKsIT-40iTDvQHNPgrIPeZDxhG7DdCIU4FaKB05eursJyUa7sJQjMOJJfd6oJgNMV9Y_1YdoC1ImUMotCZllHk7RicNOxVzGEIR_HX4qDCdcDPi8x5b5iFlorzeLEbT7UB3q_93EHGCqw8_iGxWNeNDuOVGbe6JDQyJR-tI2SNydJwSlyOkPiCMfrRNeOaha_pzl12nachBVR2CLoYpgV1K",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiS_IWYfxyHbWuDWK2dZ20fZsUj8HqJ1H5swMzf3rS3cIJNyZgWwJYPGOesOywsBana2DTdRJCwW725LL2Pqta55OEnOS7s5STm8wuGWpw-29JxSp_W1ehLZY8qk9FAQQfULLvVU0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:27:46.295866+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "renuka_singh_thakur",
+    "renuka",
+    "singh",
+    "thakur",
+    "renuka singh thakur",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

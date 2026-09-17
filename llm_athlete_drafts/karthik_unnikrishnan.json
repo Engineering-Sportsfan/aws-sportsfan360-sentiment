@@ -1,0 +1,318 @@
+{
+  "athlete_id": "karthik_unnikrishnan",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Karthik Unnikrishnan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1993-06-03",
+    "heightCm": 185,
+    "weightKg": 74.0,
+    "profileImage": null,
+    "welcomeVideoUrl": null,
+    "bio": "Karthik Unnikrishnan is an Indian triple jumper. He holds a personal best of 17.10m, achieved in May 2022. He is a two-time national champion and has been in the top 8 at the Asian Championships once.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Triple Jump",
+    "result": "17.10m",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2022-05-21",
+    "city": "Bhubaneswar",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Karthik Unnikrishnan's personal best of 17.10m is a significant achievement, placing him among the top Indian triple jumpers. This mark was achieved at the Indian Grand Prix 3 in 2022, where he secured a silver medal. It also helped him qualify for the Commonwealth Games.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 17.1
+      },
+      {
+        "year": "2023",
+        "value": 16.57
+      },
+      {
+        "year": "2024",
+        "value": 16.11
+      },
+      {
+        "year": "2025",
+        "value": 16.44
+      },
+      {
+        "year": "2026",
+        "value": 16.8
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "17.30m",
+        "holder": "Renjith Maheshwary",
+        "date": "2016-07-11",
+        "venue": "Bengaluru",
+        "tournament": "Prueba de Confrontacion"
+      },
+      {
+        "label": "Olympic",
+        "value": "18.09m",
+        "holder": "Kenny Harrison",
+        "date": "1996-07-27",
+        "venue": "Atlanta",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "18.29m",
+        "holder": "Jonathan Edwards",
+        "date": "1995-08-07",
+        "venue": "Gothenburg",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "17.10m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Triple Jump",
+    "achievementLabel": "Two-time National Champion",
+    "stats": {
+      "worldRank": "43",
+      "personalBest": "17.10m",
+      "bestYear": "2022",
+      "totalGold": 2,
+      "totalSilver": 3,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "Triple Jump",
+        "value": 17.1,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2023",
+        "event": "Triple Jump",
+        "value": 16.57,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2024",
+        "event": "Triple Jump",
+        "value": 16.11,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Triple Jump",
+        "value": 16.44,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Triple Jump",
+        "value": 16.8,
+        "rank": 32,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 17.1,
+        "seasonAverage": 17.1,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 16.57,
+        "seasonAverage": 16.57,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 16.11,
+        "seasonAverage": 16.11,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 16.44,
+        "seasonAverage": 16.44,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 70.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "17.00m-17.10m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 20.0,
+        "peak": true
+      },
+      {
+        "range": "16.50m-16.99m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 40.0,
+        "peak": true
+      },
+      {
+        "range": "16.00m-16.49m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 40.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Karthik Unnikrishnan has consistently performed above 16 meters, with his personal best reaching 17.10m.",
+    "peakZoneLabel": "16.50m-16.99m \u00b7 40% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2025": {
+            "value": "16.44m",
+            "holder": "Karthik Unnikrishnan",
+            "date": "2025-08-22",
+            "venue": "Jawaharlal Nehru Stadium, Chennai"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhxUxS59Ndb_bt0IxP2NjrT3YcvNRwCHaNJW9nmv5kU_DsjpooMV4Ma20OltHO5nYb15OiIEcnTetJRq8DarlvZZYQv5Jqi22SKCF5c8ptm4vpBaK-jXxwknyTo7Vnv6aqFEelAVLKCm_gM7XqSdLfsjFcB3GfIyY9gIjZyD7rPAMg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPwDjd9U7XUh1XXlf8zCLRg1bb6z-dh0AW1OhkKZvstBnitPZzPBxJhMzXlYO1JCYvEPbfQlPNrIENdgxz7NPrIFVBC3WO9ve-1wd36jNH2c26ne6Rm8zjU8IzzXp3jaK_59ouBuzW6KgejBbJvLt2HkyxpqrzpBaBog0CGdgfJP_rWUXDtMXnhCwVTZqHL_2PcnJfNIxBdv4fHg-iO1kJ4AMISh-I7fohGxfnEfBlwva11mj4F1ENHAcvS9kowMmaJE9gqUNL7jp9V7CWiNWBY0bQPN3-0UNnOUyto3jH_ApUQEquc-J1XaK2FZs="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T14:06:18.732898+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Triple Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Triple Jump",
+        "medal": "GOLD",
+        "category": "National Inter-state Athletics Championship"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "GOLD",
+        "category": "Indian Open"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "SILVER",
+        "category": "Indian Grand Prix 3"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "SILVER",
+        "category": "National Games"
+      },
+      {
+        "event": "Triple Jump",
+        "medal": "SILVER",
+        "category": "World Athletics Continental Tour bronze event"
+      }
+    ],
+    "stats": {
+      "personalBest": "17.10m",
+      "seasonBest": "16.80m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        15.0,
+        18.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,89 @@
+{
+  "playerId": "radha_yadav",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "radha_yadav",
+    "name": "Radha Yadav",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "dateOfBirth": "2000-04-21",
+    "birthPlace": "Mumbai, Maharashtra, India",
+    "heightCm": 167,
+    "jerseyNo": "21",
+    "debutDate": "2018-02-13",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/e/e9/2021%E2%80%9322_WBBL_MR_v_SS_21-10-30_Yadav_%2802%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Radha Yadav, born on April 21, 2000, in Kandivli (West), Mumbai, is an Indian international cricketer renowned for her left-arm orthodox spin. She made her T20I debut for India against South Africa on February 13, 2018. Primarily a bowler, she is also considered a bowling all-rounder due to her right-handed batting and exceptional fielding. Yadav has been a consistent performer in the T20I format, notably becoming the second Indian woman to achieve 100 T20I wickets. Her career highlights include being the joint-leading wicket-taker for India in the 2018 ICC Women's World Twenty20 and contributing to the team's runner-up finish in the 2020 ICC Women's T20 World Cup.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "4/23",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Sri Lanka Women",
+    "venue": "Junction Oval, Melbourne",
+    "date": "2020-02-29",
+    "aiInsight": "Radha Yadav's best T20I bowling figures of 4/23 against Sri Lanka were achieved during the 2020 Women's T20 World Cup. This crucial performance helped India restrict the opposition to a low total and earned her the Player of the Match award, highlighting her significant impact in a major international tournament.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 91,
+      "innings": 29,
+      "runs": 168,
+      "average": 9.3,
+      "strikeRate": 107.7,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "36",
+      "ballsFaced": 156,
+      "fours": 15,
+      "sixes": 2,
+      "dismissals": 18,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 91,
+      "innings": 88,
+      "wickets": 106,
+      "average": 19.32,
+      "economy": 6.66,
+      "strikeRate": 17.41,
+      "bestBowling": "4/23",
+      "oversBowled": null,
+      "ballsBowled": 1329,
+      "runsConceded": null,
+      "fourWicketHauls": 8,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExK6BfdZRxeyoTfoCSjTT8Iy3tiNn3BypKD0P4X2s-MG7pMVlgvOeLQLDgWXUcyMw_LdBJ1AKUz52iONUYj7QFh__x5GBz6BXIDNKqNiJVZ9WckoBPUsPJEG3xgH_CUCHf94GLDspE2m-BrSHrKqElPGeZb34hYylV3GQ_CX2G3H2Uh1NAtJB70uj2j_LcPYxvSIJH0P_jBxFDwT7g98BTho8caLuMmbeYcz8QsFYc4o5ETWCDs028Qn1F0yY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM9DCh8kuu72LkgSKyXFF6LvXZmiVHibzL2KiNPlvHHZg7VR5awyV1N-WAC2ZOptvXVPdRf1ELrSxrmbeRRHUKcQA9Ruk9Zf_wwjLuiyLYcDnAyUk7y976gygI1t4J5FtnQbmnZrjmJ57cfVDN09TJ_zeOI0U0b_ngwKnlE6aMYorXMUsw-DBDmRKcYArydwENcOWEDebeSXzacCYMjNknfBbdfDCDOE6iwt41TcMC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO9T9edrZkhTV_LoTLkSjxcKOjhTLuAmKXfXlXTNiwf3xdgDyBbGLkn9R3M8KL8jZSBZN4IGmaPsJRb4As68PojQEMR5gWVWvWU3NczuzrxaJuzqS6tUqgTRer9en1b8LAbr_J17AlrLsCc2Y2z-W-ZBCg_ILhDzy41dWTdSp7geEocf4vflUUTj8pzAy0hqOPGmkAI_Y="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:53:23.489933+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "radha_yadav",
+    "radha",
+    "yadav",
+    "radha yadav",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "athlete_id": "kranti_goud",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Kranti Goud",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2003-08-11",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kranti_Gaud.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=AsZCwst-DQE",
+    "bio": "Kranti Goud is an Indian all-rounder who plays for the India Women's cricket team, Madhya Pradesh in domestic cricket, and UP Warriorz in the Women's Premier League. She was part of the Indian team that won the 2025 Women's Cricket World Cup. Goud made her T20I debut in July 2025 against England. She is known for her right-handed batting and right-arm medium-seam bowling.",
+    "birthplace": "Ghuwara, Madhya Pradesh, India",
+    "coachName": null,
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "Most wickets in a single T20 World Cup edition",
+    "result": "17 wickets",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2024",
+    "city": null,
+    "prevRecord": "16 wickets",
+    "prevRecordPlace": null,
+    "prevHolder": "Wanindu Hasaranga",
+    "improvement": "1 wicket",
+    "improvementDate": "2024",
+    "aiInsight": "While Kranti Goud's T20I career is still in its early stages, the record for most wickets in a single T20 World Cup edition is a significant benchmark for T20 bowlers. Achieving or approaching such a record would highlight a bowler's ability to perform consistently at the highest level of the sport. The current record stands at 17 wickets, shared by Fazalhaq Farooqi and Arshdeep Singh in 2024.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "17 wickets",
+        "holder": "Arshdeep Singh",
+        "date": "2024",
+        "venue": null,
+        "tournament": "ICC Men's T20 World Cup"
+      },
+      {
+        "label": "Olympic",
+        "value": "50 wickets",
+        "holder": "Shakib Al Hasan",
+        "date": "2007-2024",
+        "venue": null,
+        "tournament": "ICC Men's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "193 wickets",
+        "holder": "Rashid Khan",
+        "date": "2015-Present",
+        "venue": null,
+        "tournament": "T20 International"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        70,
+        30,
+        40
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqgroMc5hoPWAcbnroYtua_OMslCoiybrKDAiPpuvDMOFontgCq51515M-Ws3pyxB-HFPAjBO6kfhz2-anGrl01pGJqKSGiy9H8zJUi7Y9ydNsHhkVPQnoEpin7CmAaw4vITsCfLCC9RZxk4ikMiL_0yRGEw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNaMP-3FBnayxAAus7CiUzMIJq76fMJOv_HtcfeeaXVrkA5RB_DTLRCC-k3lK-0HwGrlt94JAJCJVVo_uhN3ifwEBLV0XM627_t2-GRgdVWtep3uSCTYqwqTJuLDutEql2oso=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG5tZ3Ci6z6nPsE3RlbcmAhWD6Q9YS0gyOjFAf_azFeVCNE0lZPiirRPkWafJmMwga8YYgNX83tNR-lRgzPnQL3J02DeF4jqmnqECYxLQreDV2dJtczAfwYnOkWniLLPkadofF_3w2a2M1Ssg4gCkSosHYA6JnUi5O1dEI0wBoMTXqZsS9Of-mWv8ApwIisobFd7U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXjhbRo8zIHEdoC9V96CuD2_A29e0d8H3EWxuW2sCqQRU-ntDL5ZI1IxtiXvIxFQIlPyDb5w3oaPjpruBUIfQqsE6TMdsDLxOl1heDCKSGUzk92-yJIxETtCedDt6IYsppW323L0-tMr26Y6EG"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:51:46.455151+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 17,
+      "ballsFaced": null,
+      "battingAverage": 9.0,
+      "strikeRate": 130.77,
+      "fours": 2,
+      "sixes": 1,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 8,
+      "economy": 8.4,
+      "bowlingAverage": 42.62
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "goud",
+    "india",
+    "kranti",
+    "kranti goud"
+  ]
+}

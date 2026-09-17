@@ -1,0 +1,334 @@
+{
+  "athlete_id": "narendra_berwal",
+  "sportId": "boxing",
+  "coreInfo": {
+    "name": "Narendra Berwal",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1994-11-14",
+    "heightCm": 192,
+    "weightKg": null,
+    "profileImage": "https://boxrec.com/images/commission_photos//4/40/851095_21647404d428ee8857ad37ee17c42761.jpg",
+    "welcomeVideoUrl": "https://youtu.be/3lbxSr8yPrI?si=GPCZv4uHFT1w3QtO",
+    "bio": "Narender Berwal is an Indian super-heavyweight boxer who represents his country in major international competitions. Born in Hisar, Haryana, he began boxing in 2009 and developed his skills at leading training centers. He serves as a Subedar in the Indian Army's Chinar Corps, balancing military discipline with his boxing career. Berwal has earned multiple national and international medals, including a silver at the 2026 Commonwealth Games and a bronze at the 2022 Asian Games.",
+    "birthplace": "Hisar, Haryana, India",
+    "coachName": "Devraj",
+    "yearsActiveSince": "2009"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2019",
+      "value": 83.3
+    },
+    {
+      "year": "2022",
+      "value": 75.0
+    },
+    {
+      "year": "2023",
+      "value": 71.4
+    },
+    {
+      "year": "2025",
+      "value": 77.8
+    },
+    {
+      "year": "2026",
+      "value": 80.0
+    }
+  ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "Multiple Senior National Boxing Championships Gold Medals",
+        "holder": "Narender Berwal",
+        "date": "2019, 2021, 2022",
+        "venue": "Various",
+        "tournament": "Senior National Boxing Championships"
+      },
+      {
+        "label": "Olympic",
+        "value": "1 Gold Medal",
+        "holder": "Wladimir Klitschko",
+        "date": "1996",
+        "venue": "Atlanta",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "25 consecutive title defenses",
+        "holder": "Joe Louis",
+        "date": "1937-1948",
+        "venue": "Various",
+        "tournament": "World Heavyweight Championship"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "wins": [
+        3,
+        1,
+        0,
+        1,
+        3,
+        1,
+        0,
+        3,
+        2,
+        2,
+        0,
+        5,
+        5
+      ],
+      "losses": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        0,
+        1,
+        4,
+        2,
+        2,
+        1,
+        2,
+        3
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Power",
+        "Defense",
+        "Footwork",
+        "Ring IQ"
+      ],
+      "values": [
+        90,
+        70,
+        60,
+        80
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Narender Berwal has shown consistent performances in international events, with a notable rise in 2025 and 2026, securing multiple medals at World Cup and Commonwealth Games."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2012",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "AIBA Youth World Championships",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      },
+      {
+        "year": "2013",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Youth Asian Championships",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2015",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "World Military Games",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2,
+        "tournament": "Chemistry Cup",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "South Asian Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Senior National Boxing Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 4,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 2,
+        "tournament": "Asian Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "tournament": "World Boxing Cup",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Commonwealth Games",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5MbZlcrvFlrb1PqdxocyyGdw3vRZq0HplUTctFFu7XvsKGL-XO0S3r4NBtLJlkCTmc6mxE2OQx0tCIkUlJ7WfnVnKSJLN3EzTxlWRU1PaNg3JxiC3PCdIZ0lRs8Hx35wJYZM0_ApMsMe1e-zEKX5cR_O0-PX12tcnaQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdb4OM71Na46CL9u1gUC-SybqFwVL_BqcdXRtn7TMwTzpWnjphKJXaiDmGs_0idWvHFDVtMelo_dGTnmkofb7iVc9ZFCVVMl7Nmf92Cnh-MhoLY9360YH1xztIcDtifFPEUqZ0lGWAqw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9BfN_FT4YTd4dlUyfToUOIv13BgcmTegYSE8tufrwxlmT-7QQ9DJQ5B4DSAF61cOS8LVyWqp79nWkddhM0u0UYDgwDoyGJ5OmtH-sYrQB53iavYOEIRznJKuMcFfMPo5OqzQ7dncgu9rEYk4ULOgT8B0k4j0zmUmEYLB9tp9pO54VSZFFjDlPvO9gUoVNmArocgec26KTuY9l2g-cWkPEpMiD9V0rbJAyV8dMh35otFZtniNSwpSyUXbscHpBuEmZ6ZmFgaA8Ulugqp8irsdqahGZZw8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGTi_DaJfWxwIS6oct_AU6H7PQmDJQh3OhIUuMsrYSrA-VlyzjigVxNMpitwaLMMVAphBx2b9Lqb4yscgEjfY2E_46OJXZozEwxTTyqGM9-PgA9lIiipu4NFA5Rkom02TFGOOsmah2THjgajM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7GPeZPQW36FAlwcGBiZDWZtq5ChXxZbIpvGsrTBIj0fg8iYEW-t1DDv7-FqDjUkeZ8r9gh1AlYlJ1jSE_4M-zQUwfQnSt-Qaw_l2ANXaNDrnKYEVe60Ant56o3JXMx7HGHByyKUIu6K9cQdPYcAsbP2yujFuhsvNqFAljESboZuSRCdbxLn492pMD33cZBGlsFTAXUX6b1Taq9sFtOMtqFeCRJYAQlJd-SgO8cL8rqKjscFq4CFSE9BcnniuL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFTKJzCs1K1jG3gvmCg5qMf-aWq0MT3V2-AxWQeF6jYxPqZ06vCL7WO3uUDqFCw912qxGj6V99zM3jmX5n-VJY4qIAAST9Usp2doWou19qZF-kGqw-fQJk_aP2ULuDqCNzY3By63LRDqZONTMMVAu1_Wb5dJGUZQ9aEpxiyXBCI8vCQJq2iQRg61FvddK5ElNynl3EWc2N-OGdy1-3o4NrhGJDA4FqKbsGD9zvp1Radfn4rmz95sec3RBFkRZ3q6-EddW6yCYtyZ-wsQaA8mmPYIt-GCQDxs8cAuLiL_0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsEN1nRUCOczFBWyihtLB8em3aVZRqd0FhGHuoaMbk9_qobQKpRUZoazUfEj1Y-bqMmL-NBUkFAuJsxcbDmMKNTsYRcW3ULRX8QYAp3tt5bGKPcrkV_xprwXNQNf114POygH1KD2ZYjQkLkr4upCl5XUDLixUBCcQ3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL9UCyMhmBLgH45xFZSCuGNmfl3343R9uEWT-BER6rczJSsqnZs3yZ9WYcEGm3nk-yyb2_ZaPceu2s9GST1vS8KTAG-A4G77nSmO7pa8jNR8_ABJ-altBIIu3osyJjgEfKTGq7N6L3",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-z0QycJ8EYAVtAMrIXdxUqPYT4UCySA8uArFR_VsaKx_-HCXsv7Qelt1WH2LD4wyKpQ4VUMk07gMNihHwbhvSAhw63b_J5EuCiWh8x50i5qtORTHh-OQGAbyjhS6yF7z4kN7ng-xucniGmg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnWg8H9gP6xbo_53hSd59l-g4cvCB-wsAvyA2L9RU3uWTjd0FyKDUdKsxZOY59-BsT9j0t3Y5PHOZ2YMkJKrmJs3pBE1efqDFMqrq6oNZwusRDpEUt1D45Qug74bfgeAoSwmyGq8u8r_dXZYpYvReYQ2PoLoxyEFGKXNgd_MzDadIN9lkfvFeMFN6kK_fmWqovNN-IBjNQZ5km0dsZD04qv43euSjMvbS6nKPj5INXEnXoGyoHAaXIv_dFaqGmIiufudz4IJzRDAia_NQ_5juUovNvXg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2zpCTMeA35VRuCNsHsokdpxE06XPgm4XKY8NbL8l7BYTTtFEErz66AbjOFEryszAdIiF_JIxx4w-MpJ0KyC9n0nisg6aaQeCctvDLvKcqbmybBvEnMqVstsCDSEsAZHbMZ_TZv98CI34GUoeyltp2dfD61bep1QARR5lbRhTdG9PapMxN3N8KlF8_MVYFrK9lreCAvaPRnFSX9SaVY3rl4ff_ewUpR8Hybf-UpM-pR-VozBUawPIltj9KMa4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0uuT-yIDYfkiWebwToqA7z8HqPQ1OCSSiYdo8X-QEoAHIQLSPPhZyrVJi3liYWSd7bqq3BPK8k83CZ1cD5L6F_GgaSoLQpZBjDouvVUVssecsYglauXEGHdrV2aomAOYHT95-MDq9pggwl1EiMlkABHogb9ZVqWEP3Rucvg__8bAwW7uswn-M3HzjeAeaEduZFbdP8CwFZSL0aOih1aZipipGlVi4qvVeQCqsrathhY0EnrmP55mJJu3E2OOj3x8o5UjEer8TTFZR8X6XhnTVAREycGZFElQZhazkXQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-10T07:54:58.977400+00:00"
+  },
+  "performance": {
+    "weightClass": "Super Heavyweight (+92 kg)",
+    "stance": null,
+    "reachCm": null,
+    "heightAdvantageNote": null,
+    "tournament": "amateur",
+    "titles": [
+      "2026 Commonwealth Games Silver Medal (+90kg)",
+      "2025 World Cup Silver Medal (+90kg)",
+      "2025 World Cup Bronze Medal (+90kg)",
+      "2022 Asian Games Bronze Medal (+92kg)",
+      "2022 Asian Championships Bronze Medal (+92kg)",
+      "2022 National Games Gold Medal",
+      "2022 Senior National Boxing Championships Gold Medal",
+      "2021 Senior National Boxing Championships Gold Medal",
+      "2019 South Asian Games Gold Medal (+91kg)",
+      "2018 Chemistry Cup Bronze Medal",
+      "2018 Belgrade Winner International Tournament Bronze Medal",
+      "2015 Military World Games Bronze Medal (+91kg)",
+      "2013 Youth Asian Championships Bronze Medal",
+      "2012 Youth World Cup Silver Medal",
+      "2012 Youth National Boxing Championships Gold Medal",
+      "2011 Youth National Boxing Championships Gold Medal"
+    ],
+    "recordStats": {
+      "wins": 31,
+      "losses": 23,
+      "draws": 0,
+      "knockouts": 4,
+      "noContests": null
+    },
+    "chartConfig": {
+      "primaryUnit": "wins",
+      "secondaryUnit": "knockouts"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.weightKg",
+        "performance.stance",
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.weightKg",
+        "performance.stance",
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

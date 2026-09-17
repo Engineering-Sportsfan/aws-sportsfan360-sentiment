@@ -1,0 +1,226 @@
+{
+  "athlete_id": "thowfeeq_noushad",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Thowfeeq Noushad",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2003-12-20",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/ZCYmCnBLWpk?si=mOJ2Y8rls9RtKFJt",
+    "bio": "Thowfeeq Noushad is an Indian athlete specializing in jumps and decathlon. He achieved a personal best of 7530 points in the Decathlon on May 23, 2026. He also holds a personal best of 7.36m in the Long Jump and 1.95m in High Jump. Noushad has competed in various national and international events, including the FISU World University Games in 2025.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": "2025"
+  },
+  "record_highlight": {
+    "event": "Decathlon",
+    "result": "7530 points",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-05-23",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Thowfeeq Noushad's personal best of 7530 points in the Decathlon, achieved in May 2026, demonstrates his strong multi-event capabilities. This mark highlights his potential in a demanding discipline that requires proficiency across various track and field events. It serves as a significant milestone in his developing career.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 6993.0
+      },
+      {
+        "year": "2026",
+        "value": 7530.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "9018 points",
+        "holder": "Damian Warner",
+        "date": "2021-08-05",
+        "venue": "Olympic Stadium, Tokyo",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "9126 points",
+        "holder": "Kevin Mayer",
+        "date": "2018-09-16",
+        "venue": "Decastar, Talence",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "7530 points",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Decathlon",
+    "achievementLabel": "National Senior Athletics Federation Competition Medalist",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "7530 points",
+      "bestYear": "2026",
+      "totalGold": 0,
+      "totalSilver": 1,
+      "totalBronze": 2,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "Decathlon",
+        "value": 6993.0,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Decathlon",
+        "value": 7530.0,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2,
+        "seasonBest": 7530.0,
+        "seasonAverage": 7253.0,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 60.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 80.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "7530.0\u20137530.5s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "7530.5\u20137531.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "7531.0\u20137531.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Thowfeeq Noushad has shown significant improvement in his decathlon performance between 2025 and 2026.",
+    "peakZoneLabel": "7530.0\u20137530.5s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "7530 points",
+            "holder": "Thowfeeq Noushad",
+            "date": "2026-05-23",
+            "venue": null
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3IIL0oFjjBVlNt0vWhTAko68aTB74yah1qWF0-4SYFOhq_RsuTGhlDiEi9GPCOM4bcPaq4JR3OfvvcNEIjLxuRdBLeD3wYsCWtHWcyljjsLKwsI3r6jPIzub-LIVsOdtpmadIc6ms0AkhTMu83JKIwR_D_A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgNG_v8oPxo90fDG-9E2qLsmcXeca_b-2yMTJCJNm0XYyh8MPd9Kz0K7cTBbAVt5JajAj7f1y9cjQ8soGutVW1Lavr7sb_9jt2RsBcaNnQ5ZdDGVlIPuL0Nx36xhKkk46Z1FJM6tLM82b45w8XH_c57vxQessfsH0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T11:03:28.588093+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Decathlon",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "7530 points (Decathlon)",
+      "seasonBest": "7530 points (Decathlon)"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        7000.0,
+        8000.0
+      ],
+      "unit": "points"
+    }
+  },
+  "_retry_log": []
+}

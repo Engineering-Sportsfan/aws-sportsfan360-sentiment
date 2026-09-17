@@ -1,0 +1,93 @@
+{
+  "playerId": "shafali_verma",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "shafali_verma",
+    "name": "Shafali Verma",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "dateOfBirth": "2004-01-28",
+    "birthPlace": "Rohtak, Haryana, India",
+    "heightCm": null,
+    "jerseyNo": "17",
+    "debutDate": "2019-09-24",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/9/99/Shafali_Verma_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Shafali Verma is an explosive Indian opening batter known for her fearless power-hitting. She made her T20I debut for India at the age of 15, becoming the youngest cricketer to play in a Women's Twenty20 International for the country. Verma quickly rose through the ranks, becoming the youngest player to complete 1,000 runs in T20 Internationals on October 8, 2022. She also captained India to victory in the inaugural ICC Under-19 Women's T20 World Cup in 2023. Her aggressive style of play has established her as a key member of the Indian women's national cricket team across all formats.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "81 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Nepal",
+    "venue": "Rangiri International Stadium, Dambulla",
+    "date": "2024-07-23",
+    "aiInsight": "This innings was a dominant display of Shafali Verma's aggressive batting prowess, where she scored 81 runs off just 48 balls. Her rapid scoring helped India post a formidable total against Nepal in the Women's Asia Cup, showcasing her ability to provide explosive starts and set the tone for her team.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 112,
+      "innings": 111,
+      "runs": 2965,
+      "average": 28.24,
+      "strikeRate": 137.01,
+      "hundreds": 0,
+      "fifties": 19,
+      "highScore": "81",
+      "ballsFaced": null,
+      "fours": 384,
+      "sixes": 85,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 112,
+      "innings": null,
+      "wickets": 16,
+      "average": 22.69,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": "3/15",
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": 0
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTECwzFhx9ZQ8q8M2MA0C2TULVDwA3q3yzG5C_7NjFq2IrFW5IQDcaOQjMFBV6kiQh7zfq6l1Tw1U9qKAhYZIzoCkC9i63rwFoHyRQmwMGEtvR2D_WT9lynd9H8-kyz_xGYTxQQ5o=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHersU8t_LetDdV6Pmvp3zjRSIr9_NeA68OU7t9e7pZqqYFP_LAfz-4TSoSlM58kOxGtto1O92hCZYzDQZJ8Dr1qdUtjD-HV_5Jma3aNonQcGqPxWgKhU_yeMmvXoEZSV4iFy36",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiCXF28oOgZ_RB7lvivrflcWU72AAKYEMDnn-YI8gH17H3I2OOIxHuSlxomWr7jidDxlmBvH35bLHVm1phB1GwaZnnK6SJEWsSFTOV-YLcPdehWVNLgN4F_QJClGk_Huj5x9cjidw-dKaC1ZarU4zhhn8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGhhLGbwaQ2gwmlFprtXjV7PzhXQI8mz_bTQPi7b2MtyQhuuELULH7YJhBRRsJYwbahyHjEmFi4e86rEfYiSafAC9hotRbyD3yUr16oAPcfZds8p-5YTk87cYKOebBCjOCjyIU_7q8mXxPYN2zmC1vS3Nk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj4fw7jP8B0TecOA_63-g7eTn_HDAsddi1ctx9CrkhcuFUJ7Ynt-DlqrcabgkrUqKjkPfEQxNBJrnfydUOrbzIgls_id2dxtwxuOUxlqxXW6ZYG0vI6uf5FHWjaVH6ymzu3z_fc0agCHLNhFogxnoPwPvPmjAb1qkiQ4dNpl0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUT2bZIUAVxDlwMJpGTwr4Ehn-5iIrHK_Xd_jq47QYr-H3FvLtlgZ4wzkX1yzO35mr5Tu7iz3E1k23rAAJW8muQ3EUWrjw_EVQOoJcucHxddvdq6tfU1zMyYtKcHZXUPZfvUPz84MJjji9y2Nfvf7vPHJ6W5sEC98Y2wQe9ARs6LjSoi7hO8Aa65LPgcKEzKenksdnoh061Db3eMG75x45LcqtcDU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZdA6Q9nwL0JKRb-ygMnfqqpOzKR7HhrAR01h30fZitRYkcSk0JUf1OEVaye1EskEH0FZrZgDCQFNGpYJzIrqQU8c2_SgWWkuAD4XUTWaoEbJUlHxfIfOMh2KnW__rMKhslf3M0iZQNzPTmrfOrAlWhVHv3ssN4u2YyFb5mdjdewSpGHnPltf--GR1g23GZsd2QEl0DD-DsXvUqfgGKxmzVYEt-RaXLxL5EOIwpvAjN-Kr7W7kfXrOUnAhQYPMaylOa-wan1TW1QM4qPXcWwpcZYkTvA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:31:36.677125+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "shafali_verma",
+    "shafali",
+    "verma",
+    "shafali verma",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

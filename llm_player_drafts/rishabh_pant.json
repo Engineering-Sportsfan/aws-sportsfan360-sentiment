@@ -1,0 +1,177 @@
+{
+  "playerId": "rishabh_pant",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "rishabh_pant",
+    "name": "Rishabh Pant",
+    "country": "India",
+    "flag": "IN",
+    "role": "Wicketkeeper",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm medium",
+    "dateOfBirth": "1997-10-04",
+    "birthPlace": "Roorkee, Uttarakhand, India",
+    "heightCm": 170.0,
+    "jerseyNo": null,
+    "debutDate": "2018-08-18",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/7/77/Rishabh_Pant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Rishabh Pant is an Indian international cricketer known for his aggressive left-handed batting and wicket-keeping. He made his Test debut for India on August 18, 2018, against England. Pant has redefined the role of a wicketkeeper-batsman with his audacious stroke play and match-winning abilities. He holds several records, including being the first Indian wicketkeeper to score Test centuries in England and Australia. [2, 15, 16, 20, 26]"
+  },
+  "record_highlight": {
+    "category": "Most dismissals in a Test match",
+    "result": "11 catches",
+    "type": "WR",
+    "typeFull": "World Record (Joint)",
+    "opponent": "Australia",
+    "venue": "Adelaide Oval, Adelaide",
+    "date": "2018-12-07",
+    "aiInsight": "Rishabh Pant equaled the world record for most dismissals by a wicketkeeper in a Test match, showcasing his exceptional glovework behind the stumps. This feat highlights his agility and skill as a wicketkeeper at the highest level. [10]",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 81.0,
+        "event": "vs Afghanistan"
+      },
+      {
+        "year": "2025",
+        "value": 134.0,
+        "event": "vs England, Headingley"
+      },
+      {
+        "year": "2024",
+        "value": 109.0,
+        "event": "vs Bangladesh, Chennai"
+      },
+      {
+        "year": "2022",
+        "value": 146.0,
+        "event": "vs England, Birmingham"
+      },
+      {
+        "year": "2021",
+        "value": 101.0,
+        "event": "vs England, Ahmedabad"
+      },
+      {
+        "year": "2020",
+        "value": 29.0,
+        "event": null
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "11 catches",
+        "holder": "Rishabh Pant",
+        "date": "2018-12-07",
+        "venue": "Adelaide Oval, Adelaide"
+      },
+      {
+        "label": "National",
+        "value": "11 catches",
+        "holder": "Rishabh Pant",
+        "date": "2018-12-07",
+        "venue": "Adelaide Oval, Adelaide"
+      },
+      {
+        "label": "World",
+        "value": "11 catches",
+        "holder": "Jack Russell, AB de Villiers, Rishabh Pant",
+        "date": "2018-12-07",
+        "venue": "Adelaide Oval, Adelaide"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 50,
+      "innings": 87,
+      "runs": 3557,
+      "average": 43.38,
+      "strikeRate": 74.06,
+      "hundreds": 8,
+      "fifties": 19,
+      "highScore": "159*"
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": null,
+        "runs": 680,
+        "wickets": 0,
+        "average": 61.8
+      },
+      {
+        "year": "2023",
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0,
+        "average": 0.0
+      },
+      {
+        "year": "2024",
+        "matches": null,
+        "runs": 576,
+        "wickets": 0,
+        "average": 36.0
+      },
+      {
+        "year": "2025",
+        "matches": null,
+        "runs": 629,
+        "wickets": 0,
+        "average": 48.4
+      },
+      {
+        "year": "2026",
+        "matches": null,
+        "runs": 81,
+        "wickets": 0,
+        "average": 81.0
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2bgrb_jj5Prt0tMJM-Y_50uqpPZ0gH1rpYsaNBlEaHThGMadlo9WfVlq1CLMdIN8YudR-YUJLIKYaIujaSq-mX84RAm0Ccg1BpNQ6Be1VqkonB-0dyLanm95PPEPJ9tKvZybnvg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1GBpLv-8A79laRwUAfNQ80KrIJHVKzUq0AUcoWcfQAfbWI7HZSy5c8vRbMHtUWihuYtTLI3HP6yzzl5xU7cyjKJy_lNfwa9hs0g1FboqiA7Xh4sVGHtZSfGeTH3ycJvP9OBiqlwjNM6wjVYC5hBRu7jjrvD2val-mTFKzabjYyNHQj6a6DFNnSjMFMrF3iyfwR5M9NQ3S5UgTv04=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqZH3skgf-3MAfMjHWQNrbuNFY2ed16HPOM6XaSwWHFNLxU20sHjiGlF3PGWgsWSitD0Y6g9QJtxQsxCLulbzBrOxZHj6nvPPzED5v3rm7vPrswHMnjgmFyi42UHrFuSNojg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEciLb_W9QiwcOPPmdUYSSZZMCXrHjUJndmpYL-fWOTeI7Py-kBTir-rGvHmS_b2JH1n2pOscbBrsOjlMTS7n8xfN5v1mgW7jtjowxmlYvopkecTyKxw3LxbGq-8cYeVxowWqor1A0O8QY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1KB3BLL_NGVyQQ4uM9SUK6r-Xh-5T1ZuyDQNDySrir8FiDCMjqtS27kountas9CfHemPUXYwtkq0slplzPMQykfcoS52L3A4TUrD837zGTiAm6_SUXiC-f0hwYz-umX6oNU5q4i1Ux3YFKcPiFGGVqZS1Oi7Lapt1HZxw1o6zgkx0l1a3B7PE0NAjI1WoXwQTUBoZVRxk6c_oqloAwqLDppzOhVSHGNQL0pM2UxNhYzZaDONFXQrKRmOyDWXqM6EmouKWS4mHZpKLKP52ECik9Soxv6YeDMO5WGoLgcOeGQSzTlre4MnltJx-KXOOF-Mu5A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqfatbqXkg0r-inOGm82o7mgDVtb9BP8jTP5jl7_zpOfWlTvSYbKET6GljEbTl3a0oin7tAW2FLv5hUaKU9qalfQbDUDSJCm3IR9XtMAdWBdzALqdLvs_rom3A0dKJB8ZGD6HOYgTs1nNpcyjUIvGs1dNXdZCMDXKXB70HiBixWu4vBV_t_zGxsfrn639Kw9DsUUEEkkuZIDd3Nt6e"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T16:25:58.701133+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight.progressData",
+        "analytics.bowlingStats"
+      ],
+      "filled": [
+        "record_highlight.progressData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.bowlingStats"
+      ],
+      "filled": []
+    }
+  ]
+}

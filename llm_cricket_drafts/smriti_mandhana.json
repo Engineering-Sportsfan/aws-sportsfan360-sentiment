@@ -1,0 +1,129 @@
+{
+  "athlete_id": "smriti_mandhana",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Smriti Mandhana",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "1996-07-18",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smriti_Mandhana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=kV8vudJ8ad4",
+    "bio": "Smriti Mandhana is an Indian international cricketer and the vice-captain of the Indian women's national team. She is the first Indian woman to score a double-century in a domestic one-day game and the first to score a century in all three international formats. Mandhana holds the record for the most international centuries in women's cricket, shared with Meg Lanning. She was part of the Indian team that won the 2025 Women's Cricket World Cup and the Women's Asia Cup in 2016 and 2022.",
+    "birthplace": "Mumbai, Maharashtra, India",
+    "coachName": null,
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "Most runs in Women's T20I",
+    "result": "4,557 runs",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Smriti Mandhana is India's highest run-scorer in Women's T20 Internationals, demonstrating her consistent performance and impact in the shortest format of the game. Her ability to score quickly and consistently has made her a pivotal player for the Indian team.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "4,557 runs",
+        "holder": "Smriti Mandhana",
+        "date": "2026-08-30",
+        "venue": "Dubai",
+        "tournament": "Women's Asia Cup"
+      },
+      {
+        "label": "Olympic",
+        "value": "1,000+ runs in a calendar year (ODI)",
+        "holder": "Smriti Mandhana",
+        "date": "2025-10-10",
+        "venue": "Visakhapatnam",
+        "tournament": "Women's Cricket World Cup"
+      },
+      {
+        "label": "World",
+        "value": "982 runs in a calendar year (ODI)",
+        "holder": "Smriti Mandhana",
+        "date": "2025-10-09",
+        "venue": "Visakhapatnam",
+        "tournament": "Women's Cricket World Cup"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        75,
+        85,
+        20,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Smriti Mandhana has scored 31 half-centuries in T20Is, the most by any batter, male or female."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJbWMFN85Xz7u7xbNAzZCpAfTh09vh4yWSQDG1E-SvnXandPjQFIg3yb5d5HEe52g-TFpF2F57INZnei3IQfLKhoqV6oECqAWUe901JZhoIrTE7Ut3Fkc4qDQyfSCoiVxDeo3ey-6C7CuXSS7AFMlmi5F6jBNAGuoACA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeGYCY8wt1mASmyS8EX0i7aoft0WAMCx0V6_lps2Mdd31XRs9EiMEvO_wgp3PasUi1k91i7te1g4K1zFgKmrr7f6efLN2QC2Ii9v8WumerAUp2QQV9bHp5At_GeA9onoitqCRxoQ6T",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ5yrA9Sk8FvqaoDXaJUf7N_xQyGBe1cbyjS5gyK5dNAHc-Ze1MUV8tdUTRe6jWpHOKg44c7eEZmk9ZfO3Yikv16od4BO0zWsL2W-u_B9gSAmykHZea77Mk6B3tomv_xMPg5rKCSPmEUh0gJ41OhM6bfzi",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP1hEv1xRM1QsfueUgDB7dyB0NNQ_Y6tdhOpRrtQtX8u-GT65aYrYbvhCzROcdJh0jZ98hm-yffm4nLKhZQeCfGtpIfjjew8UpIJudSt96nM-18qM1Q4SWymA-Ep-d9JEBuT1dUvN-qqRkNXVstFr9GgL4VG4zXD3Z9ZyXxuK8ADuPNZC55i9DvaYRCuNAKan6mWO6ddMUN7xIgRD9sEgsm3aGKk4nvDRaG9Y5FwlFhNQlFspEPh2sNmXJwIMir1zeVW-xIjwfOhEaqoPtNlMSyMZB2lJkB98L_LvaDjOFzW6QvAKkT2XowfQrzLfZCJEoM-_9ojV2VKM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNfNNPAqzRuqzQkJ8WPyXUX878YA0zSwnk5xCAvtDcTJLkTc_E4OnPFq-2pjorFkEvCQ3mM-OL-0yx9vghap_UcmcYPpbi_HGmiLfcdoWEaurV51eJGx_z9IE5SEAfiytNwMfgT5ab1a5dR0Nqto5VofNilG0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:21:29.018459+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "WT20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 4557,
+      "ballsFaced": null,
+      "battingAverage": 30.25,
+      "strikeRate": 123.97,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "mandhana",
+    "smriti",
+    "smriti mandhana"
+  ]
+}

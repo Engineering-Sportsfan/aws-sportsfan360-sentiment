@@ -1,0 +1,150 @@
+{
+  "athlete_id": "kamalini_g",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Kamalini G",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2008-07-20",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=uK5LolHVZ0w",
+    "bio": "Kamalini G is an emerging Indian cricketer known for her versatility as a left-handed batter, wicketkeeper, and leg-spin bowler. She gained recognition for her crucial role in Tamil Nadu's triumph at the 2023 Under-19 Twenty20 National Championship, scoring 311 runs in eight matches. She made her international debut for the India Under-19 team in December 2024 and became the youngest player to be signed in the Women's T20 League in 2025.",
+    "birthplace": "Madurai, Tamil Nadu",
+    "coachName": "Aarti Sankaran",
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "Highest Score in T20",
+    "result": "56",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Kamalini G's personal best score of 56 in T20 cricket demonstrates her potential as a top-order batter. This score was achieved in the WDT20 format, highlighting her ability to perform in competitive T20 matches. As a young player, this personal best indicates a strong foundation for future growth and higher scores in the format.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 11.0
+      },
+      {
+        "year": "2026",
+        "value": 32.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "116*",
+        "holder": "Smriti Mandhana",
+        "date": "2023-09-20",
+        "venue": "Hangzhou",
+        "tournament": "Women's T20I (India)"
+      },
+      {
+        "label": "Olympic",
+        "value": "101",
+        "holder": "Chamari Athapaththu",
+        "date": "2020-02-29",
+        "venue": "Perth",
+        "tournament": "ICC Women's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "161*",
+        "holder": "Alyssa Healy",
+        "date": "2019-10-27",
+        "venue": "Sydney",
+        "tournament": "Women's T20I"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2025",
+        "2026"
+      ],
+      "runs": [
+        32,
+        75
+      ],
+      "wickets": [
+        0,
+        0
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        70,
+        60,
+        20,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Kamalini G has registered 2 half-centuries in her 7 WDT20 matches."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBmN454kwVaDMDqc1utayyqtXHs7IkNeMoGTB9XF19f6C9RxJa1RctuRLNNyS3jeVMaMq7_AlxamOjW6GBmG9GFOG_G2Lc7ymH6M-Z9RadnR5-kUkxHjs-I3KmtYs01ZnMQIWzi4C3HxSEetC5m-6I7jK0KVXOW5DdxMo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJdbr9kQEZRTf5atTH6xo7SwxJ6dn9mxN4VL97X7sjxxeIJPZxj7Wk_8OQNA-CzNy8By-l3-T5JZ5YG1Sx40qyWyiLn2a1T1DrJHhd7tSTBpzJ8TKbwW-YlBQer-tuTk_BFkUSWftjNTbZ3UrhcCNZVw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4_9AZZ6rOLpwesFMHXcdurl2zAIAGE9KE7sEmXDf_GaPkKMP0EKGp0l7v9gM3QAqedfz7g7k3fxt0dxI8hukT7TiGNHa81W8NSQf5pMAyKaJoTqtVVrIfrpOxX-AE-U3nM1-dg2JvnvibqOxt75FDSVYA8lM9WmsBtc8btGcFexXLQBf-CyrRxy87jNxPi_KXwM4uGQ2yQediS2VoAZINuHedmH8_QiLK4tKd4xUfgI9OqMnQcLYB0lgAzhzx8njizr8Q689bFeQMlzUm_2aaZfH7DysD0Bgn",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMJdY7W0GijbiX2TWrw2VrFATWoe2NGq0CeZrcU0E-ZWLvvTaGwZubmeQt9IY0L0UyxArtB0gs8edCBxrzto9i1_-XLkrj_BE_fc6gqDmJXBPs3lT5LEw5ih-xF1fT-hwqcg31cZctRCecvLE8ojkS"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:21:10.881065+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "WDT20",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 143,
+      "ballsFaced": 137,
+      "battingAverage": 35.75,
+      "strikeRate": 104.4,
+      "fours": 23,
+      "sixes": 0,
+      "dismissals": 4
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "g",
+    "india",
+    "kamalini",
+    "kamalini g"
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "athlete_id": "saurabh_chaudhary",
+  "sportId": "shooting",
+  "coreInfo": {
+    "name": "Saurabh Chaudhary",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2002-05-12",
+    "heightCm": 173,
+    "weightKg": 60.0,
+    "profileImage": "https://backoffice.issf-sports.org/media/athletes/portraits/SHINDM1205200201.jpg?v=128260",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=kNtGGa0YT0k",
+    "bio": "Saurabh Chaudhary is an Indian sport shooter specializing in the 10m air pistol event. Born on May 12, 2002, in Kalina village, Uttar Pradesh, he began shooting at the age of 13. He rose to international prominence in 2018, becoming the youngest Indian to win a gold medal at the Asian Games. Chaudhary has also secured multiple gold medals at ISSF World Cups and holds junior and senior world records in his discipline.",
+    "birthplace": "Kalina village, Meerut district, Uttar Pradesh, India",
+    "coachName": "Amit Sheoran",
+    "yearsActiveSince": "2017"
+  },
+  "record_highlight": {
+    "event": "10m Air Pistol Men",
+    "result": "245.0",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": "Final",
+    "date": "2019-02-24",
+    "city": "New Delhi",
+    "prevRecord": "243.6",
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": "+1.4",
+    "improvementDate": "2019-02-24",
+    "aiInsight": "Saurabh Chaudhary's score of 245.0 in the 10m Air Pistol final was a significant achievement, setting a new World Record at his first senior ISSF World Cup final at just 16 years old. This performance also secured an Olympic quota for India. His dominance was evident, finishing 5.7 points ahead of the silver medalist.",
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 586.0
+      },
+      {
+        "year": "2019",
+        "value": 587.0
+      },
+      {
+        "year": "2021",
+        "value": 590.0
+      },
+      {
+        "year": "2022",
+        "value": 584.0
+      },
+      {
+        "year": "2025",
+        "value": 591.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "591",
+        "holder": "Saurabh Chaudhary",
+        "date": "2025",
+        "venue": "National Selection Trials",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "244.8",
+        "holder": "Javad Foroughi",
+        "date": "2021-07-24",
+        "venue": "Tokyo",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "245.0",
+        "holder": "Saurabh Chaudhary",
+        "date": "2019-02-24",
+        "venue": "New Delhi",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2018",
+        "2019",
+        "2021",
+        "2022",
+        "2025"
+      ],
+      "scores": [
+        "586",
+        "587",
+        "590",
+        "584",
+        "591"
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Precision",
+        "Consistency",
+        "Finals Nerve",
+        "Big-Meet Performance"
+      ],
+      "values": [
+        90,
+        75,
+        85,
+        80
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Saurabh Chaudhary has consistently scored in the high 580s and 590s in qualification rounds, with a personal best of 591."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2018",
+        "events": 3,
+        "gold": 3,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Asian Games",
+        "seasonBest": "586",
+        "seasonAverage": "586",
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 5,
+        "gold": 4,
+        "silver": 3,
+        "bronze": 2,
+        "tournament": "ISSF World Cup New Delhi",
+        "seasonBest": "587",
+        "seasonAverage": "587",
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 3,
+        "gold": 2,
+        "silver": 2,
+        "bronze": 0,
+        "tournament": "ISSF World Cup New Delhi",
+        "seasonBest": "586",
+        "seasonAverage": "586",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "ISSF World Cup Cairo",
+        "seasonBest": "584",
+        "seasonAverage": "584",
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "ISSF World Cup Lima",
+        "seasonBest": "580",
+        "seasonAverage": "580",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv-zJrAEgGa3zWGQtyX7Znx3p31KlGxBAveb-u9PrT2hdbmMY0gZxBpzGxbeXbb2KecrWOMSAyHGMr5RVPWKwotk6EQ-IBaQ1mvnYSD0HFSiRLthLjEdpofvpNOLwG2iDOzsZZu25yXEJnsfHfng8FlA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd2HcKtKYwC2U8JNc5wFCXN6ucOH6Zo-hM7KolgKMe5QOd9LqeN8kt0F1wKNMq98F8LOfh40_dRmsWfP_iXc7kigmNtS1cjTWkAdVMVb0AIYEbY6XqoHXnJ6INcjboQ8FS_ognXkk_FZEb",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7h-t3sP9trSDylzOPFQznmHOkv6Gioo39fIvEsrs1QbWWGsRLUz-V0mXUj5zcASr7ppodmAvVZKFsH7kmBYwr0JzZFdzqHtQfbMV4MxuFzyObqiSiz_H_G8NC_ujQldUjxcbrT4c4vWHLaX0ZSFc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9A69aCe8NMr7ubZ46fh35aPKW3nrS2CQe_FtUxslWZ_J6ZpYDwJt28hT1oGsaaSNw4CoGZ0XW5Z_yDrJMNNL9-He9v4U3CxdNnDQnSPHMKJPI05IPcEL4dZs42vaVkN2KYzu27WF6c0w8KZgw3c3YcpwX9tQxA8ujuUaXPcR5f9uSi0heiiuJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZHwSW3lKJQgUUL9CNSVuhAJQLVQUvEOwX_n2RelUSbEnPlEIz5WvSsshjYnL4S28ojATCl7NZWTGINKdpcGm2HZB9Fqkw525a666r83phYZ18OTVW_vNLbP5PHWZeQiFLA9EKWQDjMShKHgwJuY-oR7qdNPwhBICEo36ltD-aYYi2llz8W8iEOUY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhIrV97Tvk3IGZ-tw_aaX6trPixHVqaH4zhotgq8bhA7ayEgq74scE-KBnTZhRBCMAaA_yRnO5BbcLjqYtA5NzNs80-DYYR8b4DAxpD4R4GYTdEkitDrt-XJ7MnHG-mjiz0ZFbSxo5_A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHmon2X-TeoWbG8uaupS-dl1MvIkxHSYTmHBac1xglHPCFrk13ir5ylSLq6Jb9Lz1EIjkf_Ta1BcOvOE1WKtJ9vqnur7lzO6uKugcvqmvH_KK8SFEIYRjvsgne_WgC4OdrmCTRQY5ssAlOFWfAbR7iq9E2hSJDUVXRP22Z1wynOv6aKWjXlkaPCGNXRMyufdSFItKwg4svIHkDUYhGrMKlAJFWfZSsUw1IJHyiUCYtKRlKqxDRL9gdZ2D9qw_nbMciUHDP3ryN7VvHxvk-fhYmXe3lXrcFaQ36D8aSpOR2iLhT7cPCsiZdPzKRcygPArx0GAh6fyvCWr2p-2j_3w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYejaGeIQ7595qw5jRjvmOIEjdez9mSXlGVKF6pbPo4pJJKxLqKZVuUC6HGyPCalzpS6NBH3ZcGE5ngs3GZDRRWdZ1yluJ4dwJ_JpLJkymf0uMGJsZdk-dGy0M1GeHruucBGd-bjmQxTtLFxmO9FaEmPslMqeBH60oshMzxu3TKIMhqRHPbomjOoTiprUZUiRy0oBm2xfL12PeyjbzGAHIgIkM0rbSDlon1veTxB8oHNMa9dPKVn427hY1ygusD89Xr-BIeGlvVoGQsRapPs2gddoZ8Qo98Kh2nd2eDcVQt8QDppDYTxBi",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtRj7_MaxTrW6B58bhbMjpxaZvgW7NRk_yxBC2BljAg2nFfk6l-HxMjR6ZuJxiKpIanZw_sfU9XFgt_fIYsnwjwruFgCwCR5hStW73kBpstfxDMT3BUKMAJTc4a-CrSFTUJTUcQr2xu5cJ6sMbRCBHiTk5Z6eSm2_pX5fPv42ukt9jVyX0TPTvb9IukRQKLWau5xMBPsVX-500urnClv8-weAwd04TAOeUqJk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnx_TfsimAl_fdJYrog_o6jfBocDVqiTxT6nmrMPOObjsqpokas0zU_-rGWytAsFWLaRjakKnYcnEN-LWlTXSszIw0rVyBjXAyEqdIo1UHWm5bsMpTPiGbdWZJSLFH_eU0xw5qquye5FAS2HWj2qD0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFAEHnO79vl2G3UGgxN5Coou5ltlqCDOn9qHFRpz_0yFgig0Ezo4I5bhnAC2TygXwg6R7ONaSotnqxwXBGM1E57bKqDqG8dHNo8IoTAGRQZkG6YOxbhPuSRZj94QhMM9GMdB6NfF4bdkJvHQ2nsqFfA2ZTD4PcHAMgoXN8T9v2o5DPvIJ7uOSAzPITSTRBynnu608qLRtHgI9ah8oRPH5ux989QtQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfM83Zw-Ehkm-KiXca7uO0JDR1_Lsy8Vmz4GlrwCWQm19ZOqah88aT9_1Axj9AIZjLemfxW7-8dczoXSN86PWlnCFyGw7utRz94MJNljeaSHuo1udBxG5dQyhTc3xgFX-fadTs-7NfJ41WO-H_E7itPTg8KtG-RIJX8v78GkYO9dtmrX9rshzDWj_Fp7nKRUHnYOIJlC40yA6QTtERU7lvHrfQ_NcbYPYjXlI9t_rtfIPB2e_JE078_sQgotmfNWf-Aq_8yQPwYJw6A_d6h-ctE581HEprAKTvK096g_xeug==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPebojQCHUjNF1CQHGP0KuSL04wbpIO3H4XQhEjTXdVnjTADx-NwUTNER7GSJV6RunY2os-pYIRn9nzVBiV7JQiplLLvpZTeUDnr1_2mK1Uf_YhLQaiah4YphIA_Z4pqbQ40DkGpf41cx3Khi1u3wz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCf6IE0wKWlwIjkIaFfrW28x1V9K1E6ltuInxTLejnjx8iEVvmpZvqpVbWK50MpsEGWF6Tc04-8bRxuolCPY3anyILvifWira2X022ZPvim-9j6KptGbjMySTsBEHIHN06I-gDooa-ZK8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfW2BYhHHSp_xS4rIznctv96sEjeKc7u2nOhAJtwPYii1B-cb0vduE09VF7v4-xlxiwrajBDMvHsxrX5WqzRcS9Y5xez_1lYkQ2rU1SKNOOo51AsPKJbgRePwI_xyJGMKLKgHVaABrFnYdHSrWHs_qPmArqUYHwDayQwddXDrhJogT5tF0QziA0XdBG8vNLHZevJSPJXDsQJFCq-NtKd2Xsut5p-SeMjvoBiBPgDM7pq-P8PZJ8zoa",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPXGaOsfA86d6-Ws8zEfY2_vjx1fR5yrzms8ySW7muHyU-MyGXvxQokgKrQL4bt5D6pSadMes5AxpN0oezD4Qm1ijwrYaZOvGEmIsx89KMDYFpCnK14qBTgtxUmw8koAulhsly_9RwzaOzwSHUw74v-XJSlRc7uMqdnNIo1lgofcrcgiw7xB2B0QDX_vu5rSpa3U1q2zfTpJ8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI0X5tn7u3q4S8ZQMPZfZ1d4gCzEZNIs2VOeIcvF5sPBQ9M3eMSXvm-uomVX44KYBT7pLKIMjfj8WB7OiycfvGip6kYZ-qH2a4NGHBgBqzgf6kn3YT42lJwc_eF40uRFeK3e7ghCyxa4Eem-AAWxvFPL-KxLSXYQFJCrcOAGbASRqZ79hY0Fw4Fc3zP5BP0c-T2DzoiRHB3NjNeZ8mzFiNGhSSlaMqufGv-g=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-12T17:04:42.285181+00:00"
+  },
+  "performance": {
+    "discipline": "10m Air Pistol",
+    "category": "Pistol",
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "2018 Asian Games",
+        "medal": "GOLD",
+        "category": "10m Air Pistol Men"
+      },
+      {
+        "event": "2018 Youth Olympic Games",
+        "medal": "GOLD",
+        "category": "10m Air Pistol Men Youth"
+      },
+      {
+        "event": "2019 ISSF World Cup New Delhi",
+        "medal": "GOLD",
+        "category": "10m Air Pistol Men"
+      },
+      {
+        "event": "2019 ISSF World Cup Munich",
+        "medal": "GOLD",
+        "category": "10m Air Pistol Men"
+      },
+      {
+        "event": "2022 ISSF World Cup Cairo",
+        "medal": "GOLD",
+        "category": "10m Air Pistol Men"
+      },
+      {
+        "event": "2019 ISSF World Cup New Delhi",
+        "medal": "GOLD",
+        "category": "10m Air Pistol Mixed Team"
+      },
+      {
+        "event": "2021 ISSF World Cup New Delhi",
+        "medal": "GOLD",
+        "category": "10m Air Pistol Mixed Team"
+      },
+      {
+        "event": "2019 ISSF World Cup Final Putian",
+        "medal": "SILVER",
+        "category": "10m Air Pistol Mixed Team"
+      }
+    ],
+    "stats": {
+      "personalBest": "245.0",
+      "seasonBest": "591"
+    },
+    "recordStats": {
+      "olympicMedals": 0,
+      "worldChampionshipMedals": 2,
+      "worldRecords": 1,
+      "finalsAppearances": 10
+    },
+    "chartConfig": {
+      "primaryUnit": "score",
+      "secondaryUnit": "hits"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.weightKg",
+        "performance.stats.seasonBest",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "coreInfo.weightKg",
+        "performance.stats.seasonBest",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

@@ -3,7 +3,7 @@ from firebase_admin import firestore
 from firebase_store import init_firebase
 
 def seed_dolly_profile():
-    print("⏳ Seeding Dolly Bot profile in Firestore...")
+    print("Seeding Dolly Bot profile in Firestore...")
     db = init_firebase()
     
     dolly_ref = db.collection("users").document("dolly-dolphin-bot")
@@ -23,7 +23,7 @@ def seed_dolly_profile():
         encoded_string = base64.b64encode(buffered.getvalue()).decode("utf-8")
         avatar_url = f"data:image/png;base64,{encoded_string}"
     except Exception as e:
-        print(f"⚠️ Failed to load or resize local image: {e}. Using fallback path.")
+        print(f"Failed to load or resize local image: {e}. Using fallback path.")
         avatar_url = "/images/dolly.png"
     
     bio_text = """🐬 Meet Dolly

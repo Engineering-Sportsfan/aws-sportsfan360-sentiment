@@ -1,0 +1,131 @@
+{
+  "playerId": "pasindu_sooriyabandara",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": "moors_sports_club",
+  "coreInfo": {
+    "playerId": "pasindu_sooriyabandara",
+    "name": "Pasindu Sooriyabandara",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "Batter",
+    "battingStyle": "Right-handed Bat",
+    "bowlingStyle": "Right-arm Off Spin",
+    "dateOfBirth": "1999-10-19",
+    "birthPlace": "Colombo, Sri Lanka",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": null,
+    "profileImage": null,
+    "bio": "Pasindu Sooriyabandara is a right-handed batter from Sri Lanka, born on October 19, 1999, in Colombo. Known for his technical patience and heavy run-scoring in long-format cricket, he has amassed over 4,300 First-Class runs at an average of 56.05 with a top score of 242. As of August 2026, he remains uncapped at the senior Test level but continues to be a prominent top-order option for Sri Lanka."
+  },
+  "record_highlight": {
+    "category": "Best Batting in First-Class Innings",
+    "result": "242",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "opponent": "Jaffna",
+    "venue": "Mahinda Rajapaksa International Stadium, Hambantota",
+    "date": "2024-04-05",
+    "aiInsight": "Pasindu Sooriyabandara registered a career-best double-century (242) for Moors Sports Club, anchoring a massive first-innings total and establishing his status as one of Sri Lanka's premier long-format prospects.",
+    "progressData": [
+      {
+        "year": "2019-20",
+        "value": 412,
+        "event": "Major League Tournament"
+      },
+      {
+        "year": "2022-23",
+        "value": 780,
+        "event": "Major League Tournament"
+      },
+      {
+        "year": "2023-24",
+        "value": 1045,
+        "event": "SLC National Super League 4-Day"
+      },
+      {
+        "year": "2024-25",
+        "value": 890,
+        "event": "Major League Tournament"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "242",
+        "holder": "Pasindu Sooriyabandara",
+        "date": "2024-04-05",
+        "venue": "Mahinda Rajapaksa International Stadium, Hambantota"
+      },
+      {
+        "label": "National",
+        "value": "374",
+        "holder": "Mahela Jayawardene",
+        "date": "2006-07-29",
+        "venue": "Sinhalese Sports Club Ground, Colombo"
+      },
+      {
+        "label": "World",
+        "value": "400*",
+        "holder": "Brian Lara",
+        "date": "2004-04-12",
+        "venue": "Antigua Recreation Ground, St. John's"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 2,
+      "innings": 4,
+      "runs": 230,
+      "average": 57.50,
+      "strikeRate": 46.37,
+      "hundreds": 1,
+      "fifties": 1,
+      "highScore": "115"
+    },
+    "bowlingStats": {
+      "matches": 0,
+      "innings": 0,
+      "wickets": 0,
+      "average": 0.0,
+      "economy": 0.0,
+      "strikeRate": 0.0,
+      "bestBowling": "0/0"
+    },
+    "seasonalData": [
+      {
+        "year": "2024",
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0,
+        "average": 0.0
+      },
+      {
+        "year": "2025",
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0,
+        "average": 0.0
+      },
+      {
+        "year": "2026",
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0,
+        "average": 0.0
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://en.wikipedia.org/wiki/Pasindu_Sooriyabandara",
+    "https://www.espncricinfo.com/cricketers/pasindu-sooriyabandara-1152528"
+  ],
+  "source": {
+    "source_name": "SportsFan360 Verified Database",
+    "source_url": "https://sportsfan360.internal/verified-profiles/pasindu_sooriyabandara",
+    "fetched_at": "2026-08-17T12:46:41.000000+00:00"
+  },
+  "_retry_log": []
+}

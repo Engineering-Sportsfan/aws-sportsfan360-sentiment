@@ -1,0 +1,194 @@
+{
+  "playerId": "shubman_gill",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "shubman_gill",
+    "name": "Shubman Gill",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "1999-09-08",
+    "birthPlace": "Fazilka, Punjab, India",
+    "heightCm": 185.0,
+    "jerseyNo": "77",
+    "debutDate": "2020-12-26",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/3/34/Shubman_Gill_2023_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Shubman Gill is an Indian international cricketer who plays for the India national team. A right-handed top-order batter, he made his Test debut on December 26, 2020, against Australia. He was the Player of the Tournament in the 2018 U-19 World Cup and has since become a key player across all formats for India. Gill was appointed captain of India's Test and ODI squads in 2025."
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score as Captain",
+    "result": "269 runs",
+    "type": "NR",
+    "typeFull": "National Record",
+    "opponent": "England",
+    "venue": "Edgbaston, Birmingham",
+    "date": "2025-07-03",
+    "aiInsight": "Shubman Gill's monumental 269 against England at Edgbaston in 2025 stands as the highest individual Test score by an Indian captain, showcasing his leadership and batting prowess on foreign soil.",
+    "progressData": [
+      {
+        "year": "2020",
+        "value": 45.0
+      },
+      {
+        "year": "2021",
+        "value": 91.0
+      },
+      {
+        "year": "2022",
+        "value": 110.0
+      },
+      {
+        "year": "2023",
+        "value": 128.0
+      },
+      {
+        "year": "2024",
+        "value": 119.0
+      },
+      {
+        "year": "2025",
+        "value": 269.0
+      },
+      {
+        "year": "2026",
+        "value": 126.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "269",
+        "holder": "Shubman Gill",
+        "date": "2025-07-03",
+        "venue": "Edgbaston, Birmingham"
+      },
+      {
+        "label": "National",
+        "value": "319",
+        "holder": "Virender Sehwag",
+        "date": "2008-03-28",
+        "venue": "M. A. Chidambaram Stadium, Chennai"
+      },
+      {
+        "label": "World",
+        "value": "400*",
+        "holder": "Brian Lara",
+        "date": "2004-04-12",
+        "venue": "Antigua Recreation Ground, St. John's"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 41,
+      "innings": 74,
+      "runs": 2969,
+      "average": 44.31,
+      "strikeRate": 61.86,
+      "hundreds": 11,
+      "fifties": 8,
+      "highScore": "269"
+    },
+    "bowlingStats": {
+      "matches": 41,
+      "innings": 1,
+      "wickets": 0,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": null,
+        "runs": 178,
+        "wickets": null,
+        "average": 29.7
+      },
+      {
+        "year": "2023",
+        "matches": null,
+        "runs": 258,
+        "wickets": null,
+        "average": 28.7
+      },
+      {
+        "year": "2024",
+        "matches": null,
+        "runs": 866,
+        "wickets": null,
+        "average": 43.3
+      },
+      {
+        "year": "2025",
+        "matches": 9,
+        "runs": 983,
+        "wickets": null,
+        "average": 70.21
+      },
+      {
+        "year": "2026",
+        "matches": 1,
+        "runs": 126,
+        "wickets": null,
+        "average": 126.0
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhAL1UX39AkOlFca40P-7Wod0Xkk6ohXLLttReLvLg-oo9Wu_bZYwYdA74VMrBX8WeWpbEXIx4QJo-2z2YPWdVwmz63WLrsz-SFaJpOZHaroztGmwrfs4SKrTWqm4AHKYeFWMrxw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGRkJaCMPdk-Hz7PCVqXOREVIr6gDKHyX4yNhT42oV78eqCTstu3oWfYuUtHGvYcLwo-5fyOpgDj0_xuuc8TMjwY1vVaPBVfl5E0fuLjZORLHItcDyu58l4aKZuCGDvukZu2CxYw1yV8pwm8g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDvkX3B6N2tD8hs0KQJ1RriSJ7P-AonDpda9r1aa7qgCBXVQUFbhnoWmMgY5o8zshlTcPBJi5B9M63zuTYgtDkIobDhDC7aEch5mS8IWE0ZnNsZCF94xr1JiRmhTWz6CwoKq0UdewDqzA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESzPxjIVBtz0nXDFfIV6i4q13OMAVsdZC2gEkoEblE2H_-o32b3ntReeHhZivJ009p0O_Ev5qHFPD11K1ssHAGjV0z6yAdv5aJH5DRwLi8szNdZ8aB1gas6M1QnfaBPkxoRQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi_utMD-RPweVRpBsR8EE99kizuTD2y5agEcCzO7LvPrj20Q_690xnLTcJ6VFxQjrQy4ol0LXfkTN2SMh2yHyJ48zHQJfRpH3NoXKv0nppCKkOPYVDG-17RuGSo_z1Ac2mXpH2bgriC4wXHZn0CE0mvxOv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEABQgWBcLCTeuxlnykg3C8tOTjJPhAdikd_nReu1H4-5ge6-fhP06Ka3or87O-zusNDCz0boRN-nmWwtajaifN6vzYV2QxAwApwtIS1FRHRxDNHVcrjZYfBqvfBjFP1r8PYyGRWQaV1ZrSFjwTfwM8K9tNaZRiMLFRd2HNjWtKwjS8z6KWTO4dgEqxI642aA0XJhGaMHYiug==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMInaISCIskkgXUSTws8fyrNz_qBcRv84tdMoJTt2MixsypIDndbUghtokhiTXaUe8m9-n9V09k_62rDPlMhSbPyuQdr-BuCr2xW1S099pTZqltOeR2kQf8tUDPRJRW8LiaIXY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUTytTjTe_ibUrY9BmY1LaULkpSejXiKoPfv2R_6EcPEDbC15Z1eyNc2KULPqL7-mgbmRL5nJIKs7oC0mg4tnYuRDIsRgO6NAq3mCpTlTqqyAVN6RVM4KtHjAlvDcHkm3URxNtdEG8edDw2SWJZtfLsz3ngft372aZ9ZCRHYC3gMsXJhQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn_aZo7Y9jACGdB2cKtq8PrIx79yi290OESEN3MI6aaMLO5wNXVNs5AD0quHkW5CQClf3MbplUPHIQ6t8Uuu4LvQKJO4GLPa6yp36orp1O1QmvnUmUAZ4CoWVnU__uLFeGH3Q86mzG_sy8M8ADOsSxRg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJMkIKq2iwev35vGmorOTl9lU9LVZnV4SBzvubon7uhZ6_748VfHJRVK4z5nwML-nZ77A1kRxFgqmviuobPCZdnAL_1GZ4RBfEDOQ_AKYYfDJTcnOJy1JzCiu74jNWCR-ul_VYh_4_o8Y_bN4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpvqykr8bbNi72cdkFN1_CQ0fg3qSnaiwXfZELa-Qp5PXqrwTgmkjda-vfWHbtw3k0KSApKbhj_vaIdKIxVULO2MgWQTmizn1sZg2TYKMVkv4NeCq9YB2dvOvrD1ahHRtWGQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlaaRVTO6QPdlrqdQ4tRjNd09s0ctjldipvTbdPVIAXewpGw8FHmjBoyxvbOeSnbfvHqlpb7Ftkm3pwgA7NLeF_BZtuSrqGP7XpboQ2-2uxWuRQVLJQY5q2vBpwmmH_PDcJb-wNrrBObLhDaURIEIyZoU1kqyBK75RSLNAkQ3qA82y_OibkDkAWtBXn3eAT4hO2v1cZBcwFIlWfaV3fR3P9LnJ4-Rf34ClAQlCXb-GZmJNOppr9E0O",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6G2ms6MkPBMp_C866z_Hz_ebdon5Czu3VX5rrDeQS7f6WFOY6Ow8_m-uKlIeO3b0ASD_S1Ex_gSlgGOCSG7qjJDjF3DDk3fRZILUjw03QBoJRd_xgU7gxPtIQwOea8stGKpb1AqmyfjQ36QSGl6DAzXt68IOUCHXLhiZpvuuDGCGK1sEHakrjQ0zEO8lFn6f6rDBm0eyLng2Nd6rPR7wans3CqkCAgJ6694ZGvSLBAjgW",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtMnOGf703kbV3lMel1zCNL9LyZsO9hkZyNEKzu-ohbQM4O76BjWBhfoimubqlzu6Ndf6opAUFzispEjz56IwCPhGdkTbx41Dy7UZW9RaaHTRrPPl07HWwJ5vtnXSVNYH4UAxQ5Pyb6Ftmk3hhRP57A-Z0A-2e8fTFBHNpYXYnW6GP8tbhnPJ2yaeF0bRDRqAsKoodlDgDASQWZKglWWVrd-rEChi7Lk8INQIj61kqsQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-xI8rHlt1eUi8kwPI0A1qNXIbmJvHeB0Y-0L4ZHDVi-QLMJ4wCS3nxY_uxaj5zK9IbK0iIksw_XEIlSzf3MgkeJHRO1w4I2UC7jHhIhReQ360ZUkJuaK2snU-xs0NwrBe2RlIgoPCSUyhTj1iPcbajSW9sj1cRcnSG1PY8bmotjJksGX8nJqYmwJlsyJaxj3nWWY8JW1YmUcfyA7mxv_8oAqTBkWRG6_cgSYc8rnMcTu56x54YUGGSqOvanQslpXTjFo3nLLQg6AnxQ8uCQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRy7LU4-n0JrUcvVZ6KPc2XcK-CcioqZGHWVN_7zAVCu52If4qB0OSJuEicaCtP3egXkhYC-trBD9h5CoEkdEcJuNNiT9bNI3gIfXOmng7e4emAR9PP2rwxMCm_hys59RD-pe9gC6KI4PKRlvSMHua_2QEnr5Sa85P4fAmaN3EJI1KsFoT4idcX3zLvr-3TYRrxCct1W1P-73Lfifv1kXxHIJpSYwwjI7bxuQc3-srv1wfEMilG5xI_bta0-yS8E2Kr0VbZrLxxg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqu39SnBIJngm01W95viNg47suo9EyaXUFBW9xKWtipBpg4pnqb3vfbe7nykflRPPYzWZK6YDkyMGzqAJswc44qOYTFoJyz3fmMFymusbHTKMcMnYc17Bl-yf_BsNxEUJnmn7l",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF65eBt1AlWniNQVRhYdLUDkd3ec5KCmArh3_-eFX-VgifK_FbFQG84w4UDaJZ12DGMM5viAesVixklZjejD0BCktogB1bvR7u6kt_AHNd17L7oumK6MQoc6AcgeiyNFeQBL1btDwsk-GjmFw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPUMLIBMrMMK1dWq7jFn8V6bU8DiCCu48BII2i4KHinPboieDgXbxmT0XklNZsVRWG0p5n_B1G3kSJ8PF6K4N-QBnFOUWYUC2xkLhOdc6XFB8b-ltmLyHVP3uxN1dqHWWCpvx8ZDZM6w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl0gnF2M9PLhygBRheabSM6sasOQfgEealzWXThSZuragCIkBjw3QF8Hzw_qxhtmV5TcBU8reae99rQtHsVXZcer8KKfPHvppk3nSB9fyuEfBvmu5JuYBRvV3VALPzFlIm",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq8njP1Wq9TKmPhxfCybB0OVJyb1B1FYh6z8avn3lz1O6Ok5lUkaVLDbmTFfLR-X2JlX9zLm9QVcQfx39GBQ6ullHMQr1AK93Q0iXVBuZVWQpjOCEBmHaXIN416x06HBGA9ZQj2CQBnYRedHjYkyM4R5I=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOrKI5O1AhlD0eJ6SZbraTk0ODvo7SjUskLezApUYUU7YbwlL3PfPlADwvjgp3Gqqie4zUzrtclq41NBRoDecHhuyF08wJPGCb-QOai0IVqaixGp0wQFcp6EentiN6prQHhsy9OMBOFJWPNcvxKNZu5yWD_xRSNu_pioGgX6qIK0HGR3S7dNm5kxJuC_W_SJgwomHKg2VT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvMolmT72z0BktnmrWZoUJbbfVyLV85sCqlqsJlsGKOLz_6NgnEBtJVlDe2ajPgpKNkeu9nQo4n6yeEr8g0Hp9XvEbQKW8ZopNcfIOZqcjTEAkXTc1ocr4SQq6gB4QMQNWV9s=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnnw0yPPpWK7jUe_C-zDZzhl12H3v2furSVrKKlDvYYJ3Dte-A-o5mOqZB4NTXBdSIc1NwEyCr7JIKgUR6Ew06lKTRmYPLzWQgpfvtc_zeZWivimX8kvetewqsJ8c504YskGdfgHgu7TgdtWpMOMsBinpBfTmkcHZshaLNGEd9ywMBBw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAR8B5rT17h0QPkzpGex-i8e2oZWihwIgtnlZmPt2_PUCZufUr4ibTTJelLKF7VlkC4hcyQTuZQldxQQThDnqzFqv9vNzMuOkR9zo3fzz2P4A1lrXpmJbn6bxo3Lac7aRSpRsCtMKkOtvkLRtWV-bMtEG-ErV9fZ6AqHY7Ee6ya0EDm0e9zDPDsK3wFdsHVJqVXi8piwspxw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZj3fUSBE6USJznwatIdMj1H9AMHFpeRoxg50qrDb0H3cxVZvbMz5Vtu9uk85wz_cAd_NGzNw4EU2b8ydyc5BRlhV-vHd5uFOc4a26nfaumAtbUH5v9HfkpufmpPaQvf5mLN0UpWvgWDP2-Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd0Xs6z3JeXPq2duIuLADiUHazOUNRoORbxeeou8gw3yATg2ndMlG8_0WV4mUbot_t_Y8AKzCRA5fOFxgKjywvS-tO9AEB2wxaZQ0rRGxJlZRx3mhyHk5tlxkG6xfPaHEdqWBw",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWos7_bVH9Put5GkhMut6QrkZ8xJZ6goWFRW9yQcQc5jCffrfdLv-4B2rDgw0HTfOgungQqU0AyRkiV18y6iIqT6_zTEkAVFYe3Ud-bSbgMOP0Pe_CZPuy2c2wzGJ_hHaES92GCNw_eRF8jwY1AXB5xcoKr5To09nEP_jViSPU-amA9UG99P93kcN1GjrRwYnClOFXl7Wg2hvlcwLYhEaAYZdGIe6rm4RPdVtiWxZBfUw7g9Vs14w=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmJ98FQZp2m8YeSbtXqjZc16Nu_OqhT1xafYelioONRiPzKe5b5jJx5LeQ2epZcU1go59ZOPzoYe24jTjRB-UKTqu3hctQGt_0jVdOdTSbxGxu5WvdL9KEGyYHEt9u0mPJ3Kq5MEp1a99mCqmJQRIa3IsK0GpFdrSxO38DMhu4OsPgcbgYsnAQa0iU6teNYHq_N9tDIjfrAQPBUlVHgmJEJfzI4087EMChBBDSEyz8KjpOFtfpUldZtzi2YF3mUnepU-zR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMH9DEC5KxbSWfHl_HM3vvsoyZRjC2h5oIPUxc-zdII6BIG_ciXPXzhS5a5srGNoJv5WVBzhiVdC2dqUAELZx_lM0UUVJirzLq2AXiU8hxK6Yh-ygu9SdAgzDDXW4UT4K2VsFciUObS0GaM15onb-H1jkQciaDRSNAwhiqTsvdBwN_9IOyJMs5QCYJJ13c2cI1BCM1vbe-xYEulGZysPPiTuMAnO1tyv7Te-5bitGY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUoph_LRwsssbnnnLWNasmwuSR8TWKdpNi6XODCyNBQBPlIsdGXiKaowIUlo1Fs70-SPrfZ-Bcqdz_HPD6IkajRLM-1Y3VG-y13LXBKhHY4a_ysF81fkPDCvmU-lzBayWlG09LqxJRRH6IATH4uFIq1qtMGMXd5sBv5e0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1LY1Pqj2oWJhXpaaus3CgKiQQ9enVYnv0I7XeyNsGhso-7bcJUXZRrzeCLVecKSWFCYNMzMCKvG76PdrJ04qpZQJCnromk1yIGPMoPVKcY2Bttt3jN7roTxSxL1xWv6Iz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmJ5vzdhdltM6gQ0lMa_XOgHaUhCSsqNiRmgK4IAs4ARkrVuE7ErvftCCrpQFFIbykzb-7n5xkxzGRQPCc2YJVrczDL8Ch7zbfmyxu65MYDc2EFheW0PzZG0qFPrF2rxpeh3TUGAQYMjmZVClc62xL-2NgjApkRSFY2IwLoJmg5vIhu9L82qMBop06k9lzauRJA5vQrjrcw2kUwp4KZhWbvJXUBG8f5OZdSmsMQrqqvessvBN1vd3IT-1DdP2Cal7UoHNvdPmCEnip5fVFJskinIQU8cpJmHBLvid_nAPvUoF_pylbp7i4Bhis"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T10:32:14.150846+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "analytics.bowlingStats"
+      ],
+      "filled": [
+        "analytics.bowlingStats"
+      ]
+    }
+  ]
+}

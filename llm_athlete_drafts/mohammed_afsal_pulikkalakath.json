@@ -1,0 +1,288 @@
+{
+  "athlete_id": "mohammed_afsal_pulikkalakath",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Mohammed Afsal Pulikkalakath",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1996-02-03",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=-sPovju698k",
+    "bio": "Mohammed Afsal Pulikkalakath is an Indian middle-distance runner specializing in the 800 meters. He holds the Indian national record in the men's 800m with a time of 1:44.93, set in July 2025. He won a silver medal in the men's 800m event at the 2022 Asian Games. Afsal has also been Indian champion in the 800m in 2018 and 2019.",
+    "birthplace": "Palappuram, Kerala, India",
+    "coachName": null,
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "800m",
+    "result": "1:44.93s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2025-07-05",
+    "city": "Pozna\u0144",
+    "prevRecord": "1:45.61s",
+    "prevRecordPlace": null,
+    "prevHolder": "Mohammed Afsal Pulikkalakath",
+    "improvement": "0.68 seconds",
+    "improvementDate": "2025-07-05",
+    "aiInsight": "Mohammed Afsal Pulikkalakath's national record of 1:44.93s in the 800m is a significant achievement, making him the first Indian to break the 1:45 barrier in this event. This performance, set at the Memoria\u0142 Czes\u0142awa Cybulskiego in Poland, improved his own previous national record by 0.68 seconds, demonstrating a consistent upward trajectory in his career. This record not only highlights his individual prowess but also elevates the standard for middle-distance running in India.",
+    "progressData": [
+      {
+        "year": "2017",
+        "value": 104.68
+      },
+      {
+        "year": "2019",
+        "value": 111.25
+      },
+      {
+        "year": "2023",
+        "value": 108.77
+      },
+      {
+        "year": "2025",
+        "value": 104.93
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "1:44.93s",
+        "holder": "Mohammed Afsal Pulikkalakath",
+        "date": "2025-07-05",
+        "venue": "Gol\u0119cin Stadion",
+        "tournament": "Memoria\u0142 Czes\u0142awa Cybulskiego"
+      },
+      {
+        "label": "Olympic",
+        "value": "1:40.91s",
+        "holder": "David Rudisha",
+        "date": "2012-08-09",
+        "venue": "Olympic Stadium, London",
+        "tournament": "London 2012 Olympics"
+      },
+      {
+        "label": "World",
+        "value": "1:40.91s",
+        "holder": "David Rudisha",
+        "date": "2012-08-09",
+        "venue": "Olympic Stadium, London",
+        "tournament": "London 2012 Olympics"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "1:44.93s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "800m",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": "184",
+      "personalBest": "1:44.93s",
+      "bestYear": "2025",
+      "totalGold": null,
+      "totalSilver": 2,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2017",
+        "event": "800m",
+        "value": 104.68,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "800m",
+        "value": 111.25,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "800m",
+        "value": 108.77,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "800m",
+        "value": 104.93,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2014",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 250.6,
+        "seasonAverage": 250.6,
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 111.25,
+        "seasonAverage": 111.25,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 108.43,
+        "seasonAverage": 108.43,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Pace Judgment",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Kick Speed",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Endurance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 95.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "1.0\u20131.5s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "1.5\u20132.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "2.0\u20132.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Mohammed Afsal has shown consistent improvement, culminating in breaking the national record in the 800m.",
+    "peakZoneLabel": "1.0\u20131.5s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2018": "GOLD",
+          "2019": "GOLD",
+          "2022": "GOLD"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHl7jgp7oBwQJHYrxysy03kjrCqdHVO79H43zGgtWJ2P9YHg3OyszTLfSf941mIi44tPciRg01mE7aJCc-vcqIZckuRymEOIKx2ni37QUatVgjJWCUUMRrUzb5Mf55uxGV57A7HzLJk3_lTFCeUp9_YQlm7zwm-Ce4Zjyc0ghn2uKqdx8URfDESKPk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY3ohedR98oz2M2wjxeSsdCik6pBP9-5E_3TrqYgetCkz1kYRrTPrdax8zumnJCGe4s4TlKKTJozpgA6VsRC8HIDie2Rq_VGYQbmNtYQ9bC5KFULdUSuMvEUgntGwgBpgo_P-IgHX8eWtXN3VuhrU-W6El1Zn38lIG9LLoibdlDICmTYmy3xij7PE3oS9ssw-Ptaknz_6Lx0C2wdoATCeShWRnkWEk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL1eP5J6iOwJfgjhqc5PG-D3j7WQbasoVlhTO0CAfcGnwlho1kl0DhnQCCSZsPIKs5Wq5Q6wUrIXGewAGHgZyxBF8ImBV0Ug3OghpwD0K5XwsUEIbhYvn6cjErRXf9ZY6duWUEgmDD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8H-xEjeKLWhiC620jvRM3pK-mbNnUQD5sQGuU2badR850st13rQvoiwTRArKQqeb5-5F32w0NlrlpMcInSlZmIq9ZW9fvyagtxfXxxCQQpX60Y6SxEHwUT2l4yY2EoLLggQ5Yk3VjZxo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6vyiHyCHgjvEUnBBXDW5lN3Eh3blAZAUHDOhruJcQvguSEHY0I5m7Tjl2mjSxBVVeWid_YzBgWPcdMfkrlfn1akGyg688ktd-IVouU6OGlEcYo5gzAQEYGu7nbOKjqS7nDHAerH7R2HJD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3X-S5S_HQ2PiNRiX2oBGYj4VXwYcEI6HYL7GU9ezLiTEW2aJErjyObSLvZqo-yr6D6xoSQ_YEwuC3esGF3bKyF9yCkHgeTZGY07EV3gdoisNWQAjR0EGK1LEnoFBfk-aKOK2mL3aSo-fJxuYStpBxEIU6nLWoiqBc3kygap2MXUU21YcIuwTQ0TzSNiGWWiSirR75d8ET1qfu7U_B_h_B5Nq7yAAfWK0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaXe_U5WBRTgUOSwSniQtixE4qCWyIWQV6aXlP1tiZUy1hzRsHg_GQ7qwgOU0C9Zya61zlKFmUeBYSEjfuApMIGHq55CnCilMXJU4_U_hXgfdlmBcjmCWxe9fb_PI5m4ZNxWkwOzDaj0ALUcQYdIL3OXWaXsCdEHv9Jzxmvcqk5N6H1B84kMrueS81YZoVudKqMPmyoxizQT4oHfrn3pl9M2Ay0XQYQLW5rBAC-gJ9h8cFalrG4guzUyOGhVjQ_khucNo="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:56:33.462531+00:00"
+  },
+  "performance": {
+    "primaryEvent": "800m",
+    "category": "Middle Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "800m",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "800m",
+        "medal": "SILVER",
+        "category": "South Asian Games"
+      },
+      {
+        "event": "1500m",
+        "medal": "BRONZE",
+        "category": "Jogos da Lusofonia"
+      }
+    ],
+    "stats": {
+      "personalBest": "1:44.93s",
+      "seasonBest": "1:44.93s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        100.0,
+        110.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,224 @@
+{
+  "athlete_id": "gowthami_jayaraman",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Gowthami Jayaraman",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": null,
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": null,
+    "bio": "Gowthami Jayaraman is an Indian middle-distance runner specializing in the 800m event. She achieved a significant career milestone by winning the 800m title at the 65th National Inter-State Senior Athletics Championships with a personal best time of 2:04.17. This victory also secured her qualification for the 2026 Asian Games. Her journey has been marked by overcoming financial difficulties and career interruptions.",
+    "birthplace": null,
+    "coachName": "Jayachandran",
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "800m",
+    "result": "2:04.17s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Final",
+    "date": "2026-06-25",
+    "city": "Bhubaneswar",
+    "prevRecord": "2:07.32s",
+    "prevRecordPlace": null,
+    "prevHolder": "Gowthami Jayaraman",
+    "improvement": null,
+    "improvementDate": "2020",
+    "aiInsight": "Gowthami Jayaraman's personal best of 2:04.17s in the 800m is a significant improvement from her previous best of 2:07.32s set in 2020. This performance not only earned her a national title but also met the qualification standard for the 2026 Asian Games, highlighting a major breakthrough in her career.",
+    "progressData": [
+      {
+        "year": "2020",
+        "value": 2.0732
+      },
+      {
+        "year": "2026",
+        "value": 2.0417
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "1:45.65",
+        "holder": "Jinson Johnson",
+        "date": "2018-06-27",
+        "venue": "Guwahati",
+        "tournament": "Inter-State"
+      },
+      {
+        "label": "Olympic",
+        "value": "1:53.28s",
+        "holder": "Nadezhda Olizarenko",
+        "date": "1980-07-27",
+        "venue": "Moscow",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "1:53.28s",
+        "holder": "Jarmila Kratochv\u00edlov\u00e1",
+        "date": "1983-07-26",
+        "venue": "Munich",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "2:04.17s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "800m",
+    "achievementLabel": "National Champion",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "2:04.17s",
+      "bestYear": "2026",
+      "totalGold": 1,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2020",
+        "event": "800m",
+        "value": 2.0732,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "800m",
+        "value": 2.0417,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 2.0417,
+        "seasonAverage": 2.0683,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Pace Judgment",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Kick Speed",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Endurance",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "2:04.00-2:05.00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.3,
+        "peak": true
+      },
+      {
+        "range": "2:07.00-2:08.00s",
+        "count": 3,
+        "throws": null,
+        "percentage": 66.7,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Gowthami Jayaraman has shown significant improvement in 2026, with her personal best falling into a new, faster range.",
+    "peakZoneLabel": "2:04.00-2:05.00s \u00b7 33.3% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "2:04.17s",
+            "holder": "Gowthami Jayaraman",
+            "date": "2026-06-25",
+            "venue": "Kalinga Stadium, Bhubaneswar"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdg4eFHIRFxTtb2-SjSovUPid6CB4RB4rK5r4-Oyp9a-h6YyZmyFZ6Sn2HvpLapq7LRP6mTOHxDfRqeqWS4fbrh9Fi-8pnWxJAI98q3n-sJQS_Y_7t9B2wk8bCOU-rcTaj4vI4s_ZVC3Pu3GLdtvzKNMiqvFCb8XQt3MDaQAGP-TRzMjsJlRPlyaea6t4Pc3i64Rlh2wkPwZHWrC9eQ5TKceNTFDTDjO8Lv_dkKPV3WPHSpf5rSkI7Ww-4dWRwW9eoedTd9UxW7DQR4B-zvdHl_sKH_sK7cW2U9LST4nlRl4QWH8tdtF0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:57:38.126618+00:00"
+  },
+  "performance": {
+    "primaryEvent": "800m",
+    "category": "Middle Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "800m",
+        "medal": "GOLD",
+        "category": "National Inter-State Senior Athletics Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "2:04.17s",
+      "seasonBest": "2:04.17s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        2.0,
+        2.1
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

@@ -1,0 +1,169 @@
+{
+  "athlete_id": "jasprit_bumrah",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "1993-12-06",
+    "heightCm": 178,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=eCKU2O5ZxZM",
+    "bio": "Jasprit Bumrah is an Indian international cricketer renowned for his unique sling-arm action, pinpoint accuracy, and deceptive pace variations. He is widely regarded as one of the greatest fast bowlers of his generation. Bumrah became the first bowler to reach the No. 1 position in the ICC Men's Player Rankings across all three formats and the first Indian bowler to take 100 wickets in Tests, One Day Internationals, and Twenty20 Internationals. He was also named the ICC Men's Test Cricketer of the Year and ICC Cricketer of the Year in 2024.",
+    "birthplace": "Ahmedabad, Gujarat, India",
+    "coachName": null,
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "Most Wickets in a T20 World Cup",
+    "result": "15 wickets",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2024",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Jasprit Bumrah's performance in the 2024 T20 World Cup, where he took 15 wickets with an exceptional economy rate of 4.17, was instrumental in India's victory and earned him the Player of the Tournament award. This highlights his ability to perform under pressure and deliver match-winning spells in crucial tournaments.",
+    "progressData": [
+      {
+        "year": "2016",
+        "value": 7.0
+      },
+      {
+        "year": "2022",
+        "value": 5.0
+      },
+      {
+        "year": "2024",
+        "value": 15.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "107 wickets",
+        "holder": "Jasprit Bumrah",
+        "date": "2026",
+        "venue": "Various",
+        "tournament": "T20 Internationals"
+      },
+      {
+        "label": "Olympic",
+        "value": "50 wickets",
+        "holder": "Shakib Al Hasan",
+        "date": "2007-2024",
+        "venue": "Various",
+        "tournament": "ICC Men's T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "633 wickets",
+        "holder": "Rashid Khan",
+        "date": "2025-02-05",
+        "venue": "Various",
+        "tournament": "Overall T20 Cricket"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "runs": [],
+      "wickets": [
+        28,
+        17,
+        23,
+        15,
+        20,
+        13,
+        31,
+        4,
+        15,
+        14,
+        17
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        10,
+        30,
+        90,
+        95
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Jasprit Bumrah has consistently maintained an economy rate below 6.50 and a bowling average around 18-19 in T20 Internationals, which is exceptional for a fast bowler in this format."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET6Y_dQE2SOtxd0Pm4NjVYIywkRphWeu6BFqWnpRI5HDZA5A7hbjsxtbSiiLhb9PndRvwjsf50VDKkRYF0nikn_jeKOb-vi2XuWmZ3sOFIfT5ElpjNJUWH8tS8xiXiiAVrhN8wAXrC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy3ixkYA8Q5jkTBdDVtQmeU2crtcGrDmlgF2GQsupXxkfw5rbv3W6B5DKyXG1D3hBgIofusOe1je_v_gd6ODsmmuRu7vmUmuKrEELqAEQXm_DFNDI8ipUTVSbiUGePgHq-WzE4MMosBe5IkoS8Y_nfjngqzN92r0x4k58BOfpwUWUi7s1vBNxj5uHnHD9XeFPF0k64HT8sJdpdIA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnk-q1m_dMyvDimR8rFwp5epR0Xixobt7zpWJl9DfbEy_cnVZUsHJV5H2qIezqLaGsBHswr612opPs_s5itRPH9-JFRjN_49oJaYhMZDRKy22XbfnL9IvWQAaMQJ9OSxiRaTnLtMxbW6Y3o75BEknsNZfumBGL3LVZjPx-ViWBxZvJY86SX8UAaeTLMH18QfJnAeZEv0b0WufUiE1aELBD1qZ5vX5Oj5zxMnvqRxm45W8o1cM0YnLFhhzFlr5FszUfDg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkz-DV1MTa68kEXKefk8SItCcR2whZverCinvKumx_uRiQjik4zpLKpmwBTgi95JMubIXXonI43DYlnYn5Y2iduTero6bZNvIRKmvmu1tB0CKxEyMXrqDfKPDykgFbalFPpCz6K6kDvqHQisYpuSfW8mzyvNRgLW1QVtNKY1VgBA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:15:39.244404+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "T20 Internationals",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 8,
+      "ballsFaced": null,
+      "battingAverage": 2.66,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": 335.4,
+      "ballsBowled": 1846,
+      "runsConceded": 2014,
+      "wickets": 107,
+      "economy": 6.52,
+      "bowlingAverage": 18.08
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "bumrah",
+    "cricket",
+    "india",
+    "jasprit",
+    "jasprit bumrah"
+  ]
+}

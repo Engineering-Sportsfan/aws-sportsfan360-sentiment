@@ -1,0 +1,198 @@
+{
+  "playerId": "sanju_samson",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "Chennai Super Kings",
+  "coreInfo": {
+    "playerId": "sanju_samson",
+    "name": "Sanju Samson",
+    "country": "India",
+    "flag": "IN",
+    "role": "Wicketkeeper-Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": null,
+    "dateOfBirth": "1994-11-11",
+    "birthPlace": "Pulluvila, Thiruvananthapuram, Kerala, India",
+    "heightCm": 170,
+    "jerseyNo": "11",
+    "debutDate": "2013-04-14",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sanju_Samson_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Sanju Samson is an Indian wicketkeeper-batter known for his aggressive and elegant batting style. He made his IPL debut in 2013 for Rajasthan Royals, where he quickly established himself as a key player and later captained the team from 2021 to 2025. Samson has been a consistent run-scorer in the IPL, showcasing his talent with multiple centuries and half-centuries. In a significant move for the IPL 2026 season, he was traded to Chennai Super Kings.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "119 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Punjab Kings",
+    "venue": "Wankhede Stadium, Mumbai",
+    "date": "2021-04-12",
+    "aiInsight": "This remarkable century was scored in his very first match as captain of the Rajasthan Royals, a high-pressure chase where he almost single-handedly led his team to victory. It stands as a testament to his leadership and explosive batting prowess under challenging circumstances.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 191,
+      "innings": 186,
+      "runs": 5181,
+      "average": 31.79,
+      "strikeRate": 141.13,
+      "hundreds": 5,
+      "fifties": 27,
+      "highScore": "119",
+      "ballsFaced": 3671,
+      "fours": 432,
+      "sixes": 243,
+      "dismissals": 164,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2013",
+        "matches": 11,
+        "runs": 206,
+        "wickets": null,
+        "average": 25.75
+      },
+      {
+        "year": "2014",
+        "matches": 14,
+        "runs": 339,
+        "wickets": null,
+        "average": 26.08
+      },
+      {
+        "year": "2015",
+        "matches": 14,
+        "runs": 204,
+        "wickets": null,
+        "average": 20.4
+      },
+      {
+        "year": "2016",
+        "matches": 14,
+        "runs": 291,
+        "wickets": null,
+        "average": 26.45
+      },
+      {
+        "year": "2017",
+        "matches": 14,
+        "runs": 386,
+        "wickets": null,
+        "average": 27.57
+      },
+      {
+        "year": "2018",
+        "matches": 15,
+        "runs": 441,
+        "wickets": null,
+        "average": 31.5
+      },
+      {
+        "year": "2019",
+        "matches": 12,
+        "runs": 342,
+        "wickets": null,
+        "average": 34.2
+      },
+      {
+        "year": "2020",
+        "matches": 14,
+        "runs": 375,
+        "wickets": null,
+        "average": 28.85
+      },
+      {
+        "year": "2021",
+        "matches": 14,
+        "runs": 484,
+        "wickets": null,
+        "average": 40.33
+      },
+      {
+        "year": "2022",
+        "matches": 17,
+        "runs": 458,
+        "wickets": null,
+        "average": 28.63
+      },
+      {
+        "year": "2023",
+        "matches": 14,
+        "runs": 362,
+        "wickets": null,
+        "average": 30.17
+      },
+      {
+        "year": "2024",
+        "matches": 16,
+        "runs": 531,
+        "wickets": null,
+        "average": 48.27
+      },
+      {
+        "year": "2025",
+        "matches": 9,
+        "runs": 285,
+        "wickets": null,
+        "average": 35.63
+      },
+      {
+        "year": "2026",
+        "matches": 14,
+        "runs": 477,
+        "wickets": null,
+        "average": 43.36
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-QY8cJg2hLJhMUokXgShllIhi_0ZEfm89CjNpa7n5AmfIlhcDlVI0AUy0sY0XFeVX5lO_wFQfwnudp59vKkixEyTBRzUfzXvmUDYMgufmA-49G-j_UzUQ-pI0VBjRc-hDx5_QHQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlI7TzH6l8MJN-SQ0T6NaE5V0tcnLK_Qz7tLLJfKgqs9JdfZpaIHw20_FtFtXooNAh5dw5SyPwz8Up3K7L6myloe38FlWV71q_g9t2y6GUmFL_XG7xwiG4wQEPJWbre69cVfzCI3jDYV3x1Tjg3g8Gjxl8hn976O1I8olsWfM37OKhLkGpxn-ARSmeGMmpg2jB",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmoKnJK46CXSvs1UQlfdBmrvOYA1NSPDuhicb1WxoLFILZhEeEKeZeGJ_OX2r43pm15YuPhoMywQfOTY8zIzzLcy4qmGqTKbdI27BVAeDEfah9LqUHaxfbDGLriAMNsp_UcF9nEWJiqnA5nTTZ8456m1FIrw-fHVm8mIoXJhMcnn59-XVyDL7mHoroWme8J_zbdAI1bdGjPjw3x7YijkU8f4SGzLpu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd6gP2kjkAFJdC3p7OGUXJ75MJPaGQmkgWldLTNWn3D6ITgNKTeSOyvEynrnRPtUYvovvpc7CI3xTCUp2pVbqq-_ybH5TPGJLy8rdG8SYkUpnID7V2K88XVxZt6eedIXgIrTZnfnRypigdtjre_H_8iCuUTBKcdo1frcHC0UosTG5mSpLW7Ceb07mMcGiWaD4b9Mp7lQy1Qv-v76oh8L8ZL08ldDch9tIMFIz7h-5D3bkCo6Y_5pxRShhfAb2Ih9HgbU20C1Y0sw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrFvw5JXx2Ig8SwOZYIJOXHBgGYw7Kc5N73y4zthutRc7wOGcR5CBpRW3WJaJ34-alb6L9bBUOhNSE-04p1J5YfNzMijSiDCWcb7tSlDq0gHYsQZdCBnvgRR3BFjJfphGeVaJ9QvtE_YRFpYseH3mnR2tBLlZ4vi7-f38bUk6-Dvj8ik0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBFQPeyAgGpKTPXkyuZaGz5xMu6obKgB-jJJ_HoUGJG9pfH9Paiu92cbNLVaFwVJgBCi9ZED9V4kDBblx6ba2dD3vGBzYW8ZpSfmNrorDr8hOFtpyIzlBDJm7mmogD1ZTSAK648gy2xno_2R7N_mAsDmmhXeO8ewMj",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXuMwljqCIP5Le4wynNuWZ7LspF6hEdhxre0lLe8JH9q83TEUuZi9IcxqrNHe1ieg_Pdr4v2nSPz9kB40KTt4imfFvvQs2byJGyyms4pMnQUjz3qc3Hktce3mTSHXE5rFB8YrPpNYuZv-_eETl5j0wQUk_BAjT9cmpa3bxLVWI6UgQmMGVMxgFPKAJzWeXhAlKct60hFlJxgmvosfH4p272-yw-ekVm9GMqQdNpHtuCl0JwDCu7WL2LkuN49ks5tsx6epBYRCOiXrtU4I3hA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsTOxQZ7cm6RiRLxqKvGr6zHWMzDGxQfajc9JGAsRGTciIbCOFSIcgehRBC25JRqMJqTckQYksiR6DnFdYU_3X7wgFkFTxCSgCsvqRznxV_VX_cq_R_US1KvgHEVzYohUyoyoSsopCOJKFG3N7iKyOZx3a93l9gmYhX6EYBntxoK_QvSwrdeykFI-xCNDKXBGWccWAWsZuoFTiwOeV0Mo_Y4-qosd1SNR2qJ-imKT5XNR0BY2Qde2H7O-snQlh8NedAtSHxoe4ZaIWhh6CE_tntLRJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhjvgDvxQWTOwneUgl3l4uTB7AQ4kBCnzSqlrdNRiHzRUvr-Z3h-daItiUcFIbwDVvFebIlom48DeXD0vC5t580yuTugCAV2pBqi5SQkpCEsoicOBhvYLqP7PojnAaAP5AmIEXzNyzy7MS7lLztzU1ZR_2llcTZ_KFoM1uE9f9mDttMvYqtQrIoSrSyKFH2Ttth9dIuH9MxOk_xgsxWBS9jHt-kMr4hsE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUPj713QWHsetrM9A7RTprYVtOpLB2EXZ9XvVMFDq4viQTJ9AJnAA8GEl_FcjeM6XgDz4NLnxDKvZe3inlxRuvFsQqYvAhxbbx5ZzpH176apIA52YzVtjl6wlm5lGaRN6Jalc7L3RJ-jkCLVUrt2sXHrxFQr9TARzuNKsCkj539WEPpDPrOoUtn3OCQp0UZh8sUod6Is62_qYNCJmwzomCZxjjRUnpyeFgU6DrgXqj8a0YKiFBxLPlV29DGw18-R41",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPkbI95gRvLmatMthDT9cBts3fa0aBo9qk6GT5Ihj6L-yngH1G7Q__RCmM-4b-ZBxL4CS6zlw3nTHaxOEDR-YnSr4bykkuXMKTPvBYtJBd7r8hi2bvqepeFmutJowPzmh79Vxu31sCsr5QAMOdk1vC6LhPjPNhKmFdDIPqzNRBS3lOZOKC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeMKkfPWQhaKWxL8inL1xrWl0qrx8WYRvAmkxFBo5O2Asru-pQrK7apgMnicunrPnIz4-n2A7YN93gwJOt0s1YsciW8IxAYqQLLHUjC_OYMmQkjnlU3PQo2IEcoZZqQN-ydb8CDC3Wt5b3hujicIvCB6xqT8H97EhMaKgg5JKtTw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9QIQxeATRGscpjBGwPhkCgon-SrSSBznfdMTc0_dDcvZWa5KrsttJ3iL0bNhx2OUc75giKuZutpiZOuXD2PRsm31MWC5gmzF8q8_JpbKoDJd8vUVl0Ta09zgc6MIfSRsglB88U-Aj0ojKjxdwvshdHjtZCbccgykOliJZhSooJFedyKzbm2hvvzzKvaJYu_kb3Aby457_RSPR5DKjiUxq06Ps8faj6AkdHCdQzOtF2tjsNqhNodAxPxWA6rIh0bRV"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:27:11.776564+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "sanju_samson",
+    "sanju",
+    "samson",
+    "sanju samson",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

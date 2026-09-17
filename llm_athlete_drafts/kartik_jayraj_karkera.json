@@ -1,0 +1,232 @@
+{
+  "athlete_id": "kartik_jayraj_karkera",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Kartik Jayraj Karkera",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1997-03-17",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=HsIKicIm0xs",
+    "bio": "Kartik Karkera is an Indian long-distance runner who has emerged as a prominent figure in the Indian marathon scene. He achieved a personal best of 2:13:10 in the marathon at the 2026 New Delhi Marathon, surpassing the Asian Games qualification mark. He is also a 1500m Maharashtra state record holder and an 800m state champion in 2022.",
+    "birthplace": "Mumbai, India",
+    "coachName": "Vijender Singh",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "Marathon",
+    "result": "2:13:10",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Final",
+    "date": "2026-02-22",
+    "city": "New Delhi",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Kartik Karkera's personal best of 2:13:10 in the marathon is a significant achievement, placing him among India's fastest marathoners and qualifying him for the Asian Games. This performance highlights his rapid improvement in the event, especially considering it was only his third marathon.",
+    "progressData": [
+      {
+        "year": "2025",
+        "value": 2.19
+      },
+      {
+        "year": "2026",
+        "value": 2.13
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "2:11:58",
+        "holder": "Sawan Barwal",
+        "date": "2026-04-01",
+        "venue": "Rotterdam",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "2:06:32",
+        "holder": "Samuel Wanjiru",
+        "date": "2008-08-24",
+        "venue": "Beijing",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "2:00:35",
+        "holder": "Kelvin Kiptum",
+        "date": "2023-10-08",
+        "venue": "Chicago",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "2:13:10",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "Marathon",
+    "achievementLabel": "New Delhi Marathon Gold Medalist",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "2:13:10",
+      "bestYear": "2026",
+      "totalGold": 2,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2025",
+        "event": "Marathon",
+        "value": 2.19,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Marathon",
+        "value": 2.13,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2026",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 2.13,
+        "seasonAverage": 2.16,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Endurance",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Pace Judgment",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Race Tactics",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 60.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "2:13:00-2:13:59",
+        "count": 1,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "2:19:00-2:19:59",
+        "count": 1,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Kartik Karkera has shown significant improvement in his marathon times, with his personal best of 2:13:10 being a recent achievement.",
+    "peakZoneLabel": "2:13:00-2:13:59 \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2026": {
+            "value": "2:13:10",
+            "holder": "Kartik Karkera",
+            "date": "2026-02-22",
+            "venue": "New Delhi",
+            "tournament/meet": "New Delhi Marathon"
+          }
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8GQLgJ5krFX0DY-N5DgqYcOrowVI0Djv-rvTOpewVI5WhI62EUplMNvhLXhF1z5HlXcmxMkjT-9s7qM4jfat6xUFQMWCxU_svMktXQsvPCvkuc7Ekfx5CRhLFTwMh1TPoZr-o4sQ1YNLgmhs4EYuN-_VjJsQdZT680UZDD9nq5mx4JRtnBgxnYu8PHlzR9wFdRuaHFBAQMuH5AcxaFr3BiXo0LERDaV8mLFZp3GoAeMq_LmQwIJUSnjxNlD4YuskUqilysVf2HiaysebNqYKxg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB0r9wX_352oO5e57SOglbtVGhG0rFSDf7GJ3b-qIEOFvATrVvRGdSvuPqitRKNcwj3Q2_S8FOkQe0vDTK21HXwpU1a_jtEgEa2_maAZBvhE9oiXnUx05U20c3zyXwcT280jsX6NdHm8EH0bG03Cf7QVW2U4QWlxKi8VWC3MZhUDOJRPKzBTU4hY9Gyf5XlTp3w0fRXe3sthf64id9LMAvWbYukqqsfmx0FnXb-1aHrqdI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ3GiqJ9jM6RGQdsgHfuTUHN_eLBiKLk_b7RzIJcolgFfOAkNVVpVgftupp7ZeLMfFOoO0jJTpNrn9IOh6G1A-yh6ppNf7pkmw_JGreHaOnXMdhocAu2rKq1vi-bW4paWuQvxWvOMZJ5jytLkZvoGEJfFEwSRcYMdfA-vXN2Sad6RTY31VH3g-MPxcr77aqXCBPOrgvIPEoFDm1kv29zL6-1s="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T13:32:40.869610+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Marathon",
+    "category": "Long Distance",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Marathon",
+        "medal": "GOLD",
+        "category": "New Delhi Marathon 2026"
+      },
+      {
+        "event": "Marathon",
+        "medal": "GOLD",
+        "category": "Tata Mumbai Marathon 2026"
+      }
+    ],
+    "stats": {
+      "personalBest": "2:13:10",
+      "seasonBest": "2:13:10"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        7800.0,
+        8400.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

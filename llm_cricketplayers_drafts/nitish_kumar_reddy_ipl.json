@@ -1,0 +1,124 @@
+{
+  "playerId": "nitish_kumar_reddy",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "nitish_kumar_reddy",
+    "name": "Nitish Kumar Reddy",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium-fast",
+    "dateOfBirth": "2003-05-26",
+    "birthPlace": "Visakhapatnam, Andhra Pradesh, India",
+    "heightCm": 175,
+    "jerseyNo": null,
+    "debutDate": "2023-05-18",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nitish_Kumar_Reddy_BGT_2024_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Nitish Kumar Reddy is an Indian all-rounder who represents Sunrisers Hyderabad in the Indian Premier League (IPL) and Andhra in domestic cricket. Born on May 26, 2003, in Visakhapatnam, he is known for his aggressive right-handed batting and right-arm medium-fast bowling. Reddy made his IPL debut in 2023 and had a breakout season in 2024, earning the Emerging Player of the Year award. He has also made his international debut for India in T20Is, ODIs, and Tests.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Unique All-round Performance",
+    "result": "64 runs, 1 wicket, 1 catch",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Punjab Kings",
+    "venue": "Mullanpur",
+    "date": "2024-04-09",
+    "aiInsight": "In a standout performance during the 2024 IPL, Nitish Kumar Reddy became the first uncapped player to score a fifty-plus score, take a wicket, and complete a catch in a single IPL match. This remarkable all-round display against Punjab Kings highlighted his versatility and potential as a key player for Sunrisers Hyderabad.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 42,
+      "innings": 35,
+      "runs": 787,
+      "average": 29.15,
+      "strikeRate": 145.47,
+      "hundreds": 0,
+      "fifties": 3,
+      "highScore": "76*",
+      "ballsFaced": 541,
+      "fours": 50,
+      "sixes": 46,
+      "dismissals": 27,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 42,
+      "innings": null,
+      "wickets": null,
+      "average": 44.38,
+      "economy": 10.65,
+      "strikeRate": 25.0,
+      "bestBowling": "2/17",
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2023",
+        "matches": 2,
+        "runs": 0,
+        "wickets": 0,
+        "average": 0
+      },
+      {
+        "year": "2024",
+        "matches": 13,
+        "runs": 303,
+        "wickets": 3,
+        "average": 33.67
+      },
+      {
+        "year": "2025",
+        "matches": 13,
+        "runs": 182,
+        "wickets": null,
+        "average": 22.75
+      },
+      {
+        "year": "2026",
+        "matches": 14,
+        "runs": 302,
+        "wickets": null,
+        "average": 30.2
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMWOUbTIArc_hKvT9-KaVU3oft1WqSMpXv27MwfeX8elR1KWcVQHhH8D-Y17imQxoGNA_6hhQV14Eisqu4arQ-UtBSrx-D_ByBn7PFJoVQfRSPsL1BkvBckThu2SZOjH0LzuKsX-wDOCm6uw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7lUaZO3f-5JPEEIaBkXbW1z-RbQ-N9bCykrtZazaEUCzsThtcSlJe2mw2ihiIY22ZEGuPu2RLwuJJqE15t23AOOFWaWjJaUpVR6RoWDj0VSOZ3vOvPCjU9pV-KLuieDt37IvwCRWt3dGQ60JswpHZItXu3lHT652My0Tw7Pi25Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQxhc8upw2kbNrTAGqoqmuaIUzShawmfhGe6TqzweoBkes-kFCsxxy3RfG3hmP8BhUKjuJrrkW5Faku863NMyaLq5krsetAe9kw1_CNv4_2er0kUEjnm2wJc9nRRuK_OBQ-q0xS5Kl7AGnxd9Vd2MEAH26dE5sxcUN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9IxyCCwxVBxHrGdil-LN1iOhFp054kmnmvmWdZxO49vawGJkj34jxTYlkSEUERP2dcDtrVugNkl0R5AAyLzEmn8iQTOJ5sqWxkhP5kj467qnD6M8GQVgXtWCi0-dvEtNP7ZOdBQndClXMR0iuXhiaSHnjrM4U7AsLwKL8ADZvt0133ZJW9Lt75XupWLNPTJzzfdADWz0T-6ldrqnpmRcbsQBej3ger5j2jeqZaX0X9rc0N3ba1kTvN8vkaUAVPH462dnrUbUKM3qpN_a6wooeUA2LTP6Mfu2-Qysq8Zr-rYr21Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiheMoEtdZ2O52iBUtuz3mfuF72QaoItBlgvrOhtzPyPqy3fxKLYTt3kyRMyf65kXIw71RBawjUxfkviHV7xYpp_792Yq7GvWetjgzm2FkKEyXVUrIthLoryAaU2ld_9uKBnRLrRAc3vnT",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLTCsv1VzzmiguB4FOI0xfS_kUL0VoklJZyP2yKm5UrFoLkMBPNIVmH2xA00iYm2HyQd0kU6wPEXxyf9C5mO-Rzy9r9aNTsSMz1TlCjIoJVHd1ik9hWTgBY0yfWWn_R3C8knNG7IxiuiMfllHciA5r_zxQDtgSYqo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAxJ9XA2Lo1xgj3Ayx9WnuSGoWzbL5ONYQxgtrl8JsVGsU8j7AuV3lwrDQCuCIaTT2d1dRVjrKXmS95_wq_3WxFlczOG5LSpCHgSCreOd_wY9xdoCMYXumsJ-nKy7LjbHMNRDb",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtSLE7Hg0s10GfAiVsEhPV2FI3WxN5F8DlIW44m9ozZPy79CRUELZK2DWZ01ZXjONSE9Jq4gINPPnqMv-7sqlFcD0Wlc-WtE66QqNRBRd6YdAku5AlqBtmituym-7Eu2wTF9rvuLRqNjWy9gY7UtHYVXerqyISqzJN6lBulxVrzQoQCh_fpkOT-PKfwJuOLQ6niOF15b-9-9tsg72PBrHVHQNUmNI6_-9MDh7mZai9SphL"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:19:24.350344+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "nitish_kumar_reddy",
+    "nitish",
+    "kumar",
+    "reddy",
+    "nitish kumar reddy",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

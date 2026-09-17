@@ -1,0 +1,171 @@
+{
+  "playerId": "mohammed_siraj",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "mohammed_siraj",
+    "name": "Mohammed Siraj",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast",
+    "dateOfBirth": "1994-03-13",
+    "birthPlace": "Secunderabad, Telangana, India",
+    "heightCm": 178.0,
+    "jerseyNo": "73",
+    "debutDate": "2020-12-26",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/da/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Mohammad_Siraj_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Mohammed Siraj is an Indian international cricketer who plays as a right-arm fast bowler for the India national team. Born on March 13, 1994, in Secunderabad, Telangana, he made his Test debut for India on December 26, 2020, against Australia. Siraj is known for his aggressive pace bowling and ability to move the ball, having risen from humble beginnings to become a key member of India's pace attack."
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures in an Innings",
+    "result": "6/15",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "South Africa",
+    "venue": "Newlands, Cape Town",
+    "date": "2024-01-03",
+    "aiInsight": "Mohammed Siraj achieved his career-best Test bowling figures of 6/15 against South Africa, playing a pivotal role in dismissing them for their lowest Test score since readmission.",
+    "progressData": [
+      {
+        "year": "2021",
+        "value": 5.0,
+        "event": "vs Australia, Gabba"
+      },
+      {
+        "year": "2022",
+        "value": 4.0,
+        "event": "vs Bangladesh"
+      },
+      {
+        "year": "2023",
+        "value": 5.0,
+        "event": "vs West Indies"
+      },
+      {
+        "year": "2024",
+        "value": 6.0,
+        "event": "vs South Africa, Cape Town"
+      },
+      {
+        "year": "2025",
+        "value": 6.0,
+        "event": "vs England, Edgbaston"
+      },
+      {
+        "year": "2026",
+        "value": 1.0,
+        "event": "vs Afghanistan"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "6/15",
+        "holder": "Mohammed Siraj",
+        "date": "2024-01-03",
+        "venue": "Newlands, Cape Town"
+      },
+      {
+        "label": "National",
+        "value": "10/74",
+        "holder": "Anil Kumble",
+        "date": "1999-02-07",
+        "venue": "Feroz Shah Kotla, Delhi"
+      },
+      {
+        "label": "World",
+        "value": "10/53",
+        "holder": "Jim Laker",
+        "date": "1956-07-31",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 46,
+      "innings": 60,
+      "runs": 176,
+      "average": 4.9,
+      "strikeRate": 37.8,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "22"
+    },
+    "bowlingStats": {
+      "matches": 46,
+      "innings": 86,
+      "wickets": 140,
+      "average": 29.74,
+      "economy": 3.52,
+      "strikeRate": 50.6,
+      "bestBowling": "6/15"
+    },
+    "seasonalData": [
+      {
+        "year": "2021",
+        "matches": 13,
+        "runs": 61,
+        "wickets": 31,
+        "average": 30.0
+      },
+      {
+        "year": "2022",
+        "matches": 6,
+        "runs": 16,
+        "wickets": 10,
+        "average": 39.2
+      },
+      {
+        "year": "2023",
+        "matches": 9,
+        "runs": 12,
+        "wickets": 15,
+        "average": 31.8
+      },
+      {
+        "year": "2024",
+        "matches": 16,
+        "runs": 35,
+        "wickets": 35,
+        "average": 30.9
+      },
+      {
+        "year": "2025",
+        "matches": 8,
+        "runs": 30,
+        "wickets": 37,
+        "average": 26.91
+      },
+      {
+        "year": "2026",
+        "matches": 1,
+        "runs": 22,
+        "wickets": 1,
+        "average": 40.0
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfmAJdXNPIPalIaQBWtmPNk4a1qRGU8obsWOQn2G8CcY-m05USgF6_fd08KzvR4jymBQSYH8L7gvjLhTnHuSt_WhizrvRYBWYYT5jcSrfe8KTU_gSBl5aqv0NKC9ODHoG-3SKbf3rY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMNaMOzxZLYAUpWnO89WeSw3n5HdgX03sD1Rx03wqGmq8UD6pghRvRgrUZVhFtCR8uus-nW6B80NjD5fSQe1Ss-S_pUGWt9aFMeqi4juFUY5q1XaV9IxAjVmBCD1BrnsZ_RKqg",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYyUlRSIVm4yKFZfYVym_p3FokVOFNtkhykUQe1EP_xEXMnwJOPJfBneZaVhBt1p4vB4Y70o6rpFEPL3cIAzgiapD_pA1OCKE7Q83F1GKQckwG1dqtB_9pwaY6NKlpymlY2mdPBw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6gOkPJxNV50wqTzBAA5W6zLexzI1tmGIIwhjuq5WL_e9qsLpHJuloecWuZ9ncaQUEi_oXzOXL7zrz-jTMF0s49wxtw-E_fzJ3ItgoQm0ZEm52G2ODTHkFGaZ3_RtVs9olwmztpg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEyufYQd0Lh4aC5fWf7jIUUNKHW_1-4phSCfsYAyDWDZ5rlg1DsUF_jyKe34MSeIV_pEC2lcBWxqcPWwpVbN6DuJxZLGNcHf1oRNIYchJDsL2Dusi-RT900N3ccPhtciz19tEK26VRjSNzdoD0YiLN8K2h3uKEyCtM7usscMFGnaMKGFJ3n3Rw5-98oAK4fSIlgczeHhf5UURN57VYbFfzU8fEvVxnWE7IKDvFuC2uu5DiVrmVvrr5zGSJwgLemTg4Namz1ByD05FmAMAbf6j9I3qtY3LNSg_9YwyG9iS3LxXio699skbNr87JEyUsOKixiuJNAZK1oFzdbnmpYfjrFsjqRtjaeUJOcawhhxWp4FdhlmouBOs7TiQ08VrZQ6hA4ZVNwb3od3VBZjhPRKHBzeCPNCditAU2IppLjd8Pxm_iPepCK0IdqqxzPnp0yOyHkUFqpRKU9sUJ1hgCiME0SLlsL2nHwI5Syfug5LnT6fp0pCpplZUwukDxW6jfNyW49dCrQJk-nKWuXmJHhKOC4fZtYqSiTaZkhEgRLWwUqYb1avTb8fAUjW2drUWD4W_ImAJb_osz0g0BV5zBubsS-Jay466Xm52SOHbHRtn9nD7XMiEyv0YhnobuRVqMtWz1zIOxm8sWDfwBjYt57wzcvDTSar5jcaceMyZnhzbesXnK8YW5Eg6KGzLf6pregUlo2Sbly2Tvhw-dsqKnBMsvtQa_KoWf2CIYzpyOP5M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN-iZ7hnpBAUN88BmlvtsLR7d5NijQkL8A3I2Kv4d8eizPVPRGEyeXDqtOtDEL-q58CjxWBeM-iGGMSt01fPSypCfANc6P9vYWmuLsSLaw5saE_QaulmRAiI50xXcERCvObMOKPUCr646UTcbbrUenxM6KDpwvgO79QJKViDkqaiwmDDRp5YVQFDOM4X7CcyAJZXznCPt3qYzuCjscRzcdWuj9DdeARtfkIeGj5ybLx8WaoIAxy_ZwsSZ8lswbfDB9gLkjIw5-g8p1MIdKoEG-GKjaZJQIHZT_lKQYk9YefTsjaA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEfe38B_y2Rl_gIsBaMSClNZx_HtMtBAEMGG4r7l5j5QTaMJE_pfH5ygNwA_62kxRFb2RrYwrZC_ENQ4d_MVGygOfSkSVEWwFkBiS_RGOR8Nbcwd7p-vbDKXwwlDU5EFZkuSPtsZgkDEKkJg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYRvlttAvntH3yJiGh6ghZObDC1wtRxmhOImIo-_-r4ZWga7UvCdU6WITjHLyBlAZ49aHaoamyBXBbefGpTMwrPLhvFAcljNflQbMH_pNgklm9bThC5R2A7VUmfkwaXp7D",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVoqlWcZpB-LC84rg38XiqTAjUh7hkxvWZ_VUFsSFPd_W2NnvgjlRK2qGVWngcF9sZ93MudvRBV2BJA9v6Gk8aWLj6OR834ahRI9k-Mgkh-UJoq1ndiZF56lgiuaLfzWWc0-ryvZOeaks89RhmiC3Z4uKh5yzsTO_IsDwtqsBBD4TsNNIDzjPEWhy2gePEoXGqacAAMtyXX-RAut2i1Q6ASkpgcQsAmZ1d",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgqoLGfp6E09kjNTmdKmBCu8A7tOR55V3p7V95jMmcR-YJQb8sx34Rsdrx3OuFQ1z9MzTYzLGkBVxrYqzO7UU4HEnQKrFQaOY2sK7nKlFOsiTaCoeBFR31jvzOVGmzFx5SObW4dSuqt6z2CzAb9NXDuWk1kkl5viEcbK4owtcwkJ9Q8waA80vzPO7DeRhIyy42aqH4FvM_dfZ98chxyYskGaUfJA4XRQgauUOkT__fv7TPNa_9i_ABNj2JxESBmgU_BLtQryHEeEhJNAtn4Qk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnnUxBl1nrL-vTklnjgSPJrOXkkF-gDFpr8ysvaT6NgSDqd58mFQ3aJabj9iM-HXVHZQK0zqwVBqHycVEHUaqH6veZf5KVUWjMoeCCqQzae98dyw48NxIZ1b1LZFeZNTnTLz70MeuuA4LNpeS2lT7v5J61B1WORcl_DIQomlg4NsfSKyQxPESEBd6X7vc1rb14jasmjDkx8tLB2LkjevnCIh_IbQVD"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T16:57:19.483856+00:00"
+  },
+  "_retry_log": []
+}

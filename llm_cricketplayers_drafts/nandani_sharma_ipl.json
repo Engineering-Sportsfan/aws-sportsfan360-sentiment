@@ -1,0 +1,123 @@
+{
+  "playerId": "nandani_sharma",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "delhi_capitals",
+  "coreInfo": {
+    "playerId": "nandani_sharma",
+    "name": "Nandani Sharma",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm fast-medium",
+    "dateOfBirth": "2001-09-20",
+    "birthPlace": "Chandigarh, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": "2026-01-10",
+    "profileImage": null,
+    "bio": "Nandani Sharma is an Indian cricketer, a right-arm fast-medium bowler, born in Chandigarh. She plays domestic cricket for Chandigarh and made her Women's Premier League (WPL) debut in 2026 for Delhi Capitals. In her debut season, she made history by becoming the first player in WPL history to record both a five-wicket haul and a hat-trick in the same game, finishing with figures of 5/33. She was named the Emerging Player of the Season in WPL 2026 and subsequently earned a call-up to the Indian national team.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures & Hat-trick",
+    "result": "5/33",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Gujarat Giants",
+    "venue": "DY Patil Stadium, Navi Mumbai",
+    "date": "2026-01-11",
+    "aiInsight": "This performance was historic as Nandani Sharma became the first player in Women's Premier League history to achieve both a five-wicket haul and a hat-trick in a single match. It was a breakthrough moment in her debut season, significantly contributing to her being named the Emerging Player of the Season and subsequently earning her a national team call-up.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "5/33",
+        "holder": "Nandani Sharma",
+        "date": "2026-01-11",
+        "venue": "DY Patil Stadium, Navi Mumbai"
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 10,
+      "innings": 2,
+      "runs": 1,
+      "average": 0.5,
+      "strikeRate": null,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "1",
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": 2,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 10,
+      "innings": 10,
+      "wickets": 17,
+      "average": 18.58,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": "5/33",
+      "oversBowled": 38,
+      "ballsBowled": 228,
+      "runsConceded": 316,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": 1,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "matches": 10,
+        "runs": 1,
+        "wickets": 17,
+        "average": 18.58
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyKyh4yR-yPXa7OTcBvq4_PExlRxyb6eyvB3CmAsKd1zdL1n5gVisqJ5ZtrZ6RVutHO2nERh_B-YhEr9ASGxgG6c6pHaJqhEc-FaDR7sBEORxhePrF3S44lz-KzqGg7d_SGqsjenIZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjoaFOm0Yq08B_PrHYw2W_-CTD1hR3QI38YcawTN-BZmhMaK0ShotExXhZbjcdEjF4aEW8BHG8jSRnfG1fY6IAEFaXlEbAPsDmyPRJsnCVgC6qYZ20w7L62oYVbio07ixP3cy0A_kFn276JFjLBUNN8xgwvvLVSgZl5yz3VB5evvUxmGWdjp8Bn9voeks=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfAwfUvUYFxNsFBsrsclqjaXQHm3wQf53GxL9uGhv6Afv9dzGiytaZyxXS-YnH1jXzChFrlqXB1RijxDvbi_TnPBcAF5tpErLgp2wAlecHm60WzFn-4-yxAusXaqwYr-2n3yj7pKngOtQQFQ7SI0rHgxauIg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo73xMXR41x7LOlUh3DJdw_cWlQr5QLyx38KQtbdAZPtxhWYvuQfVQeYLWcq8H3hI9B9AIcwFGGT9cj5L_Lgl4qLd345PZAhpsGikQRf1dzfnh5U7-AAEbatq-ZfBfiNSfY9SGWoWTQB05TAJCLbB03DTqWnt3dLp348gCo205d5ZWbEsXn3hTJ_NAbVZri7Q5RkCLvsu9t6kB5XhtrZ2llWhQPS4yR-CM5uFgcrl8WlbsTHDx1Mc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxJDMMgT_G1o3Wwf493o6yRHZcjrgUEfFndiRgdMU7VbTPcGcXYeth7i9zbQ6GupRoIvSlJIYeUKAEOoow__TQJPO8PRgHoNZg35mG4Wb83F1g4ecqhJL0TqUTc3JzkstV6WKhjqXYMET2eJ0da2KcuThk-D-4ZhHMAcqMF5afL8i72XPnHN-piU2bTaE2frxnxuNVaLqvgFMqobKwqVkp0pFucHeDOAVC9kvN-k0TwF6pVTjM5lZd4Rue6UQ2uopoaQYMAj70DtLGeEa-vwrMet707txuaCu_38w=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEipDZTFciq-03gdHU6kTx7ptC5U8ox0qTvWKAqG_DkCtK9fLeTrgBjOd6Jymbj_hFcjwQbpOaFVVDfFp2m1a63rLnb2cFd-C1B7HISDPizsxwzTYd8OhvT5OUqNDiTSQPprbaTYg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTtlef8ePBk8MWnCPh7on3Rge6KYHMiN02jWZMzGP4nKexR3Kzlrut2IC6SUAto4flCEQ6h6uXAI9VDzKXC3HyxSw0HQs5SAH7orKZRwpNFILUkWVpDMncDIPDQitlibg4zyj8175uJBBVPGAxzul2efjkgxxwqWDGPmhrhKM="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:52:28.380693+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "nandani_sharma",
+    "nandani",
+    "sharma",
+    "nandani sharma",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

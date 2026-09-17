@@ -1,0 +1,138 @@
+{
+  "playerId": "manav_suthar",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "manav_suthar",
+    "name": "Manav Suthar",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowling All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "dateOfBirth": "2002-08-03",
+    "birthPlace": "Sri Ganganagar, Rajasthan, India",
+    "heightCm": 180.0,
+    "jerseyNo": "3",
+    "debutDate": "2026-06-06",
+    "profileImage": null,
+    "bio": "Manav Suthar is an Indian bowling all-rounder who plays as a slow left-arm orthodox spinner and bats left-handed. Born on August 3, 2002, in Sri Ganganagar, Rajasthan, he made his Test debut for India against Afghanistan on June 6, 2026. He quickly rose through domestic ranks, notably for Rajasthan, and is also part of the Gujarat Titans in the Indian Premier League."
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures on Test Debut",
+    "result": "6/33",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Afghanistan",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "date": "2026-06-08",
+    "aiInsight": "Manav Suthar's exceptional debut figures of 6/33 against Afghanistan are the second-best by an Indian bowler on Test debut, showcasing his immediate impact on the international stage and marking him as a significant talent for India's spin attack.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 6.0,
+        "event": "vs Afghanistan, New Chandigarh"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "6/33",
+        "holder": "Manav Suthar",
+        "date": "2026-06-08",
+        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur"
+      },
+      {
+        "label": "National",
+        "value": "8/61",
+        "holder": "Narendra Hirwani",
+        "date": "1988-01-11",
+        "venue": "MA Chidambaram Stadium, Chennai"
+      },
+      {
+        "label": "World",
+        "value": "8/43",
+        "holder": "Albert Trott",
+        "date": "1895-02-14",
+        "venue": "Adelaide Oval, Adelaide"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 1,
+      "innings": 1,
+      "runs": 28,
+      "average": 28.0,
+      "strikeRate": 68.29,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "28"
+    },
+    "bowlingStats": {
+      "matches": 1,
+      "innings": 2,
+      "wickets": 7,
+      "average": 8.85,
+      "economy": 1.93,
+      "strikeRate": 32.0,
+      "bestBowling": "6/33"
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "matches": 1,
+        "runs": 28,
+        "wickets": 7,
+        "average": 8.85
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_Hh7vf6orTuKRRa0jCwl3pEkOHfsNI1nXEVFtbr37KU0U7eGJNj8Ix_o1xNuTyJNwMm3QDT6ByOu8V0Zj-31MNiAo1U8p5AVPPYYCLd7tvYnToD40Le_ECHMa9-RKJBGlPEZhHpWnIvrz9T4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJjjQ7W4S9v7j6fYteWlFx2g85NiTiNZl0J3B9YM1EQMqwruT5rRmb_8SkQYNNDPDxBwenkrIxdhs9Pa9uMZBaoDce6NQ_Kud9n3_szjxT-890TR_tJsDnLG6kMC5qSP_ByBlvdJjU_x6FrA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3IR59Q7_jwjzBJJNkLkp9ElvLbpLDBUU-T1ANcBIwo3H8tNXY-9NKvqWZbzeZVEfk4mg0SKkDwVRpifkjMABnKu3nDRjHLd_Pm4_Pr12zChzH8NDZjEF8CxIT0QAzFpZsFjMe36a8_w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmMX4DJPayjgYuE65ptjkWDnBjgY2COCiR-pV7k3KmIOLM9gZSTHEDSkyUPcSlYBdzdn-7YQUDfa0t0jkpSywuwuVSOZtQADV4BhnvkotJlEBuOjZ1i0rxWnNTtPm5ur33Y_A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1b2uGsosxq6vz3u-bbDsHsx5-tJ78bLzixni8MtqKmu4oNM1zbhimc4Oqrb5lZjntuLhyjEw5bdKZ5umWVcWWUWbB9N7ev_8FB6H36qnUCQdMb15FtGMbI-R4lMENsZTaEmFArCH7vaLZTZAiaf334u_64KF0aKWt6o2bEJfibNpuxai-TV0R0Vm4ssMHThqb2sMz9Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlliLqCPPCSkjZ3gEfBu4V_JXiwwCENjxBzrndaZWx6cZrXjCdS5RCIjNWdkgLmMHNe5mQ1OLAilgR5Y31gMzgnGEH4jTSDVnn_WeAW61NKZvXj8iHR6Am4gJUlhK5Yg8yhEBDYQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF15z7qgohfU0c3-sI9etbh9jHAw8MRS8VZg1G8tZS8e4yxdPrfNre2jeVY8CBV2AM953A6Udr-yz3Bx_Jpxjk5aTVFNlgTgKDTzhR-bQgfwq1EMa92fRQozrzpzslyMjrPvW01-ivQQ8PWYzp-1TGrurAIA9Ncj_VTHs9FcmeO9O6qdCdRcJOoRm9LgPaSNTBxLcAwLau6zgWaCUuV88oxvUaxmZbthoEnpE2oQMf-Wx-6TWGNxW-50eoPySr9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp4_zddv0PClqYzzm8TnfUTwAn7-OifioZm8HSjMyN73V0E0D5NQvyaKZXOMUEtGPyk6SWf_oEukjmIUEI82N5b7lnmDXBug9S-N1MgVCPVgcj9LgX8wLHcbgHhegRJaQyrlvLV83xuNmHaLSde3sdFZZxrIytV5MEt3qQ1RUDkEUp0XM-MtI4cFIYkJuAZt970am_qh3hS0jZX2abPF_c7OruvUmdALDVrN7TW1OvpxFosmC-iromnUFIeWzUqnLPAw0n",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHADCxTzPsPcdj840iYgBhrbwvhsnNoFPhTtnDSk8CrMQEF3I78TnclhzCYyr3y9wljJliWWWB5eiYTb2noCQ8rHqPaYcJCpdB_KoldUmmazreG19Yuqb0BVafxpQGlMqSXYvxdhXY6zMdMSCp_uPRQ5SnHpKkDBf5cCRY70LfZuOzyzHAgvTq7KyyN3tvDzyLpQKakY7NJ-K3XQMcEHr8prEQFG3le",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSHzXOznYNPMPBTsRKqB5orMvMFFfONmcBxs71ewL3vCAFUviwf-vy9Yw_XEC1CSA4FHkFW3qm2IZZ7IBKSs_FDwQ7ZhcR27_QhdS-YLBCpRiWUK220SyA1i1-8VVykRYDPg3solWRzkcCsFtZkdmgGtn9mz5karFNA4pdIpP-uhaq5c6iKZ3URIoJzs0Ta25Rizycqh22I7Dmc06b-7w4ZvNUQSHh5lLdhaCmABpxaFJOCupwWZY5IbnKYHE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE76Y8DsiE0-0p87lRrk0Ntw6FZdA9vReQLSstS3QcrkVHz1zWekZ_VUxnBDMIxiEtxFxm2_0zFo7TFrGQ0JpLGN24yzl2IPWHQMT4rgcHxPsrCPvHzhxCdfdl27oICv_t9KZpIrKU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUTpnBwLxNueLML0P_aSXIRDw8Yrnp7KENdTUAUdu2uaD2Fy3-JPxpp4Xll-5q5anuNHj-icf5LBB9jv8i_ZjrYZTEAb_D-yuKkjl5xznEFw2ejP1Gjhg6cw2dYTIrmaKyweWmbV-MYmvRS7f7bteqRq3quwxPQTfMZkbFJthm_Ch7OFuIzntr4SxFDXqVr-WQ-uMvaaX_TYmp_8_ZfwEKC5L3slVe00Yj2km_o8GEdWRD_GoPf8yBmntYqBb_Uxbp2VeRviGcwPzQyTWt_tg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC_tQUVKEQRvC3lD9_nsHUDKd2FsAyhXz_3AuOBlBUQp1G9pyKnEUpIZUD9tYkb4s0HGOsZ45OlpAtENE6fTgju0WNouRaZPE1rc7QrRz4JyPEAb0RCmWcHroJ9LwVoCN8wT8T7L9vNKDCcEsC_jhA3RsMhCFG3Z9CtdLcAEwDJzeT3vJQngqCKyORezoTJKw7NfwbKv7Yalg_2DIcsQNi3ISAYaKuoDiJ_2iG0evSVhvuPILTvdjYAOEmxknoBryxUnaEUylGoqDNiD8o",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJocVSgAcvvuh4ee7DI1FTCu9ursv1sBlgtiYiTEN5os2nzGpAB-ZYAh6z8KMyVV-l7rdvwtJUr21qdzL6nGXwD0TvyqYv8qlbVefzv42aEhgC7d44jBuTd9qwuETsPorsEcFuAfceFpZ5GqbBMIEDdWFd17BGsIkCs06Puz-TtwOg3qgVrrRnEOreShofWQQzjWUQke0JrbflvKTgcULiwst2JQRR9GfQ1_hUPVvzryffP_MQmuzU1Ot8JNZLnazR31KRZ5Bb7uzYzdPJBoJKtGjkksSPrcMtttzD1PpuDEk9NgVbIYVwFooqYq48Vg-RdhVCwHfri9c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjYTItfSVgcmE9exs9HY-iGI8q9GUGyyDdy-WBtvZKU__NFcT_ygo_H-RtWD4xJ41R5vMvUsOX7bz7DNoaNpPzIOzmQhteO4cldAufPNfWeDpazovGPbmNAUaHH0ySKi0LKjHFxA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN45qKNpuvnLS-u8VtaJK9sbebgGgPS71cvDLootEJdAL5AhbWRyw0ucuxyYm_IdoW308GbfljRy5J15W6QFYSDgYGaxI1lt5TWVEDrOgpFGAW7tMBzZS00BfUmmlwbxpST-g0XdyXVH2GZG0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoWMKKLcsFMNUsw-eQvrjFXPWE_yzcTvR7F9K3fbk9ARIuSR4m6GShKzwgNUSxr4JXciefTMeJXw9kDKC6PdYrqjaivIHtnC1VMeIQ3xwm8s1gXJlm0Kzbz82L0To1QV-zXtSQSiCtXmp3cw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFazN-4tM-FMPdATTUoX5a6w6e9nRgTLfoCyAa-DAmUBXHjxXz2a-jsEDslb_jawWJ2TPEXDbU9K31qf-qv2wqJGfqrqRUMKfeDTMdbZnn20aTtKAPlULDlJi8gh9VxOseCO8AEZr3q28X8JQXIEMMRIc8JzrgClrdoy4JDTLCqHOOJ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAZTNlvp1nwPKqbwW-OcogSE8WMAlvEyhu8DtPLCbQ8NbQBuzB5S-pc9GHOu6WxTglkbgjRay507NRJ_xL13OO6pCNUEtcGsWCf-Ap6Z4GpflkeHDpAB6Ig8CUsaFeqoQxIFw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEREWdakT3mP1rECMaqEDZr_Dc_ik8IprslKCQ35lN2sLFN5_Ar6AKjPfd_4Oepcb8oTCXugRZ4X0BEQqNEOhk_MNazYsrprLfHigFyKHWBuNvLCuT6Qv8BqdtbtnRq642x8fhjH5tTykFbdL1H2aajdBj_-yPWbrzoeB7ek7wkiT0KSb8XGdjbzQF1v9_3fE6T7owvnIFjoadXt_qYLEDChwEuzLh2XzooGBfBYwdx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGavGv184b5jAgqc68OaHl6fU_wyjD0gTndUt_wSqqMPs9LbVywcipnhKoKRC0Svr5sXG1UA8fcA37ezkdAXXqOKwq8JUv8ZPIJ9js1oHxqoa91dKm3DwoptTMq6fwgx9lGaGuFPLFzNsuQDn0a4vw2t2AS18yMi7VXFiIT9-dfJoDEgjSf7t0nBaDM5CEFdhmwDT-X2iRHoTnbHlCVzZITXySiAoOVGlont0M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHj24TPqKBjx90BQY8jB7CRL5aPehahx_Wokd-cyYacURGo78JXsFRHYv7Yxx-pCgOkpAV7yTVxAf_PEx3Y7tIp5bPrf3buRg96bH7-e5iYi9g31eWY-F0xAXjHF3h-3TrIu-drIvsmTwd6OaajMKidhlRr14rA7o0zZqGJ71hZXhFrYRUOdlvRLJ_HWq6FbtulYkcHcNYpKOKiFtyt9ZMggV1oYs4N",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrGCMuGeOTSwYHWtvqFoT3dBMHogp7YzfP8mVKbuJFHAMf648GGSWFQT7bmm1_iE1fArMGoOQzM2ewbA7XCgp6eH5WYdKRIFimSUjQcwdnB5FD8NsewYid33lZvV9Vkon_KKaAwKr-5rgCqZ_NMf4GWRvpSo3uXIOJG6t7513tNxitL12umWqMUCVa6iWlZtB0f9kgjmogpe4UaEdtJ2R7QgXezun6HV42LQ8W4vO0BCzkwTy69CvyR1c9LnWcIDAO3heGfZ3NBPVpanQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWNHrfQ6IfqkBLnHJAZ7vSt8qP97URIU5QYZBOaY-Qypu5yg7yyTZzz0tJtAZpoyIaCgKEpDHTvbG5d_swGoNOq8XnK3rxA04yW2UKuDBbenAitnPjeqQ_zKXXvAMnnJmZaq6-LbQZt_bcMn0369ExHvy0tBs2TwDBtvux-TmTfWKVb67vtxy5f3eafYIx2IPnXvH8nhsUd2S4aQCLwvads88PRxqNNWPYGmy0pVTfaOYuzqToqGBdHrO56w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO-zFy0On8EKwy502uNf4CD36YvNzF0WPj6jFX8riVx_KqhpdvUfFtkJ-bODogwZwKkB1mnMMtezM-B0wZPoOq-voH1-5is4-U9uSMrdpzPVxLeH7yyuqZfeTmII-3aAw0W6Q105_ZGsObGIQojkovPgh8FALJsdxLh7Zt4sjY6jF2CLam9DXVis61Pa1giU7GGq8VzsY9ssXM9buQep87luDjSEaoCUSoa2yN7nNjsng=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw1F_jxf5foRwx4RtU1JEir48bh1rDDBSvPN_dr-810TuJyvhYJeyUKKAtYFwFxUgSx5YM4e2rAulTT9lz_UlApS-wJlT5tQv_EIXguXx4j-CrrdFQsuACA7Pi5PLZGVYjtVLaFpAYt8QYAyO-YiKC0H4kmEstu4Hx4HU2NwEqaZyj_SwF3YLB-78MNPsPMQvyTm8m671Sxg0WWA989q8wbPs31P-ZPb5sPUSJjL2wsja-0bACdfEDsAWa-GYlp38-shNP21Qfv9RM4rPaTww8t2SmWeSp9zXJPfPo0cRT_uJro9ueZXQHZFPsc9t9gr2ajC4coSBNimY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbPYtgm_YI8OX0U-YvQySezha6IR_bJNXHu1ol-_ApioZ7mjLtkpP2-oL3xtJ3bIYSxq_xsERoCQul4Nc9r-ghIzWfrXdAZ1-KcCrdvrs3mn8CQb9wQRurprxJ3EZV7Bcd5_kMjiE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-KnqLdchRhqEb2n7n_AVSVt9_b0eOAyaK5Ai4r5ZM1OEnP68dObp7Z7GgVYsbNL55xGy7gloyt4Jt87K-u7dHrH1bk6Ez1Ay32y4Ul4VPvwmaqr2vv6iOaweo7iCfkZoL9hzh8RLACEvyc6H37MYv0SMDJsInNLxpYgqJUxKoDW4ZVgDNG9nnd1am3bEAeDUrox5EVi59M8vSQ8rImney_B6OoAYGYnvtfoY2lLXrz6VFThKrLBR6gnrO6btnIR0SZkPATSkphnu-Ww=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T16:50:34.821929+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight.progressData"
+      ],
+      "filled": [
+        "record_highlight.progressData"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "playerId": "tilak_varma",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "Mumbai Indians",
+  "coreInfo": {
+    "playerId": "tilak_varma",
+    "name": "Tilak Varma",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batting All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm off-break",
+    "dateOfBirth": "2002-11-08",
+    "birthPlace": "Hyderabad, Telangana, India",
+    "heightCm": null,
+    "jerseyNo": "72",
+    "debutDate": "2022-03-27",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Tilak_Varma_in_March_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Namboori Thakur Tilak Varma is an Indian international cricketer who plays as a left-handed batsman and part-time off-spin bowler. Born on November 8, 2002, in Hyderabad, Telangana, he made his IPL debut for Mumbai Indians on March 27, 2022. [1, 6, 12, 19, 25] Despite facing financial challenges in his early life, Varma's talent was recognized and nurtured by his coach, leading to his rapid rise in domestic and international cricket. [2, 13, 17] He is known for his aggressive yet composed batting style, making him a crucial middle-order player for the Mumbai Indians. [14]",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "101*",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Gujarat Titans",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "date": "2026-04-20",
+    "aiInsight": "Tilak Varma's maiden IPL century was a remarkable performance, achieved under immense pressure to help Mumbai Indians recover from a top-order collapse. This unbeaten knock of 101 runs off just 45 balls was also the joint-fastest century for Mumbai Indians, equaling Sanath Jayasuriya's record. [22, 26] He also became the first player in IPL history to score a century in the first innings of a match while batting at number five or below. [26]",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 68,
+      "innings": null,
+      "runs": 1858,
+      "average": 35.73,
+      "strikeRate": 144.7,
+      "hundreds": 1,
+      "fifties": 10,
+      "highScore": "101*",
+      "ballsFaced": 1284,
+      "fours": 143,
+      "sixes": 91,
+      "dismissals": 52,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 68,
+      "innings": null,
+      "wickets": 0,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": "0/6",
+      "oversBowled": "3.4",
+      "ballsBowled": 22,
+      "runsConceded": null,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": 14,
+        "runs": 397,
+        "wickets": 0,
+        "average": 36.09
+      },
+      {
+        "year": "2023",
+        "matches": 11,
+        "runs": 343,
+        "wickets": 0,
+        "average": 42.88
+      },
+      {
+        "year": "2024",
+        "matches": 13,
+        "runs": 416,
+        "wickets": 0,
+        "average": 41.6
+      },
+      {
+        "year": "2025",
+        "matches": null,
+        "runs": 343,
+        "wickets": 0,
+        "average": 31.18
+      },
+      {
+        "year": "2026",
+        "matches": null,
+        "runs": 359,
+        "wickets": 0,
+        "average": 29.92
+      }
+    ]
+  },
+  "grounding_sources": [],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:24:05.842539+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "tilak_varma",
+    "tilak",
+    "varma",
+    "tilak varma",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "athlete_id": "lovlina_borgohain",
+  "sportId": "boxing",
+  "coreInfo": {
+    "name": "Lovlina Borgohain",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1997-10-02",
+    "heightCm": 177,
+    "weightKg": 75.0,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Devajit_Saikia_Lovlina.jpg/500px-Devajit_Saikia_Lovlina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=aSGxM9gIwEE",
+    "bio": "Lovlina Borgohain is an Indian boxer who won a bronze medal at the 2020 Tokyo Olympics in the women's welterweight category. She is also a gold medalist at the 2023 IBA Women's World Boxing Championships in the middleweight division. Borgohain has secured multiple medals at Asian Championships and Asian Games. She began her boxing training in 2012 after initially practicing Muay Thai.",
+    "birthplace": "Baromukhia, Golaghat district, Assam, India",
+    "coachName": "Sandhya Gurung",
+    "yearsActiveSince": "2012"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+    {
+      "year": "2021",
+      "value": 4
+    },
+    {
+      "year": "2022",
+      "value": 4
+    },
+    {
+      "year": "2023",
+      "value": 6
+    },
+    {
+      "year": "2026",
+      "value": 5
+    }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "Gold Medal",
+        "holder": "Lovlina Borgohain",
+        "date": "2019",
+        "venue": "Vijayanagar",
+        "tournament": "3rd Elite Women's National Championship"
+      },
+      {
+        "label": "Olympic",
+        "value": "Bronze Medal",
+        "holder": "Lovlina Borgohain",
+        "date": "2021-08-04",
+        "venue": "Kokugikan Arena",
+        "tournament": "Tokyo 2020 Olympic Games (69kg Welterweight)"
+      },
+      {
+        "label": "World",
+        "value": "Gold Medal",
+        "holder": "Lovlina Borgohain",
+        "date": "2023",
+        "venue": "New Delhi",
+        "tournament": "IBA Women's World Boxing Championships (75kg Middleweight)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Power",
+        "Defense",
+        "Footwork",
+        "Ring IQ"
+      ],
+      "values": [
+        75,
+        85,
+        80,
+        90
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Consistently medaled at major international championships since 2017, including Olympic, World, Asian, and Commonwealth Games."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2013",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Nation's Women's Junior Cup",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      },
+      {
+        "year": "2014",
+        "events": 2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2,
+        "tournament": "Nation's Women's Youth Cup",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2015",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Nation's Women's Youth Cup",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      },
+      {
+        "year": "2017",
+        "events": 2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2,
+        "tournament": "Asian Championships",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 4,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 2,
+        "tournament": "World Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 5,
+        "gold": 2,
+        "silver": 2,
+        "bronze": 1,
+        "tournament": "World Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2020",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Asian & Oceania Olympic Qualification Tournament",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 2,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2,
+        "tournament": "Tokyo Olympics",
+        "seasonBest": "Bronze",
+        "seasonAverage": "Bronze",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Asian Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "World Championships",
+        "seasonBest": "Gold",
+        "seasonAverage": "Gold",
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "tournament": "Commonwealth Games",
+        "seasonBest": "Silver",
+        "seasonAverage": "Silver",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFND558bvmFUVeofntmo-fNU27L92aWi2vZ7aodtvh0kohb3hL5QfeiZnII7DlP-1uzyg_6s7YVq7ooAzO4kIWBDKKelXHhYfGKpnKN_zJVPt1JIGm9XW2ufFAsa2bQIvRQ_dNz8JuKrqjz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTMziQC2g_LZq3ssRz1yLW41TJk4zJarpmrPHkp9a-u57jL5T0qzBrlmsB_B5upFGrCJKBdnG-BVl2frblLhQrwHY4ULIAfvyn6Kmck9qlJpx8KFmQNMY0dFhJUbnCtDMPOI3zbexkfePRtMKhMcWPHh7ky1eBCpu02gLop-qoeA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbMAkSc3_5iGKWMYnl6uqh2ob_UOTBRat27yhFIw5nQp9cWM2KsVFY92Nc72D6nWrZkbdsD6Fn0SnnVkCrpyk7t4CpkjunV0EnNXR-LYZw_XP4no2NnDqucIkfUOwjzAv8yHKjc_iILmSjpiHd-JW-0ZKhdu72exZqDHw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsT2c4XS0kMPJTgLh2fzV9TFbaYOOurMdpegpgJJmS7sj8QkbLFE66k7ApEx3oXtKatGjc4hvmvKMSu9QlTwREgVRdZK8YIeYbcCYWGr5thmCO-IqVNYdenIw98ln3_o2bcPIeVwk1Bj4UwDGL7HZA9w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1DmUElxJrp5525avAzE-IREEasbEs6zAfFC67yu3pkspqWEj9LiKU6j-kX6nP-cTmxlqwhh2IILDPHg8cWtJInb6--W0-BieEPrF-P2ftNI44CSSPtPUCuObYautwx9ytEb3I55uLhDDiVkhkTPLYL9orEV9HMq4S_A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF-r79yG5EzfKHMCYDDMhwIVhi9yXWnuj8irfGLHfi3qs_i5twDdOX30cKUyMN_dMZ7JmMFaG1U-tGzyZ493jk4xOt6QuG7KWDqSu_5kIaJ9AhAa4AWA8k4in100kqvRaSB2PIvL4sXHs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJAhefrr_2E1V6xEHISm8o_6kt1Z2rnORv5fWaCTfdGFa-RQ0P9GaSSxEJWZbSlZbWaCuuVdW5SPQQTJtt4fMaXO8l873t-_NbzqFaFZt31OGO4hOUuHqtI9rZYqEVqIa4A4NhzxacDsdu61ovK7jDplttIty4V3kHxILepZpa",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMO_eYNQoEiSl3acC4ZmvhZhR57fGs8v78SfTPSlzzmyVHTXs90s8xTjazicDWOWbAuqS3ht0QCv8zp_ckMxd9VkjF2cNm-1Frc-09vxxyeF8dB5uGLNTZ63Xs2xZdzBcPrMkqo0WRxcDe",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEevuK5DHqbkJK_exQSq_xgD8F6BSqZucxwHMYvbZ-utlxNYVkYY3dXmFYmoIUo7H1E0dLZRA65qCgfHKQIv90MPeHzfku4A6Om4RWh1BPrPX04aFvJAHYGpMkTiDX8w4AQmNcSGaT7Esq4m_5dJD3mOPz306XVo3Ba6Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZk0mxZkD5WNNvFMxFdSdrW92Rbz9NZxbcYasenB753aTLs1ZztjFKfv5XxxOdNQdM3jM21AyEOLGlZRRZhdmHt77xvx2IfYL0tDaR5NqYPjIKb1P-W-k_hid6OwkuvQZgmP6O0uwTXFVmeV_Q4Ts2",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSQW98HPo9h8wH6FO3MUX_wQmVLLhCre3eH8ROQ6XglrCWSljidyXfDG3SVuu8TLcnaQygt4v-lPr1G_5m232kTxvyku9RP0oPnbYoKRRc1yvynpWwbnry9quRAH99k2CuMgf1LIwn0j5QVpvq-b2PB8Jzr_fwnPJb",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYXcTfBCD6hqpvyO2bViHoMErGte7bN-BPrrhnLzv637FzT2Yy6ndBxyyGN5ZBJw8xEjbyY7-tpeekXXv-VcORZNw6Ye6y2pwJocEa910tbxsP7fYHwCyBoBYtInm0SVQ7MWOn9weTx-uF0h2DijbpM3lQtJyKNqYmOuAp6IUzPNhEw_DYB2ocnTdez8DkSK6RUxJ-kopWSjK9hhGI5uNkVz9XDoAKV27wn4E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLZ7K8OtmAP3G3E8nyy-6ypU1Lk09eo8xe87v2VQoqJ8_SF0UDt8PEcXJGpjmuEX4ZcZOkY7qxZEowAutUe_GuSja_abRGEONcIulU2ww7aPMyYbPaERnD6dz3FsBLYlVOpvtu7r5GfK_BpCUxnosZMNoPW9Pfaiw8Dmpuieiw9PIqhj5zcIrT9klkrxmaXic6xysBdhwDW_0YROTfKQhB_cdvoElL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpiiUm93I6MEc7HS80RgvXRNpVsHRiSfXaS834XuGG4N1vR1-iCZvvIJpwpz7a0Ao_3z0jQEyqsfLVunaFOctdVnPF-v9RNrf0xiwax8JrXDrLTSsfrv8Duiz10zWMkZQvWEPZtcHQ57df9ESc9RorI-LHU6Hua-jjb47V7KO63WGMdP10i2lXs2A08e27TJWRFNAsn4GFh7ngqcz8dwpokA2F",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg2Hamu-ieorY5DDxLzpdpqsIY2i8taMxz4qnentwTxcmNnJm-FHWXG0DvjdedjODrwGvkD1EYy6KEqVHWz80-fu_2hwAL6G6-zwQ3F8EQdKQUd8vRrqnTkQkgBjFwabzT_LpLNMnnPbGrlIsskzQUUzYBJO6PB0M0uKbE-rXC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeBs_AGz5aod-9WTVIhKOWPkaLStPLqDFUUxxQxoHaK51Zv0TYxkVUY1W8DtRPzPTMFON9UaiuGMiuQW-8Do737kJBzttwzq5nLvh1SwQVUX3CRVsgbjCTUxVvVVJP3ALFyxJ67u9TghE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPVVU-bNYOOp7LpGLbP5AETaaXBFNoRVfFqbBAshOCGW19vEIBY3PI7ECNkLBxbZDDZ4_nm3kEY2ccDT3Ho3a3_kbwuxlDOGasgMtcdZCHeQZ-T8Oo0XSOkLTVjr6KrRYcYavGCwWlRMJZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRMkLwuJEsNGwqcDFWI3Mp8jkf09KPYaVQYpqX38sBHxuj1HoKvZiVEmLFVw23h2t6QQFjwYaJQivqOz8AWu-ZII3J8DckksxpEnZfczj8wcoFsxaMqng6KhgI0fT_bMxuwwxtF0iPIfeKT6Y1doBd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1XRNd7WNSGD6Zn9x3-BSsqMR35TgyuIEm1Cv7gBN8ewmZcYAl3FGPdnYiPrNZWwWEMJR3XiIB0LJwPZk0KD9AGmHIdbpdgIkRbo50EPBW_NgwJSC82ojjLV8L7mgo3GgAGj0eJg0aGFtcBMzDfrqDllcRqqOzCRaHVJJxmfcQVhkDwcnhRERhvGbAWUU2NPn-IjnsdMhwk_JyzIMQurxV78NUDg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuTIvBCFETsAgsDlrDhMaQ6yBacuFoVUP5hoPWKXKdgHEimM-AfHc3BKkH0Zn5HZvWqVyO3FFR-AAfER80Um2lEb_yfiE_i75gmVZWQDe758kJhrujlv0jQqr6aLSf-v9XWCh2ua6fiQ3XngTsQyOn8V5IaFg8gB7YzfqU5Wcuk6OKsIthXZrirtln-k3LsYqmKj_aDUTZ91pRzZnp2GG3PIVcIorCxOPbieeddiW2VuMox8dpJs40tMU69OrtulZq8odooK43ng==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLKkZWbhMKWBNeCUHp2w1nzdbBNNHMRypP5JvcCchbk1fHBJVZHAaSuJU3uqNMAOWa2NCg9orEdDoMD47iunwsm2A85cjmGsh_xqplNu-DnI_1sQ1hH2KTSNkZzviGFPT5juEtIA9VGkojoxsEKdXTmOtZw_ZtbT966Nrq4jfFIrvvGwOy35UFrXk01i12dYyweFCM2iBXqcPROVtnlROTAeIGNaU1iKLOsxVJuxNqvTjt2Va6Ng5-PY13Fgn3XQ8xl8ws8Y_qmXcRu9QcnGbwem9k6F1rZw-w2MPHgl6jJzlzImI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8GGE23I52ZcLv6ymkoANpSjEyTgm-QFKrUQvDO895yoae1faa7-uApX-rlJhu3gBhR_dAX88g4B4Njbfc67bo6i__0LzY8VGazoyQmV3mk6w5cQpoETEk0DnMcVS8RYexpUuoXlsf3Rix3L1z6GKJr471P1pE7EbJMvNqIG0epashFN6gYKT4cBgUG-IVKw42hde-kjSIlEWkjiEZvcDLcXRFnkO6WO-rQkBDETuRLyHV87Ah2EArcY8_JXUJ0KdG3U8hR3dZ-wR87h4K-N_J4Wp1SjbvexHczpIdySfA",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4c0xTX6TeL3tSuwtx8EgjiwlCm99qTwluQkPrvyCQvZDmbVXqTFnMI4Zci3xHfQfQRqmVcRzXywDAAttRQ3bNAY2WdT2RJ5oq1_gJSDm87SHiP1PGkVrVFYky8dkM54xaLYWZ4N-PU72tqqordB8HPSbVa7BQ0pjmmzjOr7DihjksY_WZySKcte4fhCvs8Rf4pT6mD3ZAxdWMEpnwItZTmsoOEbdBZGz9aJs="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T19:05:51.746581+00:00"
+  },
+  "performance": {
+    "weightClass": "75kg",
+    "stance": "Orthodox",
+    "reachCm": null,
+    "heightAdvantageNote": null,
+    "tournament": "amateur",
+    "titles": [
+      "2023 IBA Women's World Boxing Championships Gold (Middleweight)",
+      "2022 Asian Championships Gold (Middleweight)",
+      "2020 Tokyo Olympics Bronze (Welterweight)",
+      "2023 Asian Games Silver (Middleweight)",
+      "2026 Commonwealth Games Silver (Middleweight)",
+      "2018 AIBA Women's World Boxing Championships Bronze (Welterweight)",
+      "2019 AIBA Women's World Boxing Championships Bronze (Welterweight)",
+      "2017 Asian Championships Bronze (Welterweight)",
+      "2021 Asian Championships Bronze (Welterweight)",
+      "2018 India Open International Boxing Tournament Gold (Welterweight)",
+      "2019 India Open International Boxing Tournament Silver",
+      "2019 3rd Elite Women's National Championship Gold",
+      "2018 2nd Elite Women's National Championship Silver"
+    ],
+    "recordStats": {
+      "wins": 33,
+      "losses": 22,
+      "draws": 1,
+      "knockouts": 0,
+      "noContests": null
+    },
+    "chartConfig": {
+      "primaryUnit": "wins",
+      "secondaryUnit": "knockouts"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.seasonalData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "performance.reachCm",
+        "record_highlight",
+        "analytics.seasonalData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

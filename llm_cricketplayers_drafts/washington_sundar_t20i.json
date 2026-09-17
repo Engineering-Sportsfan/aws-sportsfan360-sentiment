@@ -1,0 +1,166 @@
+{
+  "playerId": "washington_sundar",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "washington_sundar",
+    "name": "Washington Sundar",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "1999-10-05",
+    "birthPlace": "Chennai, Tamil Nadu, India",
+    "heightCm": 185,
+    "jerseyNo": "5",
+    "debutDate": "2017-12-24",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/2/23/Washington_Sundar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Washington Sundar is an Indian international cricketer known for his left-handed batting and right-arm off-spin bowling. Born on October 5, 1999, in Chennai, Tamil Nadu, he made his T20I debut for India on December 24, 2017, becoming the youngest Indian to do so at the time. An all-rounder, Sundar has been a key player for the national team, particularly noted for his economical bowling in the powerplay. He was part of the Indian squad that won the 2026 T20 World Cup and holds the personal record for best T20I bowling figures of 3/3.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "3/3",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Australia",
+    "venue": "Carrara Stadium, Queensland",
+    "date": "2025-11-06",
+    "aiInsight": "This record represents Washington Sundar's career-best T20I bowling performance, achieved in a match where he also completed 50 T20I wickets, significantly contributing to India's victory.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 62,
+      "innings": 25,
+      "runs": 279,
+      "average": 15.5,
+      "strikeRate": 126.8,
+      "hundreds": 0,
+      "fifties": 1,
+      "highScore": "50",
+      "ballsFaced": 220,
+      "fours": 21,
+      "sixes": 14,
+      "dismissals": 18,
+      "ducks": 5
+    },
+    "bowlingStats": {
+      "matches": 62,
+      "innings": 58,
+      "wickets": 51,
+      "average": 24.5,
+      "economy": 7.12,
+      "strikeRate": 20.7,
+      "bestBowling": "3/3",
+      "oversBowled": 175.5,
+      "ballsBowled": 1055,
+      "runsConceded": 1252,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 1
+    },
+    "seasonalData": [
+      {
+        "year": "2017",
+        "matches": 1,
+        "runs": 0,
+        "wickets": 1,
+        "average": 22.0
+      },
+      {
+        "year": "2018",
+        "matches": 6,
+        "runs": 0,
+        "wickets": 9,
+        "average": 16.3
+      },
+      {
+        "year": "2019",
+        "matches": 11,
+        "runs": 26,
+        "wickets": 5,
+        "average": 49.6
+      },
+      {
+        "year": "2020",
+        "matches": 7,
+        "runs": 14,
+        "wickets": 6,
+        "average": 32.5
+      },
+      {
+        "year": "2021",
+        "matches": 5,
+        "runs": 7,
+        "wickets": 4,
+        "average": 34.5
+      },
+      {
+        "year": "2022",
+        "matches": 1,
+        "runs": 0,
+        "wickets": 1,
+        "average": 24.0
+      },
+      {
+        "year": "2023",
+        "matches": 7,
+        "runs": 60,
+        "wickets": 5,
+        "average": 25.2
+      },
+      {
+        "year": "2024",
+        "matches": 12,
+        "runs": 54,
+        "wickets": 16,
+        "average": 12.8
+      },
+      {
+        "year": "2025",
+        "matches": 4,
+        "runs": 93,
+        "wickets": 4,
+        "average": 14.3
+      },
+      {
+        "year": "2026",
+        "matches": 4,
+        "runs": 25,
+        "wickets": 0,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvYigrUJlgR_Xt22sxlYYTKTv2n9S1Ldh9jKyd3YVy2XvHRytU9-jOHPYu4BsreqZjoxeeJLzm0fpRKhQykVvSdYOCr5Hrtlhu4ksSbJx6QneNAdj5rTP5FtdhdLT-WwNp5BwtqRwCEjai",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVnST7xTrFsNZEw6Qj8g9k9mS9VoHUNblTv4sa6eeB0ipqeZcMcI4LSEARlnsfMceL-Q_eT9e21OQtV1bAj1LB2DabRmbxjY0_QJPT5carlBOuoCrHU4EOXM7aIAbraNRyzBNCLZ71",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbgCy928UnR_6D-h5-FHIVL8NLTiKOlESwxmfNnOhrBLq7wT7UmkBH_Dq2ErYjXxhOZVoQCMY9T83GZJyXNwJmERIwb-8j0Ia717vsqrJ3UlUcW1J_ewLQySAVynanb7WM2FiyLTfNkv032gCzYycCpp-Sabt7W6J0dJ8GVJIV6zXhp8-vgOPq1PRRcI0yUckyTc8f0aU2F8zj9n7spaVVKL4pw1rZrQXDJOJx8wsyAUOAJ9sl0W20QSl8A7BKul5BkQwiIoNG-OckkUxwBYPM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj-CI-zGZR5yC4WibYluBZVyeidWwecLKz7S_fZ5rkNiAZ3OV8ppPdPTm9lmwHpYZLZ2RdGll21LKxiT9pYypB43ds_1XQXfATQgSCRzuk788oetwE-nOyGIxu8cySqg-RRjNeWU-LTeO1iO7kDexL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzoLO3bgc3Uwh-qJOb2GMaXTfzNcaCYDJUkNOhbJpkQ44fdMPEtqu0Nss-phFO37Y3z_UpWISGucEgsU-pyrjXQMEi1TQjLQdGPaNI4eb3je_GAO33Bi0wcFKBA2cmPtKPdwnq-ZaYnWOcIntGWuZ4OXlr8rPYFQvUQJAT3vY7bNuhAgPjqEX2vbqk6BJbAuyIl1kxQ3WQpGlaxXv-1jIAXuLiydbCYmoNL3Y1xNsZzdD595ABCuxaL9QskPTEVZdvh7e2u0Iq-BkQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWbZH2QFzklui9sJPxzLHzmR-2LxwMiwUD--kO9w_ChmCRSOIEMIlqtBlGMJkU3ESduBm5pN8gMf9Ign5vGalBrRcR8aS5aEgCuMILKv9dGcdrlfMjyfVDqTzkwwtqGUHTsJqw4P8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5lYzF7VAsnuktEzhJpoYX1kByQXSz5ATr9Cx6rcxznUoPQPJ9d56x_5GPEI0r3oUMyq3ydvCmTJ9yq54ZplkmloHM-2sqe39OaKP89Oco7AIBmkoE1kRz0pxoXQFkjHgIRLjHUnBXLCA-yNygHfkABbzQVi5qOZoAQsfbSeeOKZB6Qw_oYaCVcsnfg_gLG0pdSp42xdggxpyWQmEud7doVaJo4VfaJWjeIg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGraudOUXeopG77cpwWzwFoAcuHcVOtrfGzwXh6VtO_jiv33bNAvquULOp6FWz75rgGhl0yps1tU09AEE-wgZ287j1fyZqi5bv7Gl65kBS_gHpU5rqjdlycx73Q4IjxCUv0IC76_1I2GC9R6EUW_kGIxDvW1zbs4caSxuhjaESxW16dprKUUuep_EcIMAE1isQ95BKX-YrxFr27ykPXUIpuNfbOVncHYeqT1KJSXaqp5Qi1YD3vVw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGE02lrO5JioZpcb9ZCB_0jlk-qYktX1_QwVATYiFO_PiuGq4T2LzuEe-H3LqY2x4Sf-5Yc-9IJnWFElJ8KnVA_RUKjVCl1Er8EbFpHjRler2nIJ4EB8YGe4IFfG3eRmrqJLXOee_XxI5nUA5QyB635ueMmYk1_ZU6jEi6vLIpAc3ZSfCtCACb004gKoOnHNFdgK33Cbz0eNAzfdsiUTSwjRu8="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:22:48.169421+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "washington_sundar",
+    "washington",
+    "sundar",
+    "washington sundar",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

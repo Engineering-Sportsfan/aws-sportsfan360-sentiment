@@ -1,0 +1,126 @@
+{
+  "playerId": "radha_yadav",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": "Royal Challengers Bengaluru",
+  "coreInfo": {
+    "playerId": "radha_yadav",
+    "name": "Radha Yadav",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "dateOfBirth": "2000-04-21",
+    "birthPlace": "Mumbai, Maharashtra, India",
+    "heightCm": 167,
+    "jerseyNo": "21",
+    "debutDate": "2023-03-05",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/e/e9/2021%E2%80%9322_WBBL_MR_v_SS_21-10-30_Yadav_%2802%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Radha Yadav is an Indian cricketer known for her slow left-arm orthodox bowling and exceptional fielding. Born prematurely in Mumbai, she overcame humble beginnings, with her talent spotted by coach Prafful Naik at a young age. She later moved to Baroda to further her cricketing career. In the Women's Premier League (WPL), the equivalent of the IPL for women, she has played for Delhi Capitals and Royal Challengers Bengaluru, making her debut on March 5, 2023. She is recognized for her accurate wicket-to-wicket bowling and has also shown significant improvement in her batting, contributing crucial runs in the lower order.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "66 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Gujarat Giants",
+    "venue": "DY Patil Stadium",
+    "date": "2026-01-16",
+    "aiInsight": "This maiden WPL fifty was a career-defining moment for Radha Yadav, showcasing her evolving batting prowess. Her innings rescued Royal Challengers Bengaluru from a precarious position of 43/4, demonstrating her ability to perform under pressure and contribute significantly with the bat. This performance was crucial in the 2026 WPL season, where she later hit winning runs to secure RCB's second title.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 29,
+      "innings": null,
+      "runs": 188,
+      "average": 17.09,
+      "strikeRate": 142.42,
+      "hundreds": 0,
+      "fifties": 1,
+      "highScore": "66",
+      "ballsFaced": 132,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 29,
+      "innings": 27,
+      "wickets": 16,
+      "average": 33.38,
+      "economy": 7.63,
+      "strikeRate": 26.25,
+      "bestBowling": "4/20",
+      "oversBowled": 70,
+      "ballsBowled": 420,
+      "runsConceded": null,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "matches": 9,
+        "runs": 114,
+        "wickets": 2,
+        "average": 22.8
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7g33Wo-fKNH_3LRF7Y_dem2FDXRh9oXV0vBAOVZZp6YtFLf1KMbJqR-0pkU4Ams8Xntmmw8crbI8S6gGEb5Yb2qMbf8j4Jq94CspDYKA3iApWfP9pkNya858ENLaNNzZ73gKL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV1sbKbqFfegSO-mC0QL2aDT-23AcItxCu3Xwp-OlXQzHF8WrF_39ED8ypd2BWQw63B8dMxN9YXKsDbKCTb48AebzrIxx9msfYpcDnOCAk1psqm0RZPysURDd_CR2Zfnc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESWDCdBgtL38TsnTw3Lryfz_pQ6GnwOf_1OfZnnl6zPp0siqHIZDPpcxgcKimTK9rXKp04OYPDTFej3sXPwANSgEsedWJbwfgMs5u3_8r6pulHEG7PhWTJxNt-YdsNlstU5Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbvPEjdXscKfBSkSaiZ5sA7gHthX50giCItV4AeXQ1kShCAxWFBapY-xRUqHOh934-Tok1PLYqHfqLesEk3wo5EABecRP0AHXWgMKK7HOUAh-oNyQp5PAlVS5wBwqk4pPCdC64OsIvAfTFTNPJSWZxDw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi31pldOTlRZ_j_f12jMQwxzdAHidpYY8itBOSpX2aEYAAueIAyRgqSqMvK_TTrwHrwX1WuQKNpAkne_TVawhhLVz_PG1Q4Bx2BvhrL7GfoXQ8RJDNTLm2avyw-kZyGKXrzVFUpTsj45La8pUxWSSBSStU48lMoaazGFB4RlovrnWBCPOF2dsNHSXohObWnEM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDq9BeVl3SBreStYHZj9hPil8MJoW7pShqaVlOR1hmrGKCkvz60KHZEjWGHHq6yaIWFJPukaAV1InpMA6_UOFmDuHz7jbkCvSqx0HG0zV_qIPGVE1FLTIi2H_0YOAW7cXR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH--Ne9VH3jkXOachNArq60E3vZxlIRUJG45TqsBTIH-BLAw0a6i5Ph-DfXA7pGCmwP0FDLm7Yv0sQQyImosEwpHxv2Q3pFPjMBWPy81Fgc2yjN8PRKMJsD_-r9i_s-aBDAm2lGjeB_aI2BBkZDGuXfhaobSPlfswirEdok5mDwLn-WucgKpHV7dtgvqcv_mXlqZA831dAFXY826TnoXtpTi4htyHOA6fTDa9Jxix7VZU34i750umutFAY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSEHc42S4DKtaJhiRY42NQ1yawYupmhsfHh4GKAO8w7oPc93WiXzjso0UMHcAxWgKJV7PhBX9RRf0Nu3m9fpA9GeU-NrOVw7R9lbXiUlkHgkPKwf2U79OZ42eO6WpHzljXV0-5jZIMXFyXjxfxYxuFQvJwfg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn2fAJrrXWtxdmgdGxmbLriqXLHqwFieSoQiJs8CXrN0CnMWqgX-UHirfwcPPPEksgNoEZg5HF_wyEABH2Sha33cRFR0iKZ5B9Uqzjue2w6JuXDufOW8qnZvDU6n8a5xOaGzwTlEEdQA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9LOc31INymNz_h_o_llC7bLdcJV1olN3hYaEIAWqjfsHFLXYx4nq_f4QBSAS4v4m2UUD8q_j7-KQ7Do5Vk5rHBvnRrsyEdxYYGAAY9YE6cqAimtKQRmCuBNPPFlggnNUqM-BGaLNnuH0gn-PVNGphnuXrSWhlJ8xLM9S75kpkvrRVkGl5TOBUCiyBwlztfNeln1pyHBys4CPuaj68PfHD7DAsghVarIPFCyQ="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:54:01.863334+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "radha_yadav",
+    "radha",
+    "yadav",
+    "radha yadav",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

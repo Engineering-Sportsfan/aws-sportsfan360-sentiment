@@ -1,0 +1,189 @@
+{
+  "playerId": "kamindu_mendis",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "kamindu_mendis",
+    "name": "Kamindu Mendis",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Slow left-arm orthodox, Right-arm off break",
+    "dateOfBirth": "1998-09-30",
+    "birthPlace": "Galle, Sri Lanka",
+    "heightCm": 175.0,
+    "jerseyNo": "84",
+    "debutDate": "2022-07-08",
+    "profileImage": null,
+    "bio": "Kamindu Mendis is a Sri Lankan all-rounder known for his unique ambidextrous bowling, capable of delivering both slow left-arm orthodox and right-arm off-break. He made his Test debut on July 8, 2022, against Australia, scoring a maiden fifty. In March 2024, he became the first batter in Test history to score centuries in both innings of a match while batting at number 7 or lower. Mendis also holds the world record for scoring fifty-plus in each of his first eight Test matches."
+  },
+  "record_highlight": {
+    "category": "Twin Centuries in a Test Match Batting at No. 7 or Lower",
+    "result": "102 & 164 runs",
+    "type": "WR",
+    "typeFull": "World Record",
+    "opponent": "Bangladesh",
+    "venue": "Sylhet",
+    "date": "March 2024",
+    "aiInsight": "Kamindu Mendis became the first player in Test cricket history to score centuries in both innings of a match while batting at number 7 or lower, demonstrating exceptional lower-order batting prowess.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 61.0,
+        "event": "vs Australia, Galle"
+      },
+      {
+        "year": "2024",
+        "value": 102.0,
+        "event": "vs Bangladesh"
+      },
+      {
+        "year": "2024",
+        "value": 164.0,
+        "event": "vs Bangladesh"
+      },
+      {
+        "year": "2024",
+        "value": 92.0,
+        "event": "vs Bangladesh"
+      },
+      {
+        "year": "2024",
+        "value": 113.0,
+        "event": "vs England"
+      },
+      {
+        "year": "2024",
+        "value": 74.0,
+        "event": "vs England"
+      },
+      {
+        "year": "2024",
+        "value": 64.0,
+        "event": "vs England"
+      },
+      {
+        "year": "2024",
+        "value": 51.0,
+        "event": "vs New Zealand, Galle"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "102 & 164 runs",
+        "holder": "Kamindu Mendis",
+        "date": "March 2024",
+        "venue": "Sylhet"
+      },
+      {
+        "label": "National",
+        "value": "102 & 164 runs",
+        "holder": "Kamindu Mendis",
+        "date": "March 2024",
+        "venue": "Sylhet"
+      },
+      {
+        "label": "World",
+        "value": "102 & 164 runs",
+        "holder": "Kamindu Mendis",
+        "date": "March 2024",
+        "venue": "Sylhet"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 16,
+      "innings": 28,
+      "runs": 1453,
+      "average": 58.12,
+      "strikeRate": 58.12,
+      "hundreds": 5,
+      "fifties": 6,
+      "highScore": "182*"
+    },
+    "bowlingStats": {
+      "matches": 16,
+      "innings": 8,
+      "wickets": 3,
+      "average": 52.67,
+      "economy": 5.27,
+      "strikeRate": 60.0,
+      "bestBowling": "3/32"
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": 1,
+        "runs": 61,
+        "wickets": 0,
+        "average": 61.0
+      },
+      {
+        "year": "2023",
+        "matches": 0,
+        "runs": 0,
+        "wickets": 0,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": 8,
+        "runs": 1049,
+        "wickets": 3,
+        "average": 74.9
+      },
+      {
+        "year": "2025",
+        "matches": 4,
+        "runs": 206,
+        "wickets": 0,
+        "average": 34.3
+      },
+      {
+        "year": "2026",
+        "matches": 3,
+        "runs": 137,
+        "wickets": 0,
+        "average": 34.3
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWmTdbB0itJQWnVYT0HG7hvnwnijPgPpyeFCQ1gWco0MkB3YV2X5Z-cxTXTWfcwQI6-uXLzIYRgOVKfxWbtPddX0I9ZCyIaLW6jjpx46lNhRm5D9gU2sGoBKE9Jf-5fJemue5mWIM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5yyc7YnTifwfVqCvDqej9mK8ZkiWVqd-ehXIdmFs_e57Qj_2Ba7fI8Fmk1jTFBf7ZpDnHx6Gf92Y5SDM5srRu-yoVLavsAKpL9LEMQb4XOuRknSuZeSYrHA8-NFA8do_X7k3s8nn7",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUnmPRDUXbSx-9JtCr41dV5IpKKuTCKN0X77OVa7xac-uLqY4uhrTl13vwuIxPaLmBUA1NOCaBDFX9aWJG-2xLJgNMIFxj3UGnEI1A-5t3HvTEUQ9IsJO9uSkaO2UdCUaE8jt_FoAnRw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSsdF0AgxFnW_McdA4USf_VCo9SxUbqai45c92V1e2L6hIUjsCo-5YhlV-HYTagvSO_TUSf38NWZPAJs0PVfhGI6JXOO0ZIYIE3orPo4rEL46vtDMmLowkWaYIQNkvKFKpC_g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA2VfAOUVdooI2uCgzQ1_hCfUyAqZVHssjkeo0oTaHV71UL4JdjrqnVXsSuYArSf1N9270iXaURLXCZU6sf2eF3COFvp6pG67GoVBlqF8jHUNSUCdkOB78uLURkctjDq9RY4GuRKd0SY4GCbAsAfeUa7eQc2M2qlZGW0L5c8WP88uNZDEMsZHdAyAry4oNdA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxPdHzKmdbxpEswGR5BunjMgGOrRrQN1PDlZ2PAj1RKiIWRbJD8d7WuDTctc52CSxBa6JaQ_f4TbfaKAfej3iRkMfpHK3ll95VZA3NngX3g2XfPRnaFxA3vbQs5v3stTHiK5pecJqdcsboalORMXr5yiHe",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3Gf7vwdoQPCB9vPYS474YcQiJqYV1eWqVchGqLF-zu70W8QYbXMd9sEDcZWyYsqa7p4qpF4bJeE43K_KegsGOoDvtwy8TFUWpvfmw1YtnGZO90j0PNMxJgtQ8SjLVXgIeXCo3TER2825_fu9H7YGLEQDUI8V0H6HC3F9EjeMjyeFYhm29",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZUA6TxtNt6YnPsxZzYqwvJHt8K9jW6UBskNph7ZE2j1ghCxlVVDudbcrqal-yW9ZZD0uYk6lhd8JolpFq35yvPaFuCyc4dDqRV9Nv5q26JyirJHwUYw1VXpj7irfEz-wfpgY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTnaPmPMt1gQwO9FPUZNv21fX79KgbLzlY4cmzfao4JUOIhBeTtnwtQ0Hs6WjLctptimbxFqZjWZ_iC9jV2UL5GpFVf6IXtr18iDpzJS-0SNHDf6tvnToUBP8oHRNmZhtiGQCPZC7YHjD6i1874CflOEd6V5smmPgeCUuofpi9VuCs7gt8MvhmB4zH-4H3n2Iy_FH-LGenA7PIRTQZ8M6aNx8OM6gNfAQ8wL9Sw4VmqVwjbv2EZP9fxBIsjQ6q031pwtDKzg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_uT9gmZ-7v9rI5-OzA1sUvFmp_QB6Eu5edGj2M09IAKYKjMRAJzt5prn-oC-a81c9UtJSeJcDRK0srFeZwUiHN6myyd2BpETF7cPNyykoT54NMBECHRIaYvCblkmfWb4GeJpgs55FGOSqJJj40aPi-ed-XfQEY49-Ytx0oveaLbpiHFG-76iRWjKJDR-m0LOfuJPdz4M0WsH36nRatkdPqIVKdXeXWAyWyKZTcpb6yKroFd1S3WW540_0KyRRwQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_fC31uq6mWw4yr3HgacVECZNubsq6mDz3AEs16mM0Zm_Z7qer0_aU_RNHH1gCBg9qU6Rb4Ac-D1m7NMit6k1_ydnncIOoiW66PQy6bWeFt1L1lkSTeRHAE1zVYgnyqjiJ2HAbCa8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1w4lLvwnKsMhY645gFC4DNZtj9qxTkluwxUGQ4Q0v8Ycskdl9q36kyNhmxMWSiteBSzP4ADCDTrmKca917ykzFu72ga6GyaU1QUFGm68DoTDh4XVcBcSOTELkN7QVbvfMG5fMQUxEfn0UV5cYpgmLIt8qHQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-bGUi2DyzhUzn4IAI_q86sUZygS2_lYoQ8tIGa6-F4rlsantTbVcimDUosODoioUQstF-8Ctrqan6cYF2nNjetaZ4TLKvt3xOVG8J7AY0aSgBSj_cgtUJZW5_c2O-C5-v2p_u8AC6cjRPun0aUQo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFib7dz5Rs-ieWn8hJSSO6tllGYw24J08_QgwUoU3dPeR7mVuHjq8dMopXlSzoH4rOkfRu_e2BmPspEdYM6XBm4em8v-a2_TWPhBERzljPGAdOALE30V1dMK-afWbKQAkNJE23hZ3rj7pdEI6u5X-n7Fdc9gwnJ1ua5xdBZaN89HKhMC97cg2g_8uEEvsKDWMbGy6PhLmXsC9KyxpuUHXN-WnBsNJ18I3yeQCQNKh7oz5Bx_RN0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqIUV_UTRBNi9m_5xe2XDUtZXxybAgBZA_6gcifgyeRfuXmZ5ssSMA1J2quS6h5k4bqTK5rwOL8Enox51aK_zZHyH9QtewOSG-N34uNEOM2pTHdWnqsvPawx_M6q2gnPjyC7oCNYCwO3bL6cpSIZMqzsYKhpRC_qkqTCYMEEhPRUnAI6YFvWLWlZBGLBdmjBh8N5bNpCBeOopiid2tvNyNUlTA2d4BB9BwYv4Fpu7UqfKhfyp97mr2-9lCcAlTiTKtUcKJug==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSrf7zDJnjRhBbGeRvfrNiGVhcnOoJbkAJV935YuOiWGDNI9VxY2e3UD5Gd2LTY0ioHLxYWqlupLOCTdESEcRZd3-7QsbslCUIwIrO_4aKLCY719IDcvfwRB0cEW6zcSbCgia7nSdER4g6qbmnnqzcyI8PhTa3BtsMdtyfmsaDqwtrqESlcAN0kbMvecuiE2dViZhIQGtXc0nO9jhCkaVDwiFBgiYiwsIOR-LjvMzR6CHb5LmFErhgasafCmpT_WkuRBA0h5vZK-xM3ivJNYCjBOJPw73p6xWMDbY="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-14T17:45:10.075476+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight.progressData"
+      ],
+      "filled": [
+        "record_highlight.progressData"
+      ]
+    }
+  ]
+}

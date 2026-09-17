@@ -1,0 +1,168 @@
+{
+  "playerId": "shreyas_iyer",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "shreyas_iyer",
+    "name": "Shreyas Iyer",
+    "country": "India",
+    "flag": "IN",
+    "role": "Middle-order batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm leg break",
+    "dateOfBirth": "1994-12-06",
+    "birthPlace": "Chembur, Mumbai, Maharashtra, India",
+    "heightCm": null,
+    "jerseyNo": "96",
+    "debutDate": "2017-11-01",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Shreyas_Iyer_snapped_at_the_airport_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Shreyas Santosh Iyer, born on December 6, 1994, in Chembur, Mumbai, India, is an Indian international cricketer. A right-handed middle-order batter, he made his T20I debut for India on November 1, 2017, against New Zealand. He has captained India in T20Is and is known for his elegant and powerful strokeplay. He also captains Mumbai in domestic cricket and the Punjab Kings in the IPL.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "80 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England",
+    "venue": "County Ground, Bristol",
+    "date": "2026-07-09",
+    "aiInsight": "This innings was crucial as Iyer, captaining the side, rescued India from an early collapse, demonstrating his ability to anchor the innings and accelerate in the death overs. It also marked him as the first Indian T20I captain to score a fifty on English soil.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 61,
+      "innings": 57,
+      "runs": 1415,
+      "average": 32.16,
+      "strikeRate": 138.05,
+      "hundreds": 0,
+      "fifties": 10,
+      "highScore": "80",
+      "ballsFaced": 1025,
+      "fours": 118,
+      "sixes": 51,
+      "dismissals": 44,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 61,
+      "innings": 1,
+      "wickets": 0,
+      "average": null,
+      "economy": 6.0,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": 0.2,
+      "ballsBowled": 2,
+      "runsConceded": 2,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2017",
+        "matches": null,
+        "runs": 83,
+        "wickets": null,
+        "average": 16.6
+      },
+      {
+        "year": "2019",
+        "matches": null,
+        "runs": 143,
+        "wickets": null,
+        "average": 28.6
+      },
+      {
+        "year": "2020",
+        "matches": null,
+        "runs": 203,
+        "wickets": null,
+        "average": 33.8
+      },
+      {
+        "year": "2021",
+        "matches": null,
+        "runs": 151,
+        "wickets": null,
+        "average": 30.2
+      },
+      {
+        "year": "2022",
+        "matches": null,
+        "runs": 459,
+        "wickets": null,
+        "average": 35.3
+      },
+      {
+        "year": "2023",
+        "matches": null,
+        "runs": 61,
+        "wickets": null,
+        "average": 30.5
+      },
+      {
+        "year": "2026",
+        "matches": null,
+        "runs": 311,
+        "wickets": null,
+        "average": 38.9
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUdC1CfUNhkqq0Fy-Sp_OsOMfX_bv5T6ZSxPP9mUgiv_Zz_SMp66UibVWjqNuhmqrKjgu4QlVDSipqn8x8Usgi04ocD5r0j99lTqGci4UINweobODYqt5YAbKT9p4NJJgsdgcHSA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuOqQ2KealhwCtRkEiFLefBL_KFaxxrXsTqgidYNVOcn3W01tooWA95kjBvpnV_wE_uYQ5GrIUH7YO0vNINsGLuQzUXrNXe9e9x2u-t5lX-dOLYM16F19aaXOyYeUuHYwhuzQ2xudw-2j0dJtFb4hb6QPRoDGHoyhKdweoSkF3Yw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwx9mXhUdCfJ9RkSBOxHMWl55UkqdbTUVTzl_pUSk1pqsUg2HZRYp-U1ulSxbUdUV-XvmF9h5hf3UP7uLndq4bSqVxUtp1XZ7P3eLQ8Ib-zJR5CowRK6DXKjyh9WwCDn7urQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE70q8ArTVgEhk5F_yU4w3ItDZKdBIuV6mP8HdUsBov8ufAsvRAQODLgQeggmh1UrtnlsT2gBy9E2d-AWGmHESwlyRhLjKmh7ieFd--HE0oEnoVwLv57ItcSjzylVGG0jKp",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVoo2E80Coaki9exux-7fm9pxeYRhIBQJ_0IprvInxua_U1mkp2oFi4lbLz-dziSi0xcd5CT_5TT7PgixANv9vK4Wtuu5iAf1PZnJZu68mgm5uP13RCNv-HNLNq14jsdrrdSSOSq3jGGrHMU-462d6PyVB5g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaAO_fsIt3-Cv84G-DGFNBLccGDaKLDwfL2Ct_ASKFuRzdarms42OSZrKAUCCKyaH9XbKLHKNYz1MNBMqqIq9bXxdZc6Nc0GNf7uRp0hJLnVrUga9bOKlFQmud6FWQVLsicoEPG_A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEbZwpg4lSKEvLRs62bpWWyUrVmClF3KaBZYcXrhZ5K-Pdu74fSq_L9q2fcJyY9DEMBAKDUu3brvzMN_mpFGmkbcA9zQp_zR2tfNBkUr4t_eZmCps_0010-T2k6zDA65rYGl9zFRtClHLnxmJ93s7QIR2h8m7124SUs3dPq-n8mDpsiC8vphXnYdsR3SR0z_SrvHKNANVHkRrKP7i1b5uv-8m-CA2GtVhQwv4MbKJpasuL0KvWZ0wR49cZ7esA2Wq5sZxgD4n44i4WQPgCL6er8XPxVUQiQUbUesIJX3dOpIT5q_Q_Q8JmtHQTgUdu",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGII0JIAKkbcuBm5IZLjZ15mKgHdXllI70inzx03zHSprOGFiL59PaB-r7wsGFa2TPWzJIF92uuVLIVCyWReU6IdP6OYPUXDN3ZUu3i4PZ-o6g2Cucj6fyIG4nIYmq3vbZcvX9uQPwRoCMkEXyyWamuohtoC8RbQ5P8iy-HbfxGv5-Q3NwUf9NuquJXL7tylKfx4830pTBZeFUybvq85sRgmuv2-cNeOTIU8CNhJP5tjnTbu8yYmDtDXDA6PmGQzzVgWfOlE6ojzHoRiNWa3WmZLbJFtAO1_Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuu4O76mHsKYD-NcBT086IAPkhKSzWCcB1ceKj2MjgLYJ55d46tv8gyQ-m-n6W5bma3ESJAi9Di0ehQFRgvJFXXNQmWcCji4YcZ8x_xC9aOvitsaYAPWepPtMW9r4_PcdTrxA5VroiIjh0AXnX4gfiwVcbZViGaAIyInVQsZBJDijAYKsqGnh7UbTKM4zmWzcQbNU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2k78t2-LQ2_QLTjaLvi1EHNxj8kVUh854NLMKHjWtPOpZqfQHIoDGVh8icqvvikE4s5CoRb6Pwc7CZMKVLqZJt6s16PdRzROa-7YLpI-iCcoRLcbOTPSgAypx-ee8BIRjLA4_7goEnkvuGjswYBcNxR_OgPAhJQulGuCB79Rvjmga79AcU1IV8FtwBdyuE7vozQqcN_yGUJjxIv4lc62IxmmqWsoQfw7AY-0CYZLJO-M="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:17:56.520372+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "shreyas_iyer",
+    "shreyas",
+    "iyer",
+    "shreyas iyer",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

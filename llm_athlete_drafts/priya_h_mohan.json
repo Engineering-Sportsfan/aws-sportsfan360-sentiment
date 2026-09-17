@@ -1,0 +1,339 @@
+{
+  "athlete_id": "priya_h_mohan",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Priya H Mohan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2003-03-15",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14873479.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=NQ0uQnA_aUI",
+    "bio": "Priya H Mohan is an Indian sprinter specializing in the 400m. She won a bronze medal in the mixed 4x400m relay at the U-20 World Athletics Championships in 2021. She also holds the national U20 record in the mixed 4x400m relay and the 4x400m relay. Mohan has consistently improved her personal bests in the 400m, aiming to break the 50-second barrier.",
+    "birthplace": "Karnataka",
+    "coachName": "Arjun Ajay",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": "400m",
+    "result": "52.37s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2022-03-23",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Priya H Mohan's personal best of 52.37s in the 400m demonstrates her significant progress in the event. This time was achieved in March 2022, showcasing her continuous improvement. Her consistent performance and dedication have positioned her as a promising talent in Indian athletics, with aspirations to break the 50-second barrier.",
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 57.81
+      },
+      {
+        "year": "2019",
+        "value": 53.62
+      },
+      {
+        "year": "2021",
+        "value": 52.77
+      },
+      {
+        "year": "2022",
+        "value": 52.37
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "50.79s",
+        "holder": "Hima Das",
+        "date": "2018-08-26",
+        "venue": "Jakarta",
+        "tournament": "Kladno Memorial"
+      },
+      {
+        "label": "Olympic",
+        "value": "48.17s",
+        "holder": "Marie-Jos\u00e9 P\u00e9rec",
+        "date": "1996-07-29",
+        "venue": "Atlanta",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "47.60s",
+        "holder": "Marita Koch",
+        "date": "1985-10-06",
+        "venue": "Canberra",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "52.37s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Sprint",
+    "achievementLabel": "World U20 Championships Bronze Medallist",
+    "stats": {
+      "worldRank": "511",
+      "personalBest": "52.37s",
+      "bestYear": "2022",
+      "totalGold": null,
+      "totalSilver": null,
+      "totalBronze": 2,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2018",
+        "event": "400m",
+        "value": 57.81,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "400m",
+        "value": 53.62,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "400m",
+        "value": 52.77,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "400m",
+        "value": 52.37,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2019",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 52.77,
+        "seasonAverage": 52.77,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 2,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 52.37,
+        "seasonAverage": 52.65,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "52.3s-52.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": true
+      },
+      {
+        "range": "52.6s-52.8s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": true
+      },
+      {
+        "range": "52.9s-53.1s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "53.2s-53.4s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Priya H Mohan has shown consistent improvement in her 400m timings, with multiple performances in the 52-second range.",
+    "peakZoneLabel": "52.3s-52.8s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2021": {
+            "value": "3:20.60",
+            "holder": "India (Mixed 4x400m Relay)",
+            "date": "2021-08-21",
+            "venue": "Nairobi",
+            "tournament/meet": "World Athletics U20 Championships"
+          },
+          "2022": {
+            "value": "3:17.76",
+            "holder": "India (Mixed 4x400m Relay)",
+            "date": "2022-08-02",
+            "venue": "Cali",
+            "tournament/meet": "World U20 Championships"
+          }
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2021": {
+            "value": "53.29s",
+            "holder": "Priya H Mohan",
+            "date": null,
+            "venue": null,
+            "tournament/meet": "National Championships"
+          }
+        }
+      }
+    ],
+    "beforeCoach": "1:03.50s",
+    "afterCoach": "57.81s",
+    "coachImprovement": null,
+    "coachJoinYear": 2018,
+    "coachImpactData": [
+      {
+        "year": 2018,
+        "value": 1.035,
+        "period": "before"
+      },
+      {
+        "year": 2018,
+        "value": 0.5781,
+        "period": "after"
+      },
+      {
+        "year": 2019,
+        "value": 0.5362,
+        "period": "after"
+      },
+      {
+        "year": 2021,
+        "value": 0.5277,
+        "period": "after"
+      },
+      {
+        "year": 2022,
+        "value": 0.5237,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpipuaZtfLimZbVYrtCCff5hw10mRMhXscStzYdAdEs7-3O1jk5PYqddEd2B_W-dud04LAnvSkYH_S8DIEa8HdyWjLWqVU9crhHtWrrw8JgCBK8GLdKhbzJGLpX0SxPYWY5Uw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkdkaqVmBgdL9bVayOIfff2qMfmc5qaQbq0r_Ce8NKk2fmNZ1p3ihPoJOjm2wlANCsBlqMCDAzUHgBYsTPzoV4SGrabqk8gCpl3FH1bZkAmoOfU48WnxQkcse2E8I_wUxRNzj0tw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqCVIR_bPcjRL-EP3IHrN3eIbMcwnDP7RwpXtVUgenez947ZrzMZKNPuDnwymeNeziljm-TUCDiDniLvbJ6XxEDzRsuRGm661eA5f1KZ-4r0dtlhBSpQqNjikhipMW51z56gXR2w8p53yFSf9FXjoa3O_mdG-I2II=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMFwIjk_Gdjl49o8WS0lGhFJj0WUhE10LxSp7Yn9xerrcRtLAEj6fW-EbCpA6ZzeE10O6Jm3Xxouck7lQ6Q73Uud3vpuS0mV4De75GsA5UyBMWujnNFB4p9ivfCflK0KOJ2o5t_K2zy-Z3io2AUAKljjgQx1_TllYe5S-PwwNW4CS7wSpgjEZ8TVK-FU-Nbexk42xBSxr4ei9wUowwMBduiWxV9RY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2NZlAJAPw46540i9to4pIUP8lzSqkqATtve1BhHlxijA63e3iO0vPr4xToHXNQdE7szAgc1_WcqdaHh2hxNeZvTuz6zuP5qZY8UKbysyYrqdp3JcP1J_6-5JDk38hSq5WsVXEsYVCrHUjfEIE7Wv-lnJXEsulfSd1PdblPdtg36Ti-9Qh9WoQGVzF7oMqDqyC1qlr0fKHo6ZRUbODtdfYD9z6BQAiwIEf3FYu5UVK70ZaJJqae8RtBbPNvwoHCVnDlNZWCnJAPHSB3Iv7NA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoeDjRMocGidssZNrnmpI29nTqwILK0tZ_KVA1kjJbw3mD5u66QYlK8LmcLiNlSXdhxgpObhwtelM5WbJc2l0QPQWmkvpW0R5WwdH0vgkojX9EuW9dMCPSd-ByqlkiYLeNWzz__5gf1Y0ncvJwjimCsxV6pViBtuAcXdw_GZwZ0qPP7YB_krEgX2qRkXpB34m0nXw_YGFb7jc0LtS0K5v3jrj7Zq5SE8f5ZPg6YZKkMIi-DAmRjir8B7kdadnfUu2anqJfBNk7MeLUOxwZSWTGCEPZjgDxdkvwjRR6JySCazRwBJPgNI1l"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-09T06:02:00.836673+00:00"
+  },
+  "performance": {
+    "primaryEvent": "400m",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Mixed 4x400m Relay",
+        "medal": "SILVER",
+        "category": "World Junior Championships"
+      },
+      {
+        "event": "Mixed 4x400m Relay",
+        "medal": "BRONZE",
+        "category": "World U20 Championships"
+      },
+      {
+        "event": "Medley relay",
+        "medal": "SILVER",
+        "category": "Asian Youth Athletics Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "52.37s",
+      "seasonBest": null
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        50.0,
+        55.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

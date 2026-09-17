@@ -1,0 +1,329 @@
+{
+  "athlete_id": "nandhini_kongan",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Nandhini Kongan",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1999-07-13",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/LATUcNS0dFs?si=2RS24yE1cWmjoo89",
+    "bio": "Nandhini Kongan is an Indian sprinter specializing in hurdles. She holds the Indian national record for the 100m hurdles with a personal best of 12.78 seconds. She also holds the national record for the 60m hurdles (8.04s) and won gold at the 2024 Asian Indoor Athletics Championships. Kongan made her Olympic debut at the Paris 2024 Games, becoming the first Indian woman to compete in the 100m hurdles at the Olympics.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "100m Hurdles",
+    "result": "12.78s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2024-05-01",
+    "city": "Kuortane",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Nandhini Kongan's national record of 12.78s in the 100m hurdles demonstrates her significant progress and dominance in Indian athletics. This achievement not only solidifies her position as a top hurdler in the country but also highlights her potential on the international stage. Her consistent breaking of national records in both 60m and 100m hurdles underscores her dedication and talent in the sport.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 12.78
+      },
+      {
+        "year": "2025",
+        "value": 12.96
+      },
+      {
+        "year": "2026",
+        "value": 13.22
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "12.78s",
+        "holder": "Nandhini Kongan",
+        "date": "2024-05-01",
+        "venue": "Motonet GP",
+        "tournament": "Motonet GP"
+      },
+      {
+        "label": "Olympic",
+        "value": "12.20s",
+        "holder": "Sydney McLaughlin-Levrone",
+        "date": "2024-08-08",
+        "venue": "Stade de France",
+        "tournament": "Paris 2024 Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "12.12s",
+        "holder": "Tobi Amusan",
+        "date": "2022-07-24",
+        "venue": "Hayward Field, Eugene, OR",
+        "tournament": "World Athletics Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "12.78s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "100m Hurdles",
+    "achievementLabel": "National Record Holder",
+    "stats": {
+      "worldRank": "175",
+      "personalBest": "12.78s",
+      "bestYear": "2024",
+      "totalGold": 3,
+      "totalSilver": 1,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2024",
+        "event": "100m Hurdles",
+        "value": 12.78,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2025",
+        "event": "100m Hurdles",
+        "value": 12.96,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "100m Hurdles",
+        "value": 13.22,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2022",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 12.78,
+        "seasonAverage": 12.78,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 12.96,
+        "seasonAverage": 12.96,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 1,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 13.22,
+        "seasonAverage": 13.22,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "12.70s-12.80s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      },
+      {
+        "range": "12.81s-12.90s",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "12.91s-13.00s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      },
+      {
+        "range": "13.01s-13.10s",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "13.11s-13.20s",
+        "count": 0,
+        "throws": null,
+        "percentage": 0.0,
+        "peak": false
+      },
+      {
+        "range": "13.21s-13.30s",
+        "count": 1,
+        "throws": null,
+        "percentage": 33.0,
+        "peak": true
+      }
+    ],
+    "consistencyNote": "Nandhini Kongan has shown strong consistency, with her personal best and recent season bests falling within a narrow range, indicating reliable performance at a high level.",
+    "peakZoneLabel": "12.70s-12.80s \u00b7 33% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "12.20s",
+          "holder": "Sydney McLaughlin-Levrone",
+          "date": "2024-08-08",
+          "venue": "Stade de France"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "12.12s",
+          "holder": "Tobi Amusan",
+          "date": "2022-07-24",
+          "venue": "Hayward Field, Eugene, OR"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "13.24s",
+          "holder": "Nandhini Kongan",
+          "date": "2026-05-25",
+          "venue": null
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZbaw_zRvLaTbXNlg7dQ4mADs6az1OEBZ9ALX5wxkYbcD8l7r8XCAGah-CxnQm0sGoJdFWGMtP4rLhMjk7GwrmwOeQSbtsCPWa9EpryuS-poKOCAupDau9pcljWwNw3WbsAkz9z6s27Td9DQ6rGiYA3fdkOO_bW6DBIJcUlgLaqI_C1gkZUV4R1d5buPiDC2tjvQl2ydzpkeCws8TSmUSEfpshfvNAzG5ngcChYHU7jsqD1o0AP5uT7TasPo0gF-nG91r-U-HvfQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfy95EpqLWyBEIoiSX-OzCX2mduexTqsfj3zTYzQ0YSZGTwqGmqyGO4D_DCAB3SzUavjUH3FHaP3Kl5jTxnm2rh1f0ZH8WlDimwQnRRfStzDlygkYdh6ZmV7ivx1tpBthWQgnhDU_FTBeksVHE4Ym6qVY90X1peS7Q1YFbFQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXrHj9OULdfOPQnzj0akLxzLMI0OSAMIcDrsCAsd_1Sqcy2ERYLH71xfCm2Q9XaUzaBZ8YMQxB6PTYI6_BnVMOREeLV_xNeyVfAfjAn4qaRjLHgwdM_qlFmsyzfBIw1f8_6t11-7UX4F59xYXkEcpAdyhepzoOjNllG9QvApjsOJ3YUbkgHVQ="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T10:54:25.716596+00:00"
+  },
+  "performance": {
+    "primaryEvent": "100m Hurdles",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "100m Hurdles",
+        "medal": "GOLD",
+        "category": "Asian Indoor Athletics Championships"
+      },
+      {
+        "event": "100m Hurdles",
+        "medal": "GOLD",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "100m Hurdles",
+        "medal": "GOLD",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "100m Hurdles",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      }
+    ],
+    "stats": {
+      "personalBest": "12.78s",
+      "seasonBest": "13.22s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        12.5,
+        13.5
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

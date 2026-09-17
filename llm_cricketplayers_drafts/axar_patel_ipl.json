@@ -1,0 +1,190 @@
+{
+  "playerId": "axar_patel",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "axar_patel",
+    "name": "Axar Patel",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Left-arm orthodox spin",
+    "dateOfBirth": "1994-01-20",
+    "birthPlace": "Nadiad, Gujarat, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Axar_Patel_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Axar Patel is an Indian international cricketer known for his all-round abilities as a left-handed batsman and left-arm orthodox spinner. Born in Nadiad, Gujarat, he made his Indian Premier League (IPL) debut in 2014. Patel has been a consistent performer in the IPL, notably winning the 'Emerging Player of the Year' award in his debut season. He has played for Kings XI Punjab (now Punjab Kings) and currently captains the Delhi Capitals. His career highlights include a hat-trick in the 2016 IPL season.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Hat-trick",
+    "result": "4/21 (including a hat-trick)",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "Gujarat Lions",
+    "venue": "Saurashtra Cricket Association Stadium, Rajkot",
+    "date": "2016-05-01",
+    "aiInsight": "Axar Patel's hat-trick in the 2016 IPL season was a significant moment, being the first and only hat-trick of that season. This performance against the Gujarat Lions showcased his wicket-taking ability and helped establish his reputation as a key bowler in the league.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 176,
+      "innings": 135,
+      "runs": 2089,
+      "average": 21.76,
+      "strikeRate": 133.74,
+      "hundreds": 0,
+      "fifties": 4,
+      "highScore": "66",
+      "ballsFaced": 1562,
+      "fours": 146,
+      "sixes": 100,
+      "dismissals": 96,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 176,
+      "innings": 172,
+      "wickets": 139,
+      "average": 31.7,
+      "economy": 7.41,
+      "strikeRate": 25.66,
+      "bestBowling": "4/21",
+      "oversBowled": 594.5,
+      "ballsBowled": 3567,
+      "runsConceded": null,
+      "fourWicketHauls": 1,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "matches": 14,
+        "runs": 173,
+        "wickets": 11,
+        "average": 32.73
+      },
+      {
+        "year": "2025",
+        "matches": 12,
+        "runs": 263,
+        "wickets": 5,
+        "average": 57.6
+      },
+      {
+        "year": "2024",
+        "matches": 14,
+        "runs": 235,
+        "wickets": 8,
+        "average": 30.64
+      },
+      {
+        "year": "2023",
+        "matches": 14,
+        "runs": 283,
+        "wickets": 11,
+        "average": 30.73
+      },
+      {
+        "year": "2022",
+        "matches": 13,
+        "runs": 182,
+        "wickets": 6,
+        "average": 53.5
+      },
+      {
+        "year": "2021",
+        "matches": 12,
+        "runs": 40,
+        "wickets": 15,
+        "average": 20.4
+      },
+      {
+        "year": "2020",
+        "matches": 15,
+        "runs": 117,
+        "wickets": 9,
+        "average": 36.33
+      },
+      {
+        "year": "2019",
+        "matches": 14,
+        "runs": 110,
+        "wickets": 10,
+        "average": 36.4
+      },
+      {
+        "year": "2018",
+        "matches": 9,
+        "runs": 80,
+        "wickets": 3,
+        "average": 72.67
+      },
+      {
+        "year": "2017",
+        "matches": 14,
+        "runs": 227,
+        "wickets": 16,
+        "average": 24.13
+      },
+      {
+        "year": "2016",
+        "matches": 14,
+        "runs": 111,
+        "wickets": 13,
+        "average": 29.85
+      },
+      {
+        "year": "2015",
+        "matches": 14,
+        "runs": 206,
+        "wickets": 13,
+        "average": 30.15
+      },
+      {
+        "year": "2014",
+        "matches": 17,
+        "runs": 62,
+        "wickets": 17,
+        "average": 23.82
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGQxzH8w-eXKJaEqgjhOaIltCocz1A2Y0MjkpDkSDaz6urq6-5W_L5Ue4UKrY82V8n-zOdwM46Cqeqrtbz9cCGmCXuMCzqZQ3lNeJoTudvMvE7qCgNM4GOk9vI9_CqKKjA7mzENQH9MQBHXh4KQTM05tcuvqqZTQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbj1nzrgUgau5iVZt6-8m8-O8O8szDEDY9AZnrZx2463prhDS00QCFhnTmfph6rELbhfDOfIl-9tJIkA10-QTUZJLMpQT7kN3mmC9tVekU8iNRtwS_xuN7GlzpIbVFJ0vDJwTxUtJuqggbgoxAz9Zb",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5pHfW3gHlGVGC3PKwV4_2zWQ45GyeLlOZptva6eeZxG5mVj2Z8SeX7vGAoVTwkT-jNgWpZw2wwYePKnulg2BXVdU7UQMfM3Rmgps1veZN1AGaQfQ1jgnQzyEy3kgZuedKUKmVCP9rOAQR2CIq5g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUFzUe7pAXtS11yZ3IcJvNB6NRpGTD2H5i3RN9lH_5XBHSnw-_4uUrXc-7n3EdQe3qlfUxq4N-jupP7OkzDobKWdLxi3M6wCgpgqYZAKH07tWb8iMNDTbpOSlZkw6mj4xm7hWvoS3NDyylz8iY_ZQv90iuZsmqPilW",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7c25Dip3Q72V6GNUKxiurqxN0iuh46NwLzz-_0qT2ZhGr63-HR3OmzkU7P30lyb2VJ0r21CpRo7EY_2tCOI_hrlKWfMbUKNH_by40LDDh9rW4tQdpi13VnXHRTFlUzm_VqLkyWjv5ypI4bJc33gmxvw3yjHkuDgSF45wZKOsO1V8j5M8xFNnh4A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCQjFjY6Hd4dL9cM1vbSUXePaZyRPmsjw-geN-wafr6HcxsY16xfZzkeC_3JSQ05S3RDRkMCQBt4qHahjsVN1B8y3nHhCQPVssCHZ67uCSjaJjoTH4T853fK5xyJdjs1tk1nkgJ5DKMGEJA7aKjU2XyR4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuweZYzd4BbBO6ihIZDVK8QMHNWw-GAjKauJuP3PzKqlnuraPXnURQ3etjcrg6CbX6CxtmyXNhUdKopFz71nLXK1lvBsefYwRa5DgDMRm3fYHeTu5idJFc42MpC_EHnr35FCulyeEKWRtgNlS_rXKB",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKc_S3McQe_23Bn2MPu-aYA8sMbz2BAWZQ78av0kcPGRDYlC4DUTIpN7YrIO3XecziOiHWPIU7vI5JXKohRyQQ3yL88V-H6eht0dp_kmkpo2eVBXtuUeUimmcPtmW0JY-D5wc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHTSjpxeMZ_raquTIX0_uuJVKdrxNQq3s2Ii6BIyqAssRfGUszzqFb2PkCbQcGnwKEMDUYdA12rpVrFHNijbxDhJJbQa5FIE9kA_3lZZlQ-uP-WdABo09JcBuqY9QAS1nCubhmotS8y8W6yUEfaWRo5yS8ep-yNQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMBePN7dKvmcL8IVH5HnZOZyN76S_wrQNSLia9rArnM-w0h-tD612FuHs5gelivVGeXldWO3OSceeP-hFIURR7hDTmaZmjbelninRRnlh6Zt85NmcFDAuMZ42gOHYgLuyi5HYttAzBiFOfS1SW0n7IgSB8caKB0ZZiIS0ZKyKgI71zHIhAgIxJSg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJioFVKbefIrGaHTxW0n0mcEehvJojStTHFH7-yNwUKfj-1MK6Ng7Bj61lhUItvll-maPYSIvjIxi4o0mBYF1eNBRwINmSsTodGWmEfJfK90UvSyr3p8ulU2z7Veu9fW5am3_AlJ9-DEhjirUsnuSKJdLIiKdo7Uer43ErchAbPYC6GY0VUBv00iMEdEGLHJJxe0Dwo-XBF_Ki1e0fwK2DUWbrkfqtcIeKMWhHus6TzrLjacg_jtg8bA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXredJQFmUVovTVk0emj7C7D5XGWuYklqTIPejcFqyd1hw2Dc2Xr9HxDzPf-sl4cRb9bUuF5SN3YK3AyokDB9zvONAUdzdtfksn6iISlInMiCsLt9XWwlnyxGZS4A85aQOCfiunOUrMwrruzroUhrqpLDTMjt43Jfv_CYqC9jhdK3sWbNHPvYWTOhe5o8jikUf1YriCdkgjnmVqqDACbPJ2EUUhfEMZl4wD83BcCyY6BEZVb1GoPzb0xIC0GXZ5g=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:32:33.843466+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "axar_patel",
+    "axar",
+    "patel",
+    "axar patel",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

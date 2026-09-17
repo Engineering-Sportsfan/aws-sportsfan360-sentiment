@@ -1,0 +1,127 @@
+{
+  "athlete_id": "nandani_sharma",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Nandani Sharma",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Female",
+    "dob": "2001-09-20",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=G3KSn34jy0A",
+    "bio": "Nandani Sharma is an Indian cricketer who bowls right-arm fast-medium. She made her Women's Twenty20 International debut against England on May 28, 2026, taking 3 wickets for 34 runs. In the 2026 Women's Premier League, she became the first player to record both a five-wicket haul and a hat-trick in the same game, finishing with figures of 5/33. She was named the Emerging Player of the Season in the WPL 2026 after claiming 17 wickets in 10 matches.",
+    "birthplace": "Chandigarh, India",
+    "coachName": "Sukhwinder Bawa",
+    "yearsActiveSince": "2026"
+  },
+  "record_highlight": {
+    "event": "Best Bowling Figures in WPL",
+    "result": "5/33",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-01-11",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Nandani Sharma's performance of 5 wickets for 33 runs, including a hat-trick, against Gujarat Giants in the 2026 Women's Premier League was a historic moment. It marked her as the first player in WPL history to achieve both a five-wicket haul and a hat-trick in the same match, showcasing her exceptional talent and impact in the shortest format of the game.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Indian National T20 Record (Most Wickets)"
+      },
+      {
+        "label": "Olympic",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "ICC Tournament/Major Global Event Record (Most Wickets)"
+      },
+      {
+        "label": "World",
+        "value": null,
+        "holder": null,
+        "date": null,
+        "venue": null,
+        "tournament": "Outright T20 World Record (Most Wickets)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        20,
+        30,
+        70,
+        85
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Nandani Sharma finished the 2026 Women's Premier League season with 17 wickets in 10 innings, the joint-highest tally for the season, demonstrating strong wicket-taking consistency."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFYv_IRW6xpwsStI3_CQsoiK3mGBUKTPmRwIIAuT7x8apBcUyUk3Gdgr3OLixD17pSq9N8QyK8cbFFt3h4_A3FksWSJukXqfdOhW-fBUgaYefJo5J85JfLbvz20MUlnZKwLL-wk6Ao",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeRv3I3ShZEnTu6l1QuSNy6iy5imvRCvAJUYQiw0RDcLwiGxELvsxtBXGk-THzZia3ZURNOQ2Y3z32qFfumcEN49cl94BVEH-WO3_tpWFmHKd8wueV1CEwYj1vA5Q5QPhtWGeSfySP9aPXVxLZ7vPZoecoHg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlCsXu4sMv_GIJUd3g0t7wwDPfuFLOARDw_pdAOERL3-bLY4HKjJO5A2ebftKYktKJQ6q16Wk4sngm0mqyY1FmrQq4TRpo8jD33CkZ72uQYvw18YqNY-o7Lg9HMJcFf1tj8O9XuM2mxZGjr_8wlE98Z1stwSCQYTd35blnZfxiYLGV_I-JP8EXi7kVxAjrH5izukw4HuhmbenSydEfnOjl-_aHTUuehNvQAY7KI9tfzb7DzCyWUjJxIYcnVs0="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:55:51.124907+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "womens_t20i",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 0,
+      "ballsFaced": null,
+      "battingAverage": 0.0,
+      "strikeRate": null,
+      "fours": 0,
+      "sixes": 0,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 115,
+      "runsConceded": null,
+      "wickets": 7,
+      "economy": null,
+      "bowlingAverage": 24.71
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "nandani",
+    "nandani sharma",
+    "sharma"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "playerId": "ishan_kishan",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "ishan_kishan",
+    "name": "Ishan Kishan",
+    "country": "India",
+    "flag": "IN",
+    "role": "Wicketkeeper-Batter",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Leg break, Off-break",
+    "dateOfBirth": "1998-07-18",
+    "birthPlace": "Patna, Bihar, India",
+    "heightCm": null,
+    "jerseyNo": "32",
+    "debutDate": "2021-03-14",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ishan_Kishan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Ishan Kishan is an explosive left-handed wicketkeeper-batter for the Indian national cricket team. Born in Patna, Bihar, he made his T20I debut for India on March 14, 2021, against England, where he scored a half-century. Known for his aggressive strokeplay and sharp wicket-keeping skills, Kishan has been compared to MS Dhoni for his fearless approach to the game. He also captained India in the 2016 Under-19 Cricket World Cup.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "103 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "New Zealand",
+    "venue": null,
+    "date": "2026-01-31",
+    "aiInsight": "This century marked a significant milestone in Kishan's T20I career, showcasing his explosive batting prowess and ability to perform at the highest level. It was his maiden T20I century, demonstrating his potential as a top-order batter for India.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 55,
+      "innings": 55,
+      "runs": 1608,
+      "average": 29.78,
+      "strikeRate": 146.31,
+      "hundreds": 1,
+      "fifties": 10,
+      "highScore": "103",
+      "ballsFaced": 1099,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTLUi6NySGD_nkvpWKv55Qa3kv826Zr4njEfFVP0cc7A1lA4skbjuJVUFkYLh2jDxyTt89wI7STAw88sW_Ivb32oSczutr9G1fWAZMISP9JhE1Lvfr3sA5feiJ5erdl1Hb_-la",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm8mvJzB9rInQCwEXqidnibKjYMKo2kzT55glFTTEodP6LVTDRTadM5weGRyvFxtTTPVCIT062JX2ZSViDq-h2q-e1M1gMYhRjhiIpJLQQ3_Qgo4kG_kYFaA2TvEw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQLxiMwPSuw5xi9KKkR2CUkgQ9KRTe9QVh1h3IV2yi8ahsxMosfh_SxUwQfakSjKMl_jBMm6G6Oj41XTAdRNnmhOGjXXey2YO4uObgbRXR_zu1xZYghZMKYE3bg3OlbFNO0eBPeTA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF35LCwMN6yEnV3FYhTdBmVQ0rFTq1o1z7h7Tl6M2zYwlgoTAIuIDN-SIEuDZ-I2mIblxMbomTaQ9jM2w1RI8EO61nvieNm18LOWDCkp7cAjhlrfCLTKzo2wnv0GJBkc9LPk_Go21DzevTZ4g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFThE0b4_duMiEsh8jlE9qZjwnw4nMtUjpbRHg6TRx0sNMQ9UA4CqvmyqG3bdv4mdP1HNYyEMyTJE3r0BhtMjzGmLs-_qxI9QCguKmORdkdk9nlfy7YeLyjNDkIU1pY3xLMLA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrMgx2yPh285adfDm9auGuQ5xQG0JH4XqubmLzxmulvvnhnXOdbjKAsAJJv_vSAM1AUupbOWC6KEmpFaH46Dj3HZATBUF6WxpusHFnhyetbQwkVYnJ7QaLdFBQ42OF-LquOJY_jx0WUUsOgeAELa8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ1z-_rTIqYS6CldRko1TmqOCSV3iM7qWegb6ph-V9P1MhOhbnbcb2iQsUDaDYdLW0lznw10_yJWgWeNVTZN41ZV1__pLXIGo3uDvonkfI1v3M6dteM4q_ASjY-Z9JIFqRURorHJshrjSGCBci-XHPwhBnNAVg9zhcFy86CPxmKwltY073Fu5ihBqaQFjIHHV_UvhBmt-kSAbW5sMZ5J-8crP3_GduKE4d7ryTzGR5T2UvDYiPn9xI5CC1gDXyCL_DV1jSAn2XlLHVsvI-BsBo7Dw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkEQKFc2HC9be4DN_B-S1y3AUYrPnlmY_X9iKtbCWyh0f2oZNXALZvKPs_2C4gO4EhrQ0GkQ7C4mVsgV0KRdZuI3dyQaH-msSjb5e6n9XMiTCLTN9RPYTVnnBYH5y09gW2flRZ0taK601AzDIAc9C34t_sRhxCbWDbCuFmcl5EhsDn9Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELe2_8Fod6xTMbT7zvmCDNNWfFYRA7NuP7WqjkwlEZ5gqGwXUjWR-LC8zR2m_XLHm0EZd1amK5leQUKM4-fBiGhyNuqF0rrdvDvsTYglnNJur4VTvLZn4Bv6Bl_zB8pvdWWj6F6Ho9UutCEqmKk1wwXw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcCXCQumtYGzXtT4jvOCCXY1jga1vjyCAThkyqZp7LvYI7aDKtJS8KqBHgKf4VkrZkidtPbZ2kGkmn1UKUYmDog6Zu7gMnZ9fwR2ynODxtj2_M2uZS01ET586N0fX49cB2lMxvm0cUnzsMqbxmXAhOCJS4rXWoezo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX2yEcFdEluLe9NHf-GFUpN232_GZCTga82RMMqrBEVS4BNGwhOroCO88yK3KIKp28_luZrxfj7RQehHNimxNk0AIGHgxWeFB2Lwlsr-yaCiz9BvqKRApMRQNQksfFmwCM89EU5kj-kZ1O9Mdb0CGzxbU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHqkRg2rT6hCdwIJbGRHbByR1AhPSMWTVpiS4dc_YI_zEPn-BhG9NPG3M3gBphyxoFrQ87hlYcaa2DNrSFpWO8aMpmXKLlYBJEtxZov4P3khMz-EKMzhlI66yAZ6vWC1Op3Too"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:21:33.271979+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "ishan_kishan",
+    "ishan",
+    "kishan",
+    "ishan kishan",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "playerId": "kranti_goud",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "kranti_goud",
+    "name": "Kranti Goud",
+    "country": "India",
+    "flag": "IN",
+    "role": "Bowler",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium-fast",
+    "dateOfBirth": "2003-08-11",
+    "birthPlace": "Ghuwara, Madhya Pradesh, India",
+    "heightCm": 166,
+    "jerseyNo": "26",
+    "debutDate": "2025-07-12",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kranti_Gaud.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Kranti Goud is an Indian international cricketer known for her right-arm medium-fast bowling. She represents Madhya Pradesh in domestic cricket and the UP Warriorz in the Women's Premier League. Goud made her T20I debut for India on July 12, 2025, against England. She was also a part of the Indian team that won the 2025 Women's Cricket World Cup, showcasing her talent for pace, accuracy, and ability to swing the ball.",
+    "gender": "Women"
+  },
+  "record_highlight": {},
+  "analytics": {
+    "battingStats": {
+      "matches": 1,
+      "innings": null,
+      "runs": 0,
+      "average": null,
+      "strikeRate": null,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": null,
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 1,
+      "innings": null,
+      "wickets": 0,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": 18,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW2DRBZ8FTnU7pXk9oVNQ0ExrMuTjosll8fpfeFh7ASMuu9xWQ593-0cZa2G55ETwi2IOVbJnqjfv8uzNX8-vnT_cU9QRXJVX7h9sWY0j9rkl1X8roEh2KNYPx3hgeopcXvKs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBIc25q2iydoeJtrDiCMiGbxR2EMCyXDyQ-bWK_n005S47UeRpFEWpRKjI_mvPfu56VtotuddyTvHT4aDAUgVh5HN6L9X_5c9ZxD8fBwS6St2oBiVkWBb3XDokeHUVQaoUkfTLc2nS_VsoKW_vRe42p2zfWFBksT54SObsZ2ydQUN7fTVirmmpPzwHRIm_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR-9w-FTFoc6YsAd-xxYQtNcBF1NZ2bU4AYStl-yPfVTNI8SHBDGbOlzUnf9Z1vfgbhAS8mXsgQfhuwzARe1UU83MxBLNpcpaBM0DP_IGPLDjasAd9oBsQHV34gGmGvveg8bjjvSozcyxyFmGwjS8x5KMCIF-RpJwUIeUfb3b343qapHoaJO3HDFD5K6mFa2fe-Vyques4QkV2cTmiVdLai9c5wMxYpYBHma6LDSPQuTQFmDiGQsLNoSavQcjAnXwd65HMdY-zHVJDD6UO3jPr1HJadjJ9aWXGatkNaJftHeP1BHZNy24XQFKE5BN8DcM3BRCqRpUntw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm4VQv3XfLld9tIPdvnZtmIA_KBGzh1OQxd5AGx4n5FTdHbx1Uk-qV-QvqF1OKYUJKlXCoD1_UcIxUFMT-hl2y0FW_LiumIZAecVx5mTTH1uwLh67_yPBqgvb9psX-hRFa",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd-9yTegHN82mtaVirrt4zxu7GSI8cR9dKNwagok8oJk5lr12TBAhmfMwKqCez-g2hp1c72i6Nq93nFa0HNeAhDCtKK2-SnDDcAjOI3K2_enBhTsA7v-HYSh3BkSZfe2WFuM-E89nThgeLkt0hLZwZ5PXY9UIx0jKYuxWtoeyuPod7PYOYmfPrH25M-q5Ov-JVWtL95DjPztzZYLVt_DYHm9ftYoLWxLSb-1NvkI2yhZMi0z8Q4qqW_ijOzuIFlf310TvrEw6zM6lmuhRMMAZan0QfTPcWjogPFMFUm3AXRCdREcuHFc63YF9ajFcPI_lyPeiQzXqxqiRdS0XBBuauqfbiVqosnKmHoIg-OJbDqfARS93mEaMx2lCGVBYmWV_UrqATqpVX_dsfllgnmGMKY9obwyVrx38AAVyK5NTe0OWceYZZ06dOY1wfS3OCLdlJo1ciRJub0_aHN63BB4evbL8IxAKjBWAx1GXlT6GLTlXDYFtbXSub9WASQr2gfmYVf5FJzfGyiewAvG65EBOQQDGNkY7vyaNQABtSxgd2",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa4hM9vALhKwQemLnp2xUR-yiEKo3CSFXpsSberGpK0KT9PRhu4XK1yTSlJI4kRs-UOuXeZdiqE-BnoNmwRa7jBfhZkSiHftEg2O614Vvt41RFqSsvoZ8rDnNEEyFIpgLVABauwSnltUsfHiLuaUyN4S_kfbgOM6L7NnTe2DX9yEFro1Yu9KsnggCMWAQ0gMdUdT-rlGcKUEMP_fCCBJqT-5Ciusu8K5YLOt19SeJvD2u2ywrBkMOeBy_Z",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnazr59Sq8_6Ummo9WTsZ0QRno5JLxzZQ9yjk3WSskrU1lQbFAf5XYCUu3ypQmuj4ocAFY6idU1vTTbIEO5M6ndnLwwr-fDaz4MceZb4_erVeaaTOAewUMpNyFRvLivW-wAqjN8czuBzwL9GUmkJoI9PmXWs_-XU4n8Swaj09pOLOrsmCa71EstDEiqzoX3jVq3ikM-1SUttnpCHuFFz_LtjRCjxAFrEk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOYxQ3xhPAEW-B5rqPamSnBEwPje-EX62bR36KZqydU8jfwZ87kbldzzFTWZ33JY07DqCx_xSbN0RZdtewaV-vgTr8DvJhw4krjxQIQSEJc_N3-wgMjx0YV9PdPPHNZbM9geEsyLexaaKqNy6M94LIB97nn3KLDws3QncneE2Pfx0bwIO7BPO4vXg-vb-4bd4FUfDvC-A="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:36:01.790603+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "kranti_goud",
+    "kranti",
+    "goud",
+    "kranti goud",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

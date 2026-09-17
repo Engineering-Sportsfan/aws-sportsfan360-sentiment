@@ -1,0 +1,320 @@
+{
+  "athlete_id": "prachi",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Prachi",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1996-12-20",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/WGE3nLp0aaU?si=cGUMjwfEVgIM7gXD",
+    "bio": "Prachi is an Indian athlete specializing in relays and the 400m event. She achieved a personal best of 52.40s in the 400m, setting a new record at the All-India Railway Athletics Championships in 2023. She has represented India in various international competitions, including qualifying for the women's 4x400m relay in the Paris Olympics. Prachi has also secured medals at the Asian Athletic Championships and the World Railways Championships.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": "2014"
+  },
+  "record_highlight": {
+    "event": "400m",
+    "result": "52.40s",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": "Final",
+    "date": "2023-08-25",
+    "city": "Raebareli",
+    "prevRecord": "52.54s",
+    "prevRecordPlace": "All-India Railway Athletics Championships",
+    "prevHolder": "Rosakutty",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Prachi's personal best of 52.40s in the 400m, achieved at the All-India Railway Athletics Championships in 2023, not only marked a significant improvement in her career but also set a new meet record, surpassing a long-standing mark from 1998. This performance highlights her strong comeback and consistent form, especially after overcoming injuries.",
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 52.96
+      },
+      {
+        "year": "2019",
+        "value": 54.49
+      },
+      {
+        "year": "2022",
+        "value": 55.64
+      },
+      {
+        "year": "2023",
+        "value": 52.4
+      },
+      {
+        "year": "2026",
+        "value": 53.23
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "50.79s",
+        "holder": "Hima Das",
+        "date": "2018-08-26",
+        "venue": "Jakarta",
+        "tournament": "Kladno Memorial"
+      },
+      {
+        "label": "Olympic",
+        "value": "48.17s",
+        "holder": "Marie-Jos\u00e9 P\u00e9rec",
+        "date": "1996-07-29",
+        "venue": "Atlanta",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "47.60s",
+        "holder": "Marita Koch",
+        "date": "1985-10-06",
+        "venue": "Canberra",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "52.40s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Sprint",
+    "achievementLabel": "Asian Games Silver Medalist",
+    "stats": {
+      "worldRank": "215",
+      "personalBest": "52.40s",
+      "bestYear": "2023",
+      "totalGold": 3,
+      "totalSilver": 3,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2018",
+        "event": "400m",
+        "value": 52.96,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "400m",
+        "value": 54.49,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "400m",
+        "value": 55.64,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "400m",
+        "value": 52.4,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2026",
+        "event": "400m",
+        "value": 53.23,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2019",
+        "events": 3,
+        "gold": 2,
+        "silver": 2,
+        "bronze": 0,
+        "seasonBest": 54.49,
+        "seasonAverage": 54.49,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 3,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 1,
+        "seasonBest": 55.64,
+        "seasonAverage": 55.64,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "52.0-52.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": true
+      },
+      {
+        "range": "52.5-53.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "53.0-53.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "54.0-54.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      },
+      {
+        "range": "55.5-56.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 20.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Prachi has shown good consistency, particularly with her personal best of 52.40s and multiple races under 55 seconds in 2023.",
+    "peakZoneLabel": "52.0-52.5s \u00b7 20% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9w6UA4zlngrFbnb_gg06N96BL_t94NClsuxJWSFXLePUZHJ8kpltqZovvQpvrFBMBxSXITUqhYTE9InXoa52ZdpjVBQwzvY0kdRYXCqGhkR38gQB2r0_gGBFxF5s8fIYwwAUYDP10DW4lCSkRPx5tOdr2bLq_je-6vfD709gt-v-uPkc2YQa6GIPP4IXFa43y-dpL-nD8K8Qw9lmpT21H2SyNGmHkL9ek23JBREkO1f8RqXZTC2NV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb_Z-0zTfFTKwmLjaLVjhjfisq0YTcBcFFtY3LMGuZVoio2Mt7LuuhJ_fvN-2hJqX7slUUU4NpPkmhhBkC_o_F9fuU1N0zRJzUcwmnldmjNV6fozsHVuTHh5AlnWRWkCXf49IYtiavsuredSWb6j8fmR9hLzxAVDf8uFs2UdXQBS_H0dXO9rvof560ApK8tygamNKeh7FDV8GzNackpMPE8Si5_OuEtXOzLL-crH097NTYjQECQQdjFMWykkEHYQwlBg4-qCKUBfCcZg=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T14:12:18.322743+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x400m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x400m Relay",
+        "medal": "SILVER",
+        "category": "Asian Games 2022"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "World Railways Championships 2019"
+      },
+      {
+        "event": "800m",
+        "medal": "GOLD",
+        "category": "World Railways Championships 2019"
+      },
+      {
+        "event": "4x100m Relay",
+        "medal": "SILVER",
+        "category": "World Railways Championships 2019"
+      },
+      {
+        "event": "4x400m Relay",
+        "medal": "SILVER",
+        "category": "Asian Athletic Championships 2019"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "Inter Railways"
+      },
+      {
+        "event": "Relay Open National Championship",
+        "medal": "GOLD",
+        "category": "2022"
+      },
+      {
+        "event": "Inter Indian Railway Championship",
+        "medal": "BRONZE",
+        "category": "2022"
+      }
+    ],
+    "stats": {
+      "personalBest": "52.40s (400m)",
+      "seasonBest": "53.23s (400m)"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        50.0,
+        55.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

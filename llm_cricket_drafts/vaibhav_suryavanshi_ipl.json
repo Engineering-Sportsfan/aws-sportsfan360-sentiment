@@ -1,0 +1,127 @@
+{
+  "athlete_id": "vaibhav_suryavanshi",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Vaibhav Suryavanshi",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2011-03-27",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vaibhav_Suryavanshi_meets_PM_Modi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=E56KJUqW77c",
+    "bio": "Vaibhav Suryavanshi is a teenage Indian cricketer known for his explosive left-handed batting. He holds several records, including being the youngest player to sign an IPL contract, the youngest IPL debutant, and the youngest centurion in IPL history. He was named Player of the Tournament in the 2026 Under-19 World Cup, where he scored 175 runs off 80 balls in the final. In IPL 2026, he amassed 776 runs in 16 matches with a strike rate of 237.30, winning the Orange Cap and the Most Valuable Player award.",
+    "birthplace": "Tajpur, Bihar, India",
+    "coachName": "Manish Ojha",
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "Most Sixes in a single IPL edition",
+    "result": "72 sixes",
+    "type": "PB",
+    "typeFull": "Personal Best",
+    "phase": null,
+    "date": "2026-05-27",
+    "city": null,
+    "prevRecord": "59 sixes",
+    "prevRecordPlace": null,
+    "prevHolder": "Chris Gayle",
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Vaibhav Suryavanshi's record of 72 sixes in a single IPL season in 2026 is a testament to his aggressive batting style and power-hitting ability. This achievement surpassed Chris Gayle's long-standing record of 59 sixes, highlighting Suryavanshi's impact as a dominant force in the league at a very young age.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "72 sixes",
+        "holder": "Vaibhav Suryavanshi",
+        "date": "2026-05-27",
+        "venue": null,
+        "tournament": "IPL (Indian National Record)"
+      },
+      {
+        "label": "Olympic",
+        "value": "59 sixes",
+        "holder": "Chris Gayle",
+        "date": null,
+        "venue": null,
+        "tournament": "IPL (Comparable Major Global Event Record)"
+      },
+      {
+        "label": "World",
+        "value": "72 sixes",
+        "holder": "Vaibhav Suryavanshi",
+        "date": "2026-05-27",
+        "venue": null,
+        "tournament": "IPL (Outright World Record)"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        80,
+        95,
+        50,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "In IPL 2026, Vaibhav Suryavanshi scored 776 runs in 16 matches, including a century and multiple half-centuries, demonstrating consistent high-level performance."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUrKQKwi_WmQexfWSTCq8t3s29JjSUocA_rybARC8PPDnwX5pgq-eF2xyzBquoJ8bBki_9cEXCutCfcUkxsjOlan2EsLyDGrCnjXQ7n1_Jk7ydvoUjnLY0zOZY9_Bpx17T6YRzCskGg5qj7FNz4lSEhDOaSAoGX3jo__DWELA0BcPiMPD_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlQ8LO5vyP3PjQmHtXN_Bo8jneogQjSHewIyna0PC9bMOwbYOw8bwnLuIVb8wZ5scr-vO0odBwSGwjkN68ShTfAP6sVCG4BhISL1VVr9MW76hWpdY5wLK5nRjlD_e_9Vwm7thBa7-ZpLb6XYYM",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-HFhUiOzafDZpXw4liYOxmz9CCstF7N0eS4Idqeqi5dxHkZBvp4tc-BBd5iY9qWCuKry1s8u5sdlrxViyfkbs5PDftUHvX1MHhhgzQAiIuYtsx5ZhIMxlOXzmxePcymULsq4h2cCA4VB1oZTSTZcR9nW8zA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:48:13.651665+00:00"
+  },
+  "performance": {
+    "format": "IPL",
+    "tournament": "IPL 2026",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 776,
+      "ballsFaced": null,
+      "battingAverage": 48.5,
+      "strikeRate": 237.3,
+      "fours": null,
+      "sixes": 72,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "wickets": null,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "suryavanshi",
+    "vaibhav",
+    "vaibhav suryavanshi"
+  ]
+}

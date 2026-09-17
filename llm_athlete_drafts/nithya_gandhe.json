@@ -1,0 +1,192 @@
+{
+  "athlete_id": "nithya_gandhe",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Nithya Gandhe",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "1999-11-10",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": null,
+    "welcomeVideoUrl": "https://youtu.be/QCjIymgvSpM?si=yt1Y3SqYQugWIM3l",
+    "bio": "Nithya Gandhe is an Indian athlete specializing in relays and sprint events. She holds a national record in the mixed 4x100m relay. Gandhe has achieved personal bests in the 100m, 200m, and 4x100m relay. She has also competed at the Asian Indoor Athletics Championships, achieving a personal best in the 60m.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "Mixed 4x100m Relay",
+    "result": "41.35s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": null,
+    "date": "2026-05-01",
+    "city": "Gaborone",
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Nithya Gandhe was part of the Indian mixed 4x100m relay team that set a new national record of 41.35s at the World Relays 2026 in Gaborone. This achievement highlights her significant contribution to Indian athletics in relay events.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "41.35s",
+        "holder": "Ragul Kumar, Nithya Gandhe, Animesh Kujur, Sneha Shanuvalli",
+        "date": "2026-05-01",
+        "venue": "Gaborone",
+        "tournament": "National Open"
+      },
+      {
+        "label": "Olympic",
+        "value": "9.63s",
+        "holder": "Usain Bolt",
+        "date": "2012-08-05",
+        "venue": "London",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "9.58s",
+        "holder": "Usain Bolt",
+        "date": "2009-08-16",
+        "venue": "Berlin",
+        "tournament": "World Championships"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "43.86s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "4x100m Relay",
+    "achievementLabel": "National Record Holder (Mixed 4x100m Relay)",
+    "stats": {
+      "worldRank": null,
+      "personalBest": "43.86s",
+      "bestYear": null,
+      "totalGold": 0,
+      "totalSilver": 0,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [],
+    "medalData": [],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 65.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 80.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "43.9\u201344.4s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "44.4\u201344.9s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "44.9\u201345.4s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Nithya Gandhe has shown consistent improvement in her sprint events, achieving personal bests in recent years.",
+    "peakZoneLabel": "43.9\u201344.4s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2026": {
+            "value": "41.35s",
+            "holder": "Ragul Kumar, Nithya Gandhe, Animesh Kujur, Sneha Shanuvalli",
+            "date": "2026-05-01",
+            "venue": "Gaborone",
+            "tournament/meet": "World Relays 2026"
+          }
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjjNH-kNmCf-rQwOG40C3uN_5HBlgIa2OQn2gut4aZxXG-C82C6DCFtY8JSPlvaD7quWlb76qoR0bJL6VIgljgic7_UFAaKxNoVB3d5tZ1wAbXS-xNN0poyE-dAqwfcMIek-VqIIBNuBw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbnFqD6LzUITuN3_cXeda4zHvKAJ87jmEEfh6sQOCV3xov9fUQHu48-p1-MV9It9GHIdeTErqiELxDgGLRWxqgOeVr2CbiQP_mLWJmgqSWM3B2btW3IpuB3uLur6PQKrC9DIj6emsA38CBr3aZZ27GPxYv7O8l",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe_2Ix0O_k3J0YW_F4TvgQ3c8VBVp62CVUS7LEk1-3d7tNvYPKD_6e5Qxk-LgW_rpf2M9eGhq1cRf56KPA70YfwHViUVU-qibAfQebZKx00RP8kU_sCit0HZxMZeNlwi6Yf4fwPG96lM_SUdBH1SpS_oxolYlPoawuWC2DbZrL0OcBEPNIrOAcMIiYmA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcij0dX34SW0vsqa4YaXuGIjctOg-uwU_JAzwwoRclnVrHZOCRsDJtz3Zpi8pMr-slZ511NRTVadz6Lz-S7qyNxy3FGpmRLAdPt60tguTMrOb778vtZwfWlCw43hA5bzsj9Fth51OnhmkFXGMh29qVPS58AS_dtQhR9gKhuRJoUbsTWl6itNoqYLvLEuCfaDDsBMHc1Ay812FBTcDiNQzfIqBxNYFOe_6775S8VL2SF-NbQS3nOZdoXllEf1j6QXcUi3wvFmNTYsrAug=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T10:33:25.901517+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x100m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [],
+    "stats": {
+      "personalBest": "43.86s",
+      "seasonBest": null
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        43.0,
+        45.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

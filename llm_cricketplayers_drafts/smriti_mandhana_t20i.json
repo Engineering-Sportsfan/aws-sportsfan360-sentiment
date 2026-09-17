@@ -1,0 +1,184 @@
+{
+  "playerId": "smriti_mandhana",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "smriti_mandhana",
+    "name": "Smriti Mandhana",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Right-arm medium",
+    "dateOfBirth": "1996-07-18",
+    "birthPlace": "Mumbai, Maharashtra, India",
+    "heightCm": 163,
+    "jerseyNo": null,
+    "debutDate": "2013-04-05",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Smriti_Mandhana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Smriti Mandhana, born on July 18, 1996, in Mumbai, Maharashtra, is a prominent left-handed opening batter and the vice-captain of the Indian women's national cricket team. She made her T20I debut in April 2013 at the age of 16. Known for her aggressive yet elegant stroke play, Mandhana has established herself as one of the world's leading batters, holding several records in international cricket, including being the first Indian woman to score a century in all three international formats.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score",
+    "result": "112 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England Women",
+    "venue": "Nottingham",
+    "date": "2025-06-28",
+    "aiInsight": "Smriti Mandhana's century of 112 runs against England in June 2025 stands as her highest individual score in T20 Internationals. This innings not only showcased her exceptional batting prowess but also marked her first century in the T20I format, making her the first Indian woman to score a century in all three international formats of cricket.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 172,
+      "innings": 166,
+      "runs": 4557,
+      "average": 30.25,
+      "strikeRate": 127.03,
+      "hundreds": 1,
+      "fifties": 35,
+      "highScore": "112",
+      "ballsFaced": 3635,
+      "fours": 618,
+      "sixes": 86,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 172,
+      "innings": null,
+      "wickets": 0,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": [
+      {
+        "year": "2026",
+        "matches": null,
+        "runs": 455,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2025",
+        "matches": null,
+        "runs": 341,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": null,
+        "runs": 763,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2023",
+        "matches": null,
+        "runs": 433,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2022",
+        "matches": null,
+        "runs": 594,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2021",
+        "matches": null,
+        "runs": 255,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2020",
+        "matches": null,
+        "runs": 265,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2019",
+        "matches": null,
+        "runs": 405,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2018",
+        "matches": null,
+        "runs": 622,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2016",
+        "matches": null,
+        "runs": 286,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2015",
+        "matches": null,
+        "runs": 4,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2014",
+        "matches": null,
+        "runs": 52,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2013",
+        "matches": null,
+        "runs": 39,
+        "wickets": null,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzw-OAjTNiVo8pcBvIrYW2iFACI4BKKDWFFbSW3IiguvQfX7eP6ed5KeZ-JCrjs9zNdQxDf-yiFSSuZRSlZoXJPEw1tnBO_NUC2LeRXaAXhN9Ki7f4MJx2hfKo9e8aOVj6YE_F71NW",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN4Xyq1QbjoZwzNtkh71vBL8cKqnnSvfHuXnEJSKoAP3ak6vzVADTCsJblg31FbXdzhyCCksfB5tSza_lbaVvaNENGzP4z38NZemEKWQCAZZpwG_Yr7vFvVEjkMCcO-V_ZLdxigXp_bA3rpUGJJ5neL8YAml_DG4YIieY36SKdk8g4cqGQytFOt_s=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGf9oBs8hj7FXzJ2_tO22Ede8bYIiLahMaHguwijzQxAt5lU-GZ-I8WcjgpZbdSsQ0t3NoiyfRRrkEObbcg_pBb8QeS01B2DxnHnmV-zL5w_hO7NCOZn6QZCJDwHCNgfC3wxYeXjlPI3g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElnEisd5UgnPNtlYizRU2GKA-enMzXvAfMnlpNh7v2Hks6XUdtkXIm9Ufq3y3A2cVtahL_Z2S9RAQXjrJ-EC2xbaqFguRvaGEgGHNsSuHGAthE3B3aRrOFHv1-LsLoEMxJDF5lDIx-DwqsyRe8aLvGOmlgH_BHRN6PmnEU0mJUnHoAJE0Wv5iNV8rdvQI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy1cpMRgIYjHBwzgmvVTyWQ1v9_uBtdz8anwDDeMsvkP5qwGyp7cED1f3EqcG2ySsoErBKMy2ve_6Dcq4pgYUTm9KTH6DWOMQg9XLzRr98zRjBCg_3KZjOf9gWOw5ZCxvaotLhOefJN5bq_BZYqlC1cF-j0g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE-BUhUKzv3CxZiwQBq-34hbdMVGK1QlfcJoouzeQbliicWYs6naGw9uytOUWyy4zBqTzPeyZvOhhYcuZxrLY9woMlfCpEKHm4G9YYVR-ccZztNsuAE2y3GTUpGsVusbU904mKDXyi1fX9xYUgmAKgPmxw855bKxDpbI76Grcrj6ZEQ_zslRwCf4TXyrzL8fHlxPzB-BhHk_4z8vMv4gIdo6Z_"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:41:55.247251+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "smriti_mandhana",
+    "smriti",
+    "mandhana",
+    "smriti mandhana",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

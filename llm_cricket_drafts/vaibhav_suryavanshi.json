@@ -1,0 +1,130 @@
+{
+  "athlete_id": "vaibhav_suryavanshi",
+  "sportId": "cricket",
+  "coreInfo": {
+    "name": "Vaibhav Suryavanshi",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Male",
+    "dob": "2011-03-27",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vaibhav_Suryavanshi_meets_PM_Modi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=E56KJUqW77c",
+    "bio": "Vaibhav Suryavanshi is an Indian cricketer who made his international T20I debut for India in July 2026 at the age of 15 years and 99 days, becoming the youngest player to represent the Indian team. He holds the record for the youngest player to score a half-century in men's T20I cricket, achieving it at 15 years and 118 days. He is also the youngest IPL debutant and youngest IPL centurion. In 2026, he broke Chris Gayle's record for most sixes in an IPL season, hitting 72 sixes.",
+    "birthplace": "Tajpur, Bihar, India",
+    "coachName": "Manish Ojha",
+    "yearsActiveSince": "2023"
+  },
+  "record_highlight": {
+    "event": "Fastest 100 T20 Sixes",
+    "result": "100 sixes in 515 balls",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": null,
+    "date": "2026-05-10",
+    "city": "Jaipur",
+    "prevRecord": "100 sixes in 813 balls",
+    "prevRecordPlace": null,
+    "prevHolder": "Karanbir Singh",
+    "improvement": "298 balls faster",
+    "improvementDate": null,
+    "aiInsight": "Vaibhav Suryavanshi set a new world record for the fastest 100 sixes in T20 cricket, achieving the milestone in just 515 balls. This remarkable feat highlights his aggressive batting style and power-hitting ability at a very young age. He surpassed the previous record holder, Karanbir Singh, by a significant margin, demonstrating his exceptional talent and impact in the T20 format.",
+    "progressData": [],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "72 sixes in an IPL season",
+        "holder": "Vaibhav Suryavanshi",
+        "date": "2026",
+        "venue": "Various (IPL 2026)",
+        "tournament": "Indian Premier League"
+      },
+      {
+        "label": "Olympic",
+        "value": "Most runs in a T20 World Cup (Men's)",
+        "holder": "Virat Kohli",
+        "date": "2014",
+        "venue": "Various",
+        "tournament": "ICC T20 World Cup"
+      },
+      {
+        "label": "World",
+        "value": "Fastest 100 T20 Sixes",
+        "holder": "Vaibhav Suryavanshi",
+        "date": "2026-05-10",
+        "venue": "Jaipur",
+        "tournament": "T20 Cricket"
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {
+      "axes": [
+        "Batting Average",
+        "Strike Rate",
+        "Economy",
+        "Wickets"
+      ],
+      "values": [
+        85,
+        95,
+        20,
+        10
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Vaibhav Suryavanshi amassed 776 runs in 16 matches in the 2026 IPL season at a strike rate of 237.30, winning the Orange Cap and MVP award."
+    },
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHclMFZY9LWZnlrrQMXLoHEu27OsRt4dHAfAarWzXmKI0ASyhS_a2PhEdoHg651UK-7N-0XHm4BjnWXhylQ-BOBXFkYLAbLG0dCQw72hDY4cYttMn_F4YtJeUSLlMum3HMNr65lAAk5JgaouJnk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpUlM2Ku0K4enxYb1IARVmbIiSvegaQxLjja89sf1JDfLQFQENuQmvIajYTmgwz94x0z03or6XT7veRgtBVYxEgHLmDYwVGwRVzA5hLz-BcpVIjUwUtT-0ApVxXkSRgynQafxZtvTVIZaKs3vZY49nAbab9KHf7jRbp2F7LO40in_8LOMFOKAsERtr759vQU4IfUbL_gSjH1i4G1dpggQLXNtDX8KjL87p1uy8JX8OEELVKD0v8CgNAqZKR_UBp_mxL0D3uTWPwTUitwlQhd62F0NNZZST",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDjlMRYvpbkTkk9veSyFMCdK_KMI-k51GDlP52c8XnJRxNYQEemFCZvgxV5Hem0U5I_3lxYJ0pLg8er_GAdGYwVOY1cGdKvL9bluwex2f0tBfpTRrFW8XLerNyefdd1ksrUIgsGdZcDiZnrZPfgu3ks7sljg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFsFKDeMS5LELxotR6_fOaytE_5AEAgK3tDCDR8bAB_xptpjV3f1u2gXAtKrLJhje5N0gesVHGdZK05p6UqWGmbEr5bCow4_IhTfzpfbG4zKvEMe7fRN71D46YXk81kQKD8W-s72fgkZUrq-qRUuCIx6uYBt-MrnJU0b02jNM9j6IRM-aPv7plD2poNZ036oiA-zFpe8aueNR4NNz2OcT-QZ4HYQiLKYsxY3-M8aUEy6FkCiE7l8c=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7fJdVJfHeF71Zp3KcSs1P_HcAdwlfI_nomhgRGwR4gBVYq-rL63QVM7OnFEChyF4UIzGQDgMOwd-SnX7fV6eN7GE_zMRN8yBxCL4aMIU8yrmnli5Cv-QrzbMXpIULt3isWbNYl1Bd5-9gLXeCtAROioor0Uf61L7k_ovtB_Xf_ADVAerwXtxb1ToIQqE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2xu8ZQ0FL94Wa_AXCYqjF0Qg1Hypc1P1NyvVmJFtP8af79FaRQLqQLJn6Hkf0bgglS0rrIvaJfp746zqK3db4YBpryBaWJdWhISwmO7Ly64cw-BB5gOYwxNqCFVzm48XejNtiktAzHjyyFGcBd_SaYHtZz__I-NuCJxT-xiieDUz6RTQX"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-31T09:18:53.718937+00:00"
+  },
+  "performance": {
+    "format": "T20",
+    "tournament": "Indian Premier League, T20I",
+    "jerseyNo": null,
+    "battingStats": {
+      "runs": 1670,
+      "ballsFaced": null,
+      "battingAverage": 42.82,
+      "strikeRate": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null
+    },
+    "bowlingStats": {
+      "oversBowled": null,
+      "ballsBowled": 17,
+      "runsConceded": null,
+      "wickets": 0,
+      "economy": null,
+      "bowlingAverage": null
+    },
+    "chartConfig": {
+      "battingUnit": "runs",
+      "bowlingUnit": "wickets"
+    }
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "cricket",
+    "india",
+    "suryavanshi",
+    "vaibhav",
+    "vaibhav suryavanshi"
+  ]
+}

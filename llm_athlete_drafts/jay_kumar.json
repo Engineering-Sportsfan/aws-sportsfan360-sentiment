@@ -1,0 +1,239 @@
+{
+  "athlete_id": "jay_kumar",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Jay  Kumar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2006-06-10",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/15162076.jpg",
+    "welcomeVideoUrl": "https://youtu.be/799OaYW4IoU?si=ziZpB3P1HV4okXHZ",
+    "bio": "Jay Kumar is an Indian athlete specializing in the 400m and 4x400m relay events. He has achieved significant success at the junior level, including breaking the U20 Men's 400m National Record multiple times. He was part of the Indian team that won silver at the Asian Athletics Championships 2025.",
+    "birthplace": null,
+    "coachName": null,
+    "yearsActiveSince": null
+  },
+  "record_highlight": {
+    "event": "400m",
+    "result": "45.47s",
+    "type": "NR",
+    "typeFull": "National Record (U20)",
+    "phase": null,
+    "date": "2026-05-24",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Jay Kumar's performance of 45.47s in the 400m is a significant achievement, as it represents a new U20 National Record for India. This demonstrates his potential and rapid progression in the sport, positioning him as a promising talent for future senior competitions.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 46.96
+      },
+      {
+        "year": "2025",
+        "value": 46.29
+      },
+      {
+        "year": "2026",
+        "value": 45.47
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "2:59.05",
+        "holder": "Muhammed Anas Yahiya, Amoj Jacob, Muhammed Ajmal, Rajesh Ramesh",
+        "date": "2023-08-27",
+        "venue": "Budapest",
+        "tournament": "Kladno Memorial"
+      },
+      {
+        "label": "Olympic",
+        "value": "2:54.43",
+        "holder": "USA",
+        "date": "2008-08-23",
+        "venue": "Beijing",
+        "tournament": "Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "2:54.29",
+        "holder": "USA",
+        "date": "1993-08-22",
+        "venue": "Stuttgart",
+        "tournament": "Olympic Games"
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "45.47s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Sprint",
+    "achievementLabel": "Asian Athletics Championships Silver Medalist",
+    "stats": {
+      "worldRank": "174",
+      "personalBest": "45.47s",
+      "bestYear": "2026",
+      "totalGold": 0,
+      "totalSilver": 1,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2024",
+        "event": "400m",
+        "value": 46.96,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "400m",
+        "value": 46.29,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "400m",
+        "value": 45.47,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 46.29,
+        "seasonAverage": 46.29,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Baton Exchange",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Leg Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Team Synergy",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "45.5\u201346.0s",
+        "count": 2,
+        "throws": null,
+        "percentage": 50.0,
+        "peak": true
+      },
+      {
+        "range": "46.0\u201346.5s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      },
+      {
+        "range": "46.5\u201347.0s",
+        "count": 1,
+        "throws": null,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Jay Kumar has shown consistent improvement in his 400m times over the past few years.",
+    "peakZoneLabel": "45.5\u201346.0s \u00b7 50% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {}
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHYKjL96bAfR1asiMQKfb_NHcUP_EdV37LuaEseziAxqBBnF_QyGMXTt0cRDQLNOKXdc0UIb_R0kz1F4Lfmt5ZKUUIUBtwfcwh1hwTnKf-TyRTl0ky9orzinCZIlMaJW4CI3EuDgU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLUDlTpDSG7YDw80d_pW7wWOtVg1jdyB-QQbYOy2nbi5tr5mIn_fVrrQTsSxkdSwqvb6pxF4UlSwEZ5Rm8xf4fYTZs2jY-d2ZgzbgQ3G2hCaHNXjhDi3SGU2bbGXSs4XbFd8cu9a3wuMiXdwfV8W90g8Nf-pFoEagQRUhnBeyX150KgPIzr1Oo2rNkkFxGW9nvydJkH6P5tDayTOVKVZ32DKYADW_g4Ang3EJhf23L-EhLNMROKOrO2FgoC1Qbi37zRSr2dAcMP5DdwfuO9NShdJq75DForw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiBB1AkqS2acHdHwcPOPdZS5Dv-V9CQKnv4T7siy-CJUzOgaf5wPB0LItg74iqq8VGK6E_RYnH70EBkPARfDVjVs25Gd1uOLiDS8f9KIELLTjqVIhfTLELKvA7uYJ5ApREEUi6OF1nbktxWZleZAPigNu9ApXyfw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc60FV_l6Ftd9DQOTJk80kuF3iFGIJOgokS-fxYltzFvZ7lNJ5tIVqnAX2E3xPlA6spJnGodBywGejYYBKQB7ALaUVw9AlqayxtnWq0ritYE87q1h8XYFbNst8h2ypuKQ9LVvtNEjlCiPoN25XcnznciKyPX6Q_twDLCRUjEzqMqc="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-27T13:44:51.739967+00:00"
+  },
+  "performance": {
+    "primaryEvent": "4x400m Relay",
+    "category": "Relays",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x400m Relay",
+        "medal": "SILVER",
+        "category": "Asian Athletics Championships 2025"
+      }
+    ],
+    "stats": {
+      "personalBest": "45.47s (400m)",
+      "seasonBest": "45.47s (400m)"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        44.5,
+        47.5
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": []
+}

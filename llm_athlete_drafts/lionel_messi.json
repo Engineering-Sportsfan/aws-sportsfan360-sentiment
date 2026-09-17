@@ -1,0 +1,85 @@
+{
+  "athlete_id": "lionel_messi",
+  "sportId": "football",
+  "coreInfo": {
+    "name": "Lionel Messi",
+    "country": "Argentina",
+    "flag": "\ud83c\udde6\ud83c\uddf7",
+    "gender": "Men",
+    "dob": "1987-06-24",
+    "heightCm": 170,
+    "weightKg": 67.0,
+    "profileImage": null,
+    "bio": "Lionel Messi is an Argentine professional footballer who plays as a forward for Inter Miami CF and the Argentina national team. He is widely regarded as one of the greatest players of all time, having won a record eight Ballon d'Or awards. Messi made his competitive debut for Barcelona in 2004 and has since won numerous titles, including the 2022 FIFA World Cup with Argentina. He joined Inter Miami in 2023, leading them to their first MLS Cup victory in 2025.",
+    "birthplace": "Rosario, Argentina",
+    "coachName": "Guillermo Hoyos",
+    "yearsActiveSince": "2004"
+  },
+  "record_highlight": {
+    "event": "FIFA World Cup",
+    "result": "34 matches",
+    "type": "WR",
+    "typeFull": "World Record",
+    "phase": "Final",
+    "date": "2026-07-19",
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": "Lionel Messi set a new World Record for the most matches played in FIFA World Cup history, reaching 34 appearances during the 2026 tournament. This achievement underscores his longevity and consistent presence at the highest level of international football across six World Cup editions.",
+    "progressData": []
+  },
+  "analytics": {
+    "seasonalData": {},
+    "radarData": {},
+    "coachImpactData": {},
+    "consistencyData": {},
+    "heatmapData": {}
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-VYL9IWychkNOLPuiG6aO7jPhtLR8OS1zeAZC5eIFKX-mq7qQ7W6YuSjMsAfNDYm1C7U6XZ1g5nq2UmLnmpKMjICWvQAIiTFZuHGnigAnu04aFCo60fwUXGNkOL4afsN0i_Jd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb7r5Y4d98m9bk-lbbXiNdN5iiBZ3SwvLgcmp4ROPAGculYnokUAb4u7muigKHCiRTEP-0YhPJ99Ar1IqFw3Vs3BKXiVOnbt46wHZ-a84B1GQN-pKV-5O8UmjkWmkV0vbLy-5gdULxCdGbxA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTZwY03wWlzverhDWTujOrCFjxkxtx7_xy_nQ2Y2vNPxYt9RTlDe1WMUYTQj6Eih05ORI5K7d0T7P2uYlQZMuy99TMHh6-DA5ADBfsSpfU7BovJaR3pf2cAKGjwIid62yLqC0tLs1W_59r1MnpkA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNGQf0UHwXacdIFlQFqtr7DKyCC9wmCIXIUTr5X1Q7yoY2Mo0AAuc3DVwL4ZBf6ePjb9bzzxMMd8MNjrMQasI2DWwWbKdur7FClCr5WfKF6kHrAa3MZINN5Gp1qiDyoW5seC-Yvn6A1q95S4fMaerRJtCAPc_-PG6dSLYQbCRxZ9CI_g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk02g91yGoiqxkpx_qkr3IVytPoI_nfh_L4zwTQK2cxiZ72d17mNotSHhs83BYESwcOh9_d7Qj-my6Q6HXrIPhFSvPp7W5MY8jD3rKFAWPcg2sKxraYEjvuGgD5IrDqLzE9CqxdGhTI-6gxAXw95E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJERsJNlhaXfumFlUJtaYXLhHcLY-5hEi32WbClDtRZ4jA6SYQryP9YiS-XTZoaA66hLY9aZrNq4yxN7DAGT-J7bEGJIEocm0lhD9dTY3rKk-9dWFu0TXYhwPkOBR3hchYk1CrqTDTbfJcQNbXTB6osrNDy2OjLFlILKrX8wqQVjnQSmGPTHWikwY="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-03T16:56:41.325736+00:00"
+  },
+  "performance": {
+    "position": "FW",
+    "team": "Inter Miami CF",
+    "season": 2026,
+    "tournament": "MLS",
+    "format": "club",
+    "attackingStats": {
+      "goals": 12,
+      "assists": 8,
+      "shots": 85,
+      "shotsOnTarget": 36,
+      "shotConversionPct": 14.12,
+      "xg": null,
+      "xa": null
+    },
+    "playmakingStats": {
+      "chancesCreated": 12,
+      "bigChancesCreated": 24,
+      "keyPasses": 10,
+      "dribblesCompleted": 81
+    },
+    "appearanceStats": {
+      "matchesPlayed": 14,
+      "minutesPlayed": 1243
+    },
+    "chartConfig": {
+      "primaryUnit": "goals",
+      "secondaryUnit": "xg"
+    }
+  },
+  "_retry_log": []
+}

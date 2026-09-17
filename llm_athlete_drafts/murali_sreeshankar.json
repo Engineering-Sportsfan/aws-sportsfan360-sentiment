@@ -1,0 +1,457 @@
+{
+  "athlete_id": "murali_sreeshankar",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Murali Sreeshankar",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1999-03-27",
+    "heightCm": 180,
+    "weightKg": 60.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14734673.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=H4KcvXf6frQ",
+    "bio": "Murali Sreeshankar is an Indian long jumper born on March 27, 1999, in Palakkad, Kerala. He is coached by his father, S. Murali, a former triple jump athlete. Sreeshankar holds the Indian national record in the long jump. He has represented India in various international competitions, including the Olympics, World Athletics Championships, Asian Games, and Commonwealth Games.",
+    "birthplace": "Palakkad, Kerala, India",
+    "coachName": "S. Murali",
+    "yearsActiveSince": "2018"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 8.2
+      },
+      {
+        "year": "2019",
+        "value": 7.62
+      },
+      {
+        "year": "2021",
+        "value": 8.26
+      },
+      {
+        "year": "2022",
+        "value": 8.36
+      },
+      {
+        "year": "2023",
+        "value": 8.41
+      },
+      {
+        "year": "2026",
+        "value": 8.38
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "8.42m",
+        "holder": "Jeswin Aldrin",
+        "date": "2023-03-03",
+        "venue": "Inspire Institute of Sport, Bellary",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "8.90m",
+        "holder": "Bob Beamon",
+        "date": "1968-10-18",
+        "venue": "Estadio Ol\u00edmpico, Ciudad de M\u00e9xico",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "8.95m",
+        "holder": "Mike Powell",
+        "date": "1991-08-30",
+        "venue": "National Stadium, Tokyo",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "8.41m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Long Jump",
+    "achievementLabel": "Commonwealth Games Silver Medalist",
+    "stats": {
+      "worldRank": "12",
+      "personalBest": "8.41",
+      "bestYear": "2023",
+      "totalGold": 10,
+      "totalSilver": 5,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2018",
+        "event": "Long Jump",
+        "value": 8.2,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "Long Jump",
+        "value": 8.0,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2020",
+        "event": "Long Jump",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "Long Jump",
+        "value": 8.26,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "Long Jump",
+        "value": 8.36,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Long Jump",
+        "value": 8.41,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2024",
+        "event": "Long Jump",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Long Jump",
+        "value": 8.06,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Long Jump",
+        "value": 8.38,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2018",
+        "events": 4,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 1,
+        "seasonBest": 8.2,
+        "seasonAverage": 7.9,
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 8.0,
+        "seasonAverage": 7.99,
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 8.26,
+        "seasonAverage": 8.26,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 3,
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0,
+        "seasonBest": 8.36,
+        "seasonAverage": 8.18,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 4,
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1,
+        "seasonBest": 8.41,
+        "seasonAverage": 8.29,
+        "currentStreak": null
+      },
+      {
+        "year": "2025",
+        "events": 2,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 8.05,
+        "seasonAverage": 7.9,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 3,
+        "gold": 2,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 8.38,
+        "seasonAverage": 8.2,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Explosiveness",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Approach Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "< 7.80m",
+        "count": 7,
+        "throws": null,
+        "percentage": 26.9,
+        "peak": false
+      },
+      {
+        "range": "7.80m - 7.99m",
+        "count": 5,
+        "throws": null,
+        "percentage": 19.2,
+        "peak": false
+      },
+      {
+        "range": "8.00m - 8.19m",
+        "count": 8,
+        "throws": null,
+        "percentage": 30.8,
+        "peak": true
+      },
+      {
+        "range": "8.20m - 8.39m",
+        "count": 5,
+        "throws": null,
+        "percentage": 19.2,
+        "peak": false
+      },
+      {
+        "range": "8.40m+",
+        "count": 1,
+        "throws": null,
+        "percentage": 3.8,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Murali Sreeshankar is a consistent 8m+ long jumper, holding multiple national records and achieving significant international medals.",
+    "peakZoneLabel": "8.00m - 8.19m \u00b7 30.8% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "value": "8.90m",
+          "holder": "Bob Beamon",
+          "date": "1968-10-18",
+          "venue": "Estadio Ol\u00edmpico, Ciudad de M\u00e9xico",
+          "tournament": "1968 Summer Olympics"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "value": "8.95m",
+          "holder": "Mike Powell",
+          "date": "1991-08-30",
+          "venue": "National Stadium, Tokyo",
+          "tournament": "World Championships in Athletics"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "value": "8.42m",
+          "holder": "Jeswin Aldrin",
+          "date": "2023-03-03",
+          "venue": "Inspire Institute of Sport, Bellary",
+          "tournament": "Indian Open Throws & Jumps Competition"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyAqL_3A4pfqRWbDGx0pE6R-p7eHHIPD6qwAOnso4J0ybSAlAC__LiMa0QU5dgO11F6gPnHkXa0nThWCeNwwvs6dgjdGVq49FX7IEIonOJmcFcslEjTBIlUZhae-Ewcv9iCau_XsB6I0kNGw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNIzBsH3cxlowg06AlsUlb5X8g2dfoEpZslGKl1l58-1MOy78xbf2s7O6VAA_aj8MJl_yLak-9tDZp3MmXbZXxNt2JDBGrIFmY0aKmmp35_VFw-IcHeUvzKxYVmbgNADfNZS6K_egg3TFZCs7iWac=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP_JCfKLbMhkKtpQ4CRgrbi-y1qTmObWxebRtUdmaaSiX9_y_xehmS1N08HIW5qXqeRFeLfdCwyYDTYoBpGZ_QFxt5StiblUK6rc8slwC5TcYhHI7Uwjsm09ZJnwEjxUOoy2zlYXuM68--7c0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG4Sq_tnuVfOOSCQFhTfmts6aXfg4DQYn3yattMbTzmDpWHsGsCujj_OejgCI81PCga2JRxPMGVjceVjVJDTuICJ0ocBR9dgQRz6VgRIe1CiUF79i4rLyLM1VdwLoWt8GtM3izt3KAO9CiRnoc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPukKOgqOMMSPNwBzwDaljOYzpPXr6c1kr0Q_KdSeFoQoGlUvHkINkK2loT3xLuIzrdZD5LbPBJa7paNmCKbcBkBC1mxUX7U6IEw9KvsUfzSwfm1t4sjlyuXra9hxN5htryZVL-geXnzZf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFTWkwdTY6iQ_VL9SbXDb_n77kNmxzbQ4kzqQZ2ODWtiKCsusAIyrCLBmPyrhWzAJVANAZBaWRStuA0fqUzpilRzyRrs0RxpEU9LejMM8hGiTVB52EVoSfdHN7t1I37dOsBomns1-CB9S3ZL-UJvlNHL66xJGrU_subsyoNYBMIkec42lwxCyB5uxxqMrZWrsncIxyPKTid0a8Ew0jSVqf8is7mYYz5orFVqHN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA2-tv8dRG1_LDn78MV_5hzr7JXN-GUcuhIbAdMPtf56GUnyS0CAlDR1LF3u0r-QG9302Fqyt8HugixWQCEJFFHiNccjbe1pWcQEXNbZi2vd9vTHkJeUkvgTubBx073KerEjZ9c-orlzt48w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy7LgR1ChlElOW5AvpDGZ7qU111jA3l-t9LVgPEjQ9kCkmBGkE_gRc8oG5Y9kbeezD8Hk8CJ9TumGG9wB_A_rDDcWvCDQjI6x_PvqwNGvPcILkdHprE43uWoRY2glW0Rn20Dkh74b9RjjecYuFqQQIBkwBdM9biyDCB95fIcYnx3fhluc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvOQRtsTPiS8EKfqIwkZRcVsy1Ve0_YdWzCtH6vsPkDYJ1WzmZVAahz0wL4gmt1TilIZC4Erk5MjRtzQjK2m65nWBOjWddqfi64bb3sDUuNbdYBZd1Q75Imib0NbnTfr8D2kqDrMQ6XSuVNHhbVrvrtM-L169ec5s0j5ExPwX4p9wd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS7P7MOSgww7P_ct0dxTKJ_RFTvlpqUPt1TGQNNQowGKUPqwSPM_Okv5nzbg8EYIErac2lKfhKjXTO9la7EkjAsh9U674Mz6X3-uLxvDYYuhYG_AcERuY7rmB-7EiEkwCnRJlpRq7wf53gX9qH",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZAQfAQr8q1qj2_ZCiQ0hPOzIJ4cY6A6CMAARlm4mBYIoJC2ooDC9beyu2sTeZvdhgHCiUjFpBKmozJgbnev-TDkLQ0L9BD1aFL7xTN9dqsyvE2hCYtHP99U4rUje9G2JKbY_CeHOnC3VIIP7BP5Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8B0qdhnjtb71AC9NpkN3ny1igd1pZvR8G2Jwx5_1zGLXJ4TIM7DTDHkyC30AA5zKoRReKd-hPtyGLMxSc6rYX2XJCOW9JR0TC3QYfYuiaDB3TYEL46oU3yVIoA4I9fGT8-GMS1JEBqMWONYc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMhXGnL7d5tS1Z5fIzDD6Q7XedHbeT3FmtEfOCt8MDIfnpKQzEwhioquf-wBiLN-6TxZHc4JJasVjtDXBRi0mDcsqy8ULbghGiln932yKhV7Rsv5-KRW7BGb3znxF_eIp8X80x5UWWU9Pt4xGPX05Ps3682txwm2DSOYGQxo5t68aaROPBlQSwmTyLFficW7t2_wA2BS6d1Nv_y7xfVSw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOsCK_LKj5Ovmdafv545Xl0T4hr6WJUqoHj8i6GyisonPtZsDZE5R2_4Z7HGZ3c3iM-uhyuFdzl09NheENPwkTcx7dySuwtqWMvIHrNnPNCq5SzTvqRwfTSIsgu9Ym8pyTckq0R_vArABQLRXHAc1O9xJPlznNEgMyX9OCo8Twrcbu_zDdpDtIiL__oyO2HP6TYU-td9_rgU59VwDDgxOGjdkbzgQaNyoyUVFO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb_1fKMMLuue98athaS9sSeL4ltUnHRZwrdfgIMAk7dTatXAfNozx-lYc0cdFTAn7CYscr7YjrcVWvCR9JHkC5Uha1vMa7Q-EGO7kMHiWQCgla9AhElD36x6j_GwLHytDhsUl0lO3HJZhU-w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE84FqTw_iGvCECBUuZywQW8qylmxQLTpBtOMjCVbsXXp0UlgVONF8ub95WahP0_clYSO8B-U63-ehYnW7jRSaLubqhmciKaw4SJL_W2hWH8bxBgz0giYT3qQI6xqjljUn1k0fORfsIn-jqnwEaSU4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTNsxqbyragKO33EpPjsRE43GCNXuRRNQuA9Zs64T8UEKNihosd9SvVcHX1JS8YoUw9psAZAX0nlKMbnWT-N_riNIWwhfJuTucEcLPV_AwkuzeC0RkOnI0cvhLTHJKbGivuXoOQIQ3lvNe295nl1wrN_lGKSwEoM31k08XRkqAYiJ-uA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwbkn9mDwkziwgJ7WChHKMASaKJIGqHi7ppOLj8OCIgDdRBW3IzzfepFAt8RL986-_Enl3ytcI9bid0WfIcfRMkJyX9DkrzVaQTFQaBlI3Sso36R0w7LGTG_iOaW3VVgXpD5Bw14BbzbvEq--9sLHK4lzFOm8UWmw_Ck_1TQcx6Er0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG05UR4HXFDsIOxXW1oATV1JJZhEVg1Dl-RhTVToWek2fSrgy2UKygDT5qLG25EtNDStT3aCsWUQNcAoBP71DQQ4GRhThVYaWTALiSSVnzkvm9R_ntA2W1hHBVzrAJAaO9cZNImsYezZUq1",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkSFXgRbPSIZEiFwH5aE9LfoXqIqcfRXZiB0DtkO4xtERrFM1SF_U0TNlHVymZ_6e0b99FULqKUkqBVE6KthE8iXNy6wtIeP1fTeD_QgMnCwLIp4KHqAKAy0dQ2d50Sxb6lJE9foskOjENhqgkenvBIc5WdX_VdqG-8u5khZRqZKIsC54ctj6Urx4qXZs46TVgBE4amO1sMoujRvTjTc-rBKvtyygg13iT5apylF-iPAvnl7629d3AzXCHNoRYpK7nT956xllfwb8nhRNsWcmSoBLO7V-PxlfFW67t",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOGdvrGDJJeZA5rijQdpKhRGWRMWdrud1wPHSuvBn40p3yXUvuY2GjA0ThPAP7OSxb6wos0BJ5Gly7yG8ao37vxXrrlsJEu6C4A6_czzFleNa5PhHYQD32--v0zcsA_epK2P81IkmmCMvuwi3vdzskJsjJF9u3N15JJ00ni9mE8Si5Pyyp28bfn6sOpgcqmGCf_5g9_7sLq0wVdPEOUQEVLFQFe0e4cLpa2HoWb4Cy1DGgHwrIt8BpNa6RcLzYTGWdGwxQ_4GKcTEOaUeX",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUlPqn9A0WdS0LnqLn4HT8GplG7tbdMssaUL5TrtQKbtCg67Tc5QSQXccAlGoB4oq85uqo8D3dRDiARgeqnOVcAevKWhDSCodb9ziw9uk4c7OvSLTO8jZlj9tg2SheRvn8WS0Juble_cIrIEJag4l9fD4x6CLI2h3PcRcYtRDF6dWbpPY2sUSDxNNIY2JzBIOCkUfVnJijo-L9fMo1j_SfWxcsTgrOi_C-U9voycaFZqKiueKci_flg0Y05BlGyU90C12CDRAzVnX-8w-ac3uRtfBvZi92ev01mVeOg-nSlfgT"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T11:03:24.205894+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Long Jump",
+    "category": "Jumps",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Asian Games"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "SILVER",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "BRONZE",
+        "category": "Diamond League"
+      },
+      {
+        "event": "Long Jump",
+        "medal": "BRONZE",
+        "category": "Asian Junior Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "8.41m",
+      "seasonBest": "8.38m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        7.5,
+        8.5
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

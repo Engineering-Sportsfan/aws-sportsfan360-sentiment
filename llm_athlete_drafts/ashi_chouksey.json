@@ -1,0 +1,275 @@
+{
+  "athlete_id": "ashi_chouksey",
+  "sportId": "shooting",
+  "coreInfo": {
+    "name": "Ashi Chouksey",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Women",
+    "dob": "2002-03-07",
+    "heightCm": 168,
+    "weightKg": null,
+    "profileImage": "https://backoffice.issf-sports.org/media/athletes/portraits/SHINDW0703200201.jpg?v=128260",
+    "welcomeVideoUrl": "https://youtu.be/u3SX_H4Jrzc?si=d1xxhwMcg1Nqwi3A",
+    "bio": "Ashi Chouksey is an Indian sport shooter who competes in rifle events. Born in Bhopal, Madhya Pradesh, she began her formal training at the MP State Shooting Academy in 2017. She has achieved multiple international medals, including at the ISSF World Cups and Asian Games, and holds a national record in 50m Rifle 3 Positions.",
+    "birthplace": "Bhopal, Madhya Pradesh, India",
+    "coachName": "Suma Shirur",
+    "yearsActiveSince": "2017"
+  },
+  "record_highlight": {
+    "event": "50m Rifle 3 Positions Women",
+    "result": "598",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Qualification",
+    "date": "2025-02-02",
+    "city": "Dehradun",
+    "prevRecord": "594",
+    "prevRecordPlace": null,
+    "prevHolder": "Sift Kaur Samra",
+    "improvement": "+4",
+    "improvementDate": "2025-02-02",
+    "aiInsight": "Ashi Chouksey set a new National Record in the 50m Rifle 3 Positions Women event with a score of 598 at the 38th National Games in Dehradun. This score surpassed the previous national record of 594 held by Sift Kaur Samra. Notably, this score also unofficially exceeded the existing world record of 596, demonstrating her exceptional performance.",
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 589.0
+      },
+      {
+        "year": "2023",
+        "value": 588.0
+      },
+      {
+        "year": "2024",
+        "value": 597.0
+      },
+      {
+        "year": "2025",
+        "value": 598.0
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "598",
+        "holder": "Ashi Chouksey",
+        "date": "2025-02-02",
+        "venue": "Trishool Shooting Range, MPSC",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "463.9",
+        "holder": "Nina Christen",
+        "date": "2021-07-31",
+        "venue": "Asaka Shooting Range",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "596",
+        "holder": "Jenny Stene, Sagen Maddalena",
+        "date": null,
+        "venue": null,
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "seasonalData": {
+      "labels": [
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "scores": [
+        "589",
+        "588",
+        "597",
+        "598"
+      ]
+    },
+    "radarData": {
+      "axes": [
+        "Precision",
+        "Consistency",
+        "Finals Nerve",
+        "Big-Meet Performance"
+      ],
+      "values": [
+        90,
+        85,
+        80,
+        85
+      ]
+    },
+    "coachImpactData": {},
+    "consistencyData": {
+      "note": "Ashi Chouksey consistently scores above 580 in qualification rounds, with recent scores reaching the world-record level of 597 and 598."
+    },
+    "heatmapData": {},
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 1,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "tournament": "Asian Championships Shymkent",
+        "seasonBest": "462.3",
+        "seasonAverage": "462.3",
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 1,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1,
+        "tournament": "Asian Championships Jakarta",
+        "seasonBest": "447.0",
+        "seasonAverage": "447.0",
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1,
+        "tournament": "Asian Games",
+        "seasonBest": "451.9",
+        "seasonAverage": "451.9",
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 3,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2,
+        "tournament": "ISSF World Cup Baku",
+        "seasonBest": "405.2",
+        "seasonAverage": "405.2",
+        "currentStreak": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAWyEa_FNciY7D7bHrnZtuKDgJ2FqtJsgQ0UiC22Pa69ITeY5XWUIKWaGByfhGI9qyiwXzo8X7Ex9K8SNgE_9ZwgvmFW56FnSGUAyce_5JbY93gwn0DsaKHEbT_6U5T16BFYfyv2Q=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOTK5gcUDd4cV6DLhHbvGxJqm5YP0-unyEjBNyWNEmE7plFoEi-yoYwZPm1SZX-GhMttatJ7y__Dp5YTPCxwQq89NH3zNnxI3uOrKbDJJU2D9Xc6ioCfEQobMhmEcN05dBNv1ZrCqihlyzcUPBTKme0KSJiZ1-f8LslREomi8LOATephzjPKAbWvC_gRm7tbDXq5VcRwKu9hQ12e-nwvHSd-OwEKkNaMNV07fIfg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERVDLsHzHt3o_64pjXtJ7mvMK2i7jmc3lXhIDSHzJcSjxjWsE03ji9sf9Eyrv-idxz4ZbPn850JQ4XDKMjYQIAaKe72HBNE6KCi5PJcC07KaWkFEaKwG75Dh5tk7QjPt0JLkE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg_CgNzZoClpmd-awp2pSwGSjPCB09rAJMUb0hb5ts3nP4KA-bUwbVJZeQyQcu004dkqA4d6oMmhrWFBiR8NPWtLnHUHlCdVYdsplneTCGnwagUDkQf7y-Y0XBqb2YnINt3GE3-VwrCw__HKWZdXPxuilmL-B7TWm_501-32bTDFXnuYnnA8XkA78jMgzx56qWGGKIDCJU1EK6-cP2jqB0iZauEhB-uZiHXymy-e_dVkONZ7lTYWCl0dmiOR__",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2Eg5Cwz5ah9-6H1mEKoPf5l6gRKPZovTlglkgJVgXbRG1i3nlmFVL362TEYFxRN3J-QoBS5pQvWV7kvloXBrcU4qRUSKtIWX8U-0jXKmOPZGGEkssf9qCaWv86154OCNx2l20N05up80MsvP0R26GY21_T_Drl5TzFZgA5bUSOE8jLJg2KnNu5IZnLxmaGE9aEEo63xGZRyW1xT3PWxWgSFTZxu9ztZ1n8fW4Orb8QL_Wsx11OHW3GKGWZXPZRwhe3K0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdDQsKXdUNk1n-WP8Gr2BUh-jX4_nfM2jsCJt3G3PmdR2HOfYPdATF4o5mdkTZSNtqZK85xDzdVJkEo3_vbMo5lt6lJoJ8OcrSP0kpnSSUlVPXCB3J-BiDW8DGNxtbKxgcXuQY3KtGqbMqrQUTG0zKCigLpooavq6Ax2tVrysmEm3jWpkh8UmFQl1st09YgxaGpwrM8vn0yvQN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-P2jJfbJkKB1q-fbpkak_bFcSglYaI6ZG7zzNA0p_hmfTwhhSgIA9jjyIq0gnR3l8HL_mnwy5jTu4KlX7ZVw5uGhWw4hP-ntww7PKYmVCXyiF3nZKV9mv7AgnqNrOEvZBVILCUL6s3q34XTl604M2M-QjvM6UFKl8HCyY3IOGYQDCZNHF7pq7omxI_6r1Vfg7RxzlQWWFI9NHgr2k6m6y8KhT8Oc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1dFAwHggNXLNGMGd5Exj3u4v_uYYWReiSwOCSYREjTwUJZtudyU2j3l_KFqx4HfoRDo3NGHeS8tyQD0epZeTdiF2i8BFl4A0cTUAXgu9L4BSRs6lfQwL2t6ZioxJFD7MBHzkgFNmyiasynRYaqKqIMO3GxOueLhl49CwN9eKzKpAffw6S6LFozS-9tuaw_cqzKkbFWK6EyZiGt3ub4Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz2kzELFu9Psz2uhjxoKbnVZe-9PUkfS7ohKBB_PAHmVwdPjYbmPt482iTsBFP7_T7NjcolNptbl7IeXsXyxtJlV9imS9OTk5n8dW4K8fpQLy2UWLjgIxcxHPaV5cVEKwmwyRPD0E2CfPdMD8uD2YzSh4Wj5eeipHuE16csm2t50PL3vfwMwZc_U9tY__d5EQ0uiOOsFXgZ1pANQtTKEw_bMxlY-LKLHPb_qMpz1CAbIC-nAgqVjO5ecXxCoVaSJ6zjHEA20_oy6R1rqk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA_EQZz4C-ozEwTEU_HOe_mirbTtY8XszQw27X_DJ5FUz87tWnFfLkeLqkVtogaoVhSnBGxzz6xe1K_4s3_qSNCXauGG3gtSaS3HEcVG3n0vVE-iv4FmJFPksfTXtclQ4FoLPWGwAjIjNzKsS4qLN8",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaG583HACIJvqJiUCqJIQ371n-fWS-9BEDgAIYU5nm5hZHfjTIhm3_KkihlSInSpp60FDv6zf3ZkMf9HC7uODdhOiOeUAYhvv0tITVZSmqD-oprcj1YEujKXL7lw2Cb5DK1Cblaz6oiUtqH-bP2Y71MncumOawkLANfwuHUi5MXHhglQ8nX1YQLLPt-tzB6L2Fjk8LUntFJR64iPHxHjw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKXpLmw5BO_6CWCB1TCT8Lh_dW0dkDpZmIpL1tb_Eq9Ht1EOGpiDO-Vpj1ZQUyFJy2Hb9yMIM2_V3ybSuCrvJhewQ2pPO27qkJHEEcu0bbnKJ7YhZxRlzu_ZBFzofQ62RWItJxgTiY_F26knx3cPgo1uKWET8rnFMSHgBQA5jSt6uqSILED_n4K-5ZGvROSLiNtzzb6ause4D51rRDc8nXYEKC0CKKYh-2Bh8LIQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDn_5zx64FSW59LDYWeZqQkUDoXRm8fwkvjc4HquHSZEuA65usiqoUuhdMZjBFFiIrtNPIXFoFNI5LJ2bdpMWeWRoUCbTiIICY40wlUxsqHc7o9vThO-m5fYquLJ10v1zok0caiFU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwmvLhdW4RwXGcbU6Pi9_hGWm0okNlGf5UVUfDnbqeJxi0ofdD08uVW_0M3-0UVyl-cKOOE2OmljyT5WBcTRmNKxCxeXIi_aP8SYf-4WcP0S1Ol10zc2W4DucRD4CZElUBe8M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuieiG6Wg405N7PoOpnH_WPLUkerNjxio3w5FsYmZF1u_hDpaBRBnJNo-hfafbYjRCBxZincB6obFioQESz0LZauLfik1X7DuOrLxn2HMujYhZ9vxsipNAF5g8VyeCRnFv-uDPWuHYpasoTk_Vb1Z5cT1wz9hyyk4hI6KHooffKEWmKG8qxn-IHP1Lr5rRQs3WJ0vgbkG15ddUZ_hNbpRlqBo9Lnr80DmCT7r54r8Q_JmfUK6U7XFIWNHmL_te",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExZS6lrruOTEUBOyVHtFWA8kLYm3tu1fK-tn9ubSYCbG8uYiilG5BnGUbf-mbqpIwoFgDUJ3Cu__i3h0naB4-MG9a9PtcRxx-ZJt0GpERW8k0L5e69e2avDiSh0oPWYIFib9luxyedqfdJIcGHyhZvVzmsLVpqzhtCrb7_MwxKo-9_8n7iWOUjaUEKNLgQvtOwWlNvxxW3gCg041Jo-OMn",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETCc8EQfbmO9izeu5C8tYa9K8dULmMvrV7zyTyavVdoHbxKbANrwmMH1i-WE_W7zhyS37z4grrMGBb284BhQuZZ2bsg3gQ_Cu-PEGEzUAzhBiV1P59WKAwiHhs89GHG7CDZMDnqMOQDfPA-TDrv2jh-BEo-LY6sgAugMy7V3GGTgo33cegkjnAKL3iokc2NzdpdMRQL6dewuBwCmhUAsF2UiJoZgP8FWjaMTQD4qykdciubU0H_jgu6tTlXIN3gTvY8Xs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGskCjyW2nIiYalzvwjbIfPwWmBV3d2ApH7jgKmRgIHBm9gS2Xd27P0RWXwhRCjsnAADoZ6z6GRh9UwhtaBAdZuxwH4PG1rIJFYT9T07nqaW9s6-e6AeTLWggzadx6OOXOITcssLG2j7jHjatTznkyeEsFK5INNMEL7OMs4wFh9QM2V5kn8Xx-gAd-Iiq3bbjl-ghhrAJ-NyLDE6BUAlHm-h3zledey4Hjz39ekYsisoBCix599XptfR6q3OtkFCQ3vCCFeO5SZ_wz0",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMJaoI5gOKGsLNiTZoV683LpOq_sHr52F6Byl9OxtkEsIUCaLfr-A567e4VCgUR9PDFBYmc1z_bCaQk0cn0DtM2GlsIYmNOKDVtpPK5tlrd2WmyGPewI0NKY1nYQSZ3DIuDo8jIIK1Y6fT6oCdDKVTY_gIQ9J-CQkJC-pcEVv35XjKDpFMKy7j3alws8TDCFJXoqBDtuUMfu5oWtME2vIZhFsQnyZy2DcrYTHtrn_NUu02Rt8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhtRIdAv76rehbDyryUFbFxa-txmvlEGL7bJUBV02_Aun3vm_Y3CVKJmJGGkr7pQOBdjS7t_9ePWOTf4Nb7Lz8FY7VaKnnaL_szn1-gBmEpv3yjvhfz_1AV_iSWNyGIPK-frhnAQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzzB0gIkhoXXa-Q1Op-Q5KJqtuKwvzl-i2uTwW6HCUWBncPr9QRl6e1ocAIfNAXV3MQobHQORBL6NwWpVWosO4nxq_WffoTnrQvXbqVhRFnaU4PVwxkb80MmiBgvlU5V_-5-CC8M1XkT9r_dv3IQwlcgVHZplIH2JTpK9Xuk8jeTCs1G-Z0fE5wbyiGElcOssWCpfx4QP3EDg5eqpHk8wvZr-d9Xc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1iavHUVXvAjOiNtI_4ycluvFSa0JDCZQUW1rxftXQxcShP3FL11fcn3gTFFhqvqGxAfjJ4ChL_Frye-WvjEPtaZLVgdLJZVNq152liTdnZGrUTxRnS64j9w3bpRZNKHKyUhY-2mmAtzR6KnwjiKpGH67C9BqDry2BcDA9PnklCrmKT4ZjRSSeNcDAQcGC77S2mcM70JlRHEOoUwFKSg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFByQW57Ar2xFuDlmhrLPKrGu8Gxz1n85f14CODRKmUc9tfoX44ZZ4P0XuYmuEkXcsfOZeKe-ksLt_6kUuGG4oazbghZccZjaUuzXiFuV70Cr6fP9_kOYXv4AP_OvSaDgNpeaNkzApZQUE1t7C03qARytzASzn3T5OKNAYFD0ITX7OgyDGdwQYt_yKg-gbukIyLe5JSy8aXKCpDhV8stFx6NwhHxvov0wKYwPgRNmu3TZObclgpWLbXbwRGcJw_WEQT8heDKoQ6ZMAQcbU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuIWipJCSty31TdgnbGWciFu8OsWH11hD_6r1IWn4u97Or3957TglRa2VddDpqhaiLM4MzXOaTAe4jq4jA0vaGPjF2AccKQftBaZzpL9wGv6hF7WB-wSX23TVQKBcrwc_8iF4fCjixUJWL2f-qIyuNyaTILF70J1OcCQZn7bkInJzp7mPESo_l3teGuL2t603MnWRCOvBvQkkXYPNstas=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIxqvhBGqNDvqlWr6tNA8d27gOw2U7TDoIeLLIIQhpohh7Qn71RJvO9XNGBnuJR76zJqUOk4hXOp8uDGizSrA4SMtfE7-96KxAI1RQrWnU4T6uAdQ0eqZ2KNKA8QS2N23LawSWejEAKYqjxtqAo-vhiv2TLxknPC4JBk-T0I9Tq9bj0aJWaCgSotBcx1pCLKQtM6ajrF_U_IdL7ynGteew1pwU61dS3cUdNBIxMzxW96E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYLBMf1NzdfEEkUDoaHA0HWh3t6D1zodQ2Mj6hBFaZgJurxNWU8DFNQLiaVL9cI8raVyEwMZD4FEhDvVTzt5--RpZBXhT5l_i308jK6JgtjgAsaRAb0iG8VQ_k-9wkJm3f2F9kZsuUOmZW_FzC5HDn"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-12T16:19:57.474468+00:00"
+  },
+  "performance": {
+    "discipline": "50m Rifle 3 Positions",
+    "category": "Rifle",
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "ISSF World Cup Baku",
+        "medal": "GOLD",
+        "category": "50m Rifle 3 Positions Mixed Team"
+      },
+      {
+        "event": "Asian Games Hangzhou",
+        "medal": "SILVER",
+        "category": "10m Air Rifle Team"
+      },
+      {
+        "event": "Asian Games Hangzhou",
+        "medal": "SILVER",
+        "category": "50m Rifle 3 Positions Team"
+      },
+      {
+        "event": "Asian Games Hangzhou",
+        "medal": "BRONZE",
+        "category": "50m Rifle 3 Positions Individual"
+      },
+      {
+        "event": "ISSF World Cup Changwon",
+        "medal": "BRONZE",
+        "category": "50m Rifle 3 Positions Team"
+      },
+      {
+        "event": "Asian Championships Changwon",
+        "medal": "GOLD",
+        "category": "50m Rifle 3 Positions Team"
+      },
+      {
+        "event": "Asian Championships Jakarta",
+        "medal": "GOLD",
+        "category": "50m Rifle 3 Positions Team"
+      },
+      {
+        "event": "Asian Championships Jakarta",
+        "medal": "BRONZE",
+        "category": "50m Rifle 3 Positions"
+      }
+    ],
+    "stats": {
+      "personalBest": "598",
+      "seasonBest": "598"
+    },
+    "recordStats": {
+      "olympicMedals": 0,
+      "worldChampionshipMedals": 0,
+      "worldRecords": 0,
+      "finalsAppearances": null
+    },
+    "chartConfig": {
+      "primaryUnit": "score",
+      "secondaryUnit": "hits"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

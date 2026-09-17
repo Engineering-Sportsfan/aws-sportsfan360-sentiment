@@ -1,0 +1,351 @@
+{
+  "athlete_id": "yash_vir_singh",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Yash Vir Singh",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2001-10-22",
+    "heightCm": null,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14818383.jpg",
+    "welcomeVideoUrl": "https://youtu.be/gvcix5uDX7w?si=9N8KOHolmXijQ2ox",
+    "bio": "Yash Vir Singh is an Indian javelin thrower. He won a bronze medal at the 2026 Commonwealth Games in Glasgow with a personal best of 85.41m. He began training with a bamboo javelin under the guidance of his father, Rai Singh, a former national-level javelin thrower. Singh first broke the 80m mark in 2022 and has since consistently performed on national and international stages.",
+    "birthplace": "Jaipur, Rajasthan, India",
+    "coachName": "Rai Singh",
+    "yearsActiveSince": "2015"
+  },
+  "record_highlight": {
+    "event": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "phase": null,
+    "date": null,
+    "city": null,
+    "prevRecord": null,
+    "prevRecordPlace": null,
+    "prevHolder": null,
+    "improvement": null,
+    "improvementDate": null,
+    "aiInsight": null,
+    "progressData": [
+      {
+        "year": "2022",
+        "value": 82.13
+      },
+      {
+        "year": "2025",
+        "value": 82.57
+      },
+      {
+        "year": "2026",
+        "value": 85.41
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "90.23m",
+        "holder": "Neeraj Chopra",
+        "date": "2025-05-05",
+        "venue": "Doha",
+        "tournament": "Doha Diamond League"
+      },
+      {
+        "label": "Olympic",
+        "value": "92.97m",
+        "holder": "Arshad Nadeem",
+        "date": "2024-08-08",
+        "venue": "Stade de France",
+        "tournament": "Paris 2024 Olympic Games"
+      },
+      {
+        "label": "World",
+        "value": "98.48m",
+        "holder": "Jan \u017delezn\u00fd",
+        "date": "1996-05-25",
+        "venue": "Jena",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "85.41m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Javelin Throw",
+    "achievementLabel": "2026 Commonwealth Games Bronze Medalist",
+    "stats": {
+      "worldRank": "23",
+      "personalBest": "85.41",
+      "bestYear": "2026",
+      "totalGold": 5,
+      "totalSilver": 1,
+      "totalBronze": 1,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "event": "Javelin Throw",
+        "value": 82.13,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Javelin Throw",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "Javelin Throw",
+        "value": 82.57,
+        "rank": 5,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Javelin Throw",
+        "value": 85.41,
+        "rank": 3,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+    {
+      "year": "2026",
+      "tournament": "Commonwealth Games (Glasgow)",
+      "events": 1,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 1,
+      "seasonBest": 85.41,
+      "averageThrow": 81.25,
+      "currentStreak": 1
+    },
+    {
+      "year": "2025",
+      "tournament": "Asian Athletics Championships (Gumi) & G Arzumanov Memorial",
+      "events": 5,
+      "gold": 1,
+      "silver": 1,
+      "bronze": 0,
+      "seasonBest": 82.57,
+      "averageThrow": 79.11,
+      "currentStreak": null
+    },
+    {
+      "year": "2022",
+      "tournament": "Indian Grand Prix",
+      "events": 1,
+      "gold": 1,
+      "silver": 0,
+      "bronze": 0,
+      "seasonBest": 82.13,
+      "averageThrow": 78.40,
+      "currentStreak": 1
+    }
+  ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "77.0-79.9m",
+        "count": 3,
+        "throws": 8,
+        "percentage": 37.5,
+        "peak": false
+      },
+      {
+        "range": "80.0-82.9m",
+        "count": 3,
+        "throws": 8,
+        "percentage": 37.5,
+        "peak": true
+      },
+      {
+        "range": "83.0-85.9m",
+        "count": 2,
+        "throws": 8,
+        "percentage": 25.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Singh has shown consistent performance, with a significant portion of his throws falling between 80.0m and 82.9m, and a recent breakthrough into the 85m range.",
+    "peakZoneLabel": "80.0\u201382.9m \u00b7 37.5% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2025": "77.51m (qualification)"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2025": "80.85m (Silver)"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm8mIgGZsjx7w_Hblm0beABpD6vbsdfu7B2p9egZdUWxUdnPJuHfcEPxM6WAblZ5KjRzslxC8S2GIG42XtFPibBKm2XvVbFq1eOOoUCIp-eFSYq_qqJdkYpbSntlKkP6kouTki5Ky4TQpwFd9eQh4kG64t0Bxr3vc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJuZYWFg12nmKrCJ5yj5Hj2pUIIIoiCgySoO1NqmJi2S-hsZLDMLKGZPaFDcDLKo82QAjDJFt6zE_ncnx0nL3f_VWmsKBmTsnet94_7sNXpuiB6ZkfilN8MHw48XIBllSYx4mUZKgrtXdoSqRKVCuCyr-gJiw2qg6Vo7qXCdN52vmgIA6Z1pJPrQIF03B",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqqQEjlw2PIYx5MqN3A1U_ntGDTXNx8R3r5OC5kiReV6Xcy0Nb6_4-SEXNpXS3CU0weibEuS71RpOwmNSQDih5VcwEed8vHv_yb1ikwvRgXieleG7dreo24i40v8jz0nO7ZPI5Zn-1lfmoDgoRWCqblQdt2T8ljkjvv11lc_E5wKMszbp22dOeNaqxUVMJW6sA4FOhucBp2Suda-IFKOxb5SZ22WMotcVxS2Xs77VqRWqYAOHnvV6lJhISNopH9lHQ_TL8NX6456sP5jDDpxYw63M4tpJfpCXi",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRoXnaV70Sy5EImsE-W0Nj3NT7sBKZu1oGnNyLNRdlw7zYzRN1-LQJ-KBsV26MmVpEhs9dZpqSRX3HqAj4ggNQbSLLpKNfQx7sr3eMGHsuWLVFVERJ9mEcn1RioxvzxFlHAJ3GmrYvu23yR1mxIVsaLsErMq9Z_9699OCQJaxhu82TV1SKtXxLhDGpSK-jxHsvE9cP0wk2zSaiCw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp-kHneRW3GfGNQ2VXBbz5-YIVjnssKa3VGfrzq-0WDYq5tjhYqoQbpPCzc4ouFF29WYlBhDz6GkLor5N_t-8ciTTXKcRYkB5Q64Neod1mTFKXG7Y7n85jqY2Jf3Afmvuh0MiR4EyktuINEQbpWm5NF614-7GNY-4D2qHetXKPG89xWhLdQIqb3iv67pH26qJ3aQRb52PLoC3qRqM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkVLQ2JWmw-PcxDMkv-fpELBJBpOe4shmEP_7mBEviYPm3OpdnfKg050ibkKT3B7iHpuCvOjIii3FrkTHxGejYsrTZz4mZhFMFNX6UIzeCMNmCFmyLXvHpCBQh-ceKSrVEI2WtffacxkvJyxRLl7PHpHRRzgxvoNeJ32PzowoloGdD0F-Fc-dOdYTJLaIWh3GxN1ZfU_ddflGhng3zBqP0g_lNOEqqSOq4lIM7v9kvd60ykH1S_YYJahPPGRd4vjE2vCoRCwPj-Uhep96KuQuinBw45XDnMw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl5auXR-ziiQqN86wOpdvObpoiYpZwO9hShbyDMFNkrw75zPeuF4o3JlGFppr5CFfr4xIJ95aUt2o3NfMgEMF4l9MO3nhSbXbvdrwMayiWiVTGv8ucaS2dGu987_3girtrABuYRww7GA9tNHTcVo9aUEM5nWsLyZbNsBD-3MQCeUw57IGh7tI4a_u8gq9eS_exl0ZrEL0SnNHBdScKAmscBu5LJ9GRmQYCsNWwXQ6g_vi5gOvmzJ8e8oolqUSN1PDacCmMZWutDHRnvMgBFEh6WKEjz_1ZSXMfyOgC_ykyvVG7vwuFj_UEven846s0cF0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKtUhdSOjXtXPIeCt3tY7kxyS44wd1yTj74CNpF4QGiD3xAfcEFNH7f_jAiCnIhe2tYGHsa0vgwl0G_HZX_WY_H_wFMydEZkzWkryCy5VPbQ4fc6mmVuhqR0OLO0yYua9dzLwotA_BbMw0Ucakv3wmLoO8d_9Ytpk9tsXEupmMYChMPwfOmQ1Q0EL1WhImiWSvc4RMkJGhxJyphgUOMOF_BGIeAIFUH03quAaO-Ga0btYNPa8Z7Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFApktUhW1997iaQbHwR-c_g4yqOkgsVZwKhFrsp9WObyjIK_tRos0ysMHYbT47fivafLqBomC637sq4B860w7xfqXHslvyv0BFG7yHX_2_zlq7SWcbEn3WoeDAr4OmBstuTvxAXVcD-37szGlKLyryq1h6up0MKH234NVXt9oxTEX8QPT_pnFUcVNNV4WJ3GacTRrRbWxsHpZpGZqtw2X9uHQTDTj5cop3o7R4N8SBcUk2z5e9TORL909qhUrkWZ6KuYcoiLsPHBw-slUyuNboafctZnxA4zOFMe_XTa-n2g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGraBQJpIZbvxAYJyfV-SE3nxaYP2qOXZS484Tzo1BQQ0yO6ltNJaQLk1ylCNzcjGYsmjjpCZ4NVODATfnbIh3rGtlEwwPYfK1s5SriBEJ9_dkiP2RVsk7GsPxlU3I21YtsBg6_59lsDvCABWpnam2Fs2jt1PGLQNVOvPMjzdNWrj4q0NJnbequIN_DlRo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf2lSzSQ5hXDMb5rNsvDUT3AZFXEhqsHX0niiAcsmpCx32MJWg_rCfB9J_8XjnVB3NTQVRWdlDVSGkfhHaS3AWfZP4LioM7786XMUbq1P7DFcUGpNcxGihXd27b9MYwtEPx4i0rMDPwZhRkygwq2gLELmx4QSxcLSp_hm8kR8wRsx2qZt05iy0YU_0cLA6RZH8uP68T5gtHrAk1fLwaOY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnDQGZGV5FfU1ZtBUA0V7TBXdMDCNrINo_7Znnk55ewiXVAq9bzu5nORlV2d_VPfsoQZ2GgX-Iin5cppqKGyQY925MMBOsqN_re_EoqoTE4WrmZhaN5UFGlk4b1ph0YuANBYFjj_pLGeMDmsXtvKPcgqelze5oEEA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt3MJRx8kiAD7C6GX0lkg6Xqj2oEp5GqLqdmrieUKouCtUwUDgynbxi_rmFAhKsVf79S16UkLY2g5MZp8piZITbO8w6ptCcZ3HcfS5wVMeL8Oa2tred3p-3tUpfTkJHNuavUB5J2pbpIzSCTAQKMBSGD37GcFwZQPyPYhX1FhpFX8E_MmnL55Ns3_k3HDVLeQ9XQ2zB786348D1FyIC4FIDZxycZOWDasrV1M6eUFBcdE1F-x6hepQ7yR7OIsbWW8-4TS3tvUB_sMEmWJFTQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt8uRyqsr7BgS6yYEMt3VrsCa-xebWGAflwtpqhwpktkCd8itIqg2vmJozj1wBPEHBMhCkytlQXoPClLNZ8SCdDEn3MgTLu1DRjmdgCSBya-jRrsl05Vu3E5frKCF4-v--NY75t_7ZVzyF42H3NVr2hT4yRhSWOFG_qYxNH2n6ss-oaH3bV6eGFVNObGxL-lY7rnSmhoG1POQ-T_-5KxYr3FErb9pPLgbDVGLggMdHvSdiYsVbhU9LVtuCr7l8pz2_5KE0VOHfHXpP1FVq1YWZlesDxHxDiA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYHo6M_DoBG-Ktsz7FxU60NY1-NBWXDrt9Fxs_Z9blZmcDkVdXQpInQhFuDWxIykubvxoIV8j6N0_i5X_GyBjR-XcPAp7QjbXeioCUor3jNz8ayDVLwlKET-xfAGesCnEvLga8DXjX5jPWbak3S5SSBQZshwHqcPO1qESKYV2TB6wW46kvC1Uq3o6raIc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_pNK0Rf7RArJGNv2sOiqKgmRxj9IHKjfUR75kzRYuvuKGGSfXmjsZZ2pWgHo4aOm_NdttbxQhLrfirq0_cwqIrqy-6vBO2KeU4WJW9SIncxzCo95PZoyWxg-7lQ0sUIJGo5wkpTBDzQWVXgWopJv3DaurtO8Cmib-syc3l_rYEPpDFHqyx0m9RP54WziCimgvMRv6NE4ZFVhS0qJOcAEyR7WmCW5Rhp37Bl57DxizWl1sjuwQllHRM8KYjs8gqt78d39Kko_8YzgkmN9gPzkO11oa7ANYBlfh",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9dLdeR9fKWtVXhKKJH50gifSQvz1o91CPvYxS3w4T5GPne5ZSyBOAErdvH2vkcJdWZ8wbfF5jzXgHDTcpGAbQ2yoIYZXPGLKH0xyKidXlrai0P28g8UFnPciV7shD5Qa9AkvWuraJgxUaeff4dMgtoF8VANEHyjy2Jlp5TbZSZjeXCAKZYuuiqgqEqQM0OZt_upBwKe3xBCM7NozlBaJMJjCnb_pzwCoUpgQQYUkyA7aizRBfBoQugE1creaKfGdmEsLBdSBdc6_rQfMd_TWX6uUmnjbVF5oPMChim1sFjIan8djFunsCVzIdCjcd2og=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ggDs9yUGW_Bmh1gQVxEU5wp_kXCsukGH1wT3naGddqwCo3Vc_AIAeazDBe-9lif-kfh2NUiqq2QTAtoVJCS66bKINrglprhDgZkul32Yw5tnAlYg-yTE9m53P0WbVtqli9SgMn34SwJs5-oAvwcQfd3ZZtOOuPpnP6VqNISbDGo15tShNmDt-hxGVCRzUdmU3QfHd-WR0OLTxTzjEVv6y1iGpBTFLtzC4eEL8trroOqizaGe3B1Ye7UGlhC1c0Upm5D0eZCybIs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIXh8wJYHbnUcp5kZnKfeAATn5w9kbOzPwoDJB2NxkxJ787lReD3BueMZfKr50pDkCiB79hf9fJMilYJiw7NRKTN0a78lQGP4-SFCH6fMC_Gt5bjCnt99se5y6dbxH2JFPqrQSlXfXyghOIJappY1-yO5y5-Uzfq_pdjcU7assLWHxxNnLkvdUtWgHrcISqQmOcdsFfQkWD5jLphWnPyiddXO3wNtCewXlKyxSzio_rv5hxgEc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9uG7NCKGit3bD4aowH_efAm34sbF8Uw0HujzWBXwnW4J67cHdbS1aOTxaO2_hT0QCXQTGoNvbtTWm14VhbxNpaltYZKobf-7cFMxHBTVKjHjwFwfkGSSjvSYCFgYbqAIuz58K4uK9uh2hdleGgqMnmTt-P_y8VXvuXQWRV38H09ddF3DQEvTeYb9HCLPXtc3G3LqrAyXG3q42p49ue0hSBuhZMJS2bUd4bA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLlxIaIqyJdwiS-D3SKdYWvn3ZOQC-mPM1gcoX_7v-kTZdv_3yFpqydtxTrUkN9_HH5a9vYtpY7upzRKxahojUYHyNrfAMdZmqDNP0sSnGGGGeQwvdh4AdCNl_9wTYMVoM22BOSS7b1sbnpaLCGtWKr_dc7rScFSw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuDQB16YHY7igX9qL3OyY2gYmYqEAVjwqBPwu-Hqg-XVPhGGhV-n-t6f9wnXGiXGJrPLgbKzVSFUD4Js7PgLVKV6V4ZzXXw_lixLQf23BqN_RB8X0WkBkzMTuTZTXdRLSSxmzzhuod4HOBiju3OAOlpVKcdTrOEE07pX7QuUIT7qysULI0gMFDUfxUVLrsbxS6kQ-CKTo08rZTuxmDv_FEyAVn-47WaeHTcioF916Y2kSeAeWYpXRnTEHQyg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_JwsBVPBWLrGBpGVktqDQbLjaZ7IoYXVj7YOaizVKDxY10YsaB4DcXvMhGjovGimcxo9eQ-3YPvJ272Zsv2hnsq6_C6OWPTDmf3a3sesZTlWRoqmyBsgNmkygvabm5sLpMcv1joxXPVu6Ex65pAke2dw7RliALYD4YliaVcNQ9s_Ox1X_a6svcK5IEr0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMrNwPDwRXLnunswZC04V86LX1ii4lqIhtzguOv9gKKq0rb6bjvFWuB-V1c557OWOGgkPilOYSsjUVMaWu6eRTNHoice9plXMp9yhCSv47Ja-CU3fcp4QJazMa_Ym__KtwWIUULu19XM7KEF5ZliGOxt0QZC11s_mhJ260TcfFTU_h_JYAJYktmCIEMcJw8NW8TGL2JyeDmMZlb2mma56aVzpyrBZiFXB2WTEfXq5v2zWwKnhMEr-n63jz8-63J9oIDic6sNqZii3GWJuqjXDUyWyXOSviqGz-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgp9D8WOa_BrDGkAIuFGSoS4P9A3R6C5IKWr9_iJmtNX7GEVO2p5sYExz7eVIV43XIM96ZaGmyUGFhfDMDqcHB9ERdUcxhyUK376iKtozAEqn0QPpQQf5QboGPzu4N-IDzx8SMK_ueWLUQWD1kCRQCRfAbJ6W11oxdM0swB4LJ1Mg6A6eSI7YyvGQrRt0oQ-iQY4pvh8Yhm9I1VBQSKNnAEF6EtDT5VHIwPbXFEGl_quRnPM-dTpy3lge8xd8tdFxxY0iZE608A2pABFz_UYTf0OIaYua1pw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9_fGyuyt2FeMe5z-Xk1LNe23u4Q4PFVVUimlmrRvrykP4L36hJeQ1JxzlI0cdNQIhkjsKBn6B3C2WYQgzGUpgSDP8F51os_yvKnxdf1daaqVsMnjLQEk5tR_rGL9HlXihm9ZK-k1hfCNqqheRjRVM3u9z7xeF1bSFZkJLDj9RScyZKcArM_cmsn8WEuRNgyFRwuJ3m8jl94ul4Oyv9Oj1zziddfxIgxbFhXZ8IyLmTqHrq9vZiA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvD6pPjZAQYoHGTwUqT7WWZqbhnrYhQmMEB0kmvVXUNy6a_yoy5WsTTaBP924tFf2xu3xWudEpHc0VNxvrR7qaex3lwYK-4-K7vY0N0pq9BiIrJS0zG7g2iFwqIi5z2NJnr6hCURxQy4Zap9s_Mhmo_ulEy8ciMzZxrQjkwgka-Vz66c9zLDbVPxjD_Yfcp3ZyXbnVteciNJB74aZKQns7Fl6lOWb2qtwIJ0nv4fwtAvl9sSLhOsiW8ZJMi58xcOpi-C4GJTWOMMlZIw8w2TrKXb6F8jpAKBkMnnjYmDujatpheFBT1yRpR0mmXCY_5io=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzpcyVx_Vlb80dZePoJIMx8y7GcAabN6OevPSGWsFHB9V4WBmUmO_EiUVzkl4ds6jdKNhhqH2Wft5jaD7-yEj2U6KV5CWo_6jPitUuQtEeWQP31eWwFi352yYvhSMUeylWxouCqi7DY3h0fK0MzRSOq4bkB77aivg2n22hBpC6ztI15htriHbJY-UMKDlMncXSzpEsMLu7jHCv2g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi9Hn6JJZ3FWW5sIDiAycm73ioEJcZyCpuhpKEdiwFTPdFVyhaZa0LYX7ZWoxVUjbAUgEP4zCFDaKLGrpf2I-xDg3qWiScubeqYkBN1hbHCfX6aUbdnqHPzuxvz4vkFU0VBUsXgzP9hP0EPMRcSWdPWJ5PpumconsKxpKDcAHNWW5yji7DzHpZCYzK0pt-eMZPmnoolzDexdeYj8K4c6-_w5bwN1PAgBWVGA=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T16:41:12.300686+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Javelin Throw",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Javelin Throw",
+        "medal": "BRONZE",
+        "category": "Commonwealth Games"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Indian Open Athletics Meet"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "G Arzumanov Memorial"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "SILVER",
+        "category": "National Federation Senior Athletics Championships"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "Indian U20 Federation Cup"
+      },
+      {
+        "event": "Javelin Throw",
+        "medal": "GOLD",
+        "category": "U-18 National Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "85.41m",
+      "seasonBest": "85.41m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        80.0,
+        90.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "record_highlight.progressData",
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.heightCm",
+        "coreInfo.weightKg",
+        "record_highlight",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

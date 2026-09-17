@@ -1,0 +1,89 @@
+{
+  "playerId": "bharti_fulmali",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "IPL",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "bharti_fulmali",
+    "name": "Bharti Fulmali",
+    "country": "India",
+    "flag": "IN",
+    "role": "Batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm medium-fast",
+    "dateOfBirth": "1994-10-11",
+    "birthPlace": "Amravati, Maharashtra, India",
+    "heightCm": null,
+    "jerseyNo": null,
+    "debutDate": null,
+    "profileImage": null,
+    "bio": "Bharti Fulmali is an Indian cricketer from Amravati, Maharashtra, known for her right-handed batting and right-arm medium-fast bowling. She began her professional cricket journey at the age of 13, making her senior debut at 17. Fulmali primarily plays for the Vidarbha women's cricket team in domestic competitions and has also represented the Gujarat Giants in the Women's Premier League (WPL). She made her Twenty20 International (T20I) debut for India in March 2019 and is recognized for her powerful hitting, earning her the nickname 'Lady Gayle of Vidarbha'.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": null,
+    "result": null,
+    "type": null,
+    "typeFull": null,
+    "opponent": null,
+    "venue": null,
+    "date": null,
+    "aiInsight": null,
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": null,
+      "innings": null,
+      "runs": null,
+      "average": null,
+      "strikeRate": null,
+      "hundreds": null,
+      "fifties": null,
+      "highScore": null,
+      "ballsFaced": null,
+      "fours": null,
+      "sixes": null,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": null,
+      "fiveWicketHauls": null,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFamXWIXsnuVm3GbsvlWnS6DONCZJgb92J9IIzqL1pvU7JWMGDj3I-Vll7XxWWtFRY_L7nvin8jaOrHWQdOQB_djBv_kUTSH8d0uDfx16w-V6T_zRohSkZoVBr-GcrYF64LoseiX9V-H2OY3T7m0Jgk9EMN",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwCQIC9W56RLH0n7JyPOomDMOemT4QdZxBJZmHsr1azlZdAGeRb8Bkzn5Us3dn4vCZCL7PGVd_Nqur4Que6Yuqsgk_ecCdf9FVzPEqEpHoeTvI_lupQlQb2h3s_ZiDOEoLI2n5SPk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1oqGlq-pDuvXfr6CrbLlfFw2Y6N-chKAZ8PmyNcsRfNnQt9-u152nHRRypJu8F11pyanfFMLEEm274juzshXsGpci8Uy3j_hQY6jYuaHSC3DyyqE62bwEqs-IheQk14krq2xpfXwWqrTosnvI"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:35:33.041946+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "bharti_fulmali",
+    "bharti",
+    "fulmali",
+    "bharti fulmali",
+    "cricket",
+    "india",
+    "ipl"
+  ]
+}

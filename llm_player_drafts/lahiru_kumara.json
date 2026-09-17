@@ -1,0 +1,203 @@
+{
+  "playerId": "lahiru_kumara",
+  "sportId": "cricket",
+  "format": "Test",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "lahiru_kumara",
+    "name": "Lahiru Kumara",
+    "country": "Sri Lanka",
+    "flag": "LK",
+    "role": "Bowler",
+    "battingStyle": "Left-handed Bat",
+    "bowlingStyle": "Right-arm Fast",
+    "dateOfBirth": "1997-02-13",
+    "birthPlace": "Kandy, Sri Lanka",
+    "heightCm": 184.0,
+    "jerseyNo": "8",
+    "debutDate": "2016-10-29",
+    "profileImage": null,
+    "bio": "Lahiru Kumara is a Sri Lankan right-arm fast bowler known for his raw pace and aggressive bowling style. He made his Test debut for Sri Lanka in October 2016 against Zimbabwe. Kumara consistently bowls at speeds exceeding 140 km/h and has been a vital asset in Sri Lanka's bowling lineup, though his career has been marked by injuries and occasional disciplinary issues."
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "6/122",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "South Africa",
+    "venue": "Newlands Cricket Ground, Cape Town",
+    "date": "2017-01-04",
+    "aiInsight": "Lahiru Kumara's 6/122 against South Africa stands as his best Test bowling performance and is also the best by a Sri Lankan fast bowler in South Africa.",
+    "progressData": [
+      {
+        "year": "2026",
+        "value": 0.0,
+        "event": "vs West Indies, North Sound"
+      },
+      {
+        "year": "2025",
+        "value": 0.0,
+        "event": "vs Australia, Galle"
+      },
+      {
+        "year": "2024",
+        "value": 3.0,
+        "event": "vs South Africa, Kingsmead"
+      },
+      {
+        "year": "2023",
+        "value": 0.0,
+        "event": "vs New Zealand, Christchurch"
+      },
+      {
+        "year": "2022",
+        "value": 0.0,
+        "event": "vs India, Bengaluru"
+      },
+      {
+        "year": "2021",
+        "value": 0.0,
+        "event": "vs Bangladesh, Pallekele"
+      },
+      {
+        "year": "2020",
+        "value": 0.0,
+        "event": "vs Zimbabwe, Harare"
+      },
+      {
+        "year": "2019",
+        "value": 7.0,
+        "event": "vs South Africa, Durban"
+      },
+      {
+        "year": "2018",
+        "value": 5.0,
+        "event": "vs West Indies, Gros Islet"
+      },
+      {
+        "year": "2017",
+        "value": 6.0,
+        "event": "vs South Africa, Cape Town"
+      },
+      {
+        "year": "2016",
+        "value": 2.0,
+        "event": "vs Zimbabwe, Harare"
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "Personal",
+        "value": "6/122",
+        "holder": "Lahiru Kumara",
+        "date": "2017-01-04",
+        "venue": "Newlands Cricket Ground, Cape Town"
+      },
+      {
+        "label": "National",
+        "value": "9/51",
+        "holder": "Muttiah Muralitharan",
+        "date": "2002-07-20",
+        "venue": "Asgiriya Stadium, Kandy"
+      },
+      {
+        "label": "World",
+        "value": "10/53",
+        "holder": "Jim Laker",
+        "date": "1956-07-31",
+        "venue": "Old Trafford, Manchester"
+      }
+    ]
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 35,
+      "innings": 52,
+      "runs": 156,
+      "average": 5.2,
+      "strikeRate": 32.56,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "13*"
+    },
+    "bowlingStats": {
+      "matches": 35,
+      "innings": 58,
+      "wickets": 104,
+      "average": 36.08,
+      "economy": 3.87,
+      "strikeRate": 55.9,
+      "bestBowling": "6/122"
+    },
+    "seasonalData": [
+      {
+        "year": "2022",
+        "matches": 2,
+        "runs": 2,
+        "wickets": 0,
+        "average": null
+      },
+      {
+        "year": "2023",
+        "matches": 2,
+        "runs": 4,
+        "wickets": 0,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": 7,
+        "runs": null,
+        "wickets": 28,
+        "average": 22.0
+      },
+      {
+        "year": "2025",
+        "matches": 1,
+        "runs": 11,
+        "wickets": 0,
+        "average": null
+      },
+      {
+        "year": "2026",
+        "matches": 1,
+        "runs": 21,
+        "wickets": 0,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0J5y3mg_6_2_AonVzUxFH8Sch0qEd2OPp5iSxeE-7ItL01lpxFeAT6v1GGpVk_e-lRcY1CorJO1Nabj23o7DHN7eUpAiF941M4c6e2SF59aMM6FKhHQrbTFeeZhwnoeyVj71A9NmbzryiHtJNsbgCAgc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6l7NO_5xReyEi7l-8rLMUMu-upfVH8r1uYbGCSc2k6B0Tczib5JLOnstowau0HR147bUtdaTtv04QT4mU6yt2L8oDOi9lQOcUi2OEjXmKxAJUTE_kyW2ZahU1btubx3KqnZZnYEDux89_oZpRmKIYfVhzB1nW51KT-wJP2Rg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbvx4s3j2wzK9g4LisLe5HsqBLoHVa9z8OH1o4HGmSgjsFZ6Y7rV1p-tyaa7vEx_DOITIfR2Ozxtw78vsS-OIIuMZh5w_IDZ8Ovk4P38NZTsGNjYx92b8P6zFvtKlZ2C-NyGI5GIlIrbe3lw3SHcS1_MQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5L60b22LM22wNgAfkJuwXnOQhDMEMDRhZ11El15b21hqqrCRBr_8qIR4GX8WSkurOz-9pCxUZycyr7R54_bOHyvhVJ-b0JxyMKYBgX6VdGjvweoqGvhNOqPA3ogqq4bPYh3npBOCRoDeKpQUPDGJXCxvNMh-YCExRaWPGdn3hr7PkL_s=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPUAsmA0vCNWQRF1VmRm_kgCZf5YL3e-MQocu-OP4Qp6RD5y5N_1N-ddWazoFVqTdIUY8yfIrlokkoqjjsYzkS_IkiX8fGVmrBzTSjBSE982SugC5UHiQT9N0mqRDwqdyNgTapV_RixOUgQABJ9zBmAKU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE811ZPWEYBJWTyRlPUMJklznuxdyhLOCUcsQlM_eXxbMeR4KF-k9vkUC6x8LfEPKezrMlaV8gGneDF14rsmGiMDEwQAty2-Moh9TNRawYjjDDKR49ln8t71ZfzWMrqO5Hgqcnwkw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECRKcHSEp_uVfHLfMnmO770IkBg7Twc-GX2Det58uecr7AX3VHFMaH4dPdGo073KUvg2CT4Y_Ey5eXsyVHNl2JQRDTcLJ9BSEzStqD8V6Sq1g6JjFbkw4bP3TE-9Wsp2FMbnOWV140OPjwIp8ZYtt7hEuTUECggb28vFTO-Nzg_beiBtU6mVRSi90YtmSZOrG1og6QKiZpsTh6NoRsKbWudfmR7_mvtz4XNs0OasgEQA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5tMs_W5IwpX3shEkg6TAw68Y1CGeahr3UdSDAH0tR2tWa01TqQN8e0OsRwHxTRZsErIIoWF-I97PKF6_nwWAqzZs1Pg7o6xIbZp-N64P_gvrvu-tBxudzuzgGQIE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6kFabrjiK-CZFowIee1P1xWQ7rdUS80U3AgfMfSYyoLjEj4jcqf9zlvrfqzJhlx81RZzwZfqwB5_ieCuo7fAa7fvWz7BBm3roVYoXF7hBlLpFdHGff-XrG-XFr2VU5QXjX67p2FA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuqOOlTqNkUGP6ToKB0o8UagAW5itE-DnAiT6o61PqZgHYFSf19NRyxpLIai4-0dJxWBO5CZk-P-egO-si1mL5sQPz42s10LVdwLMstnHBJHz6ZVKRFOG8dvqGqCBPDvvXV0qcoh8BphuAOlBMq7Ouf86sztSB7R14POdUHHyfMm-bs21wre02xm6Rw9GyAw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVN1Fc01NwGiG0qj6AJoXD2VqwRkDGvW5atMRzl7104-Dwvg5647foGHl_RkEHUmA6_pkpVySmc4tJGHVSDcYp6yAoooyzYQIElmGJJFSpnjBRkPV37KYBQMFxDhFeVz728vaHDC2NjE3F9GmN06_H5yX6",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlzenvJCfBWEGG_RTk6De0TOhYUVCI-lTLLBZ74NFNu0M7NnH3zoyhEp4nyN6NBjLlhCLfzhYiJXaTPIprOP4hRQyJ6XMt8idKyt0a_XIFp4QGDgy2S7EbThJZMKlwrtESLiwkYOE2ewfCjItQE-TDnUJHDrw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2vrTjwje-s-ynYf8aIzABWC-XGAOCVULQJ-6ih-LGsJJReLq5mmVZyORWdw1x6O6kVDXgR98lMEdnGHKXms-OmDongqQBnFbhaisOd88SCPHarMIo3b7H5P11fxQZwbSbO4tgiw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdxXJV-k3fSymTDc1opQAFEDZhdkHAqeYNencT50CLxEgyzZY4yJKPvRkTgyeCwP5ZT6TSQb-5GW0PXajj8YktfIaXK9kQJGJps78VUcDdjxuTmq-7pLCh7Qq1K8ChcPDAyz61JLTZWHnVFhoSzIjVkg50KQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtL6Zh5LzH23SHxV0h66OXwRO0k-zSvUlvdPjsbwXcP3Tpk_QP9wElBOxHbNMI8C4RD1k8HF20PtuG5wRxOfUp8vKfOx69tfF8vHADFeAM6Y7RujcHLGbsp5MRIHaqFn6o_gYLVDV5UunlRV2XURxYPdE="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-17T09:17:42.715452+00:00"
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "record_highlight.progressData"
+      ],
+      "filled": [
+        "record_highlight.progressData"
+      ]
+    }
+  ]
+}

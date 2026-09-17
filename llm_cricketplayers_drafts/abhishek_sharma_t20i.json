@@ -1,0 +1,92 @@
+{
+  "playerId": "abhishek_sharma",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "abhishek_sharma",
+    "name": "Abhishek Sharma",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Left-handed",
+    "bowlingStyle": "Left-arm orthodox spin",
+    "dateOfBirth": "2000-09-04",
+    "birthPlace": "Amritsar, Punjab, India",
+    "heightCm": 170,
+    "jerseyNo": "4",
+    "debutDate": "2024-07-06",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Abhishek_Sharma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "bio": "Abhishek Sharma is an Indian international cricketer known for his explosive left-handed opening batting and occasional left-arm orthodox spin. Born on September 4, 2000, in Amritsar, Punjab, he made his T20I debut for India in July 2024 against Zimbabwe. He quickly rose to prominence, becoming the number one ranked men's T20I batter in 2025 and achieving the highest-ever rating points in the format's history.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Highest Individual Score in T20Is for India",
+    "result": "135 runs",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England",
+    "venue": null,
+    "date": "2025-02-02",
+    "aiInsight": "Abhishek Sharma's explosive knock of 135 runs against England in 2025 stands as the highest individual score by an Indian in T20 Internationals. This performance was a significant factor in his ascent to the world's number one T20I batting ranking, showcasing his ability to dominate international bowling attacks.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 56,
+      "innings": 53,
+      "runs": 1629,
+      "average": 30.74,
+      "strikeRate": 187.24,
+      "hundreds": 2,
+      "fifties": 11,
+      "highScore": "135",
+      "ballsFaced": null,
+      "fours": 164,
+      "sixes": 104,
+      "dismissals": null,
+      "ducks": null
+    },
+    "bowlingStats": {
+      "matches": 56,
+      "innings": null,
+      "wickets": 10,
+      "average": 27.4,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": "3/17",
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBnYOZnbPdRhaT--3BQmgYq04le6SJ55ko1ku0AI4YmZp34YtjNZ5cvz1FdvT2KOcQ_8p1EPVsFFXEpiMGGAjaIRj9yvWPyTT4i1e6gxbIRiKPminK9VTmkYRsuteLGziCv8V7UwKoRw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqwnZFjMwEa_-rSF-zJMxYC4kg1YlfSYgIS6n5fPEPBqr9HBugfxU4Gjz7gz6DqKU-twQSABf1xwSrUFJnueH6jsjUXBGMRMFC5DSbNUqCXKQnjqW6V7sb76l6fv_CHOXm-J-heuR8hhCcFl1Qsj5dYbjlJIHX_TUyhjqQQX-xgqb7JrJ7TkIfZxSmgaB2vdezfNKk4Zvz0jP-OD7Cdw0sqJ_aPbMsAuNqdREFck3TgFBJHc4fomxPpJwJz-jGwo8lUC2ijYcuGuiYJMxkaNR2pHU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE2CVRBws_94U0Id_h7DsJajmSqne7rFpv6DDsQf4u1ifJU_Eu6vhEJ8u5_VoAJFjzQe3X2ZVBJZvt_pA6aQS3gk8ApymevfdDyrelbsni6YQKGUBxKRLArH4q8T1nyIdh9yjTZKjTlDnXGpQmAztj1pJFJBRJ_oxzJ3b7Nhq5lc7SQwKpDUujPcewh0r7KO3SviRCYf41i6coVGnT1HRYvQQE3ynsyYWMnz_iHUed",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdMmln22lJnx4rS9K29WVdKZcofNyrL_FuGHuds645BOBwiXBywG148_uKNbv_iOaRA6Lq63jcmuRYRbR7WDy4dtx-Z_F0Uml6f1W0sPrSEIYvFK-zvcaYLjz7UPzF7j1xtbDBBtf4BXZv-VHUuNSVJDt-",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsRz7tqBkViul_Z8xl-aS6Z7PAY9z6oBUaZ2UxODjYukzQEzBKmTlbQtMUEqclA9zTxgFXJYE-3q_8cwMds0CE56UWSxVtkRVMBg6qhCEcaeHkff6AYItbWiDHBAv03ox2vJmQHFZxv_ka4U3FuHmIsNQdqlg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlprl8LkzT5pMaQmBra77dBWYlj4N2InxJbiuH-wikArIwD7fmIcDjy9OaQZuIetlB1g6Qi3TH-YIzJhlmPZD7IlJmVpKQvZUAyzSprO9AViDRhm432c9XI4DcVewuDliNeNUEs9XH2jEevpbu3yKWA8NUBbgWdLucWqmE3oBQWLllNBQ08Pxv41at1WVTmzQVFgyuJfgnHdAVr827Twy0"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T16:35:02.872215+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "abhishek_sharma",
+    "abhishek",
+    "sharma",
+    "abhishek sharma",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

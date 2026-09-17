@@ -1,0 +1,92 @@
+{
+  "playerId": "shreyanka_patil",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": null,
+  "coreInfo": {
+    "playerId": "shreyanka_patil",
+    "name": "Shreyanka Patil",
+    "country": "India",
+    "flag": "IN",
+    "role": "All-rounder",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": "Right-arm off break",
+    "dateOfBirth": "2002-07-31",
+    "birthPlace": "Bengaluru, Karnataka, India",
+    "heightCm": null,
+    "jerseyNo": "31",
+    "debutDate": "2023-12-06",
+    "profileImage": null,
+    "bio": "Shreyanka Patil, born on July 31, 2002, in Bengaluru, Karnataka, is a promising Indian all-rounder known for her right-arm off-break bowling and right-handed batting. She began her cricketing journey at the age of ten, with her father, Rajesh Patil, running a cricket academy. Patil made her T20I debut for India on December 6, 2023, against England. She has quickly established herself as a key spinner, notably becoming the leading wicket-taker in the 2023 Women's Caribbean Premier League and the 2024 Women's Premier League, where her 4/12 in the final helped Royal Challengers Bengaluru secure their maiden title.",
+    "gender": "Women"
+  },
+  "record_highlight": {
+    "category": "Best Bowling Figures",
+    "result": "3/19",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": "England Women",
+    "venue": null,
+    "date": "2023",
+    "aiInsight": "Shreyanka Patil's 3/19 against England Women in 2023 stands as her best T20I bowling performance to date. This spell highlights her ability to take crucial wickets and control the flow of runs in the shortest format of the game, demonstrating her impact as a frontline spinner for India.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 24,
+      "innings": 9,
+      "runs": 27,
+      "average": 4.5,
+      "strikeRate": 75.0,
+      "hundreds": 0,
+      "fifties": 0,
+      "highScore": "7*",
+      "ballsFaced": 36,
+      "fours": 3,
+      "sixes": 0,
+      "dismissals": 6,
+      "ducks": 2
+    },
+    "bowlingStats": {
+      "matches": 24,
+      "innings": 24,
+      "wickets": 29,
+      "average": 19.55,
+      "economy": 6.98,
+      "strikeRate": 16.7,
+      "bestBowling": "3/19",
+      "oversBowled": 81.1,
+      "ballsBowled": 487,
+      "runsConceded": 567,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": null
+    },
+    "seasonalData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF51GbsRlxFyHFlhFsvl0B11pciSe6o3gupPsiZrgDYcKCo891foFl4ifZ02d6qr58qDxMbHbj178NN4Yc38PiwTGvRQmY6QFI8lbR49kxRVW_2fK8fLAC0nfjuz7WwpjGl7iI8JLgz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9oEI_zCoVAHTFvonH7yfaxl6w2LGLqwuYYV4VjavLuk6RQsOk5FJj3JTt1DCwJAtAbaKknBWnMVYhghBmoxT1G41yrCnnp-5Jisrc42YaiDT-Ouxiy04-FHrFZwmOnZx-YSmjbg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfEowLAHL94YFj8F6FPk-kI1mZKXY2BOFmpa7qG9Z8y4S0_fVXz1VN6s1v8pJSFm2y2sFxtZWa5hONAs5eOKC9krm8Ctz7NLUg7F-vIhx5bqNyyclfbB2fFyfrfYpkmXC9GKxv_Q2nNprkBAn0JZWALS9oDdKcp02GQhsHlk7kPTKm0rJ0QoDEtw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHowRN8a48MHXin4O1MHM7h587bKZLTu4SJSHoclVgGQTAzxSez24svNQrQEpGJrpzyqTVZtKvqdVtKOC7_ELqgYocPZFePiS_HJNnfSGpnipG4Ndh6r9TbguakzpTy_ok_IRjnOmQF",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-Er2smaC0HE2rWiJ7ENDVyeANIFAId6iJn7vZVnOKTY8teT0hr0S94SebxhZJ-tM0-AZFQjpTOby4BU9spbDg6ejgrv59wckLwgOW38NL361kIy2EqCtpb6oxe-gOg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0NLB4TXf90rsZdbuGD0LyxCyNgVpkC79ibr0umMfCXGrOwE4zUKSK7SBU54dCAPd1ePwSWcU1jX8Vf9VADqW505qG-1TeE2ORQDY2rw7P_NCAyvTGBlT--G0lkqhdrbYkECKFjG_5r3lntXlWJCPSw_fFQQ=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:46:26.931947+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "shreyanka_patil",
+    "shreyanka",
+    "patil",
+    "shreyanka patil",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}

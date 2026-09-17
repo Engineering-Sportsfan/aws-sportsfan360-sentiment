@@ -1,0 +1,487 @@
+{
+  "athlete_id": "tajinderpal_singh_toor",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Tajinderpal Singh Toor",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "1994-11-13",
+    "heightCm": 180,
+    "weightKg": 90.0,
+    "profileImage": "https://media.aws.iaaf.org/athletes/14624702.jpg",
+    "welcomeVideoUrl": "https://youtu.be/dR_rUH_Ur4Y?si=p9eYL4QGkszPI5bF",
+    "bio": "Tajinderpal Singh Toor is an Indian shot putter born in Khosa Pando village, Punjab. He switched from cricket to shot put at his father's insistence. He is a two-time Asian Games gold medalist and holds the Indian national record and Asian outdoor record in men's shot put, with a personal best of 21.77m. He has also won multiple Asian Championships titles.",
+    "birthplace": "Khosa Pando, Moga district, Punjab, India",
+    "coachName": "Mohinder Singh Dhillon",
+    "yearsActiveSince": "2013"
+  },
+  "record_highlight": {
+    "event": "Shot Put",
+    "result": "21.77m",
+    "type": "AR",
+    "typeFull": "Asian Record",
+    "phase": "Final",
+    "date": "2023-06-19",
+    "city": "Bhubaneswar",
+    "prevRecord": "21.49m",
+    "prevRecordPlace": "Patiala",
+    "prevHolder": "Tajinderpal Singh Toor",
+    "improvement": "+0.28m",
+    "improvementDate": "2023-06-19",
+    "aiInsight": "Tajinderpal Singh Toor set a new Asian and National Record of 21.77m in shot put at the 62nd National Inter-State Athletics Championships in Bhubaneswar. This throw surpassed his previous Asian record of 21.49m, demonstrating significant improvement and securing his qualification for the World Championships.",
+    "progressData": [
+      {
+        "year": "2018",
+        "value": 20.75
+      },
+      {
+        "year": "2019",
+        "value": 20.92
+      },
+      {
+        "year": "2021",
+        "value": 21.49
+      },
+      {
+        "year": "2023",
+        "value": 21.77
+      },
+      {
+        "year": "2026",
+        "value": 21.03
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "21.77m",
+        "holder": "Tajinderpal Singh Toor",
+        "date": "2023-06-19",
+        "venue": "Kalinga Stadium",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "23.30m",
+        "holder": "Ryan Crouser (USA)",
+        "date": "2021-08-05",
+        "venue": "Olympic Stadium",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "23.56m",
+        "holder": "Ryan Crouser (USA)",
+        "date": "2023-05-27",
+        "venue": "Drake Stadium",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "21.77m",
+    "metricLabel": "Distance",
+    "unit": "m",
+    "tooltipValueSuffix": "m",
+    "yAxisDomain": [],
+    "sport": "Shot Put",
+    "achievementLabel": "Two-time Asian Games Gold Medalist",
+    "stats": {
+      "worldRank": "27",
+      "personalBest": "21.77m",
+      "bestYear": "2023",
+      "totalGold": 6,
+      "totalSilver": 3,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2015",
+        "event": "Shot Put",
+        "value": 17.78,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2016",
+        "event": "Shot Put",
+        "value": 19.93,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2017",
+        "event": "Shot Put",
+        "value": 20.4,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2018",
+        "event": "Shot Put",
+        "value": 20.75,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2019",
+        "event": "Shot Put",
+        "value": 20.92,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2020",
+        "event": "Shot Put",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2021",
+        "event": "Shot Put",
+        "value": 21.49,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2022",
+        "event": "Shot Put",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2023",
+        "event": "Shot Put",
+        "value": 21.77,
+        "rank": null,
+        "highlight": true,
+        "glow": true
+      },
+      {
+        "year": "2024",
+        "event": "Shot Put",
+        "value": null,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "Shot Put",
+        "value": 21.03,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2017",
+        "events": 2,
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 20.4,
+        "seasonAverage": 20.0,
+        "currentStreak": null
+      },
+      {
+        "year": "2018",
+        "events": 3,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 20.75,
+        "seasonAverage": 20.0,
+        "currentStreak": null
+      },
+      {
+        "year": "2019",
+        "events": 3,
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 20.92,
+        "seasonAverage": 20.4,
+        "currentStreak": null
+      },
+      {
+        "year": "2020",
+        "events": 0,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": null,
+        "seasonAverage": null,
+        "currentStreak": null
+      },
+      {
+        "year": "2021",
+        "events": 4,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 21.49,
+        "seasonAverage": 20.5,
+        "currentStreak": null
+      },
+      {
+        "year": "2022",
+        "events": 3,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 20.68,
+        "seasonAverage": 19.9,
+        "currentStreak": null
+      },
+      {
+        "year": "2023",
+        "events": 4,
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 21.77,
+        "seasonAverage": 20.5,
+        "currentStreak": null
+      },
+      {
+        "year": "2024",
+        "events": 4,
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 20.38,
+        "seasonAverage": 19.5,
+        "currentStreak": null
+      },
+      {
+        "year": "2026",
+        "events": 4,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "seasonBest": 21.03,
+        "seasonAverage": 20.4,
+        "currentStreak": null
+      }
+    ],
+    "radarData": [
+      {
+        "metric": "Power",
+        "value": 90.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Technique",
+        "value": 80.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Release Consistency",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Big-Meet Performance",
+        "value": 95.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 85.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "throws",
+    "consistencyData": [
+      {
+        "range": "19.0-20.0m",
+        "count": 4,
+        "throws": 4,
+        "percentage": 36.0,
+        "peak": true
+      },
+      {
+        "range": "20.0-20.5m",
+        "count": 3,
+        "throws": 3,
+        "percentage": 27.0,
+        "peak": false
+      },
+      {
+        "range": "20.5-21.0m",
+        "count": 2,
+        "throws": 2,
+        "percentage": 18.0,
+        "peak": false
+      },
+      {
+        "range": "21.0-21.5m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 9.0,
+        "peak": false
+      },
+      {
+        "range": "21.5-22.0m",
+        "count": 1,
+        "throws": 1,
+        "percentage": 9.0,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Asian Record holder; consistently performs above 20 meters in major competitions.",
+    "peakZoneLabel": "19.0-20.0m \u00b7 36% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {
+          "2021": "19.99m (13th in qualification)",
+          "2024": "Did not make final"
+        }
+      },
+      {
+        "tournament": "World Champ",
+        "years": {
+          "2019": "20.43m (18th overall)",
+          "2022": "Withdrew due to injury"
+        }
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2019": "20.92m (Gold)",
+          "2023": "21.77m (Gold, NR)"
+        }
+      }
+    ],
+    "beforeCoach": null,
+    "afterCoach": null,
+    "coachImprovement": null,
+    "coachJoinYear": null,
+    "coachImpactData": []
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVtX4pezwf9WK1yAlRfiDFxIR_wT02-Ws76UjqLHRDBiwSPrNWqdDULd4oS9jvyU1tMky6lJmxR1_o4rS3MYQMTN4nvF_1ihJ7qWOmq1QvPtKF0V3EAX6pa0jaE0C9_R6pj00tWcSnb8Le6Byu7cjmXkBQb_1Y0eEk4Nu8lzSgElJj9o_fszhYwu4J5_YC-kyxMUf58uaucO23iAfyo7LWUYXnGg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFUz8f8J5TXRw0FduMkxENVXGaakrpzbMfO18-VufFmjgeAWy4ZWs5KLkGqKSo1mHp0znzN1saOb87nRnyDPX3KE9ac5BX5r-YUyhU00x6oTpjlSyLT65Z7yu5V2amlgZBWCNbxjsSeVcMns3ErA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwLbwi-E2G-vUGXCT52hEYY2k7IOyG0j1X-ds_qLsbcqt1TBhomlFKQxirAD1PvfqnUFYnmAHtunV7gPHeB_0nnw1hk17zqTlJ9q7RrMNtmW2UVe4C5F1TLCY-4Ga5bd7N_0mvRAaKIEp5obYx05ZxqmDlHlEd_zoQzKs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBMGnNncCxnoyNGGdovCrhuQQd93uwceYxi6DvYcHRVwsgRTVUFINiipAFdTLR-nv1TGolVrbdMIgaaq-BKIfNrVQuYdjArQMg56Xws8XKJHKKRDMxgoLgaD-FP2ooJbF_UvWnyYqKNM3DEiXVnXkb2e4MfZSZfoJmiDxBDIR7Rxc20E7HlC0iQ6me2MSvkY3-7Oc-VljjFuAOMDM66O7qLNbRT7tiLwJbAukFbqa0uFA7OiEOR-2eOePNfnt-oWQz",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo-3Nn_XAnUxsUmbuvTS088SJhc6g9HGdxJN8lQo2zV1OsSWJM7QQqWXEOVXOgg0WeEECNOpjco484aARr2_pNG4ohLvE974SXkAdDuK-l8UUdhI8fpKF_HQ7iLITrhjLjVAt6AHzAPgDQxLehn5h3vY2R8GbkCxygNcG3dpA9FkFbKnN18ZmVXYI5j20=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ5ZSYQc1PMkALaUKqAv2ykmqTxIm2RCrwEPG3C3XWmyk1pXoYE5UdT6esqjlqTns4K_ipc5yiQUgC28-OORo2qQwZDKHZgarKO80NkVRuhJG0W5HixGX7zZW9RZk3ssZHgK7Q5w_pBwSd",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyWTlORMY9aPE-mLFgoT1BQMFQmJipe6KAyofsAcNrXShYK8KAhF-hDXVof8Fgf9F23RdT_kaPTRKrYT81ymDZK4qxAw6gUZy2rC4XgNK6BcKSennJB842IAHgkO9iva3sf5Yz-_M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEjgIWX-A8Tzh4yBgnMjzSrRvK9MWorJTAFD0RlDaZdw3HTGfnfqhI5evygIrus9dZANNMRiGeGijSRPpInjPUDyZoZrlyOEj4WxQLcgEoXuf4Iq3zvRz-awOpa_pok3Ua1m-TM26sjD9_JT-_TNZYhiuRkBmIvr4OvJcMhFDzYFQKeZOnPkxyglmGQIl0EAgDpRtyWkPJ0ErSeDhtaLLYsleyI45hGZ8-mhk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-oNkinecC7zbfZxEFhYokwiOaQ-wAa-e53YaC4GOyqBI4Wo9Mctep2LMPu8iQUWvKSmkcoh0iYrd9avRp8r2Hz-RE813hTMwWWMVS78Uwg28sERiDmnNMI-wMSd3Ckty9db27huw_cEyDf9KqvyT2cTj_JuoBTh24Fe1LjsPQK8_lKiZd45s_R2jVH3q7qakmglU2SFxRQMxOdA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwM4q2_GGlCJ9T2wKkgWinPRt8ak3wxT_C_qT_GJYpD1GcKMLql3eXq1Y3uTch5706mUpos_3_7vTzwkd-WvfniI0cRNIQzA88gzOSLGSwDOAE0tIr5f_ep_okU2UIV1_5003QaROj2Q0cigl4SWP8bMJu5sC2_qZpntIoUgGrualHSHtrM16onj67Nl8ikrLMKG6-_y7NoILJW6bIOZMh7FPwa6xXNqQHQwHmr0uf7YxMq1js",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzf0Qt5AayD122h__7HuKow2epCmFl6UHnpi4AOtkDC2gP-QLziO_buRSmkSnwHxu69jxNvKHX-Gxlc-yDJQmdtjh2SU24zBot0vAyqFp3NTFL7vkRvXaBUJdUVGH5S9DvJsx-FtSo-OUphkUU-sgHWsYiuzI42WUFKX7l--4YEtKpv9r9zmVYBpjfwZ643s_ig3a5MMbvkMd50LCvAvhj4EuHBP8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvZ7SjWGTrZqZXADiZJpb_a0wWAkGgShvO6cs1eCg58LmEgOQz7-WqsUe_Rsh7XVLelCdweE-k8HTSKYl9IHLjupWm3NxnbisSfCxsl9tVy_UJFywCbRi_Qs0mK7RieVaPh_ObuloJXRtE3e3Ls8k=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwozcaOIvJ8Rof0dJ6bK6ku_ElQcKnuMaIhC5dsWouZ5H5ZW-Ta7mw9mE4frT1Wcd01mkbADhno9ZNUMwaMy4ZoLHkYdT7-2sCu3nVEDaMCak-VCxCrUc4Cu7Izow3W6UDIIR7Nh4rJSWv2X1UAKSnYXodOI7L-aRPC033f7VvFJhDXGxH-5oQo7d90QwG7yVNoxwIZZKmIETggRA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwuon8-i_qm11xv6JuyNP4C49HIYBO5yYXhUFCwYAf0ovmmybrvQn0-DGdfLDcWhIhFOhCqLuh5ZboG2Ix8XhdblG3_68ZB2ektU2GfybqWdV4CSJuE4r8yq49iA0-t0oiDEeSxK4Atto1rPJvEb5z8FHze5s-mj5V_wKjXAZFDs4qmMaT0jabUTXv8Owi9xCghr8d42Yehixc3v9tDWOV2_0qynJlv3D-d63Vj3Nn75xd5hnXR6RE0DB7jmwBpVavSN8BSJ2Qe3DOSK5wq48TRg6ky6rovGrXkbYu5Cen6N01dC1Zkvmd_zPOyAbGlmhAh9pnjGRI04E=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK2EbVjZXau1xwQblGqeHX_vg1hM3oQdFrDTkaXKglM3ervstIOfW-s1V5lrmddE7aIYvlhTVHRMOeBdz_Yzk6YD_dqiLGHV6Day1tK0TKbRmbuzBo2FQqoFtvOGQx2KHYWBDpx2c87AvgqHM8wn_XvHirPZBuYYd8vc8aniWHfw4BHYNVzxfIs4OgL_H2AW9QcNnvhMQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8ILOILVUjwS-UDJBgSf6yXyI4VObxfxr_MW-8WdYfXRBRXMEAabW7Umc384UHAevWNLrnl4J-ik5cZ0QazJzXQNByThJawKyJKHAihEvqgIAwrO-c3-y-xLDP7mS4LrfP6H4Rewdt3jwYRkd7DO4tsIqvCgkx8oIeE0457gOb7xtKu7o65Lj4YwJ0wbInjKAZgtEeCIRGJXCPxqVHtZJ7LYwzm2XEUTdSdTKilztcvrFMjZFdAqGO-pB0H6xUC0A=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZoiFme-TUJiL5Aw1_vCKly7ySN_rIjyArOHXeiUsswuizls0OLi22GLf4P3jf2YSCx1jao3LxJOz_Cw9_51vJmwX0ymV2_gG3upGvD-Pw6zL1VTj5iUOce0Oz2hqnBc-L_penc75a3xqX0TO1tk36RN8vnuGK1v7W4P2zSUUGeP3jZIUIMF8cOZxxIzTU_Vm3FNyXqTTa6XdQTcH-NCmLtyTjXVcxYfwNofvtWPBSXRDijEstU2O-JdieVDzD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLG9t4uI9r3QtQtbKfUWW69hImAyyMpFPKCHP13I4i903CUy0ZYv3JhQ56EZdpTrmBSNt0F6x-9XeGKyLAPnXi13QBlygBOoK710CUQeqnNp3GSEapzyO0Z3bbxFlOdtvRT-XeQqfyBCL_MNkQ9at5_XlAGqxkdiiXg4JUblyzQTWlJSoqtzTRTRKQxBnhNR9s-EV3W2-GVI-AVRjJwukJASLAFIc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwAieSgVtL4SHZOvlRgmqI6zaXbUhkPp0sZPqIA73q0KUuyrXig3gS35xieZIB0_eHc6FCkO171Tru4WSHtD2nqy1_CNRWLg9qIehmGb8ww10J-G9RCERvRCWYBoNO408zgcOfp572qPeqAfMK5Pc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPyw9aq-szlq7fc9yjOHIoFNswfnOFh9mlzN3Z1uZK9EKMPiHYcA80fQU4alxmEzMuj7r6hEvHBpCuMh1fufSTFQ-lDXT4h04LlKZns0_ZRS2w6CuyfbWjA54EkWegu79DY_a4LO50FAe-xUJPGYb9wI6pBhKwOn22qevGSWVZ9G9UCokTAtkCQeCOPN22NtEv8TiXKUh2MXNY2W_63c9keT2v93p1JVqU9ueqspGK3si0Q_SWUG5_lBeDgGDXJaSfaA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-TBoM1fGOE--IC_y9S6YczS9DgiSfVMGSOzRJozPnJ3_DEasdAG6SPS1xKSIitGa79A8iY9bZUq-3CMYe_C2RsrqBH53TA8XYRQAOz5smiUEQ0UhA9k9504cS69gKVH15tG8OOwc",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQQNH14uZhTuWWcTaoIfd0NTIlqrtiCTh9q1L7ZjoLhvADa8yWSe4PLIqsxUTFtICEpQPIwZr8kZmxcCoWgCmF8-CSPCmCSfAja3diykwsWPjTh3MRqR3LvVdojF5GsUQU_AUNO1UjSQ6m8Ub9Hix0_Rn3g8xwE3BLVPo57IzASBbdFdMsOFSlzXwpr9dPwaikgWcb-D4dYvtmnDMruIECoOFwYzJ4EbsUGeUFK349YltxHrZM0tgtyevLyio5FgdLiVPp7DkPLfYwXAhLY38EPn6WaM0Gw-LyqQ-CpJ6xxU8K9kf12hNIAc1FYhmF9vIL1nGE_tAVC1U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh7ovmT2D9PjOL1wVaamGWCg7XIPo7YQQWvD2lTNGohiUAdpIi0op8SzOWF71cAhdVCXfSLQNOmruFsk3BQ1GQ_wEUnwsCo8Pb92VtWzIPXVc0udCFKspKB7CR_7i1hkfFi2Ut4WmMlyeCRLaQtnmTzMCMB3uMnuk8gh8VWndjnlJTM7UzH_b0nv1RpUcnwO-Pbmx8hpkpCcJ-p5K6YPvIWlvCivzsqvx55eWggw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-09T16:13:17.219752+00:00"
+  },
+  "performance": {
+    "primaryEvent": "Shot Put",
+    "category": "Throws",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "Shot Put",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "Shot Put",
+        "medal": "GOLD",
+        "category": "Asian Games"
+      },
+      {
+        "event": "Shot Put",
+        "medal": "GOLD",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "Shot Put",
+        "medal": "GOLD",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "Shot Put",
+        "medal": "GOLD",
+        "category": "Asian Indoor Athletics Championships"
+      },
+      {
+        "event": "Shot Put",
+        "medal": "GOLD",
+        "category": "Asian Indoor Athletics Championships"
+      },
+      {
+        "event": "Shot Put",
+        "medal": "SILVER",
+        "category": "Asian Athletics Championships"
+      },
+      {
+        "event": "Shot Put",
+        "medal": "SILVER",
+        "category": "Asian Indoor Athletics Championships"
+      }
+    ],
+    "stats": {
+      "personalBest": "21.77m",
+      "seasonBest": "21.03m"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        19.0,
+        23.0
+      ],
+      "unit": "meters"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

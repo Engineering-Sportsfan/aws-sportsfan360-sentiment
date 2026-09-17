@@ -1,0 +1,364 @@
+{
+  "athlete_id": "vishal_thennarasu_kayalvizhi",
+  "sportId": "athletics",
+  "coreInfo": {
+    "name": "Vishal Thennarasu Kayalvizhi",
+    "country": "India",
+    "flag": "IN",
+    "gender": "Men",
+    "dob": "2003-12-17",
+    "heightCm": 189,
+    "weightKg": null,
+    "profileImage": "https://media.aws.iaaf.org/athletes/15010693.jpg",
+    "welcomeVideoUrl": "https://www.youtube.com/watch?v=cOE1vF_pB5k",
+    "bio": "Vishal Thennarasu Kayalvizhi is an Indian sprinter specializing in 400m events. He became the first Indian man to run the 400m in under 45 seconds, setting a national record of 44.98s in May 2026. He has won a gold medal in the mixed 4x400m relay and a silver medal in the men's 4x400m relay at the 2025 Asian Championships.",
+    "birthplace": "Jolarpettai, Tamil Nadu, India",
+    "coachName": "Jason Dawson",
+    "yearsActiveSince": "2022"
+  },
+  "record_highlight": {
+    "event": "400m",
+    "result": "44.98s",
+    "type": "NR",
+    "typeFull": "National Record",
+    "phase": "Final",
+    "date": "2026-05-23",
+    "city": "Ranchi",
+    "prevRecord": "45.12s",
+    "prevRecordPlace": "Chennai",
+    "prevHolder": "Vishal Thennarasu Kayalvizhi",
+    "improvement": "-0.14s",
+    "improvementDate": "2026-05-23",
+    "aiInsight": "Vishal Thennarasu Kayalvizhi became the first Indian man to break the 45-second barrier in the 400m with his 44.98s performance. This historic run at the 2026 Federation Cup in Ranchi surpassed his own national record of 45.12s set in 2025.",
+    "progressData": [
+      {
+        "year": "2024",
+        "value": 46.77
+      },
+      {
+        "year": "2025",
+        "value": 45.12
+      },
+      {
+        "year": "2026",
+        "value": 44.98
+      }
+    ],
+    "benchmarks": [
+      {
+        "label": "National",
+        "value": "44.98s",
+        "holder": "Vishal Thennarasu Kayalvizhi",
+        "date": "2026-05-23",
+        "venue": "Ranchi",
+        "tournament": null
+      },
+      {
+        "label": "Olympic",
+        "value": "43.03s",
+        "holder": "Wayde van Niekerk",
+        "date": "2016-08-14",
+        "venue": "Rio de Janeiro",
+        "tournament": null
+      },
+      {
+        "label": "World",
+        "value": "43.03s",
+        "holder": "Wayde van Niekerk",
+        "date": "2016-08-14",
+        "venue": "Rio de Janeiro",
+        "tournament": null
+      }
+    ]
+  },
+  "analytics": {
+    "heroLabel": "Personal Best",
+    "heroStat": "44.98s",
+    "metricLabel": "Time",
+    "unit": "s",
+    "tooltipValueSuffix": "s",
+    "yAxisDomain": [],
+    "sport": "400m Sprint",
+    "achievementLabel": "First Indian Sub-45s 400m Runner",
+    "stats": {
+      "worldRank": "55",
+      "personalBest": "44.98s",
+      "bestYear": "2026",
+      "totalGold": 5,
+      "totalSilver": 2,
+      "totalBronze": 0,
+      "olympicGold": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2024",
+        "event": "400m",
+        "value": 48.59,
+        "rank": null,
+        "highlight": false,
+        "glow": false
+      },
+      {
+        "year": "2025",
+        "event": "400m",
+        "value": 45.12,
+        "rank": null,
+        "highlight": true,
+        "glow": false
+      },
+      {
+        "year": "2026",
+        "event": "400m",
+        "value": 44.98,
+        "rank": 55,
+        "highlight": true,
+        "glow": true
+      }
+    ],
+    "medalData": [
+      {
+        "year": "2025",
+        "events": 10,
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0,
+        "seasonBest": 45.12,
+        "seasonAverage": 45.65,
+        "currentStreak": null
+      },
+      {
+      "year": "2026",
+      "events": 2,
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "seasonBest": "44.98s",
+      "seasonAverage": "46.05s",
+      "averageThrow": null
+    }
+    ],
+    "radarData": [
+      {
+        "metric": "Reaction Time",
+        "value": 60.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Top Speed",
+        "value": 85.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Acceleration",
+        "value": 75.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Consistency",
+        "value": 70.0,
+        "fullMark": 100.0
+      },
+      {
+        "metric": "Growth",
+        "value": 90.0,
+        "fullMark": 100.0
+      }
+    ],
+    "consistencyBarLabel": "attempts",
+    "consistencyData": [
+      {
+        "range": "44.5s\u201344.9s",
+        "count": 1,
+        "throws": 9,
+        "percentage": 11.1,
+        "peak": false
+      },
+      {
+        "range": "45.0s\u201345.4s",
+        "count": 1,
+        "throws": 9,
+        "percentage": 11.1,
+        "peak": false
+      },
+      {
+        "range": "45.5s\u201345.9s",
+        "count": 2,
+        "throws": 9,
+        "percentage": 22.2,
+        "peak": false
+      },
+      {
+        "range": "46.0s\u201346.4s",
+        "count": 3,
+        "throws": 9,
+        "percentage": 33.3,
+        "peak": true
+      },
+      {
+        "range": "46.5s\u201346.9s",
+        "count": 1,
+        "throws": 9,
+        "percentage": 11.1,
+        "peak": false
+      },
+      {
+        "range": "48.5s\u201348.9s",
+        "count": 1,
+        "throws": 9,
+        "percentage": 11.1,
+        "peak": false
+      }
+    ],
+    "consistencyNote": "Vishal Thennarasu Kayalvizhi has shown significant improvement, consistently running sub-46 seconds in 2025 and breaking the 45-second barrier in 2026.",
+    "peakZoneLabel": "46.0s\u201346.4s \u00b7 33.3% success rate",
+    "heatmapData": [
+      {
+        "tournament": "Olympics",
+        "years": {}
+      },
+      {
+        "tournament": "World Champ",
+        "years": {}
+      },
+      {
+        "tournament": "National Champ",
+        "years": {
+          "2025": {
+            "value": "45.12s",
+            "holder": "Vishal Thennarasu Kayalvizhi",
+            "date": "2025-08-21",
+            "venue": "Chennai"
+          },
+          "2026": {
+            "value": "44.98s",
+            "holder": "Vishal Thennarasu Kayalvizhi",
+            "date": "2026-05-23",
+            "venue": "Ranchi"
+          }
+        }
+      }
+    ],
+    "beforeCoach": "48.59s",
+    "afterCoach": "45.12s",
+    "coachImprovement": "-3.47s (-7.14%)",
+    "coachJoinYear": 2024,
+    "coachImpactData": [
+      {
+        "year": 2024,
+        "value": 48.59,
+        "period": "before"
+      },
+      {
+        "year": 2025,
+        "value": 45.12,
+        "period": "after"
+      },
+      {
+        "year": 2026,
+        "value": 44.98,
+        "period": "after"
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpPmAhPW9nWyx5_Yw-f06XP6Hok15ndlafzTbA-gCY3hnmA2kIcgmawhqUTS7VWXOv7NA6AvCGyQ_w0Tn6SO729JQKEQrmah3LfrjqTBl9hbC3LLBD6P9NJW5GmHm5UHBDHkyneIUN6xd4enP4GIE1FM452lA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq69BrVp-XGGGTEu0SBxBt-JMM1r0gMcbUbiwG78NYr2jbOWQAoXbF9j7NZl7t88ZxBvVMwMPJpKlgH97vl_NPyWxRRZ0Mnly7Fc9vMHnjzQN-7e3wrSqO6WJg7jhG4xzXmLEKeBuPw_D45gUNeCdD8NxwY1hSErb1LessqiYrRHtb7CdkW8t8",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6Ia44MStT2cSh5-t8uSPXw5-r5WbDZdaGLw2l7FMEtfItp0Hr-aPQIs8aVCSVgcJhEkYWKArPeb7b86cFyHpQM-RIbtKZlQBshz9OTujJbctLrmVrSk3uGXbkUEdx_I-RcxNfjuM2EqLBM5M1eKxaC8fngdkPAZKBDyqGpQqAebo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8YhAJ9gt00pJLJ1VR7rMMi7dZPkAOtFywSIYS3HHhLVpIySJD1SOvCsAn93k4FRuXtC-oaYwSxYdsrHS62iNtFIbXpsl7iBzWwu29NHIxorh4eI9jrufs9Sc8YkzaMKDBRuWllbVh1nTy4kyjQXMi5aLUOCc-8LTEdH-DrxTDa0_-BGVSKZUjmboFYziHse9JjhjlIhSSnr0BFe6KEJT2aQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhm0YGjZM8YvH5-bbfSo2kY2KJx8-Z0q3iWdugCL_UtMfB_jwHhHi87lWzLsgGQVvFX3mKHDv8aV8l_UOqh05wj94yYH6Wdua5_kGLjRlU-Hf8LZIq1wIVysbS7KPRlnkeChi_2xfmcAvIgDRBenV1_NiM-OFHCmzr47k_ZCNFgE3Mh9VK80gIZWAAzjR6lyGZx001p7-_YRgpt79bBg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEBPNWixu-xqhvH_f6g3tnlpyuvNNZzqG5oR4inW072PSIe88tFSI0LcFccGzRWgnRsPAqEB3pEbXOs86eljvmZP0NSq4qTcfd7ufdspn1IXtHx8DCPHBY26X2dewNz7AUvVORQS9c8-q8GYbPLT71d0c2aQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3Xvdp78iAGhwafTJkEcdTUfUH-J2RbuatCOv7VyhWH24UiAmtoVN5v6lnxIAWpgs-hdkQE4b1qslqlnx0m2R7QqWPZIyHmXobHIBE21hbtM6b_9iNOe2_6QHhoZ69fh4CjKq2vvsB81Gt-ANxNtJbq0sQrXzMbvppjDlE217I6A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgklDPwTal24hlStnRIxcYXRoXrEzOHB0Vb7zuSEq5RWNoVIU0UNHS7schnaA6eX158MOPW8MXCz8HSQN36xWUaXZVYsLxJOwHLiTC5Vh2a02Xl-PoVBK_DNwJCGsJuPPJvEy1c9wjy7BIY6lIBtV3IKysVoE_qM-W0eNpv2cHLsPXEbG9JTGO0VyL9pNfruHs7T0LvGEUGpg5ksO0RTEL",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG0ZrLu73K6FYhbXI3bdS9PNe8C6HkE3bDKid7M2jWSGbw1bia-WVtoZgjgBgvgOovaTVxGKtn9OIKBQhd-jgp61ch3MCVQvfDv8PwtMR98bLnEUuu7Dva5ok4_NVhTIqv-DcUNvi9I4x_uclKKjsKNiQv7XhJwQmxbRE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa-ba2BkoAc49YilX36VctQM_5-wM73Agp1Kgz4_K7LZGjm2JmolWgmsD8rjhuEi0fE0eoBUbdvku2xTK2qp1bGJ46ojrT9YTTXKzopAwf7O4KEh8T2hBlls_agKrBEemWV0z2O_pRsPvZqT4k4tv0r0fH3_iUnlmGdqgvivoaWcFhDLAUm56uaUW55lDPkYXU9r6-uF9YyuBcpkZkooZCgBsmxyRJlzdeIbnd3roAlN2Otfzhz6qnjzFPp1eEdQWzOhLcr1pYMpUdveMe",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwUyTKCMWvTh1aU3Zf_xM83GWtyNZr9I2SdcbS1mCgSHPlIYlAIboHLh-DdVrNs5qBwskhO523EVEmDIjKTKHq8qeL-1APVcEHj6Jk-sqHIYo_0X9lQOP-xHY58sh5OIxtVcEs77tDZediH1jUzyEtMVu6VMsDSjI8HlTiAGfc-GTLrRJ8U9KvZAYK_lY2ePZ-PxpUUMe-1siJDuf7",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3deIjPO_NHxmPo_cXPFc1LysshudKrMdfUQ8X0Ti5KOm4A4KfJLmG6uMk0ZEof6ITTmm_q98AzdhHMRRfx_ZUF5FFWgi6eS1-dXZt8KMozAZpO-6T-j_mzNNxURPwyOMISZL2qgx-nJ-z7EaKAM4hpcoPY9U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE851t0dEmykspo8pJcepvYNY8F1urXBdWKHHiqZ8HvCy5EGtuSiKzpVPqUNcrFC-KWhXuBIHoZCIiIgb9EdCIgm1CCZnVrvcKhuHaMUk3HKp5XEMsxRh0gKLejGosPimHfKa_9cW9qN1KkJIRr_kfdhAfRbCEYV-UB4SL7OfJvsa8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU4C9mULD_WbIogBuslsKFyS4cLdeM5Zbp2SlpaD6Q5ye_v7xaKQSYZVImWIkZgSLZA-yjYJe4tD35BOP1Mby-VxD0vAabWNbTuvG0-VHGT3Q_Z_QZL8pgjxJ9X3eeOxfU8VrzUUjOZw_R5h-owzzIO2gGWUBeff_fCcb-O5RNmEYRESgVf7gv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8YCFuXYgtxJpbm2wQPbVl27FY_Eh_y3tAP_LR25dyMpck8fcLMmJN_WoaFxW7_OGZ2MW9OdZuwFdE4paz-8uzH0fYMYe4Nf8H43m9v_Yngyaf7Fy-S8T_8j8dheDKXfkFPc4j38_dmJ4ip8HdME4X_nzxHHQC-_wrqga9RZMCkEL0Bq4369va1O5eSmT_JaafXQN0Y5BPqUnjiTNKywq-TA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGMSSEp1gppN3svCpcy4cxgScMyjOTZ-DybKyq0J1DJsAFFXeQ0X_XMaKU_Kht437QP_mmraakPX7GsLEkeTS4HBRlu-0GLYS5jYrhSBvWB66WnSk8woFPlrwA2s15t5-m2mp8-tG4Twtu5SODEX08ok03N7dqMaujRuzRXIZNbRolpwuSkXwXCbUD0cL8RD1J1Q8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_tlAb5OUFD2DXVR8fTD2n6sjIIAPQWHvHHa3vvd1nCSnBFgdxTQxfQGqTXm--irlCqQPNsS5HQRTwjifDXX1pS2XOVRJ54tOwR6pG9-sWMbQLn6ETkVlR17pu4h6QcqwoQ7r4wUPQh6u6eYICtsHZ8WHjEcl1bzMkGHdjqmyOwBUZywpqxfQw9w55rXuB6g==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrk34o08J3HnPu_IK1nPqGohDkKNk5QObJUfmUpVwbJi9sUbVNO1ZSQWlR80r98xYBrmD00BF7evN2zQkSlZ2MpZ35LMY8Xw5bXRq7wR3O5HwAwe3ow3OBIt1SoRymZAv5_QiODReK3MSnaNMYrU84gF9EnasBSMoagYjPZ2imW3QlWmvHyKQxlR2ZNm7PXw=="
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded \u2014 unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-08-07T10:01:01.484464+00:00"
+  },
+  "performance": {
+    "primaryEvent": "400m",
+    "category": "Sprints",
+    "preferredLane": null,
+    "currentSeason": null,
+    "medalCabinet": [
+      {
+        "event": "4x400m mixed relay",
+        "medal": "GOLD",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "4x400m relay",
+        "medal": "SILVER",
+        "category": "Asian Championships"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "Federation Cup National Championships"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "Indian Open (World Athletics Bronze Level Continental Tour)"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "National Inter-State Senior Athletics Championships"
+      },
+      {
+        "event": "400m",
+        "medal": "GOLD",
+        "category": "National Federation Cup"
+      },
+      {
+        "event": "4x400m relay",
+        "medal": "SILVER",
+        "category": "Indian Open (World Athletics Bronze Level Continental Tour)"
+      }
+    ],
+    "stats": {
+      "personalBest": "44.98s",
+      "seasonBest": "44.98s"
+    },
+    "chartConfig": {
+      "yAxisDomain": [
+        44.0,
+        47.0
+      ],
+      "unit": "seconds"
+    }
+  },
+  "_retry_log": [
+    {
+      "pass": 2,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    },
+    {
+      "pass": 3,
+      "targeted": [
+        "coreInfo.weightKg",
+        "analytics.medalData"
+      ],
+      "filled": [
+        "analytics.medalData"
+      ]
+    }
+  ]
+}

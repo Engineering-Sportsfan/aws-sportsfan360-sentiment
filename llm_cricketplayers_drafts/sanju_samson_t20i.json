@@ -1,0 +1,154 @@
+{
+  "playerId": "sanju_samson",
+  "sportId": "cricket",
+  "format": "T20",
+  "tournament": "T20I",
+  "currentClubId": "chennai_super_kings",
+  "coreInfo": {
+    "playerId": "sanju_samson",
+    "name": "Sanju Samson",
+    "country": "India",
+    "flag": "IN",
+    "role": "Wicketkeeper-batter",
+    "battingStyle": "Right-handed",
+    "bowlingStyle": null,
+    "dateOfBirth": "1994-11-11",
+    "birthPlace": "Thiruvananthapuram, Kerala, India",
+    "heightCm": 170,
+    "jerseyNo": "9",
+    "debutDate": "2015-07-19",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sanju_Samson_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+    "bio": "Sanju Viswanath Samson is an Indian cricketer who represents the India national cricket team in the T20I format. Born on November 11, 1994, in Thiruvananthapuram, Kerala, he is a right-handed wicketkeeper-batter known for his elegant stroke play and ability to score briskly. Samson made his T20I debut for India on July 19, 2015, against Zimbabwe. He has been a part of India's T20 World Cup winning teams in 2024 and 2026, and was named Player of the Tournament in the 2026 edition.",
+    "gender": "Men"
+  },
+  "record_highlight": {
+    "category": "Most T20I Centuries in a Calendar Year by an Indian",
+    "result": "3 centuries in 2024",
+    "type": "PR",
+    "typeFull": "Personal Record",
+    "opponent": null,
+    "venue": null,
+    "date": "2024",
+    "aiInsight": "In 2024, Sanju Samson achieved a remarkable feat by scoring three T20I centuries, including a blistering 111 off 47 balls against Bangladesh and two against South Africa. This made him the first Indian batter to achieve three T20I tons in a single calendar year, showcasing his explosive hitting and consistency in the format.",
+    "progressData": [],
+    "benchmarks": []
+  },
+  "analytics": {
+    "battingStats": {
+      "matches": 66,
+      "innings": null,
+      "runs": 1432,
+      "average": 27.02,
+      "strikeRate": 155.99,
+      "hundreds": 3,
+      "fifties": 6,
+      "highScore": "111",
+      "ballsFaced": 918,
+      "fours": 119,
+      "sixes": 86,
+      "dismissals": 53,
+      "ducks": 8
+    },
+    "bowlingStats": {
+      "matches": null,
+      "innings": null,
+      "wickets": null,
+      "average": null,
+      "economy": null,
+      "strikeRate": null,
+      "bestBowling": null,
+      "oversBowled": null,
+      "ballsBowled": null,
+      "runsConceded": null,
+      "fourWicketHauls": 0,
+      "fiveWicketHauls": 0,
+      "maidens": 0
+    },
+    "seasonalData": [
+      {
+        "year": "2015",
+        "matches": null,
+        "runs": 19,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2020",
+        "matches": null,
+        "runs": 23,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2021",
+        "matches": null,
+        "runs": 27,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2022",
+        "matches": null,
+        "runs": 179,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2023",
+        "matches": null,
+        "runs": 40,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2024",
+        "matches": null,
+        "runs": 436,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2025",
+        "matches": null,
+        "runs": 222,
+        "wickets": null,
+        "average": null
+      },
+      {
+        "year": "2026",
+        "matches": null,
+        "runs": 400,
+        "wickets": null,
+        "average": null
+      }
+    ]
+  },
+  "grounding_sources": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGDOy6IWtnUXsw0cL6BRfLY6q6b1To_m8W8ERboS41S7xgWzkNTe5W-SBAY7i79ai1Ldhdg7ScbDdobc0xa3g-0abjlw3M_yrSDqGtIh6OSMY6rgYckKvhV8Khqo7WGfwoXZMPeA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMebXCC8iWfLyRqdFT0RMNdpxYGiFxGmRhwnyGo6DYL6vMmnuCXfTl8GcQ23OnSWswR1dtCCctwwhl0bv-Z3VqMG1J-ZbQoil4_ZdPmbAdPAVxExljpikLvM6TYI3IouRmgw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1hR06GyO4kF9TO5rM-cCE936l-z4PTksQJ5tC9yrzGXgiKfrRkR9lQyhxoS3d9fy69TDFgvXoiUHCV2j7dhdpAR2zLb-bdXHnucQmtGLIG9Oo1ccoHcRwifQ2OASaPCjp_v9hF1Md6dzT33U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpNTk6TEQULICJshwQSOMfamaUCxcbaVcb7cC90ITDLaXau9KNUgh4U7r8G1NA0enNDOUX7Bie7Eso3Nlt3inKi-ZI4HPoJE2jlM72CT9bG4isumPxUWSkCj_kxNNkzTyHjyVfJh9egUjia1qUTb96yA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQyXlz7HU7SiUqath223gJRYReW4l7KBYfrd261wJfhNLDGeuTb86Fl1rI1koNVwGKCr7cyAJQlXukF6v5oSViP3xt5humY-dC6lzUEoF2LdvXIs5u0dvmT1iJnUTNMycmUXEZK1-61eRk",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDOFETD-pqnZMW9zilg8AgPGlfc_talMTf2v7PcjaxZ2LWC8SbdtgKkKF0HfalFXHcNWl2Led34KbiGhU7w4PImfbUxoazWp6es9dRS_wG-K7cCdNJsA16hkZNVggLO0Bw1q4sbYbHNgC1_kSAPK_qwT4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqdnxS8zWIGDZgbwbx-XZnYknxW6IWT6fZOO_bHQmOaf2ypLKRWbM8h9neW7h5008hvukdy54iOpQkM6NVfbj8AEogf2CxpqYOjSM3rl_LKq1uQxxfl572nxA-iOEDdaEdNZKsKJD49cbzM8O4kypx9QS7LghrBIXbY7Rx-KKPmtAeCtsWOPFlsdKS",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5rNjX6cvSdnVb6hR7GbjpCmiZhU0KlGrMfvxB8XtMgde2Y2ZFqSD9t2WtMcTtac6GOJ6jNoSRXI42J436RDTauPQGnnEt3nZI80fPaZlQEplc0fAUkgGoJQ5DE_Ad65xgXbzK239Z9LRHiZqRN2YCC4ESxaIdpekq1knaiYDE2ALWzjpeQG9BuYZ4eCQBtveqXHhleCzWHB5ydWlECx-lrTZ-cpFdY13mmN3LX9cy2LUqrWfbzhvwzMM=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe9wbkbMIppA0K5sFrdYpc9Wn-SZxsul2LJffJtw3PL7Zv6Q_QsPzmVu0qtclqRdgt7WEsfpHIxtmMWhEApA866D-DeAP1kptpFrTLPv2E9lX-EtH4UglCWiPjfOheZQCxKzpFZFalNaT11m1H7TNyf-Hh6vsrcCHF8vmQS_iVwKTTlonKLf95XWinbHNgp5nHpXNFq_C_UbBV1C8fI8-r4fNJh8Prk2nplZMuBr1Dx3Bobp-OYW2foPZGhjNpkHmtWA51MZk564hXYW1RLu8qdlU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkBDmu1uos_OxnjwPhTN0gjvoaPww37iLn1y6WWaPfGuau1FHzrEbeQL9-KYIw1hWkfMkyX43W6joU4H5Ih1wbyN-JwDBVN-yEGna4LlYo2h-nTMOratv7OflQviyl3EDfI_GZ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJTWec95_Cg33GhMjMnK772leTRjo57Q0Ix0AivHvYtVcW4fzlQeRbbepTgxt-C1dKnDbu7c3SbvHakcHD_pG89z1xElOdHsQF6uIPGCvkoQgzKloOdhmgHoAFj2vf4G6b"
+  ],
+  "source": {
+    "source_name": "Gemini (search-grounded — unverified, needs human review)",
+    "source_url": "https://sportsfan360.internal/llm-draft",
+    "fetched_at": "2026-09-01T18:26:26.147251+00:00"
+  },
+  "_retry_log": [],
+  "searchTokens": [
+    "sanju_samson",
+    "sanju",
+    "samson",
+    "sanju samson",
+    "cricket",
+    "india",
+    "t20i"
+  ]
+}
