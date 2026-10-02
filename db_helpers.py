@@ -126,6 +126,7 @@ def db_check_partisan_lock(sport: str, match_id: str, room_id: str, bot_uid: str
         table = get_table("RealTimeChat")
         res = table.get_item(Key={"roomId": "SYSTEM#PARTISAN_LOCKS", "sk": f"LOCK#{lock_key}"})
         if res.get("Item"):
+            item = res["Item"]
             posted_at = float(item.get("postedAt", 0))
             elapsed_minutes = (time.time() * 1000 - posted_at) / (1000 * 60)
             return elapsed_minutes < 10 # 10 minutes cooldown
@@ -352,7 +353,11 @@ def db_was_recently_posted(room_id: str = None, sport: str = "cricket", cooldown
                 Limit=10
             )
             for item in res.get("Items", []):
-                if item.get("createdAt", 0) > cutoff_ms:
+                ts = item.get("timestamp")
+                if not ts:
+                    ca = item.get("createdAt", 0)
+                    ts = ca if isinstance(ca, (int, float)) else 0
+                if float(ts) > cutoff_ms:
                     return True
         else:
             table = get_table("SocialAndContent")
@@ -369,14 +374,24 @@ def db_was_recently_posted(room_id: str = None, sport: str = "cricket", cooldown
                 .where("authorUid", "==", bot_uid) \
                 .where("sport", "==", sport).stream()
             for msg in msgs:
-                if msg.to_dict().get("createdAt", 0) > cutoff_ms:
+                val = msg.to_dict().get("createdAt", 0)
+                try:
+                    val_num = float(val)
+                except Exception:
+                    val_num = 0
+                if val_num > cutoff_ms:
                     return True
         else:
             posts = db.collection("roarPosts") \
                 .where("authorUid", "==", bot_uid) \
                 .where("sport", "==", sport).stream()
             for post in posts:
-                if post.to_dict().get("createdAt", 0) > cutoff_ms:
+                val = post.to_dict().get("createdAt", 0)
+                try:
+                    val_num = float(val)
+                except Exception:
+                    val_num = 0
+                if val_num > cutoff_ms:
                     return True
     except Exception as e:
         print(f"⚠️ Firebase cooldown check failed: {e}")

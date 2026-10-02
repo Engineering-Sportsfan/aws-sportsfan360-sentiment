@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fleet-gift-498306-p7",
+  "private_key_id": "7998465bbb7fc06dcfd3982afa1099da703d2145",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDjhjlMUnUoiuKQ\nyeM1NOUq6Sd1IkPSRKCqZECc9+CTCovWthYdinhGOph5VPhgquonNza5QubOWfUP\nAPbTp8UKnU5hsD1sreBJjAv7sUiqhU/EWpXh2/By/RAL/Cj7Iug/u1GUAvAkCWnE\nN9Q1vpI8t4ch5TdW5c3hSfJbeeiYOIEggHO1+glO0Pa2Q/rCNo1dMyR6kOssNI++\nNQci/B+f39MNo9tnNBqQlNuOd2eCNCF6yEpcFyrdTNqWoKCHyYpG47/2CD9njyXg\n0XQrUfJdeYr2x9/XdYos6YzVPzR3hCoQABp4B8t96yp49DNwsuPQgAk5ZJi+eXVA\nrjbBLSjdAgMBAAECgf9WNYWAZb3+nqE6O0Tb5C7xE2bf+xu3kElQRqw0zbdJ/7T8\npgG7L7xi39DmKEv0VM5kDYeuqqrJhUxVYwgjKm5+lxwb56tegoN5WpcvxvzBn8GZ\npLkl2zBAYaKy59ifT5qwi0ldy78x6F8q+fxuYMcIOoH5VeCiDHD17A7omkiHZCqh\nY6CXni0DesvOtS5h8cKvUTPJyMfXj0tzgDZBdmZwfVhN2MeOuoaFMr7YCm3SRIn8\nVJqRuXPxHKPYtzp0qaNhXNWqJXAR791hRiZWFFkiY/slxLrMpHJren4jrlp9sZB+\nGd+DuGdzgW5r7/44QwsahpC8WWvX1uwt3WknDGECgYEA9DpBhnirAx5E4dOlhk4K\n4nNO/krsluPJgmNyM/pgP0+L7QUdgjr35hPi4NtHD/HkIkjRj2nbY9cJCBRCMs8C\nbJbPTLuh8iUaDv26VlQk9rnT7XRmxJfm/nKWgAIQ09fXCjJP8iBeI+Ji7ameitWG\nMqJNdLL4TIvXoiI24Ru37VkCgYEA7n3Z9TS+e0k1fbHItjHcHWBy9mcZlz+aMkYv\n643Bu5/LOwgEzt5bp/Qv9U924SovYC0Hphj0dhc/pcDFKKaXXOojt8ZTjqsJDiIQ\ncK77q+ZQ223tToh4yEPCIE7DgnqagQYomDPJih+6sSAs+gFt+hzcXGmeBxJGEmjs\nimJEUyUCgYEA1G67wijBr4OrrLZ42tqVUyWzRzOKmTDnfVfc5WNaRpd9gZwab8W1\nDVas2KNDK5ZetoeaaGFOaIiJnZJphmJTnHqNNBRdKA+nm/SNGTw1rroyoe/G2Ce8\n0ASB7jRdyLaMoJzktxn6aMIpBMquUdqq0O4l62Uk3wggdzHFhIaktHkCgYAIPv28\nRriXVq6sy+resdakhWM0NdhirGZOerLJeDtMm3fRcLOJ25Jbuku2NassmeLNdoEf\nMxmww5kFyCaJA0mUgtv9TLQy6KMFhBQBcWtuRCZjj+d2oa1bb0xVBaQo7MhO0cGx\nkYjUZ8hyu2QSuN3umfTclSJLqEwX8tzK5B7sqQKBgDJ3yKaC7ePrseOxre3pP8fz\nNyLWu3fzHc0IhZtPQPnGo+vTPU1zKgZQ30GBM3G9QRTMtyKtbYyjjrA3A+4W3J9L\nxjlIzdfHidV17zdBvxOuQ7PPbBackPbXvL+pTgQyojMfHlXvBDI5KHV9IHKoQloV\nv7c3wsOQXPPuoO1jMzJ0\n-----END PRIVATE KEY-----\n",
+  "client_email": "sportsfan360-askai@fleet-gift-498306-p7.iam.gserviceaccount.com",
+  "client_id": "117991972412294735582",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sportsfan360-askai%40fleet-gift-498306-p7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
