@@ -3,11 +3,12 @@ import concurrent.futures
 from dynamodb_store import get_table
 from firebase_store import init_firebase
 from dolly_bot import run_dolly_for_sport
+from db_helpers import db_get_room
 
-# Phase 6 Dependency Protection (Try/Except)
 try:
     from partisan_bot import run_partisan_bot
-except ImportError:
+except Exception as e:
+    print(f"⚠️ Error importing partisan_bot: {e}")
     run_partisan_bot = None
 
 def acquire_dispatcher_lock():
@@ -117,17 +118,17 @@ def fetch_active_bots():
     return bots
 
 
-def run_bot_dispatcher():
+def run_bot_dispatcher(specific_room_id: str = None):
     print("🚀 Central Bot Dispatcher started.")
     
-    if not acquire_dispatcher_lock():
+    if not specific_room_id and not acquire_dispatcher_lock():
         return
         
     active_bots = fetch_active_bots()
     
     futures = []
     # Throttled execution to prevent Gemini 429 Rate Limit Error
-    executor = concurrent.futures.ThreadPoolExecutor(max_workers=3)
+    executor = concurrent.futures.ThreadPoolExecutor(max_workers=5)
     
     def dispatch_bot(bot_uid, sport, room_id, team=None):
         bot_info = active_bots.get(bot_uid)
@@ -150,6 +151,46 @@ def run_bot_dispatcher():
                     print(f"⚠️ Phase 6 partisan_bot.py not found. Skipping Partisan Bot [{bot_uid}].")
         except Exception as e:
             print(f"❌ Error executing bot [{bot_uid}] in room [{room_id}]: {e}")
+
+    # ── 0. DIRECT TARGET ROOM (If specified via CLI) ──
+    if specific_room_id:
+        raw_id = specific_room_id.replace("ROOM#", "").strip()
+        print(f"🎯 Direct Target Room specified: [{raw_id}]")
+        room_data = db_get_room(raw_id) or {}
+        sport = room_data.get("sport", "cricket")
+        bot_cfg = room_data.get("botConfig") or {}
+        
+        team_a = "India"
+        team_b = "West Indies"
+        
+        if isinstance(bot_cfg.get("krishna-india-bot"), dict) and bot_cfg["krishna-india-bot"].get("team"):
+            team_a = bot_cfg["krishna-india-bot"]["team"]
+        if isinstance(bot_cfg.get("radha-england-bot"), dict) and bot_cfg["radha-england-bot"].get("team"):
+            team_b = bot_cfg["radha-england-bot"]["team"]
+            
+        match_id = room_data.get("matchId")
+        if match_id:
+            try:
+                sports_table = get_table("SportsData")
+                res_match = sports_table.get_item(Key={"entityId": f"MATCH#{match_id}", "sk": "MATCH#META"})
+                if res_match.get("Item"):
+                    team_a = res_match["Item"].get("team_a", team_a)
+                    team_b = res_match["Item"].get("team_b", team_b)
+            except Exception as e:
+                pass
+                
+        futures.append(executor.submit(dispatch_bot, "dolly-dolphin-bot", sport, raw_id))
+        time.sleep(1)
+        futures.append(executor.submit(dispatch_bot, "krishna-india-bot", sport, raw_id, team_a))
+        time.sleep(1)
+        futures.append(executor.submit(dispatch_bot, "radha-england-bot", sport, raw_id, team_b))
+        time.sleep(1)
+        
+        print(f"⏳ Waiting for {len(futures)} AWS threads to complete...")
+        concurrent.futures.wait(futures)
+        executor.shutdown()
+        print(f"✅ Dispatched all bots directly into room [{raw_id}]!")
+        return
                 
     # ── 1. GLOBAL FEED (Headless runs) ──
     # Ensure main app feed receives AI updates
@@ -164,12 +205,8 @@ def run_bot_dispatcher():
     try:
         table = get_table("RealTimeChat")
         # Scan for active rooms in DynamoDB
-        scan_kwargs = {
-            "FilterExpression": "begins_with(roomId, :r) AND begins_with(sk, :m)",
-            "ExpressionAttributeValues": {":r": "ROOM#", ":m": "META#"}
-        }
-        
         items = []
+        scan_kwargs = {}
         while True:
             res = table.scan(**scan_kwargs)
             items.extend(res.get("Items", []))
@@ -177,11 +214,18 @@ def run_bot_dispatcher():
                 break
             scan_kwargs["ExclusiveStartKey"] = res["LastEvaluatedKey"]
 
-        # Check both isActive boolean OR status string to match DynamoDB schema flexibility
-        roar_rooms = [
-            item for item in items
-            if item.get("isActive") is True or str(item.get("isActive")).lower() == "true" or str(item.get("status", "")).upper() == "ACTIVE"
-        ]
+        # Filter for room metadata documents (exclude SYSTEM locks and message rows)
+        roar_rooms = []
+        for item in items:
+            rid = str(item.get("roomId", ""))
+            sk = str(item.get("sk", ""))
+            if rid.startswith("SYSTEM#") or sk.startswith("MSG#") or sk.startswith("LOCK#"):
+                continue
+            if not (sk.startswith("META") or "name" in item or "sport" in item or "botConfig" in item):
+                continue
+            is_act = item.get("isActive") is True or str(item.get("isActive")).lower() == "true" or str(item.get("status", "")).upper() == "ACTIVE"
+            if is_act:
+                roar_rooms.append(item)
         
         for room_data in roar_rooms:
             # Extract actual room ID from DynamoDB key
@@ -326,5 +370,75 @@ def run_bot_dispatcher():
     
     print("✅ Central Bot Dispatcher finished successfully.")
 
+def run_continuous_session(room_id: str = None, interval_minutes: int = 10, total_duration_minutes: int = 90):
+    """
+    Runs automated bot batches every X minutes for the specified duration (e.g. 1 - 1.5 hours).
+    Each round dispatches:
+      - 1 Krishna post (Partisan)
+      - 1 Radha post (Partisan)
+      - 2 Dolly posts (Neutral debate & prediction)
+    """
+    start_time = time.time()
+    total_seconds = total_duration_minutes * 60
+    round_num = 1
+    
+    target_desc = f"Room [{room_id}]" if room_id else "All Active Rooms"
+    print(f"\n🔄 Starting Automated Bot Session for {target_desc}")
+    print(f"⏱️ Interval: Every {interval_minutes} mins | Total Duration: {total_duration_minutes} mins (~{total_duration_minutes/60:.1f} hrs)")
+    print(f"🤖 Batch per cycle: 1 Krishna + 1 Radha + 2 Dolly posts\n")
+    
+    while time.time() - start_time < total_seconds:
+        elapsed_mins = int((time.time() - start_time) / 60)
+        remaining_mins = max(0, total_duration_minutes - elapsed_mins)
+        print(f"\n{'='*60}")
+        print(f"🚀 Round #{round_num} | Elapsed: {elapsed_mins}m / {total_duration_minutes}m | Remaining: {remaining_mins}m")
+        print(f"{'='*60}")
+        
+        # Clear locks between rounds if any
+        try:
+            table = get_table("RealTimeChat")
+            table.delete_item(Key={"roomId": "SYSTEM#DISPATCHER_LOCK", "sk": "META"})
+        except Exception:
+            pass
+            
+        run_bot_dispatcher(specific_room_id=room_id)
+        
+        round_num += 1
+        
+        if time.time() - start_time + (interval_minutes * 60) >= total_seconds:
+            break
+            
+        sleep_sec = interval_minutes * 60
+        print(f"\n⏳ Sleeping for {interval_minutes} minutes until next round... (Press Ctrl+C to stop)")
+        time.sleep(sleep_sec)
+        
+    print(f"\n🏁 Automated session complete! Completed {round_num - 1} rounds over {total_duration_minutes} minutes.")
+
 if __name__ == "__main__":
-    run_bot_dispatcher()
+    import sys
+    import argparse
+    
+    parser = argparse.ArgumentParser(description="RoAR Central Bot Dispatcher & Session Runner")
+    parser.add_argument("room", nargs="?", default=None, help="Target Room ID (optional)")
+    parser.add_argument("--loop", action="store_true", help="Run in continuous loop mode")
+    parser.add_argument("--interval", type=int, default=10, help="Interval in minutes between bot batches (default: 10)")
+    parser.add_argument("--duration", type=int, default=90, help="Total session duration in minutes (default: 90 = 1.5 hrs)")
+    
+    args, unknown = parser.parse_known_args()
+    
+    # Handle room passed via unknown args or positional
+    target_room = args.room
+    if not target_room and unknown:
+        for u in unknown:
+            if not u.startswith("-"):
+                target_room = u
+                break
+                
+    if args.loop:
+        run_continuous_session(
+            room_id=target_room,
+            interval_minutes=args.interval,
+            total_duration_minutes=args.duration
+        )
+    else:
+        run_bot_dispatcher(specific_room_id=target_room)

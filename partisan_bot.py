@@ -1,12 +1,10 @@
 import json
 import os
 import time
-from datetime import datetime
-import pytz
+from datetime import datetime, timezone, timedelta
 from google import genai
 from google.genai import types
 from firebase_store import init_firebase
-from google.cloud.firestore_v1.transforms import Increment
 from db_helpers import (
     db_check_partisan_lock,
     db_stamp_partisan_lock,
@@ -16,7 +14,6 @@ from db_helpers import (
     db_save_bot_post,
     db_get_matches_by_status
 )
-from dolly_bot import get_upcoming_real_match
 
 # ── API Initialization ────────────────────────────────────────────────────────
 _gemini_client = None
@@ -38,7 +35,7 @@ def get_gemini_client():
             )
     return _gemini_client
 
-IST = pytz.timezone('Asia/Kolkata')
+IST = timezone(timedelta(hours=5, minutes=30))
 
 # ── Config ────────────────────────────────────────────────────────────────────
 COOLDOWN_MINUTES = 10  # Partisan bots can post every 10 mins
