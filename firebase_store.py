@@ -59,28 +59,31 @@ def init_firebase():
         # Check if already initialized
         firebase_admin.get_app()
     except ValueError:
-        # Resolve credential options
-        cred_path = os.getenv("GOOGLE_APPLICATION_CREDENTIALS") or "google_creds.json"
+        client_email = os.getenv("FIREBASE_CLIENT_EMAIL")
+        private_key = os.getenv("FIREBASE_PRIVATE_KEY")
+        project_id = os.getenv("FIREBASE_PROJECT_ID", "sportsfan360-new")
         
-        if os.path.exists(cred_path):
-            cred = credentials.Certificate(cred_path)
+        if client_email and private_key and project_id:
+            cred = credentials.Certificate({
+                "type": "service_account",
+                "project_id": project_id,
+                "private_key": private_key.replace("\\n", "\n"),
+                "client_email": client_email,
+                "token_uri": "https://oauth2.googleapis.com/token",
+            })
             firebase_admin.initialize_app(cred)
         else:
-            client_email = os.getenv("FIREBASE_CLIENT_EMAIL")
-            private_key = os.getenv("FIREBASE_PRIVATE_KEY")
-            project_id = os.getenv("FIREBASE_PROJECT_ID")
-            
-            if client_email and private_key and project_id:
-                cred = credentials.Certificate({
-                    "type": "service_account",
-                    "project_id": project_id,
-                    "private_key": private_key.replace("\\n", "\n"),
-                    "client_email": client_email,
-                    "token_uri": "https://oauth2.googleapis.com/token",
-                })
+            cred_path = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
+            if cred_path and os.path.exists(cred_path):
+                cred = credentials.Certificate(cred_path)
                 firebase_admin.initialize_app(cred)
+            elif os.path.exists("google_creds.json"):
+                try:
+                    cred = credentials.Certificate("google_creds.json")
+                    firebase_admin.initialize_app(cred)
+                except Exception:
+                    firebase_admin.initialize_app()
             else:
-                # Default application credentials fallback
                 firebase_admin.initialize_app()
     _firebase_db = firestore.client()
     return _firebase_db
