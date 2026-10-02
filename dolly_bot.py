@@ -48,7 +48,9 @@ from db_helpers import (
     db_get_match_research,
     db_save_room_message,
     db_save_bot_post,
-    db_get_matches_by_status
+    db_get_matches_by_status,
+    db_has_posted_pick_your_camp,
+    db_stamp_pick_your_camp
 )
 
 # ── Phase Lock Helpers ────────────────────────────────────────────────────────
@@ -181,6 +183,23 @@ def run_dolly_for_sport(sport: str, room_id=None, bot_uid="dolly-dolphin-bot", b
 
     teams = f"{match_data.get('team_a')} vs {match_data.get('team_b')}"
     phase = "IN-PLAY"
+
+    # Step 2.5: Ensure "Pick your camp" is the FIRST post in all rooms
+    if room_id:
+        team_a = match_data.get("team_a", "Team A")
+        team_b = match_data.get("team_b", "Team B")
+        if not db_has_posted_pick_your_camp(room_id):
+            camp_text = "Pick your camp for today's match! 🔥"
+            camp_poll = [{
+                "type": "prediction",
+                "text": camp_text,
+                "sideA": team_a,
+                "sideB": team_b
+            }]
+            print(f"🗳️ Posting first 'Pick your camp' prediction: {team_a} vs {team_b} in room [{room_id}]")
+            db_save_room_message(room_id, camp_text, bot_uid, bot_username, sport, "prediction", polls_data=camp_poll)
+            db_stamp_pick_your_camp(room_id)
+            time.sleep(2)
 
     # Step 3: Phase lock check
     if has_phase_been_posted(db, sport, match_id, phase, room_id):

@@ -86,6 +86,35 @@ def db_stamp_phase_lock(sport: str, match_id: str, phase: str, room_id: str = No
     except Exception as e:
         print(f"⚠️ Firebase stamp lock failed: {e}")
 
+# ─── Pick Your Camp Initial Post Helpers ─────────────────────────────────────
+
+def db_has_posted_pick_your_camp(room_id: str) -> bool:
+    if not room_id:
+        return True
+    try:
+        table = get_table("RealTimeChat")
+        raw_rid = room_id.replace("ROOM#", "")
+        res = table.get_item(Key={"roomId": "SYSTEM#DOLLY_LOCKS", "sk": f"PICK_CAMP#{raw_rid}"})
+        return bool(res.get("Item"))
+    except Exception as e:
+        print(f"⚠️ Error checking pick your camp lock: {e}")
+        return False
+
+def db_stamp_pick_your_camp(room_id: str):
+    if not room_id:
+        return
+    try:
+        table = get_table("RealTimeChat")
+        raw_rid = room_id.replace("ROOM#", "")
+        table.put_item(Item={
+            "roomId": "SYSTEM#DOLLY_LOCKS",
+            "sk": f"PICK_CAMP#{raw_rid}",
+            "postedAt": int(time.time() * 1000)
+        })
+        print(f"✅ Pick your camp stamped for room [{raw_rid}]")
+    except Exception as e:
+        print(f"⚠️ Error stamping pick your camp lock: {e}")
+
 # ─── Partisan Bot Lock Helpers ────────────────────────────────────────────────
 
 def db_check_partisan_lock(sport: str, match_id: str, room_id: str, bot_uid: str) -> bool:
@@ -97,8 +126,7 @@ def db_check_partisan_lock(sport: str, match_id: str, room_id: str, bot_uid: str
         table = get_table("RealTimeChat")
         res = table.get_item(Key={"roomId": "SYSTEM#PARTISAN_LOCKS", "sk": f"LOCK#{lock_key}"})
         if res.get("Item"):
-            item = res["Item"]
-            posted_at = item.get("postedAt", 0)
+            posted_at = float(item.get("postedAt", 0))
             elapsed_minutes = (time.time() * 1000 - posted_at) / (1000 * 60)
             return elapsed_minutes < 10 # 10 minutes cooldown
     except Exception as e:
@@ -153,56 +181,118 @@ def db_stamp_partisan_lock(sport: str, match_id: str, room_id: str, bot_uid: str
         print(f"⚠️ Firebase stamp partisan lock failed: {e}")
 
 
-# ─── Dual-Write Bot Posts & Messages ──────────────────────────────────────────
+from datetime import datetime, timezone
 
 def db_save_room_message(room_id: str, text: str, bot_uid: str, bot_username: str, sport: str, type_val: str, polls_data: list = None, extra_payload: dict = None):
     now_ms = int(time.time() * 1000)
-    msg_id = f"msg_{now_ms}_{uuid.uuid4().hex[:6]}"
+    now_iso = datetime.now(timezone.utc).isoformat()
+    msg_id = str(uuid.uuid4())
+
+    raw_rid = room_id.replace("ROOM#", "")
+    bot_type = "neutral" if "dolly" in bot_uid.lower() else "partisan"
+    sentiment = "neutral"
+    
+    if extra_payload:
+        bot_type = extra_payload.get("botRole", extra_payload.get("botType", bot_type))
+        sentiment = extra_payload.get("sentiment", sentiment)
 
     message_payload = {
+        # Keys & IDs
+        "pk": f"ROOM#{raw_rid}",
+        "sk": f"MSG#{now_ms}#{bot_uid}#{msg_id}",
+        "roomId": f"ROOM#{raw_rid}",
+        "rawRoomId": raw_rid,
+        "id": msg_id,
         "msgId": msg_id,
-        "roomId": room_id,
-        "authorUid": bot_uid,
-        "authorUsername": bot_username,
-        "authorBadge": "Bot",
+        "messageId": msg_id,
+        
+        # Message Text / Content
         "text": text,
+        "message": text,
+        "content": text,
+        
+        # Bot & Author Metadata
+        "authorId": bot_uid,
+        "authorUid": bot_uid,
+        "userId": bot_uid,
+        "authorName": bot_username,
+        "authorUsername": bot_username,
+        "username": bot_username,
+        "name": bot_username,
+        "sender": bot_username,
+        "avatar": "",
+        "authorBadge": "SUPER_FAN" if bot_type == "partisan" else "Bot",
+        "isBot": True,
+        "botType": bot_type,
+        "sentiment": sentiment,
+        
+        # Message Type & Timestamps
         "type": type_val,
-        "createdAt": now_ms,
+        "createdAt": now_iso,
+        "timestamp": now_ms,
         "sport": sport,
-        "fireCount": 0,
-        "noChanceCount": 0,
+        
+        # Engagement Counters
         "agreeCount": 0,
         "disagreeCount": 0,
         "heartCount": 0,
-        "replyCount": 0
+        "likeCount": 0,
+        "replyCount": 0,
+        "fireCount": 0,
+        "noChanceCount": 0
     }
-    if polls_data:
+    if polls_data and len(polls_data) > 0:
+        p = polls_data[0]
+        s_a = p.get("sideA", "Yes")
+        s_b = p.get("sideB", "No")
         message_payload["questions"] = polls_data
+        message_payload["sideA"] = s_a
+        message_payload["sideB"] = s_b
+        message_payload["optionA"] = s_a
+        message_payload["optionB"] = s_b
+        message_payload["side1"] = s_a
+        message_payload["side2"] = s_b
+        message_payload["options"] = [
+            {"id": "a", "text": s_a, "votes": 0, "count": 0},
+            {"id": "b", "text": s_b, "votes": 0, "count": 0}
+        ]
+    elif extra_payload:
+        message_payload.update(extra_payload)
+
     if extra_payload:
         message_payload.update(extra_payload)
 
-    # 1. Write to DynamoDB RealTimeChat
+    # 1. Write to DynamoDB RealTimeChat (Environment-Aware Table)
     try:
         table = get_table("RealTimeChat")
+        pk = f"ROOM#{raw_rid}"
+        sk = f"MSG#{now_ms}#{bot_uid}#{msg_id}"
+        
+        # Primary item
         table.put_item(Item={
-            "roomId": f"ROOM#{room_id}",
-            "sk": f"MSG#{room_id}#{now_ms}#{msg_id}",
+            "roomId": pk,
+            "sk": sk,
             **message_payload
         })
-        print(f"✅ Bot message saved to DynamoDB: ROOM#{room_id}")
+        # Raw roomId backwards compatibility item
+        table.put_item(Item={
+            "roomId": raw_rid,
+            "sk": sk,
+            **message_payload
+        })
+        print(f"✅ Bot message saved to DynamoDB ({table.name}): {pk}")
     except Exception as e:
         print(f"⚠️ DynamoDB save bot message failed: {e}")
 
-    # 2. Write to Firebase roarRooms collection
+    # 2. Write to Firebase roarRooms collection (Fallback)
     try:
         db = init_firebase()
-        db.collection("roarRooms").document(room_id).collection("messages").document(msg_id).set({
+        db.collection("roarRooms").document(raw_rid).collection("messages").document(msg_id).set({
             **message_payload,
             "createdAt": now_ms
         })
-        print(f"✅ Bot message saved to Firebase: roarRooms/{room_id}/messages/{msg_id}")
     except Exception as e:
-        print(f"⚠️ Firebase save bot message failed: {e}")
+        pass
 
 def db_save_bot_post(text: str, bot_uid: str, bot_username: str, sport: str, type_val: str, polls_data: list = None, extra_payload: dict = None):
     now_ms = int(time.time() * 1000)
@@ -536,10 +626,12 @@ def db_get_room(room_id: str) -> dict:
     try:
         table = get_table("RealTimeChat")
         candidates = [f"ROOM#{room_id}", room_id]
+        sk_candidates = [f"META#{room_id}", "META", f"META#ROOM#{room_id}"]
         for cand in candidates:
-            res = table.get_item(Key={"roomId": cand, "sk": f"META#{room_id}"})
-            if res.get("Item"):
-                return res["Item"]
+            for sk_c in sk_candidates:
+                res = table.get_item(Key={"roomId": cand, "sk": sk_c})
+                if res.get("Item"):
+                    return res["Item"]
     except Exception as e:
         print(f"⚠️ DynamoDB get room failed: {e}")
 
