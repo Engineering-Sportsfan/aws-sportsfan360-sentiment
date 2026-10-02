@@ -65,7 +65,7 @@ def run_match_research(match_id: str, team_a: str, team_b: str, sport: str, comp
 
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model=os.getenv("GEMINI_MODEL", "gemini-3.8-flash"),
             contents=research_prompt,
             config=types.GenerateContentConfig(
                 tools=[types.Tool(google_search=types.GoogleSearch())],
