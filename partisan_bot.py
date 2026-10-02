@@ -35,6 +35,23 @@ def get_gemini_client():
             )
     return _gemini_client
 
+def generate_content_with_retry(client_obj, model_name, contents_payload, config_payload=None, max_retries=3):
+    for attempt in range(max_retries):
+        try:
+            return client_obj.models.generate_content(
+                model=model_name,
+                contents=contents_payload,
+                config=config_payload
+            )
+        except Exception as e:
+            err_str = str(e)
+            if ("429" in err_str or "503" in err_str or "RESOURCE_EXHAUSTED" in err_str or "UNAVAILABLE" in err_str) and attempt < max_retries - 1:
+                wait_time = (attempt + 1) * 3
+                print(f"⏳ Gemini busy/rate-limited. Retrying in {wait_time}s...")
+                time.sleep(wait_time)
+                continue
+            raise e
+
 IST = timezone(timedelta(hours=5, minutes=30))
 
 # ── Config ────────────────────────────────────────────────────────────────────
@@ -133,13 +150,15 @@ def run_partisan_bot(bot_uid: str, team: str, sport: str, room_id: str):
     try:
         now_ist = datetime.now(IST).strftime("%I:%M %p IST")
         search_query = f"{match_data.get('team_a')} vs {match_data.get('team_b')} {sport} live scorecard ball by ball score today {now_ist}"
-        response = get_gemini_client().models.generate_content(
-            model="gemini-2.5-flash",
-            contents=search_query,
-            config=types.GenerateContentConfig(
+        response = generate_content_with_retry(
+            get_gemini_client(),
+            os.getenv("GEMINI_MODEL", "gemini-3.8-flash"),
+            search_query,
+            config_payload=types.GenerateContentConfig(
                 tools=[types.Tool(google_search=types.GoogleSearch())],
                 temperature=0.1
-            )
+            ),
+            max_retries=2
         )
         live_context = response.text.strip()
     except Exception as e:
@@ -168,10 +187,12 @@ def run_partisan_bot(bot_uid: str, team: str, sport: str, room_id: str):
     """
 
     try:
-        response = get_gemini_client().models.generate_content(
-            model="gemini-2.5-flash",
-            contents=prompt,
-            config=types.GenerateContentConfig(temperature=0.7)
+        response = generate_content_with_retry(
+            get_gemini_client(),
+            os.getenv("GEMINI_MODEL", "gemini-3.8-flash"),
+            prompt,
+            config_payload=types.GenerateContentConfig(temperature=0.7),
+            max_retries=3
         )
         raw = response.text.strip()
         start = raw.find("{")

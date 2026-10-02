@@ -201,7 +201,7 @@ def run_sentiment_engine(sport: str = "FIFA_WC_2026") -> dict:
         print(f"🔍 Gemini searching real internet for {sport}...")
 
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model=os.getenv("GEMINI_MODEL", "gemini-3.8-flash"),
             contents=task,
             config=types.GenerateContentConfig(
                 system_instruction=system_prompt,

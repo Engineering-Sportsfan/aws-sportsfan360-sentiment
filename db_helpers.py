@@ -65,7 +65,7 @@ def db_stamp_phase_lock(sport: str, match_id: str, phase: str, room_id: str = No
             "phase": phase,
             "roomIdVal": room_id or "global",
             "postedAt": now_ms,
-            "count": existing_count + 1
+            "count": int(existing_count) + 1
         })
         print(f"✅ Phase lock stamped in DynamoDB: {lock_key}")
     except Exception as e:
@@ -80,7 +80,7 @@ def db_stamp_phase_lock(sport: str, match_id: str, phase: str, room_id: str = No
             "phase": phase,
             "roomId": room_id or "global",
             "postedAt": now_ms,
-            "count": existing_count + 1
+            "count": int(existing_count) + 1
         })
         print(f"✅ Phase lock stamped in Firebase: {lock_key}")
     except Exception as e:
